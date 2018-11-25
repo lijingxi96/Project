@@ -627,7 +627,7 @@
                 ]
             },
             "properties": {
-                "name": "L1",
+                "Name": "L1",
                 "description": "L1 postcode district"
             }
         },
@@ -997,7 +997,7 @@
                 ]
             },
             "properties": {
-                "name": "L2",
+                "Name": "L2",
                 "description": "L2 postcode district"
             }
         },
@@ -2419,7 +2419,7 @@
                 ]
             },
             "properties": {
-                "name": "L3",
+                "Name": "L3",
                 "description": "L3 postcode district"
             }
         },
@@ -3453,7 +3453,7 @@
                 ]
             },
             "properties": {
-                "name": "L4",
+                "Name": "L4",
                 "description": "L4 postcode district"
             }
         },
@@ -4291,7 +4291,7 @@
                 ]
             },
             "properties": {
-                "name": "L5",
+                "Name": "L5",
                 "description": "L5 postcode district"
             }
         },
@@ -5141,7 +5141,7 @@
                 ]
             },
             "properties": {
-                "name": "L6",
+                "Name": "L6",
                 "description": "L6 postcode district"
             }
         },
@@ -6135,7 +6135,7 @@
                 ]
             },
             "properties": {
-                "name": "L7",
+                "Name": "L7",
                 "description": "L7 postcode district"
             }
         },
@@ -7013,7 +7013,7 @@
                 ]
             },
             "properties": {
-                "name": "L8",
+                "Name": "L8",
                 "description": "L8 postcode district"
             }
         },
@@ -7835,7 +7835,7 @@
                 ]
             },
             "properties": {
-                "name": "L9",
+                "Name": "L9",
                 "description": "L9 postcode district"
             }
         },
@@ -8261,7 +8261,7 @@
                 ]
             },
             "properties": {
-                "name": "L10",
+                "Name": "L10",
                 "description": "L10 postcode district"
             }
         },
@@ -9027,7 +9027,7 @@
                 ]
             },
             "properties": {
-                "name": "L11",
+                "Name": "L11",
                 "description": "L11 postcode district"
             }
         },
@@ -9925,7 +9925,7 @@
                 ]
             },
             "properties": {
-                "name": "L12",
+                "Name": "L12",
                 "description": "L12 postcode district"
             }
         },
@@ -10807,7 +10807,7 @@
                 ]
             },
             "properties": {
-                "name": "L13",
+                "Name": "L13",
                 "description": "L13 postcode district"
             }
         },
@@ -11661,7 +11661,7 @@
                 ]
             },
             "properties": {
-                "name": "L14",
+                "Name": "L14",
                 "description": "L14 postcode district"
             }
         },
@@ -12435,7 +12435,7 @@
                 ]
             },
             "properties": {
-                "name": "L15",
+                "Name": "L15",
                 "description": "L15 postcode district"
             }
         },
@@ -13001,7 +13001,7 @@
                 ]
             },
             "properties": {
-                "name": "L16",
+                "Name": "L16",
                 "description": "L16 postcode district"
             }
         },
@@ -13667,7 +13667,7 @@
                 ]
             },
             "properties": {
-                "name": "L17",
+                "Name": "L17",
                 "description": "L17 postcode district"
             }
         },
@@ -14561,7 +14561,7 @@
                 ]
             },
             "properties": {
-                "name": "L18",
+                "Name": "L18",
                 "description": "L18 postcode district"
             }
         },
@@ -15151,7 +15151,7 @@
                 ]
             },
             "properties": {
-                "name": "L19",
+                "Name": "L19",
                 "description": "L19 postcode district"
             }
         },
@@ -16061,7 +16061,7 @@
                 ]
             },
             "properties": {
-                "name": "L20",
+                "Name": "L20",
                 "description": "L20 postcode district"
             }
         },
@@ -16891,7 +16891,7 @@
                 ]
             },
             "properties": {
-                "name": "L21",
+                "Name": "L21",
                 "description": "L21 postcode district"
             }
         },
@@ -17269,7 +17269,7 @@
                 ]
             },
             "properties": {
-                "name": "L22",
+                "Name": "L22",
                 "description": "L22 postcode district"
             }
         },
@@ -17807,7 +17807,7 @@
                 ]
             },
             "properties": {
-                "name": "L23",
+                "Name": "L23",
                 "description": "L23 postcode district"
             }
         },
@@ -18193,7 +18193,7 @@
                 ]
             },
             "properties": {
-                "name": "L24",
+                "Name": "L24",
                 "description": "L24 postcode district"
             }
         },
@@ -18943,7 +18943,7 @@
                 ]
             },
             "properties": {
-                "name": "L25",
+                "Name": "L25",
                 "description": "L25 postcode district"
             }
         },
@@ -19321,7 +19321,7 @@
                 ]
             },
             "properties": {
-                "name": "L26",
+                "Name": "L26",
                 "description": "L26 postcode district"
             }
         },
@@ -19611,7 +19611,7 @@
                 ]
             },
             "properties": {
-                "name": "L27",
+                "Name": "L27",
                 "description": "L27 postcode district"
             }
         },
@@ -19901,7 +19901,7 @@
                 ]
             },
             "properties": {
-                "name": "L28",
+                "Name": "L28",
                 "description": "L28 postcode district"
             }
         },
@@ -20099,7 +20099,7 @@
                 ]
             },
             "properties": {
-                "name": "L29",
+                "Name": "L29",
                 "description": "L29 postcode district"
             }
         },
@@ -20665,7 +20665,7 @@
                 ]
             },
             "properties": {
-                "name": "L30",
+                "Name": "L30",
                 "description": "L30 postcode district"
             }
         },
@@ -21247,7 +21247,7 @@
                 ]
             },
             "properties": {
-                "name": "L31",
+                "Name": "L31",
                 "description": "L31 postcode district"
             }
         },
@@ -21881,7 +21881,7 @@
                 ]
             },
             "properties": {
-                "name": "L32",
+                "Name": "L32",
                 "description": "L32 postcode district"
             }
         },
@@ -22507,7 +22507,7 @@
                 ]
             },
             "properties": {
-                "name": "L33",
+                "Name": "L33",
                 "description": "L33 postcode district"
             }
         },
@@ -23249,7 +23249,7 @@
                 ]
             },
             "properties": {
-                "name": "L34",
+                "Name": "L34",
                 "description": "L34 postcode district"
             }
         },
@@ -23923,7 +23923,7 @@
                 ]
             },
             "properties": {
-                "name": "L35",
+                "Name": "L35",
                 "description": "L35 postcode district"
             }
         },
@@ -24693,7 +24693,7 @@
                 ]
             },
             "properties": {
-                "name": "L36",
+                "Name": "L36",
                 "description": "L36 postcode district"
             }
         },
@@ -25083,7 +25083,7 @@
                 ]
             },
             "properties": {
-                "name": "L37",
+                "Name": "L37",
                 "description": "L37 postcode district"
             }
         },
@@ -25257,7 +25257,7 @@
                 ]
             },
             "properties": {
-                "name": "L38",
+                "Name": "L38",
                 "description": "L38 postcode district"
             }
         },
@@ -25991,7 +25991,7 @@
                 ]
             },
             "properties": {
-                "name": "L39",
+                "Name": "L39",
                 "description": "L39 postcode district"
             }
         },
@@ -26769,7 +26769,7 @@
                 ]
             },
             "properties": {
-                "name": "L40",
+                "Name": "L40",
                 "description": "L40 postcode district"
             }
         }
