@@ -1,0 +1,1024 @@
+,Availablility,Furnishing,Gender_requirement,Location,Max_period,Min_period,Price,Short_description,Size,Price_per_month,Average_price_per_month,Postal_code
+0,01 Sep 2019,Furnished,No info,Broughton (M7),None,12 months,"['£1,800 pcm (whole property)']",*** Available for Next Academic Year 2019/20***,4 bed property,[1800],1800.0,M7
+1,20 Dec 2018,Furnished,Males or females,Salford (M7),None,6 months,['£370 pcm'],Extremely Spacious Ground Floor Double Available,Double room,[370],370.0,M7
+2,10 Dec 2018,Furnished,Males or females,Sale (M33),None,6 months,['£470 pcm'],Very Large Double Room in Superb House,Double room,[470],470.0,M33
+3,Now,Furnished,Males or females,Rusholme (M14),1 month,1 month,"['£360 pcm', '£450 pcm', '£450 pcm', '£360 pcm', '£360 pcm']",12 Ho **5 Double Bedrooms **Ideal Location for Uni,Double room,"[360, 450, 450, 360, 360]",396.0,M14
+4,Now,Unfurnished,No info,Whalley Range (M16),None,6 months,['Potential Buddy Ups'],Modern Two Bedroom Flat,2 bed flat,[],,M16
+5,04 Feb 2019,No info,Males or females,Salford Quays (M50),None,6 months,['£350 pcm'],Large Double Room with En-suite Near Salford Royal,Double room,[350],350.0,M50
+6,01 Sep 2019,Furnished,No info,Salford (M6),None,12 months,"['£1,430 pcm (whole property)']",*** Available for Next Academic Year 2019/20***,3 bed house,[1430],1430.0,M6
+7,01 Dec 2018,Furnished,Males or females,Fallowfield (M14),None,6 months,"['£395 pcm', '£395 pcm']",Lovely Friendly shared house  central Fallowfield,2 doubles,"[395, 395]",395.0,M14
+8,Now,Furnished,Males or females,Swinton (M27),None,6 months,"['£460 pcm', '£460 pcm', '£460 pcm', '£460 pcm']",Brand New Modern Rooms,4 doubles,"[460, 460, 460, 460]",460.0,M27
+9,15 Dec 2018,Furnished,No info,Manchester (M13),None,6 months,['£540 pcm (whole property)'],1 bedroom flat to rent opposite MRI,1 bed flat,[540],540.0,M13
+10,23 Dec 2018,Furnished,Males or females,Rusholme (M14),2 months,None,['£80 pw'],"£320pm all bills and broadband inc, single :)",Single room,[320],320.0,M14
+11,17 Dec 2018,Furnished,Males or females,Eccles (M30),None,6 months,['£495 pcm'],Beautiful Hi-Tech Room in Luxury Home!,Double room,[495],495.0,M30
+12,Now,Furnished,Males or females,Salford (M5),None,6 months,"['£410 pcm', '£400 pcm', '£450 pcm', '£410 pcm', '£410 pcm', '£390 pcm', '£370 pcm', '£400 pcm']",Double Bedroom in Detached house prime location,Double room,"[410, 400, 450, 410, 410, 390, 370, 400]",405.0,M5
+13,05 Dec 2018,Furnished,Male preferred,Manchester City Centre (M1),None,7 months,['£500 pcm'],Double room near Oxford Road station,Double room,[500],500.0,M1
+14,01 Jan 2019,Furnished,Males or females,Manchester City Centre (M4),None,12 months,['£500 pcm'],"Northern Quarter, 3 Bed Town House",Single room,[500],500.0,M4
+15,01 Dec 2018,Furnished,Males or females,Manchester (M34),None,6 months,"['£100 pw', '£100 pw', '£100 pw', '£100 pw']",Droylsden Road M34 5SW - â £100 & Move In â,4 doubles,"[400, 400, 400, 400]",400.0,M34
+16,Now,Furnished,Males or females,Old Trafford (M16),None,None,"['£380 pcm', '£400 pcm', '£420 pcm', '£430 pcm', '£430 pcm', '£450 pcm']",No £0.00 Fee All Bills Included Council Tax OT,5 doubles,"[380, 400, 420, 430, 430, 450]",418.3333333333333,M16
+17,Now,Furnished,Male preferred,Withington (M20),None,6 months,"['£145 pw', '£130 pw', '£140 pw', '£145 pw', '£130 pw', '£127 pw']","OML - Spacious, renovated house with garden ****",Double room,"[580, 520, 560, 580, 520, 508]",544.6666666666666,M20
+18,01 Jan 2019,Furnished,Males or females,Salford (M6),None,6 months,['£550 pcm'],"Huge room, home and gardens! 2 lounges and cleaner",Double room,[550],550.0,M6
+19,Now,Furnished,Males or females,Salford (M6),None,6 months,['£335 pcm'],46 MS Single room available soon,Single room,[335],335.0,M6
+20,Now,Furnished,Males or females,Salford (M6),None,6 months,['£300 pcm'],Furnished Room to Rent in Salford,Double room,[300],300.0,M6
+21,Now,Furnished,Males or females,Eccles (M30),None,3 months,['£115 pw'],"Stunning En-suite Bedroom, Eccles",Double room,[460],460.0,M30
+22,Now,Furnished,Males or females,Swinton (M27),None,6 months,"['£104 pw', '£93 pw', '£75 pw']",Rooms in houseshare near Swinton Stn,Single room,"[416, 372, 300]",362.6666666666667,M27
+23,Now,Furnished,Males or females,Salford (M6),None,6 months,['£420 pcm'],Stylish and Spacious Double Room Available Now,Double room,[420],420.0,M6
+24,Now,Furnished,Males or females,Chorlton (M16),None,6 months,['£600 pcm'],Stunning New Penthouse Apartment,Double room,[600],600.0,M16
+25,01 Jan 2019,No info,Female preferred,Pendlebury (M27),None,None,['£400 pcm'],Room for rent - available from 1st January 2019,Double room,[400],400.0,M27
+26,Now,Furnished,Males or females,Fallowfield (M14),6 months,None,"['£275 pcm', '£300 pcm', '£300 pcm']",3 Rooms available in newly refurbished house share,Single + 2 doubles,"[275, 300, 300]",291.6666666666667,M14
+27,Now,Furnished,Males or females,Withington (M20),6 months,6 months,"['£275 pcm', '£275 pcm', '£275 pcm', '£275 pcm']",4 Rooms Available In Large House Share,4 doubles,"[275, 275, 275, 275]",275.0,M20
+28,24 Dec 2018,Furnished,Males or females,Hulme (M15),None,None,['£675 pcm'],Double  bedroom en-suite in Central Manchester,Double room,[675],675.0,M15
+29,Now,Furnished,Males or females,Victoria Park (M14),None,None,['£135 pw'],"Magnificent room with views, all bills inc.",Double room,[540],540.0,M14
+30,Now,Furnished,Males or females,Harpurhey (M9),36 months,1 month,['£350 pcm'],Mr sola,Double room,[350],350.0,M9
+31,01 Jan 2019,Furnished,Female preferred,Manchester City Centre (M1),1 month,None,['£580 pcm'],En-suite double -City Centre-Female only,Double room,[580],580.0,M1
+32,01 Dec 2018,Furnished,Males or females,Baguley (M23),None,3 months,"['£460 pcm', '£550 pcm', '£600 pcm']",Lovely en suite rooms in modern house,Single room,"[460, 550, 600]",536.6666666666666,M23
+33,Now,No info,Males or females,Manchester (M13),8 months,7 months,['£123 pw'],Six Victoria Point Premier Room £123.00 a Week,Double room,[492],492.0,M13
+34,Now,Furnished,Males or females,Manchester (M14),10 months,None,['£350 pcm'],Mornington Crescent - Master bedroom in cosy house,Double room,[350],350.0,M14
+35,01 Jul 2019,Furnished,Males or females,Rusholme (M14),None,12 months,"['£83 pw', '£83 pw']",Tenancy take over from 1st July - Platt Lane,2 doubles,"[332, 332]",332.0,M14
+36,26 Dec 2018,Furnished,Female preferred,Manchester City Centre (M4),None,6 months,['£580 pcm'],Spacious double room in Ancoats,Double room,[580],580.0,M4
+37,Now,Furnished,Males or females,Manchester City Centre (M4),None,6 months,['£570 pcm'],1 Rooms for rent in Manchester City Centre,Double room,[570],570.0,M4
+38,Now,Furnished,Males or females,Moston (M40),None,None,['£325 pcm'],***House-Share*** All Bills Included*** Arrange Yo,Double room,[325],325.0,M40
+39,01 Dec 2018,Furnished,Female preferred,Salford (M3),5 months,1 month,['£450 pcm'],Single Room with Furniture in 2 Bed Flat,Single room,[450],450.0,M3
+40,Now,Furnished,Males or females,Salford (M6),None,6 months,"['£450 pcm', '£450 pcm']","Room to let, all bills included, NO deposit",2 doubles,"[450, 450]",450.0,M6
+41,10 Dec 2018,Furnished,Males or females,Hulme (M15),6 months,6 months,['£175 pw'],Student Accomodation in Parkway Gate,Double room,[700],700.0,M15
+42,02 Dec 2018,Furnished,Males or females,Manchester (M14),None,None,"['£500 pcm', '£400 pcm']",Rooms for rent (beautiful and peaceful location),Single + double,"[500, 400]",450.0,M14
+43,Now,Furnished,Males or females,Manchester (M13),12 months,None,['£127 pw'],Six Victoria Point - Deluxe Room,Double room,[508],508.0,M13
+44,01 Dec 2018,Furnished,Males or females,Prestwich (M25),None,6 months,['£450 pcm'],Huge Double in 5* Houseshare - £0 Admin Fee,Double room,[450],450.0,M25
+45,19 Dec 2018,Furnished,Males or females,Salford (M7),None,6 months,['£495 pcm'],Double En-suite Room Available,Double room,[495],495.0,M7
+46,Now,Furnished,Males or females,Salford (M7),None,3 months,"['£450 pcm', '£460 pcm']","2 Dbles HERE, great area of M7. AllBills Included.",2 doubles,"[450, 460]",455.0,M7
+47,Now,Furnished,Males or females,Salford (M6),None,6 months,['£540 pcm'],Luxury En-Suite Double Bedroom,Double room,[540],540.0,M6
+48,Now,Furnished,Males or females,Salford (M6),None,6 months,"['£395 pcm', '£450 pcm', '£450 pcm', '£395 pcm']",Newly refurbished Double Bedroom,Double room,"[395, 450, 450, 395]",422.5,M6
+49,01 Dec 2018,Furnished,No info,Salford (M7),None,6 months,['£300 pcm (whole property)'],Lower Broughton Road 1 dble bedrooms  to rent,4 bed flat,[300],300.0,M7
+50,Now,Furnished,Female preferred,Victoria Park (M14),6 months,3 months,['£500 pcm'],*Double Room for Couple*,Double room,[500],500.0,M14
+51,Now,Furnished,Males or females,Manchester City Centre (M1),None,None,"['£995 pcm', '£750 pcm']",Duplex Penthouse three times the size as a double,2 doubles,"[995, 750]",872.5,M1
+52,01 Aug 2019,Furnished,Males or females,Salford (M6),11 months,11 months,"['£100 pw', '£100 pw', '£100 pw', '£100 pw']",Littleton Road - Student House Share,4 doubles,"[400, 400, 400, 400]",400.0,M6
+53,01 Aug 2019,Furnished,No info,Salford (M6),11 months,11 months,['£102 pw (whole property)'],Scarsdale Street - Student House,6 bed house,[408],408.0,M6
+54,01 Aug 2019,Furnished,Males or females,Salford (M6),11 months,11 months,"['£110 pw', '£110 pw', '£110 pw', '£110 pw', '£110 pw']",Strawberry Road - Student House,5 doubles,"[440, 440, 440, 440, 440]",440.0,M6
+55,Now,Furnished,Males or females,Withington (M20),None,6 months,['£410 pcm'],All in!  Large Room in Withington,Double room,[410],410.0,M20
+56,Now,Furnished,Males or females,Rusholme (M14),None,6 months,"['£395 pcm', '£395 pcm']",Rusholme Rooms - Bills Inluded -,2 doubles,"[395, 395]",395.0,M14
+57,Now,Furnished,Males or females,Castlefield (M3),2 months,1 month,['£525 pcm'],Ensuite  room short term,Double room,[525],525.0,M3
+58,Now,Furnished,Males or females,Atherton (M46),None,None,['£375 pcm'],Room to rent Atherton,Double room,[375],375.0,M46
+59,04 Dec 2018,Furnished,No info,Manchester (M1),None,3 months,['£500 pcm (whole property)'],Cozy one bedroom apartment for rent,1 bed flat,[500],500.0,M1
+60,28 Dec 2018,Furnished,Female preferred,West Didsbury (M20),None,12 months,['£450 pcm'],Room to let in friendly houseshare in West Dids,Double room,[450],450.0,M20
+61,Now,Furnished,Males or females,Northenden (M22),2 months,None,['£290 pcm'],Single Room in Northenden,Single room,[290],290.0,M22
+62,23 Dec 2018,Furnished,Males or females,Fallowfield (M14),None,6 months,['£290 pcm'],Rooms to Rent in 4 bed house: Kingswood Road,Double room,[290],290.0,M14
+63,Now,Furnished,Males or females,Manchester City Centre (M3),None,None,['£450 pcm'],Double room  in city centre,Double room,[450],450.0,M3
+64,22 Dec 2018,Furnished,Males or females,Salford (M5),None,6 months,['£500 pcm'],Double room Salford/Castlefield inc bills car park,Double room,[500],500.0,M5
+65,01 Jan 2019,Furnished,Male preferred,Hulme (M15),None,3 months,['£475 pcm'],GAY/straight Houseshare,Double room,[475],475.0,M15
+66,Now,Furnished,Males or females,Manchester (M12),None,None,"['£70 pw', '£70 pw']",Double Rooms in Longsight (Plab),2 doubles,"[280, 280]",280.0,M12
+67,Now,Furnished,Male preferred,Withington (M20),None,6 months,"['£145 pw', '£130 pw', '£140 pw', '£145 pw', '£130 pw', '£127 pw']","OML - Spacious, renovated house with garden ****",Double room,"[580, 520, 560, 580, 520, 508]",544.6666666666666,M20
+68,01 Jul 2019,Furnished,Males or females,Fallowfield (M14),12 months,12 months,"['£72 pw', '£72 pw', '£72 pw', '£72 pw']",4 bedroom Student house in heart of Fallowfield!,Single + 3 doubles,"[288, 288, 288, 288]",288.0,M14
+69,11 Jul 2019,Furnished,Males or females,Fallowfield (M14),12 months,12 months,"['£90 pw', '£90 pw', '£90 pw']",3 bedroom Student House in Fallowfield 2019/2020!,3 doubles,"[360, 360, 360]",360.0,M14
+70,01 Dec 2018,Furnished,No info,Victoria Park (M13),None,7 months,['Potential Buddy Ups'],3 bedroom suitable for Students and Professionals,3 bed flat,[],,M13
+71,Now,Furnished,Males or females,Stretford (M32),None,6 months,['£430 pcm'],Double Room in House Share,Double room,[430],430.0,M32
+72,01 Dec 2018,Furnished,Males or females,Chorlton-cum-Hardy (M21),None,3 months,['£375 pcm'],"Double room w balcony, Chorlton - some bills inc",Double room,[375],375.0,M21
+73,Now,Furnished,Males or females,Droylsden (M43),None,6 months,"['£412 pcm', '£499 pcm', '£499 pcm', '£542 pcm', '£542 pcm']",Professional Rooms Close to City Centre,4 doubles,"[412, 499, 499, 542, 542]",498.8,M43
+74,Now,Furnished,Males or females,Manchester (M14),None,12 months,"['£100 pw', '£100 pw', '£105 pw', '£95 pw', '£125 pw']",Kensington Avenue- Students 2018,Single + 4 doubles,"[400, 400, 420, 380, 500]",420.0,M14
+75,Now,Furnished,Males or females,Victoria Park (M14),None,3 months,"['£550 pcm', '£400 pcm', '£385 pcm']",Executive Rooms near Manchester University,Single + double,"[550, 400, 385]",445.0,M14
+76,Now,Furnished,Males or females,Manchester (M14),12 months,3 months,"['£350 pcm', '£425 pcm', '£425 pcm', '£400 pcm', '£500 pcm']",Great People to live with!,Single + 2 doubles,"[350, 425, 425, 400, 500]",420.0,M14
+77,Now,Furnished,Males or females,Victoria Park (M13),None,6 months,"['£375 pcm', '£420 pcm', '£375 pcm', '£420 pcm']",At Crescent Halls of Residence in Victoria Park,2 singles + double,"[375, 420, 375, 420]",397.5,M13
+78,Now,Furnished,Males or females,Manchester (M14),6 months,3 months,['£495 pcm'],Stunning room - 8 mins walk to Oxford rd,Double room,[495],495.0,M14
+79,25 Dec 2018,Part Furnished,No info,Burnage (M19),None,12 months,['£600 pcm (whole property)'],Excellent Studio Flat in Burnage,Studio flat,[600],600.0,M19
+80,13 Dec 2018,Furnished,Males or females,Manchester (M14),None,6 months,['£325 pcm'],Double room to rent £325 all bills included,Double room,[325],325.0,M14
+81,01 Dec 2018,Furnished,Males or females,Fallowfield (M14),None,10 months,"['£320 pcm', '£320 pcm', '£320 pcm', '£320 pcm', '£320 pcm']",Double Rooms to Rent in Fallowfield,2 doubles,"[320, 320, 320, 320, 320]",320.0,M14
+82,Now,Furnished,Males or females,Rusholme (M14),8 months,8 months,['£450 pcm'],Excellent en-suite room All Bills inc.,Double room,[450],450.0,M14
+83,Now,Furnished,Female preferred,Rusholme (M14),None,8 months,"['£420 pcm', '£400 pcm', '£400 pcm']",Quality Double room M14 All Bills Inc,2 doubles,"[420, 400, 400]",406.6666666666667,M14
+84,01 Dec 2018,Furnished,Males or females,Rusholme (M14),None,8 months,"['£275 pcm', '£275 pcm', '£275 pcm', '£250 pcm', '£250 pcm']",Quality Rooms now in M14 £250pcm,Single + double,"[275, 275, 275, 250, 250]",265.0,M14
+85,Now,Furnished,No info,Manchester (M14),None,None,['Potential Buddy Ups'],Excellent 4 bedroom house to rent,4 bed house,[],,M14
+86,Now,Furnished,Males or females,St Georges (M15),None,6 months,['Potential Buddy Ups'],2 Bed Castlefield Apartment Available Now!,2 bed flat,[],,M15
+87,Now,Furnished,Males or females,Didsbury (M20),None,6 months,"['£140 pw', '£140 pw', '£140 pw', '£130 pw']","Rooms in shared house,Didsbury close to Metro link",2 doubles,"[560, 560, 560, 520]",550.0,M20
+88,Now,Furnished,Males or females,Denton (M34),None,3 months,"['£320 pcm', '£340 pcm']",Top Denton location - Below market price,2 doubles,"[320, 340]",330.0,M34
+89,Now,Furnished,Males or females,Levenshulme (M13),None,3 months,"['£360 pcm', '£380 pcm']",Below Market Price! Awesome value! GREAT Location,2 doubles,"[360, 380]",370.0,M13
+90,Now,Furnished,Males or females,Didsbury (M20),None,6 months,"['£125 pw', '£130 pw', '£140 pw']","Room,Didsbury, close to all amenaties transport",2 doubles,"[500, 520, 560]",526.6666666666666,M20
+91,Now,No info,Males or females,Manchester (M13),None,6 months,"['£350 pcm', '£450 pcm', '£390 pcm']","Newly renovated rooms, near transport city, uni",3 doubles,"[350, 450, 390]",396.6666666666667,M13
+92,Now,Furnished,Males or females,Rusholme (M14),None,5 months,"['£250 pcm', '£325 pcm']","Bills inc room, Near Oxford Rd, Uni, Transport,etc",Single room,"[250, 325]",287.5,M14
+93,Now,Furnished,Female preferred,Salford (M6),None,5 months,"['£300 pcm', '£330 pcm']","Rooms, Salford, Bills Inc, near transport,uni",Double room,"[300, 330]",315.0,M6
+94,01 Dec 2018,Furnished,Males or females,Victoria Park (M13),None,None,"['£300 pcm', '£300 pcm', '£330 pcm']","Bed rooms, close to Uni, transport, city centre.",3 doubles,"[300, 300, 330]",310.0,M13
+95,Now,Furnished,Males or females,Manchester (M14),None,6 months,"['£375 pcm', '£395 pcm', '£425 pcm']","Bedrooms,All Bills Incuded, Fallowfield,Tv,Ect",3 doubles,"[375, 395, 425]",398.3333333333333,M14
+96,Now,Furnished,Males or females,Fallowfield (M14),None,6 months,"['£130 pw', '£150 pw', '£120 pw', '£120 pw']","Luxury rooms, Fallowfield,Bills INC, 5 baths",4 doubles,"[520, 600, 480, 480]",520.0,M14
+97,Now,Furnished,Males or females,West Didsbury (M20),None,6 months,"['£125 pw', '£134 pw', '£140 pw']","Didsbury, All Inclusive, Near Metro Link, 3 Baths",2 doubles,"[500, 536, 560]",532.0,M20
+98,Now,Furnished,Males or females,Victoria Park (M14),None,6 months,"['£325 pcm', '£385 pcm', '£375 pcm', '£395 pcm', '£450 pcm']","Bills inc rooms, close to Uni, city, MRI hospital.",4 doubles,"[325, 385, 375, 395, 450]",386.0,M14
+99,Now,Furnished,Males or females,Manchester (M19),None,6 months,"['£295 pcm', '£350 pcm', '£325 pcm', '£270 pcm']","Rooms,close to transport to city centre, Uni,shops",3 doubles,"[295, 350, 325, 270]",310.0,M19
+100,Now,Furnished,Males or females,Manchester (M13),None,6 months,"['£355 pcm', '£380 pcm', '£420 pcm', '£450 pcm']","Newly refurbished, inc bills rooms, transport city",2 doubles,"[355, 380, 420, 450]",401.25,M13
+101,27 Jan 2019,Furnished,Males or females,Worsley (M28),None,1 month,['£450 pcm'],"Modern, detached house Worsley",Double room,[450],450.0,M28
+102,Now,Furnished,Males or females,Fallowfield (M14),None,None,"['£425 pcm', '£395 pcm', '£375 pcm', '£345 pcm']","Luxury, clean, high-spec, perfectly situated house",2 doubles,"[425, 395, 375, 345]",385.0,M14
+103,Now,Furnished,Males or females,Fallowfield (M14),9 months,9 months,['£542 pcm'],Large room in stunning student house bills inc,Double room,[542],542.0,M14
+104,01 Feb 2019,Furnished,Male preferred,Chorlton (M21),None,8 months,['£595 pcm'],Chorlton! Stunning attic bedroom bills inc!,Double room,[595],595.0,M21
+105,Now,Furnished,Males or females,Didsbury (M20),None,6 months,"['£498 pcm', '£498 pcm', '£498 pcm']",Bright and modern 3 bed apartment share,3 doubles,"[498, 498, 498]",498.0,M20
+106,07 Dec 2018,Furnished,Males or females,Eccles (M30),None,6 months,"['£525 pcm', '£495 pcm']",2 Weeks Rent Free / Near Trendy Monton,2 doubles,"[525, 495]",510.0,M30
+107,Now,Furnished,Males or females,Didsbury (M20),None,6 months,['£390 pcm'],All Bills included! Didsbury House share,Double room,[390],390.0,M20
+108,26 Dec 2018,Furnished,Males or females,Eccles (M30),None,6 months,"['£550 pcm', '£500 pcm']",2 Weeks Rent Free/Hop to the Metro,2 doubles,"[550, 500]",525.0,M30
+109,05 Jan 2019,Furnished,Males or females,Salford (M6),None,6 months,['£400 pcm'],2 weeks rent free !!!      Lovely 4 BED HOME,Double room,[400],400.0,M6
+110,01 Sep 2019,Furnished,No info,Salford (M7),None,12 months,"['£2,100 pcm (whole property)']",*** Available for Next Academic Year 2019/20***,5 bed house,[2100],2100.0,M7
+111,Now,Furnished,Males or females,Fairfield (M43),None,4 months,['£390 pcm'],Amazing room on top location,Double room,[390],390.0,M43
+112,Now,Furnished,No info,Urmston (M41),None,3 months,['£750 pcm (whole property)'],All bills inc: Immaculate large studio apartment,Studio flat,[750],750.0,M41
+113,Now,Furnished,Males or females,Salford (M6),None,6 months,"['£100 pw', '£100 pw', '£100 pw', '£100 pw']",Stunning 4 Bed House Share Salford,4 doubles,"[400, 400, 400, 400]",400.0,M6
+114,27 Dec 2018,Furnished,Males or females,Whalley Range (M16),None,6 months,['£433 pcm'],Ensuite Bedroom in Whalley Range-Bills Included,Double room,[433],433.0,M16
+115,05 Jan 2019,Part Furnished,No info,Whalley Range (M16),None,6 months,['£675 pcm (whole property)'],One Bed Flat -Bills Included-January,1 bed flat,[675],675.0,M16
+116,19 Dec 2018,Furnished,Males or females,Chorlton (M16),None,6 months,['£475 pcm'],Ensuite Bedroom - Chorlton,Double room,[475],475.0,M16
+117,01 Jul 2019,Furnished,Males or females,Fallowfield (M14),None,12 months,"['£390 pcm', '£390 pcm', '£390 pcm', '£390 pcm', '£390 pcm', '£390 pcm', '£390 pcm', '£390 pcm']","8 Bedroom Student House, Fallowfield  2019-2020",8 doubles,"[390, 390, 390, 390, 390, 390, 390, 390]",390.0,M14
+118,19 Dec 2018,Furnished,Males or females,Whalley Range (M16),None,6 months,['£475 pcm'],Ensuite Bedroom in Whalley Range-Bills Included,Double room,[475],475.0,M16
+119,10 Jan 2019,Furnished,Males or females,Whalley Range (M16),None,6 months,['£395 pcm'],Ensuite Double Bedroom  - 10th January,Double room,[395],395.0,M16
+120,05 Jan 2019,Furnished,No info,Whalley Range (M16),None,6 months,['£675 pcm (whole property)'],One bed newly refurbished Flat-Available-January,1 bed flat,[675],675.0,M16
+121,Now,Furnished,Males or females,Eccles (M30),None,6 months,"['£120 pw', '£115 pw', '£115 pw', '£110 pw', '£120 pw']",Beautiful  Large En Suite Rooms Eccles,2 doubles,"[480, 460, 460, 440, 480]",464.0,M30
+122,Now,Furnished,No info,Hulme (M15),None,4 months,"['£1,600 pcm (whole property)']",Brand New Modern House,4 bed house,[1600],1600.0,M15
+123,Now,Furnished,Males or females,Fallowfield (M14),None,3 months,"['£280 pcm', '£300 pcm', '£325 pcm']","Bedrooms in Fallowfield,close to transport,city",3 doubles,"[280, 300, 325]",301.6666666666667,M14
+124,Now,Furnished,Males or females,Victoria Park (M14),None,8 months,"['£425 pcm', '£450 pw']","Newly Renovated Rooms Bills inc, Close to Uni,",2 doubles,"[425, 1800]",1112.5,M14
+125,Now,Furnished,Males or females,Salford (M7),None,6 months,"['£440 pcm', '£410 pcm', '£460 pcm', '£495 pcm', '£480 pcm']",2 Massive Double Rooms  - Close to City,2 doubles,"[440, 410, 460, 495, 480]",457.0,M7
+126,Now,Furnished,Males or females,Salford (M6),36 months,3 months,"['£650 pcm', '£650 pcm', '£650 pcm', '£650 pcm', '£650 pcm', '£650 pcm', '£650 pcm', '£650 pcm']",Could you live here?,Double room,"[650, 650, 650, 650, 650, 650, 650, 650]",650.0,M6
+127,Now,Furnished,Males or females,Prestwich (M25),None,3 months,"['£600 pcm', '£650 pcm', '£600 pcm', '£600 pcm', '£600 pcm', '£650 pcm']",New Double Rooms with En-Suites,Double room,"[600, 650, 600, 600, 600, 650]",616.6666666666666,M25
+128,Now,Furnished,No info,Higher Crumpsall (M8),None,6 months,['£95 pw (whole property)'],Three room apartment for professional person,1 bed flat,[380],380.0,M8
+129,Now,No info,Males or females,Burnage (M19),None,None,['£420 pcm'],"Ideal short term let, close to uni and hospitals",Double room,[420],420.0,M19
+130,01 Sep 2019,Furnished,No info,Broughton (M7),None,12 months,"['£1,800 pcm (whole property)']",*** Available for Next Academic Year 2019/20***,4 bed property,[1800],1800.0,M7
+131,10 Dec 2018,Furnished,Males or females,Chorlton (M21),None,3 months,"['£470 pcm', '£460 pcm', '£470 pcm', '£450 pcm', '£380 pcm']",Friendly Homshare,Single + double,"[470, 460, 470, 450, 380]",446.0,M21
+132,05 Dec 2018,Furnished,Males or females,Swinton (M27),None,6 months,"['£500 pcm', '£500 pcm', '£560 pcm', '£400 pcm', '£495 pcm']",Luxury Professional houseshare - Bills Included,Single room,"[500, 500, 560, 400, 495]",491.0,M27
+133,Now,Furnished,Males or females,Chorlton (M21),None,5 months,"['£370 pcm', '£380 pcm']",Chorlton top location - Low deposit,2 doubles,"[370, 380]",375.0,M21
+134,Now,Furnished,Males or females,Chorlton (M21),None,3 months,"['£450 pcm', '£450 pcm', '£470 pcm', '£430 pcm', '£360 pcm']",Friendly Homeshare,Double room,"[450, 450, 470, 430, 360]",432.0,M21
+135,01 Sep 2019,Furnished,No info,Salford (M7),None,12 months,"['£2,100 pcm (whole property)']",*** Available for Next Academic Year 2019/20***,5 bed house,[2100],2100.0,M7
+136,04 Dec 2018,Furnished,Males or females,Chorlton (M21),2 months,None,"['£500 pcm', '£500 pcm', '£450 pcm', '£500 pcm', '£475 pcm']",Friendly Home Share.  2 months max stay.,Double room,"[500, 500, 450, 500, 475]",485.0,M21
+137,Now,Furnished,Males or females,Manchester (M14),None,3 months,"['£360 pcm', '£380 pcm', '£340 pcm', '£380 pcm', '£400 pcm', '£380 pcm']",Friendly Home Share,Double room,"[360, 380, 340, 380, 400, 380]",373.3333333333333,M14
+138,05 Dec 2018,Furnished,Males or females,Chorlton (M21),None,3 months,"['£420 pcm', '£410 pcm', '£400 pcm', '£400 pcm', '£360 pcm']",Friendly Homeshare    No Deposit Required,Single + double,"[420, 410, 400, 400, 360]",398.0,M21
+139,Now,Furnished,Males or females,Salford (M6),None,6 months,['£420 pcm'],Stylish and Spacious Double Room Available Now,Double room,[420],420.0,M6
+140,20 Dec 2018,Furnished,Males or females,Salford (M7),None,6 months,['£370 pcm'],Extremely Spacious Ground Floor Double Available,Double room,[370],370.0,M7
+141,Now,Furnished,Males or females,Didsbury (M20),None,6 months,"['£400 pcm', '£365 pcm', '£385 pcm', '£410 pcm']",Didsbury Village Houseshare,Double room,"[400, 365, 385, 410]",390.0,M20
+142,01 Jan 2019,Furnished,Males or females,Fallowfield (M14),None,6 months,"['£425 pcm', '£400 pcm', '£400 pcm', '£330 pcm']","Rooms to let no fees, all bills inc,",3 doubles,"[425, 400, 400, 330]",388.75,M14
+143,Now,Furnished,Males or females,Failsworth (M35),None,6 months,"['£110 pw', '£120 pw', '£120 pw', '£110 pw', '£110 pw', '£115 pw', '£110 pw']",Beautiful Large En Suite rooms | Professionals,2 doubles,"[440, 480, 480, 440, 440, 460, 440]",454.2857142857143,M35
+144,Now,Furnished,Males or females,Radcliffe (M26),None,6 months,"['£115 pw', '£99 pw', '£99 pw', '£105 pw', '£110 pw', '£115 pw']",Brand New Renovation | Professionals,Double room,"[460, 396, 396, 420, 440, 460]",428.6666666666667,M26
+145,16 Dec 2018,Furnished,Males or females,Stretford (M32),None,6 months,['£480 pcm'],A Higher Quality of Living!,Double room,[480],480.0,M32
+146,01 Dec 2018,Furnished,Males or females,Eccles (M30),None,3 months,['£390 pcm'],House Share Convenient for Salford Quays / Media C,Double room,[390],390.0,M30
+147,Now,Furnished,Males or females,Eccles (M30),None,6 months,"['£95 pw', '£85 pw']","Spacious, BRAND NEW Room in Salford, Manchester",Single + double,"[380, 340]",360.0,M30
+148,Now,Furnished,Males or females,Withington (M20),None,None,['£450 pcm'],Spacious Double Room in 4  Bed Flat,Double room,[450],450.0,M20
+149,13 Dec 2018,Furnished,Males or females,Salford (M6),None,6 months,['£330 pcm'],Double sized room in shared house.,Double room,[330],330.0,M6
+150,Now,Furnished,Males or females,Swinton (M27),None,3 months,['£325 pcm'],"KING size room, stylish house in very nice area!",Double room,[325],325.0,M27
+151,Now,Furnished,Males or females,Salford (M6),None,6 months,"['£540 pcm', '£525 pcm', '£525 pcm', '£525 pcm', '£575 pcm']",Top Notch Houseshare One Rm Remains!,Double room,"[540, 525, 525, 525, 575]",538.0,M6
+152,Now,Furnished,Males or females,Salford (M6),None,6 months,"['£100 pw', '£95 pw', '£115 pw', '£110 pw']",Double Room |  Newly Renovated | Professionals,Double room,"[400, 380, 460, 440]",420.0,M6
+153,Now,Furnished,Males or females,Failsworth (M35),None,6 months,"['£95 pw', '£95 pw', '£115 pw', '£110 pw', '£99 pw', '£85 pw', '£120 pw', '£120 pw']",Amazing location | Professionals | All Bills Inc,2 doubles,"[380, 380, 460, 440, 396, 340, 480, 480]",419.5,M35
+154,01 Dec 2018,Furnished,Males or females,Fallowfield (M14),None,5 months,['£400 pcm'],Amazing deal - Low deposit,Double room,[400],400.0,M14
+155,Now,Furnished,Males or females,West Didsbury (M20),None,5 months,"['£390 pcm', '£400 pcm']",Brilliant Rooms in West Didsbury-Affordable Prices,2 doubles,"[390, 400]",395.0,M20
+156,Now,Furnished,Males or females,Radcliffe (M26),None,6 months,"['£120 pw', '£99 pw', '£99 pw', '£110 pw', '£110 pw', '£115 pw']",Do not miss out! Brand New House Share! LAST ROOM,Double room,"[480, 396, 396, 440, 440, 460]",435.3333333333333,M26
+157,Now,Furnished,Males or females,Eccles (M30),None,6 months,"['£115 pw', '£120 pw', '£85 pw', '£95 pw', '£120 pw', '£130 pw']",Near to Tram | Professionals | Free Amazon Voucher,Double room,"[460, 480, 340, 380, 480, 520]",443.3333333333333,M30
+158,Now,Furnished,Males or females,Crumpsall (M8),None,6 months,"['£85 pw', '£100 pw', '£85 pw', '£90 pw', '£85 pw']",Dbl Room|Free Amazon Voucher| Professionals,Double room,"[340, 400, 340, 360, 340]",356.0,M8
+159,11 Dec 2018,Furnished,Males or females,Eccles (M30),None,6 months,"['£120 pw', '£115 pw', '£115 pw', '£110 pw', '£125 pw']",Beautiful Large En Suite rooms | Professionals,2 doubles,"[480, 460, 460, 440, 500]",468.0,M30
+160,15 Dec 2018,Furnished,Males or females,Eccles (M30),None,6 months,"['£110 pw', '£530 pcm', '£99 pw', '£115 pw']",En Suite Room| Flatscreen Tv| Professionals,Double room,"[440, 530, 396, 460]",456.5,M30
+161,Now,Furnished,Males or females,Salford (M5),None,6 months,"['£115 pw', '£115 pw', '£115 pw', '£115 pw', '£115 pw', '£125 pw']",Ensuite rooms | Free Amazon Voucher | Professional,2 doubles,"[460, 460, 460, 460, 460, 500]",466.6666666666667,M5
+162,Now,Furnished,Female preferred,Manchester City Centre (M1),None,None,['£90 pw'],Rent Paid Til 22 Jan 2019 Msv Double Room,Double room,[360],360.0,M1
+163,20 Dec 2018,Furnished,Males or females,Whalley Range (M16),None,6 months,['£440 pcm'],"Large Furnished double rooms, Whalley Range (158)",Double room,[440],440.0,M16
+164,Now,Furnished,Males or females,Salford (M7),None,6 months,['£475 pcm'],"Ensuite Double room, Salford (Singleton Road)",Double room,[475],475.0,M7
+165,Now,Furnished,Males or females,Walkden (M28),None,6 months,"['£429 pcm', '£450 pcm', '£477 pcm', '£477 pcm']",Fantastic Ensuite Double rooms - Walkden (Mem),3 doubles,"[429, 450, 477, 477]",458.25,M28
+166,Now,Furnished,Males or females,Salford (M6),None,6 months,['£425 pcm'],Double Room to rent Guildford Road Salford,Double room,[425],425.0,M6
+167,11 Dec 2018,Furnished,No info,Sale (M33),None,6 months,['Potential Buddy Ups'],Large 2 bed furnished flat in Sale with parking,2 bed flat,[],,M33
+168,05 Dec 2018,Furnished,Males or females,Whalley Range (M16),None,6 months,['£460 pcm'],En-suite room to rent Whalley Range/Chorlton (MG),Double room,[460],460.0,M16
+169,03 Jan 2019,Furnished,Males or females,Salford (M6),None,6 months,"['£400 pcm', '£400 pcm', '£425 pcm', '£450 pcm']",Ensuite double room Mere Ave. Close to Metro,2 doubles,"[400, 400, 425, 450]",418.75,M6
+170,01 Dec 2018,Furnished,Males or females,Salford (M5),None,6 months,"['£115 pw', '£120 pw', '£120 pw', '£125 pw', '£125 pw', '£120 pw']",Beautiful Large En Suite rooms | Professionals,6 doubles,"[460, 480, 480, 500, 500, 480]",483.3333333333333,M5
+171,Now,Furnished,Males or females,Manchester (M9),None,6 months,"['£77 pw', '£97 pcm', '£117 pcm']",1 X Studio and 2 En Suite Rooms Near City Centre!,Single + 2 doubles,"[308, 97, 117]",174.0,M9
+172,Now,Furnished,Female preferred,Fallowfield (M14),None,7 months,['£500 pcm'],Stunning room done to a high standard,Double room,[500],500.0,M14
+173,07 Dec 2018,Furnished,Males or females,Manchester (M40),None,None,['£450 pcm'],Spare Room to Rent,Double room,[450],450.0,M40
+174,Now,Furnished,Males or females,Ardwick (M13),12 months,3 months,"['£595 pcm', '£495 pcm', '£495 pcm']",Luxurious Master Double Room in Grove Village,Double room,"[595, 495, 495]",528.3333333333334,M13
+175,Now,Furnished,Males or females,Chorlton Upon Medlock (M13),12 months,6 months,['£370 pcm'],ROOM TO RENT,Single room,[370],370.0,M13
+176,Now,Furnished,Males or females,Old Trafford (M16),None,4 months,['£480 pcm'],Excellent Ensuite Room in Trafford :),Double room,[480],480.0,M16
+177,Now,Furnished,Males or females,Salford (M7),None,6 months,"['£440 pcm', '£410 pcm', '£460 pcm', '£495 pcm', '£480 pcm']",2 Massive Double Rooms  - Close to City,2 doubles,"[440, 410, 460, 495, 480]",457.0,M7
+178,01 Jan 2019,Furnished,Female preferred,Fallowfield (M14),6 months,None,['£118 pw'],Spacious double bedroom in the Fallowfield area,Double room,[472],472.0,M14
+179,Now,Furnished,Males or females,Sale (M33),None,6 months,['£450 pcm'],Newly Refurbished - Large Double Rooms,Double room,[450],450.0,M33
+180,Now,Furnished,Female preferred,Manchester (M11),None,3 months,['£280 pcm'],Single room available now near Manchester centre,Single room,[280],280.0,M11
+181,Now,Furnished,Males or females,Old Trafford (M16),None,6 months,['£450 pcm'],Beautiful Large Double Room Old Trafford,Double room,[450],450.0,M16
+182,Now,Furnished,Males or females,Rusholme (M14),None,None,"['£495 pcm', '£545 pcm']",Nice Double Room in Spacious House Next to Park,2 doubles,"[495, 545]",520.0,M14
+183,Now,Furnished,Males or females,Didsbury (M20),None,None,['£445 pcm'],"£445 + Bills, Double Room heart of West Didsbury",Double room,[445],445.0,M20
+184,Now,Furnished,Female preferred,Levenshulme (M19),None,None,['£325 pcm'],All bills inclusive furnished rooms to let,Double room,[325],325.0,M19
+185,Now,Furnished,Males or females,Eccles (M30),None,6 months,"['£475 pcm', '£495 pcm']",Great room with En suite rm by METRO ref. 11GR,2 doubles,"[475, 495]",485.0,M30
+186,Now,Furnished,Males or females,Salford (M5),None,6 months,"['£525 pcm', '£550 pcm', '£595 pcm', '£525 pcm', '£550 pcm', '£550 pcm', '£550 pcm']","Beautiful Newly Refurb,Very Close to Media Link",Double room,"[525, 550, 595, 525, 550, 550, 550]",549.2857142857143,M5
+187,Now,Furnished,Males or females,Salford (M6),None,6 months,['£440 pcm'],Great Value Room Available Ref: 71,Double room,[440],440.0,M6
+188,Now,Furnished,Males or females,Winton (M30),None,3 months,"['£475 pcm', '£450 pcm']",NO FEES! EN SUITE RM - Close to Trafford Centre,2 doubles,"[475, 450]",462.5,M30
+189,Now,Furnished,Males or females,Eccles (M30),None,6 months,"['£475 pcm', '£525 pcm', '£500 pcm']",No Fees Available on This Property  - Ref.Ar,3 doubles,"[475, 525, 500]",500.0,M30
+190,Now,Furnished,Males or females,Eccles (M30),None,6 months,"['£500 pcm', '£495 pcm']",NO FEES! EN SUITE RM nr Trafford Cen. -Park views,2 doubles,"[500, 495]",497.5,M30
+191,15 Dec 2018,Furnished,Males or females,Salford (M5),None,6 months,['£450 pcm'],Be a stones throw from Media City UK and Metro,Double room,[450],450.0,M5
+192,Now,Furnished,Males or females,Eccles (M30),None,6 months,['£475 pcm'],Room No Fees! Train & Tram Close!!,Double room,[475],475.0,M30
+193,Now,Furnished,Males or females,Eccles (M30),None,6 months,"['£550 pcm', '£525 pcm']",5* Room!  - NO FEES - Hurry!!!,2 doubles,"[550, 525]",537.5,M30
+194,15 Dec 2018,Furnished,Female preferred,Manchester City Centre (M4),None,6 months,['£450 pcm'],Room with parking space MCR city centre,Double room,[450],450.0,M4
+195,Now,Furnished,Males or females,Fallowfield (M14),None,None,"['£385 pcm', '£350 pcm', '£385 pcm', '£400 pcm', '£335 pcm']",Beautiful House Share Fallowfield Bargain!,Single + double,"[385, 350, 385, 400, 335]",371.0,M14
+196,Now,Furnished,Males or females,Whalley Range (M16),None,None,"['£450 pcm', '£450 pcm', '£450 pcm']",3 bed shared house- city centre-short term let,Double room,"[450, 450, 450]",450.0,M16
+197,Now,Furnished,Males or females,Manchester (M13),None,None,['£425 pcm'],Luxury Double Bedroom with Ensuite,Double room,[425],425.0,M13
+198,Now,Furnished,Males or females,Whalley Range (M16),None,None,"['£380 pcm', '£380 pcm', '£390 pcm']",Hotel Style Accommodation - Low Deposit,3 doubles,"[380, 380, 390]",383.3333333333333,M16
+199,03 Dec 2018,Furnished,Female preferred,Manchester (M40),None,2 months,"['£80 pw', '£85 pw', '£70 pw', '£85 pw']",Double room in Monsall M40,Double room,"[320, 340, 280, 340]",320.0,M40
+200,Now,Furnished,Males or females,Wythenshawe (M22),None,None,['£110 pw'],Deluxe Double Bedroom-Manchester Airport,Double room,[440],440.0,M22
+201,03 Dec 2018,Furnished,Males or females,Radcliffe (M26),None,3 months,"['£380 pcm', '£380 pcm']","Double: M26 Radcliffe, nr Asda & easy to Tram/M60.",Single + double,"[380, 380]",380.0,M26
+202,17 Jan 2019,Furnished,Males or females,Salford (M7),None,3 months,['£570 pcm'],1 Double Bedroom Including Ensuite,Double room,[570],570.0,M7
+203,Now,Furnished,Males or females,West Didsbury (M20),None,5 months,"['£390 pcm', '£400 pcm']",Brilliant Rooms in West Didsbury-Affordable Prices,2 doubles,"[390, 400]",395.0,M20
+204,Now,Furnished,Males or females,Old Trafford (M16),None,4 months,['£480 pcm'],Excellent Ensuite Room in Trafford :),Double room,[480],480.0,M16
+205,04 Jan 2019,Furnished,Males or females,Irlams O' Th' Height (M6),None,3 months,['£400 pcm'],Double room to rent,Double room,[400],400.0,M6
+206,Now,Furnished,Males or females,Stretford (M32),None,6 months,['£550 pcm'],Large En-suite room near Stretford Metrolink,Double room,[550],550.0,M32
+207,Now,Furnished,Males or females,Victoria Park (M14),7 months,6 months,['£313 pcm'],Student Room to rent - perfect price!,Double room,[313],313.0,M14
+208,Now,Furnished,Males or females,Salford (M5),None,12 months,"['£300 pcm', '£350 pcm', '£400 pcm']","Salford Quays, 3 Bed House, Double Rooms £300 Pcm",3 doubles,"[300, 350, 400]",350.0,M5
+209,Now,Furnished,No info,Old Trafford (M16),None,12 months,['Potential Buddy Ups'],Vast 4 Bed Apartment Old Trafford Nr Salfordquays,3 bed flat,[],,M16
+210,Now,Furnished,Males or females,Old Trafford (M16),None,12 months,"['£65 pw', '£90 pw', '£65 pw']",Superb student house Old Trafford nr Salford Quays,3 doubles,"[260, 360, 260]",293.3333333333333,M16
+211,Now,Furnished,Males or females,Old Trafford (M16),None,12 months,['£65 pw'],"South Manchester,Old Trafford nr Salford Quays",Double room,[260],260.0,M16
+212,Now,Furnished,Males or females,Stretford (M32),None,None,['£485 pcm'],All Incl Value - Mediacity/City Ctre/Traff Ctre,Single room,[485],485.0,M32
+213,01 Jan 2019,Furnished,Males or females,Sharston (M22),None,3 months,['£600 pcm'],Ensuite Large Double Bedroom,Double room,[600],600.0,M22
+214,15 Dec 2018,Furnished,Males or females,Failsworth (M35),None,6 months,"['£105 pw', '£105 pw']",Double ensuite. 15 minutes to central Manchester.,2 doubles,"[420, 420]",420.0,M35
+215,Now,Furnished,Males or females,Salford (M6),None,6 months,['£390 pcm'],"Available 1 bedsit in Bolton Road, Salford M6",Double room,[390],390.0,M6
+216,Now,Furnished,Males or females,Walkden (M28),None,None,"['£375 pcm', '£375 pcm']",Available ensuite rooms in a 4 Bed House share M28,2 doubles,"[375, 375]",375.0,M28
+217,Now,Furnished,No info,Clifton (M27),None,6 months,['£550 pcm (whole property)'],"Available Studio Flat in Swinton, M27",Studio flat,[550],550.0,M27
+218,Now,Furnished,Males or females,Salford (M6),None,6 months,['£400 pcm'],"Available double room in London St, M6",Double room,[400],400.0,M6
+219,Now,Furnished,Males or females,Salford (M6),None,6 months,['£550 pcm'],"Available 1 en suites rooms, in Salford,  M6",Double room,[550],550.0,M6
+220,17 Dec 2018,Furnished,Males or females,Swinton (M27),None,6 months,"['£560 pcm', '£600 pcm', '£560 pcm', '£500 pcm']",Brand New Professional Houseshare - Bills Included,4 doubles,"[560, 600, 560, 500]",555.0,M27
+221,Now,Furnished,Males or females,Victoria Park (M14),11 months,9 months,"['£377 pcm', '£364 pcm']","Post Graduates invited, science based ideally.",2 doubles,"[377, 364]",370.5,M14
+222,Now,Furnished,Males or females,Manchester City Centre (M4),None,None,['£850 pcm'],City living flat share  only short let 2-4months,Double room,[850],850.0,M4
+223,Now,Furnished,Female preferred,Levenshulme (M19),None,None,"['£450 pcm', '£420 pcm', '£350 pcm']",Dr.Swammy Course Only  2 Min by  Walking,Double room,"[450, 420, 350]",406.6666666666667,M19
+224,Now,Furnished,Males or females,Salford (M5),None,4 months,"['£775 pcm', '£795 pcm', '£795 pcm', '£775 pcm', '£775 pcm', '£650 pcm', '£775 pcm', '£775 pcm']","Style,size,value,position,transport links WOW!",2 doubles,"[775, 795, 795, 775, 775, 650, 775, 775]",764.375,M5
+225,Now,Furnished,Males or females,Salford (M5),None,6 months,"['£775 pcm', '£795 pcm', '£795 pcm', '£775 pcm', '£750 pcm', '£650 pcm', '£775 pcm', '£775 pcm']","Manchester/Media City ,Use an iPhone ?M5",2 doubles,"[775, 795, 795, 775, 750, 650, 775, 775]",761.25,M5
+226,Now,Furnished,Males or females,Northenden (M22),None,None,"['£500 pcm', '£500 pcm', '£600 pcm']",Beautiful large double bedroom in cottage,3 doubles,"[500, 500, 600]",533.3333333333334,M22
+227,Now,Furnished,Males or females,Radcliffe (M26),None,6 months,"['£450 pcm', '£400 pcm', '£400 pcm']",Professional House Share Bills Included,3 doubles,"[450, 400, 400]",416.6666666666667,M26
+228,01 Feb 2019,Furnished,Males or females,Failsworth (M35),None,6 months,"['£100 pw', '£100 pw', '£125 pw', '£125 pw', '£125 pw']",Kershaw Road M35 9PU - Ensuite Studio *Bills Inc*,5 doubles,"[400, 400, 500, 500, 500]",460.0,M35
+229,01 Dec 2018,Furnished,Males or females,Failsworth (M35),None,6 months,"['£100 pw', '£150 pw', '£100 pw', '£100 pw']",Failsworth Pole - En-Suite Studio,4 doubles,"[400, 600, 400, 400]",450.0,M35
+230,03 Dec 2018,Furnished,Female preferred,Manchester (M40),None,2 months,"['£80 pw', '£85 pw', '£70 pw', '£85 pw']",Double room in Monsall M40,Double room,"[320, 340, 280, 340]",320.0,M40
+231,Now,No info,Males or females,Manchester City Centre (M1),10 months,6 months,['£120 pw'],Manchester Student Village - Double Room £120 pw,Double room,[480],480.0,M1
+232,Now,Furnished,Males or females,Fallowfield (M14),None,1 month,"['£395 pcm', '£345 pcm']",Short term let for single room inc bills & wifi,Single + double,"[395, 345]",370.0,M14
+233,01 Jan 2019,No info,Female preferred,Fallowfield (M14),None,6 months,['£300 pcm'],Lovely bright room in Fallowfield,Double room,[300],300.0,M14
+234,Now,Furnished,Males or females,Fallowfield (M14),None,8 months,"['£140 pw', '£140 pw', '£135 pw', '£140 pw', '£150 pw']",1 Luxurious Double Bedroom Available Immediately,5 doubles,"[560, 560, 540, 560, 600]",564.0,M14
+235,Now,Furnished,Male preferred,Northenden (M22),None,None,['£120 pw'],One double room for rent,Double room,[480],480.0,M22
+236,Now,Furnished,Males or females,Manchester (M11),None,4 months,['£310 pcm'],Double Room Good Transport/PodwÃJny PokÃJ,Double room,[310],310.0,M11
+237,21 Dec 2018,No info,Males or females,Chorlton (M21),None,None,"['£340 pcm', '£340 pcm']",2 spare rooms in a beautiful Chorlton shared house,2 doubles,"[340, 340]",340.0,M21
+238,Now,Furnished,Males or females,Swinton (M27),None,6 months,"['£440 pcm', '£495 pcm', '£430 pcm', '£500 pcm', '£395 pcm', '£495 pcm', '£470 pcm', '£450 pcm', '£495 pcm', '£525 pcm', '£450 pcm']",Huge Double Room from £450 Pcm  All Bills inc,Double room,"[440, 495, 430, 500, 395, 495, 470, 450, 495, 525, 450]",467.72727272727275,M27
+239,Now,Furnished,Males or females,Salford (M7),None,3 months,"['£410 pcm', '£400 pcm', '£440 pcm', '£420 pcm', '£420 pcm']",Large Double - Just £410 + £420 Pm All Bills Inc,Double room,"[410, 400, 440, 420, 420]",418.0,M7
+240,Now,Furnished,Males or females,Wythenshawe (M22),None,6 months,"['£400 pcm', '£400 pcm']",Fully renovated 3 Bed semi - close to the Airport,2 singles,"[400, 400]",400.0,M22
+241,Now,Furnished,Males or females,Salford (M6),None,3 months,"['£85 pw', '£85 pw', '£85 pw']","Last Double Room Salford, Close to City-Bills Inc",Double room,"[340, 340, 340]",340.0,M6
+242,01 Sep 2019,Furnished,No info,Salford (M6),None,12 months,"['£1,430 pcm (whole property)']",*** Available for Next Academic Year 2019/20***,3 bed house,[1430],1430.0,M6
+243,Now,Furnished,Males or females,Whalley Range (M16),None,6 months,['£475 pcm'],**** Professional Double Room ****,Double room,[475],475.0,M16
+244,Now,Furnished,Males or females,Eccles (M30),None,None,"['£135 pw', '£135 pw', '£150 pw', '£150 pw']",Ensuite Room. Eccles. NO DEPOSIT. All Bills Inc.,Double room,"[540, 540, 600, 600]",570.0,M30
+245,Now,Furnished,Males or females,Worsley (M28),None,None,"['£155 pw', '£155 pw', '£155 pw', '£150 pw']",Worsley Studio Rooms,2 doubles,"[620, 620, 620, 600]",615.0,M28
+246,Now,Furnished,Males or females,Salford (M28),None,1 month,"['£145 pw', '£155 pw', '£150 pw', '£165 pw']",New Studios Clifton. No Deposit. Bills Included.,2 doubles,"[580, 620, 600, 660]",615.0,M28
+247,Now,Furnished,Males or females,Levenshulme (M13),None,3 months,"['£360 pcm', '£380 pcm']",Below Market Price! Awesome value! GREAT Location,2 doubles,"[360, 380]",370.0,M13
+248,Now,Furnished,Males or females,Salford (M5),None,6 months,"['£420 pcm', '£420 pcm', '£420 pcm', '£400 pcm', '£420 pcm', '£500 pcm']",Double rooms for professionals  £420 -£ 500,3 doubles,"[420, 420, 420, 400, 420, 500]",430.0,M5
+249,Now,Furnished,Males or females,Manchester (M8),None,3 months,['£400 pcm'],Clean Welcoming house share in Cheethamhill,Double room,[400],400.0,M8
+250,Now,Furnished,Female preferred,Manchester (M1),9 months,6 months,['£115 pw'],Double    Bedroom,Double room,[460],460.0,M1
+251,Now,Furnished,Males or females,Rusholme (M14),None,None,"['£420 pcm', '£420 pcm', '£420 pcm', '£400 pcm', '£430 pcm', '£420 pcm']",âï¸£0 Fee All Bills Inc  GW,5 doubles,"[420, 420, 420, 400, 430, 420]",418.3333333333333,M14
+252,Now,Furnished,Males or females,Salford (M5),None,3 months,['£85 pw'],Room to let M5 Eccles,Double room,[340],340.0,M5
+253,Now,Furnished,Males or females,Higher Broughton (M7),None,6 months,['£80 pw'],Good Standard Double Room To Rent In M7,Double room,[320],320.0,M7
+254,01 Dec 2018,Furnished,No info,Victoria Park (M14),None,None,['£180 pw (whole property)'],Superb refurbished one-bed flat in Victoria Park,1 bed flat,[720],720.0,M14
+255,Now,Furnished,Males or females,Little Hulton (M38),None,3 months,"['£89 pw', '£89 pw', '£99 pw', '£89 pw', '£99 pw']",Bills Included NO Deposit Ensuite Rooms,2 doubles,"[356, 356, 396, 356, 396]",372.0,M38
+256,Now,Furnished,Males or females,Eccles (M30),None,6 months,"['£90 pw', '£85 pw']",FF DOUBLE room- All bills inc. Free Admin - Eccles,Double room,"[360, 340]",350.0,M30
+257,08 Jan 2019,Furnished,Female preferred,Fallowfield (M14),6 months,None,"['£450 pcm', '£120 pw']",Looking for 2 girls to fill 2 rooms in 3 bed flat,2 doubles,"[450, 480]",465.0,M14
+258,Now,Furnished,Males or females,Eccles (M30),None,6 months,"['£445 pcm', '£435 pcm', '£420 pcm', '£400 pcm']",First months rent half price all bills included,2 doubles,"[445, 435, 420, 400]",425.0,M30
+259,Now,Furnished,Males or females,Salford (M6),None,6 months,['£495 pcm'],Immaculate En Suite room to rent now,Double room,[495],495.0,M6
+260,Now,Furnished,Males or females,Eccles (M30),None,6 months,['£350 pcm'],Double ensuite room available now,Double room,[350],350.0,M30
+261,21 Dec 2018,Furnished,Female preferred,East Didsbury (M20),None,6 months,"['£460 pcm', '£460 pcm']","Two double rooms, friendly all girl houseshare",2 doubles,"[460, 460]",460.0,M20
+262,Now,Part Furnished,No info,Longsight (M12),None,6 months,['Potential Buddy Ups'],Houseshare for 2-3 professionals/students/couple,4 bed house,[],,M12
+263,Now,Furnished,Female preferred,West Didsbury (M20),None,6 months,['£475 pcm'],"Sociable W'Dids flat, large double room for female",Double room,[475],475.0,M20
+264,01 Dec 2018,Furnished,Male preferred,Didsbury (M20),None,6 months,['£450 pcm'],Double room in 4 bed Didsbury duplex,Double room,[450],450.0,M20
+265,03 Jan 2019,Furnished,Female preferred,West Didsbury (M20),None,6 months,['£500 pcm'],En suite bedroom in sociable West Dids house,Double room,[500],500.0,M20
+266,03 Jan 2019,Furnished,Male preferred,West Didsbury (M20),None,6 months,['£475 pcm'],Double bedroom on Burton Road,Double room,[475],475.0,M20
+267,04 Dec 2018,Furnished,Males or females,East Didsbury (M20),None,6 months,"['£475 pcm', '£475 pcm']",Homely and friendly houseshare in Didsbury!,Double room,"[475, 475]",475.0,M20
+268,03 Jan 2019,Furnished,Males or females,Withington (M20),None,6 months,['£425 pcm'],NO DEPOSIT! Double room in 4 bed house share,Double room,[425],425.0,M20
+269,03 Jan 2019,Furnished,Male preferred,Withington (M20),None,6 months,['£425 pcm'],Double room in 4 bed flat Withington High Street,Double room,[425],425.0,M20
+270,03 Jan 2019,Furnished,Female preferred,Withington (M20),None,6 months,['£425 pcm'],Withington high street duplex,Double room,[425],425.0,M20
+271,01 Dec 2018,Furnished,Female preferred,Chorlton (M21),None,6 months,"['£450 pcm', '£450 pcm', '£475 pcm', '£500 pcm']",Half price rent in December! Chorlton house share,2 doubles,"[450, 450, 475, 500]",468.75,M21
+272,Now,No info,Males or females,Chorlton (M21),None,1 month,"['£130 pw', '£130 pw']",Wilbraham Rd-2 Rooms To Let-All Bills Inc + Wi-Fi,2 doubles,"[520, 520]",520.0,M21
+273,Now,Furnished,Males or females,Stretford (M32),None,None,['£110 pw'],En-suite Room To Let All Bills inc + Wi-Fi - M32,Single room,[440],440.0,M32
+274,Now,Furnished,Males or females,Rusholme (M14),None,None,['£90 pw'],Room To Let off Wilmslow Rd - All Bills Inc+wi-fi,Double room,[360],360.0,M14
+275,02 Jan 2019,Furnished,Males or females,Withington (M20),None,None,['£110 pw'],Short Term Let M20 in Beautiful Victorian house,Double room,[440],440.0,M20
+276,Now,Furnished,Males or females,Fallowfield (M14),None,6 months,['£550 pcm'],Large  Ensuite Dbl Room in Fallowfield,Double room,[550],550.0,M14
+277,16 Dec 2018,Furnished,Males or females,Fallowfield (M14),None,None,"['£420 pcm', '£450 pcm', '£420 pcm', '£380 pcm']",£0 Zero Fee  Fallowfield All Bills Included,Single + double,"[420, 450, 420, 380]",417.5,M14
+278,Now,Furnished,Female preferred,Manchester (M19),None,6 months,"['£395 pcm', '£375 pcm']",Spacious  2 Double Rooms in Basement Flat.,2 doubles,"[395, 375]",385.0,M19
+279,Now,Furnished,Males or females,Chorlton (M21),None,6 months,['£500 pcm'],Ground floor front studio flat,Double room,[500],500.0,M21
+280,Now,Furnished,No info,Swinton (M27),None,12 months,['£500 pcm (whole property)'],One bed apartment at only £500pcm!,1 bed flat,[500],500.0,M27
+281,17 Dec 2018,Furnished,Males or females,Swinton (M27),None,6 months,"['£560 pcm', '£600 pcm', '£560 pcm', '£500 pcm']",Brand New Professional Houseshare - Bills Included,4 doubles,"[560, 600, 560, 500]",555.0,M27
+282,05 Dec 2018,Furnished,Males or females,Swinton (M27),None,6 months,"['£500 pcm', '£500 pcm', '£560 pcm', '£400 pcm', '£495 pcm']",Luxury Professional houseshare - Bills Included,Single room,"[500, 500, 560, 400, 495]",491.0,M27
+283,Now,Furnished,Males or females,Eccles (M30),None,3 months,['£115 pw'],"Stunning En-suite Bedroom, Eccles",Double room,[460],460.0,M30
+284,Now,Furnished,Males or females,Manchester City Centre (M4),None,3 months,['£650 pcm'],Cosy Dbl Bedroom+Massive Storage space/City Centre,Double room,[650],650.0,M4
+285,Now,Furnished,Males or females,Salford (M7),12 months,6 months,['£420 pcm'],Modern Room In Salford,Double room,[420],420.0,M7
+286,Now,Furnished,Males or females,Salford (M6),12 months,6 months,"['£395 pcm', '£425 pcm']",Spacious rooms available in HMO in Salford,2 doubles,"[395, 425]",410.0,M6
+287,01 Dec 2018,Furnished,Males or females,Salford (M6),12 months,6 months,['£425 pcm'],Large Bedroom in Salford,Double room,[425],425.0,M6
+288,Now,No info,Males or females,Manchester City Centre (M1),12 months,6 months,['£695 pcm'],Modern Room In The Heart Of The City,Double room,[695],695.0,M1
+289,Now,Furnished,Male preferred,Blackley (M9),None,None,['£550 pcm'],Furnished room available,Double room,[550],550.0,M9
+290,Now,Furnished,Males or females,Sale (M33),None,6 months,['£425 pcm'],Good sized Double Central Sale,Double room,[425],425.0,M33
+291,Now,Furnished,Males or females,Withington (M20),None,None,['£450 pcm'],New Large Room close to Christie,Double room,[450],450.0,M20
+292,13 Jan 2019,Furnished,Male preferred,Manchester City Centre (M4),None,6 months,['£825 pcm'],Room for rent - Royal Mills Ancoats,Double room,[825],825.0,M4
+293,Now,Furnished,Males or females,Salford (M5),None,2 months,"['£375 pcm', '£375 pcm', '£325 pcm', '£325 pcm', '£300 pcm']","Near Salford Quays, Salford Uni and Royal Hospital",2 singles + double,"[375, 375, 325, 325, 300]",340.0,M5
+294,23 Dec 2018,Furnished,Males or females,West Didsbury (M20),6 months,None,['£500 pcm'],Double Room West Didsbury  £500  Term,Double room,[500],500.0,M20
+295,Now,Furnished,Males or females,Manchester (M12),None,None,"['£70 pw', '£70 pw']",Double Rooms in Longsight (Plab),2 doubles,"[280, 280]",280.0,M12
+296,01 Jan 2019,Furnished,Males or females,Salford (M5),None,6 months,"['£570 pcm', '£560 pcm', '£570 pcm', '£570 pcm', '£510 pcm', '£540 pcm', '£540 pcm', '£540 pcm', '£510 pcm', '£530 pcm', '£570 pcm']","Unique - Modern - Social ""Friends"" Style Home",Double room,"[570, 560, 570, 570, 510, 540, 540, 540, 510, 530, 570]",546.3636363636364,M5
+297,08 Dec 2018,Furnished,Males or females,Salford (M6),None,6 months,"['£550 pcm', '£560 pcm', '£570 pcm', '£530 pcm', '£560 pcm', '£530 pcm', '£510 pcm', '£560 pcm', '£560 pcm', '£540 pcm', '£550 pcm']","Unique, Modern Home Looking for Someone Like You",Double room,"[550, 560, 570, 530, 560, 530, 510, 560, 560, 540, 550]",547.2727272727273,M6
+298,Now,No info,Males or females,Chorlton-cum-Hardy (M21),None,None,['£388 pcm'],Double Room in Chorlton,Double room,[388],388.0,M21
+299,Now,Furnished,Males or females,Salford (M7),None,6 months,['£440 pcm'],Lge furnished dble room friendly prof share,Double room,[440],440.0,M7
+300,Now,Furnished,Males or females,Manchester City Centre (M1),6 months,6 months,['£133 pw'],Spacious&Lovely Room-Student Flat-Rent paid Jan18,Double room,[532],532.0,M1
+301,Now,Furnished,Males or females,Audenshaw (M34),None,2 months,"['£500 pcm', '£500 pcm']",2 Large Double Bedroom Available Now For Rent,Double room,"[500, 500]",500.0,M34
+302,Now,Furnished,Males or females,Hulme (M15),None,6 months,"['£107 pw', '£105 pw', '£95 pw', '£112 pw']",Walking Distance to Uni & City Centre,Double room,"[428, 420, 380, 448]",419.0,M15
+303,Now,Furnished,Males or females,Hulme (M15),None,6 months,"['£120 pw', '£115 pw', '£120 pw', '£130 pw']",Newly renovated..Short walk to the City and Uni,Double room,"[480, 460, 480, 520]",485.0,M15
+304,Now,Furnished,Males or females,Salford (M6),None,3 months,"['£390 pcm', '£520 pcm', '£420 pcm', '£400 pcm', '£510 pcm', '£520 pcm']",Beautiful Rooms to Rent - Salford,Single + double,"[390, 520, 420, 400, 510, 520]",460.0,M6
+305,Now,Furnished,Males or females,Withington (M20),None,1 month,['£389 pcm'],Withington Co-operative Eco house,Double room,[389],389.0,M20
+306,15 Dec 2018,Furnished,Males or females,Hulme (M15),None,None,['£750 pcm'],Lovely  Double Ensuite in Manchester City Centre,Double room,[750],750.0,M15
+307,07 Dec 2018,Furnished,Males or females,Salford (M5),None,6 months,"['£439 pcm', '£449 pcm', '£479 pcm']",Media City and Salford Royal: Coming Soon!!,3 doubles,"[439, 449, 479]",455.6666666666667,M5
+308,07 Jan 2019,Furnished,Male preferred,Sale (M33),12 months,3 months,['£420 pcm'],Room for rent in shared house in Sale,Double room,[420],420.0,M33
+309,Now,Furnished,Female preferred,Fallowfield (M14),None,6 months,['£290 pcm'],Large Double Room To Let in Fallowfield,Double room,[290],290.0,M14
+310,Now,Furnished,Males or females,Manchester (M40),6 months,None,['£500 pcm'],Lovely Kingsize bedroom with private en-suite,Double room,[500],500.0,M40
+311,01 Dec 2018,Furnished,Males or females,Manchester (M14),None,6 months,['£450 pcm'],Walk to MRI & Uni- bright large double,Double room,[450],450.0,M14
+312,20 Dec 2018,Furnished,Males or females,Longsight (M13),None,3 months,['£500 pcm'],Large Double Room in Modern Show House,Double room,[500],500.0,M13
+313,Now,Furnished,Males or females,Denton (M34),None,6 months,"['£99 pw', '£99 pw']",New luxury house Share in Denton,Double room,"[396, 396]",396.0,M34
+314,11 Jan 2019,Furnished,Males or females,Chorlton (M21),None,1 month,['£400 pcm'],Huge Double central Chorlton incl. bills £490.00,Double room,[400],400.0,M21
+315,Now,Furnished,Males or females,Longsight (M13),None,3 months,['£300 pcm'],Bright room available in a 2-bed flatshare,Double room,[300],300.0,M13
+316,Now,Furnished,Males or females,Victoria Park (M14),10 months,8 months,"['£455 pcm', '£455 pcm', '£455 pcm', '£455 pcm', '£455 pcm', '£455 pcm', '£455 pcm', '£455 pcm']",Student rooms in a great house share  sept 1st,3 doubles,"[455, 455, 455, 455, 455, 455, 455, 455]",455.0,M14
+317,05 Dec 2018,Furnished,Males or females,Salford (M6),None,4 months,"['£400 pcm', '£400 pcm', '£400 pcm', '£400 pcm']",Big shared house for foreign students/young profs,4 doubles,"[400, 400, 400, 400]",400.0,M6
+318,Now,Furnished,Males or females,Manchester City Centre (M4),None,None,['£600 pcm'],Double Room to Rent - Green Quarter,Double room,[600],600.0,M4
+319,03 Jan 2019,Furnished,Female preferred,Didsbury (M20),None,6 months,['£475 pcm'],! Big double room in friendly house share !,Double room,[475],475.0,M20
+320,Now,Furnished,No info,Rusholme (M14),None,6 months,['£525 pcm (whole property)'],"1 Bed Flat Available, Denison Road, Manchester",1 bed flat,[525],525.0,M14
+321,06 Feb 2019,Furnished,Males or females,Eccles (M30),None,6 months,['£450 pcm'],JD Property present a wonderful room to let!,Double room,[450],450.0,M30
+322,Now,Furnished,Males or females,Fallowfield (M14),None,6 months,"['£280 pcm', '£325 pcm', '£325 pcm', '£325 pcm']","Single Room Available, Wilmslow road, Fallowfield",Single room,"[280, 325, 325, 325]",313.75,M14
+323,Now,Furnished,Males or females,Fallowfield (M14),6 months,6 months,"['£80 pw', '£80 pw', '£80 pw', '£80 pw']",Double Rooms in Central Fallowfield -All Bills Inc,3 doubles,"[320, 320, 320, 320]",320.0,M14
+324,Now,Furnished,Males or females,Eccles (M30),None,6 months,"['£350 pcm', '£365 pcm', '£400 pcm', '£345 pcm', '£250 pcm', '£350 pcm']",2 rooms available in spacious modern house share!,2 doubles,"[350, 365, 400, 345, 250, 350]",343.3333333333333,M30
+325,Now,Furnished,Males or females,Salford (M5),None,12 months,"['£412 pcm', '£412 pcm', '£412 pcm', '£412 pcm', '£412 pcm', '£412 pcm']",2 Rooms in Eccles New Rd Student House Share,2 doubles,"[412, 412, 412, 412, 412, 412]",412.0,M5
+326,01 Jul 2019,Furnished,Males or females,Fallowfield (M14),12 months,12 months,"['£70 pw', '£70 pw', '£70 pw']",Fallowfield student house 2019/2020!,3 doubles,"[280, 280, 280]",280.0,M14
+327,Now,Furnished,Males or females,Gorton (M18),None,1 month,['£100 pw'],All Bills inc - Double Room to Let in Gorton,Double room,[400],400.0,M18
+328,Now,Furnished,Males or females,Rusholme (M14),None,6 months,"['£440 pcm', '£440 pcm']",Perfectly located property to the University!,2 doubles,"[440, 440]",440.0,M14
+329,Now,Furnished,Males or females,Fairfield (M43),None,4 months,['£390 pcm'],Amazing room on top location,Double room,[390],390.0,M43
+330,Now,Furnished,Male preferred,Manchester City Centre (M1),None,8 months,['£125 pw'],MSV Mercury Plus Flat available now,Double room,[500],500.0,M1
+331,Now,Furnished,Males or females,Fallowfield (M14),None,6 months,"['£450 pcm', '£475 pcm', '£475 pcm', '£415 pcm', '£415 pcm', '£495 pcm']",Modern rooms to rent in newly renovated property!,2 singles + double,"[450, 475, 475, 415, 415, 495]",454.1666666666667,M14
+332,Now,Furnished,Males or females,Chorlton (M21),None,None,['£575 pcm'],Double bedroom in Chorlton,Double room,[575],575.0,M21
+333,Now,Furnished,Female preferred,Fallowfield (M14),None,None,['£90 pw'],Searching for a Friendly Female Room Mate,Double room,[360],360.0,M14
+334,Now,Furnished,Males or females,Denton (M34),None,3 months,"['£320 pcm', '£340 pcm']",Top Denton location - Below market price,2 doubles,"[320, 340]",330.0,M34
+335,Now,Furnished,Males or females,Manchester City Centre (M1),None,6 months,['£550 pcm'],Room For Rent - Chorlton Mill [Immediate],Double room,[550],550.0,M1
+336,Now,Furnished,Males or females,Manchester (M14),None,6 months,"['£86 pw', '£86 pw', '£91 pw']",Rooms in Fallowfield_shared house_Bills Inc,Double room,"[344, 344, 364]",350.6666666666667,M14
+337,Now,Furnished,Males or females,Chorlton-cum-Hardy (M21),None,3 months,['£455 pcm'],"No Agency Fees, Double Room Chorlton All Bills And",Double room,[455],455.0,M21
+338,28 Feb 2019,Furnished,Males or females,Whalley Range (M16),12 months,6 months,['£79 pw'],1 room to let in Montgomery House,Double room,[316],316.0,M16
+339,01 Dec 2018,Furnished,Males or females,Prestwich (M25),None,6 months,['£450 pcm'],Huge Double in 5* Houseshare - £0 Admin Fee,Double room,[450],450.0,M25
+340,Now,Furnished,Males or females,Alexandra  Park (M16),None,6 months,['£320 pcm'],"Student Room in Clean, Convenient Halls of Residen",Double room,[320],320.0,M16
+341,11 Dec 2018,Furnished,Males or females,Eccles (M30),None,3 months,['£115 pw'],"Wonderful En-suite Bedroom, Eccles",Double room,[460],460.0,M30
+342,02 Dec 2018,Furnished,Males or females,Manchester City Centre (M4),None,6 months,['£525 pcm'],Double Room with Council Tax Included City Centre,Double room,[525],525.0,M4
+343,01 Dec 2018,Furnished,Males or females,Hulme (M15),6 months,6 months,['£149 pw'],Parkway Gate Student accommodation all inclusive,Single room,[596],596.0,M15
+344,Now,Furnished,Males or females,Salford (M5),None,3 months,"['£355 pcm', '£350 pcm', '£370 pcm', '£370 pcm', '£350 pcm']",Ample Parking*** Video viewings possible,Double room,"[355, 350, 370, 370, 350]",359.0,M5
+345,Now,Furnished,Males or females,Manchester (M40),None,6 months,['£400 pcm'],Double room,Double room,[400],400.0,M40
+346,02 Dec 2018,Furnished,Males or females,Salford (M6),None,6 months,['£520 pcm'],Love Where You Live,Double room,[520],520.0,M6
+347,Now,Furnished,Males or females,Didsbury (M20),None,6 months,"['£500 pcm', '£500 pcm']",Large  Furnished Double Room  in  West Didsbury,2 doubles,"[500, 500]",500.0,M20
+348,01 Feb 2019,Furnished,No info,Salford (M3),None,6 months,['£670 pcm (whole property)'],Studio apartment with internet included,Studio flat,[670],670.0,M3
+349,03 Feb 2019,Furnished,Female preferred,Pendlebury (M27),None,6 months,['£500 pcm'],"Newly decorated  house, great location for Town!",Double room,[500],500.0,M27
+350,Now,Furnished,Males or females,Salford (M6),None,3 months,"['£410 pcm', '£390 pcm', '£370 pcm', '£350 pcm']","Newly refurbished room, close Salford centre",2 doubles,"[410, 390, 370, 350]",380.0,M6
+351,20 Feb 2019,Furnished,Males or females,Manchester City Centre (M3),None,None,"['£650 pcm', '£650 pcm']",2 Bedroom flat to rent in the city centre,2 doubles,"[650, 650]",650.0,M3
+352,Now,Furnished,Males or females,Victoria Park (M13),None,None,"['£550 pcm', '£550 pcm', '£550 pcm']",All Bills Double Bedr + Bath University/Mri,Double room,"[550, 550, 550]",550.0,M13
+353,18 Dec 2018,Furnished,Males or females,Broughton (M7),None,None,"['£90 pw', '£135 pw']",Fresh refurbished house close to city centre,Double room,"[360, 540]",450.0,M7
+354,18 Dec 2018,Furnished,Males or females,Hulme (M15),None,3 months,['£695 pcm'],Double Bedroom (For 1 Person) To Rent,Double room,[695],695.0,M15
+355,Now,Furnished,Males or females,Victoria Park (M13),None,10 months,"['£290 pcm', '£280 pcm']",2x double rooms  to let,2 doubles,"[290, 280]",285.0,M13
+356,Now,Furnished,Female preferred,Greenheys (M15),12 months,None,['£650 pcm'],Female Flat Mate Wanted,Double room,[650],650.0,M15
+357,Now,Furnished,Males or females,Sale (M33),None,None,['£395 pcm'],Cute 2-bed house in M33 area,Double room,[395],395.0,M33
+358,01 Dec 2018,Furnished,Males or females,Withington (M20),None,None,['£370 pcm'],Friendly Professionals looking for new flatmate,Double room,[370],370.0,M20
+359,Now,Furnished,Males or females,Fallowfield (M14),None,12 months,['£450 pcm'],A room in Fallowfield,Double room,[450],450.0,M14
+360,Now,Furnished,Males or females,Failsworth (M35),None,6 months,"['£420 pcm', '£420 pcm', '£350 pcm']",House Share Near Tram Station,Single room,"[420, 420, 350]",396.6666666666667,M35
+361,15 Dec 2018,Furnished,Males or females,Levenshulme (M19),None,6 months,['£395 pcm'],Fabulous fully refurb house close train/bus/A6,Double room,[395],395.0,M19
+362,Now,Furnished,Males or females,Victoria Park (M13),None,6 months,"['£400 pcm', '£400 pcm']",House share 2 rooms to let.,2 doubles,"[400, 400]",400.0,M13
+363,Now,Furnished,Male preferred,Wythenshawe (M22),None,None,"['£27 pw', '£27 pw']",Manchester airport Wythenshawe,2 doubles,"[108, 108]",108.0,M22
+364,Now,Furnished,Males or females,Levenshulme (M19),None,6 months,"['£250 pcm', '£350 pcm']",Friendly houseshare in Levenshulme,2 doubles,"[250, 350]",300.0,M19
+365,05 Dec 2018,Furnished,Males or females,Levenshulme (M19),None,None,['£230 pcm'],Room available in Levenshulme,Double room,[230],230.0,M19
+366,Now,No info,Males or females,Chorlton (M21),None,None,['£430 pcm'],Amazing house share in Chorlton,Double room,[430],430.0,M21
+367,Now,Furnished,Males or females,Openshaw (M11),None,None,['£65 pw'],Single Room,Single room,[260],260.0,M11
+368,Now,Furnished,Males or females,Manchester (M4),None,6 months,['£595 pcm'],Central M4 - 2 Bedroom Apartment. Including Bills,Double room,[595],595.0,M4
+369,24 Dec 2018,Furnished,Males or females,Salford (M5),None,6 months,['£325 pcm'],"Room available, close to city",Double room,[325],325.0,M5
+370,Now,Furnished,Male preferred,Haughton Green (M34),None,1 month,"['£340 pcm', '£380 pcm']","Bright, Furnished Room, inc bills.",Single room,"[340, 380]",360.0,M34
+371,01 Jan 2019,Furnished,Males or females,West Didsbury (M20),None,12 months,['£450 pcm'],En suite Bedroom in Modern Apartment,Double room,[450],450.0,M20
+372,01 Jan 2019,Part Furnished,No info,West Didsbury (M20),None,12 months,['Potential Buddy Ups'],2 Bed 2 Bath Modern Apartment - Good Condition,2 bed flat,[],,M20
+373,Now,Furnished,No info,Blackley (M9),None,6 months,['£950 pcm (whole property)'],A furnished and beautiful 4-5 bed house to let,4 bed house,[950],950.0,M9
+374,04 Jan 2019,Furnished,Female preferred,Didsbury Village (M20),None,6 months,"['£449 pcm', '£499 pcm']",Two Double Rooms in Didsbury Village,Double room,"[449, 499]",474.0,M20
+375,05 Dec 2018,Furnished,Male preferred,Whitefield (M45),None,None,"['£85 pw', '£85 pw']",Whitefield Fully Furnished Flat only £85 per week,2 doubles,"[340, 340]",340.0,M45
+376,01 Dec 2018,Furnished,Males or females,Hulme (M15),None,3 months,['£380 pcm'],Single Room - All bills included,Single room,[380],380.0,M15
+377,Now,Furnished,Males or females,Fallowfield (M14),None,6 months,['£109 pw'],Modern double room in a student house share.,Double room,[436],436.0,M14
+378,Now,No info,Males or females,Irlams O' Th' Height (M6),12 months,3 months,"['£200 pcm', '£300 pcm', '£250 pcm', '£300 pcm']",Cheap basic unfurnished rooms,3 doubles,"[200, 300, 250, 300]",262.5,M6
+379,Now,Furnished,Males or females,Salford (M6),None,6 months,['£120 pw'],En-suite Loft Room,Double room,[480],480.0,M6
+380,01 Dec 2018,Furnished,Males or females,Withington (M20),None,6 months,['£575 pcm'],Spacious well presented house share with garden,Double room,[575],575.0,M20
+381,Now,Furnished,No info,Hulme (M15),None,6 months,['Potential Buddy Ups'],3bed room house in hulm m15 5rh,3 bed house,[],,M15
+382,Now,Furnished,Males or females,Salford (M6),None,6 months,"['£100 pw', '£100 pw', '£100 pw', '£100 pw']",First Months Rent Half Price!,2 doubles,"[400, 400, 400, 400]",400.0,M6
+383,Now,Furnished,Males or females,Salford (M6),None,6 months,"['£390 pcm', '£390 pcm', '£390 pcm', '£390 pcm', '£390 pcm']",Salford|All Bills|Furnished,5 doubles,"[390, 390, 390, 390, 390]",390.0,M6
+384,Now,Furnished,Males or females,Salford (M5),None,6 months,"['£115 pw', '£115 pw', '£115 pw', '£115 pw']","STUNNING Houseshare @ Cemetery Road, Salford",3 doubles,"[460, 460, 460, 460]",460.0,M5
+385,Now,Furnished,Males or females,Fallowfield (M14),None,6 months,"['£395 pcm', '£400 pcm', '£400 pcm', '£400 pcm']",House Share | £92pw | Bills Included,2 doubles,"[395, 400, 400, 400]",398.75,M14
+386,Now,Furnished,Males or females,Salford (M5),None,6 months,"['£100 pw', '£100 pw', '£110 pw', '£100 pw', '£110 pw']",Gorgeous En-Suite Rooms|Salford,5 doubles,"[400, 400, 440, 400, 440]",416.0,M5
+387,Now,Furnished,Males or females,Salford (M5),None,None,"['£100 pw', '£100 pw', '£100 pw', '£100 pw']",Salford|All Bills|Furnished,4 doubles,"[400, 400, 400, 400]",400.0,M5
+388,Now,Furnished,Males or females,Salford (M6),None,6 months,"['£100 pw', '£100 pw', '£100 pw', '£100 pw']",Lydford Street,4 doubles,"[400, 400, 400, 400]",400.0,M6
+389,Now,Furnished,Males or females,Eccles (M30),None,6 months,"['£100 pw', '£90 pw', '£100 pw']",** Houseshare **  Eccles ** Double Rooms **,Double room,"[400, 360, 400]",386.6666666666667,M30
+390,Now,Furnished,Males or females,Eccles (M30),None,6 months,"['£385 pcm', '£450 pcm']","Newly refurbished, fully furnished house",2 doubles,"[385, 450]",417.5,M30
+391,Now,Furnished,Males or females,Salford (M6),None,6 months,"['£100 pw', '£100 pw', '£100 pw']",*House Share* *3 Bedrooms* * *Recently Refubished*,3 doubles,"[400, 400, 400]",400.0,M6
+392,Now,Furnished,Males or females,Salford (M6),None,6 months,"['£100 pw', '£100 pw', '£100 pw', '£100 pw']",*Available Now!* *House Share* *Fully Furnished* *,4 doubles,"[400, 400, 400, 400]",400.0,M6
+393,Now,Furnished,Males or females,Salford (M6),None,6 months,"['£110 pw', '£110 pw', '£110 pw', '£110 pw']",Salford|All Bills|Furnished,3 doubles,"[440, 440, 440, 440]",440.0,M6
+394,Now,Furnished,Males or females,Salford (M7),None,6 months,"['£100 pw', '£100 pw', '£100 pw']",Salford|All Bills Included,3 doubles,"[400, 400, 400]",400.0,M7
+395,Now,Furnished,Males or females,Salford (M6),None,None,"['£100 pw', '£100 pw', '£100 pw', '£100 pw']",£100pppw | Bills Included | Just Off Frederick Rd,4 doubles,"[400, 400, 400, 400]",400.0,M6
+396,Now,Furnished,Males or females,Broughton (M7),None,6 months,"['£85 pw', '£85 pw', '£85 pw', '£85 pw']",Exceedingly Good! 2x Dble Rooms - £85.00pppw,Double room,"[340, 340, 340, 340]",340.0,M7
+397,Now,Furnished,Males or females,Salford (M6),None,6 months,"['£110 pw', '£110 pw', '£110 pw', '£100 pw']",Salford|Modern|EN-SUITE|All Bills,4 doubles,"[440, 440, 440, 400]",430.0,M6
+398,Now,Furnished,Males or females,Withington (M20),6 months,3 months,"['£115 pw', '£115 pw']",2 rooms available in spacious 3 bedroom apartment,2 doubles,"[460, 460]",460.0,M20
+399,Now,Furnished,Males or females,Salford (M6),None,6 months,['£400 pcm'],Recently Renovated Double Room,Double room,[400],400.0,M6
+400,23 Dec 2018,Furnished,No info,Chorlton (M21),None,6 months,['£775 pcm (whole property)'],Large and lovely one bed flat close to everything!,1 bed flat,[775],775.0,M21
+401,Now,Furnished,Female preferred,Chorlton (M21),None,6 months,['£349 pcm'],Excellent Location - Double Room In Chorlton!!,Double room,[349],349.0,M21
+402,Now,Furnished,Males or females,Walkden (M28),None,6 months,['£450 pcm'],"Very large double, includes all bills",Double room,[450],450.0,M28
+403,Now,Furnished,Males or females,Failsworth (M35),None,None,"['£100 pw', '£100 pw']",Mr Garth Tickle,2 doubles,"[400, 400]",400.0,M35
+404,Now,No info,Males or females,Levenshulme (M19),None,None,"['£140 pw', '£210 pw', '£280 pw', '£98 pw']",Rooms Near Dr Swammy PLAB Academy,Single + 3 doubles,"[560, 840, 1120, 392]",728.0,M19
+405,Now,Furnished,Males or females,Salford (M7),12 months,3 months,['£350 pcm'],Nice decent room very quiet area easy access for t,Double room,[350],350.0,M7
+406,Now,Furnished,Males or females,Blackley (M9),None,None,['£400 pcm'],Brand new Double room to let,Double room,[400],400.0,M9
+407,Now,Furnished,Males or females,Eccles (M30),12 months,6 months,"['£525 pcm', '£525 pcm', '£525 pcm', '£525 pcm', '£525 pcm']",Luxury Beautiful En-Suite to Rent,5 doubles,"[525, 525, 525, 525, 525]",525.0,M30
+408,Now,Furnished,Males or females,Ardwick (M13),None,6 months,['£420 pcm'],Furnished double room in 3bed house Ardwick,Double room,[420],420.0,M13
+409,Now,Furnished,Males or females,Peel Green (M30),None,6 months,['£66 pw'],Room Eccles Close to Trafford Centre,Double room,[264],264.0,M30
+410,Now,Furnished,Males or females,Little Hulton (M38),None,6 months,"['£450 pcm', '£450 pcm', '£450 pcm', '£500 pcm']",High spec rooms in a desirable property,Double room,"[450, 450, 450, 500]",462.5,M38
+411,Now,Furnished,Males or females,Eccles (M30),24 months,6 months,"['£490 pcm', '£490 pcm', '£490 pcm', '£490 pcm', '£490 pcm']",Stunining Newly refurbished en suite rooms,3 doubles,"[490, 490, 490, 490, 490]",490.0,M30
+412,Now,Furnished,Males or females,Hulme (M15),15 months,4 months,['£400 pcm'],Double bedroom in Life Building,Double room,[400],400.0,M15
+413,11 Dec 2018,Furnished,Male preferred,Withington (M20),12 months,6 months,"['£400 pcm', '£420 pcm']",Double Room.,2 doubles,"[400, 420]",410.0,M20
+414,Now,Furnished,Males or females,Eccles (M30),None,None,['£399 pcm'],Mr Pulo,Double room,[399],399.0,M30
+415,01 Feb 2019,Furnished,Males or females,Manchester City Centre (M1),None,6 months,['£650 pcm'],Double Bedroom in a Luxury Building,Double room,[650],650.0,M1
+416,Now,Furnished,Male preferred,Moston (M40),None,None,['£317 pcm'],"Single Room, New Moston M40",Single room,[317],317.0,M40
+417,19 Dec 2018,Furnished,Males or females,Salford (M7),None,6 months,['£495 pcm'],Double En-suite Room Available,Double room,[495],495.0,M7
+418,01 Jan 2019,Furnished,Males or females,Levenshulme (M19),None,6 months,"['£390 pcm', '£390 pcm']",Two double rooms in spacious Levenshulme house,2 doubles,"[390, 390]",390.0,M19
+419,Now,No info,Males or females,Levenshulme (M19),None,6 months,"['£550 pcm', '£500 pcm']",Amazing newly converted live.work style warehouse,2 doubles,"[550, 500]",525.0,M19
+420,Now,Furnished,Males or females,Eccles (M30),None,6 months,"['£440 pcm', '£469 pcm', '£440 pcm']","Close to Monton, Eccles, Trafford Park",Double room,"[440, 469, 440]",449.6666666666667,M30
+421,12 Dec 2018,Furnished,Males or females,Urmston (M41),None,6 months,"['£490 pcm', '£479 pcm', '£520 pcm', '£445 pcm']",High Class Rooms in  Beautiful Period property,Double room,"[490, 479, 520, 445]",483.5,M41
+422,01 Dec 2018,Furnished,Males or females,Broughton (M7),None,6 months,"['£429 pcm', '£479 pcm', '£419 pcm']",Near Salford University & Salford Sports Village,Double room,"[429, 479, 419]",442.3333333333333,M7
+423,Now,Furnished,Males or females,Longsight (M12),12 months,6 months,"['£350 pcm', '£350 pcm', '£425 pcm']",Affordable Rooms in Longsight,3 doubles,"[350, 350, 425]",375.0,M12
+424,Now,Furnished,Males or females,Manchester City Centre (M4),None,None,['£850 pcm'],City living flat share  only short let 2-3months,Double room,[850],850.0,M4
+425,Now,Furnished,Males or females,Sale (M33),None,3 months,['£475 pcm'],"Large double - £475pm all bills incl - Sale, Mcr",Double room,[475],475.0,M33
+426,01 Dec 2018,Furnished,Males or females,Fallowfield (M14),None,2 months,"['£425 pcm', '£350 pcm', '£475 pcm', '£415 pcm', '£575 pcm', '£800 pcm']",6 Bed Victorian House Opposite Alexandra Park,Single + 5 doubles,"[425, 350, 475, 415, 575, 800]",506.6666666666667,M14
+427,Now,No info,Males or females,Manchester City Centre (M3),12 months,6 months,['£650 pcm'],Rooms Walking Distance to Manchester City Center,Double room,[650],650.0,M3
+428,Now,Unfurnished,No info,Droylsden (M43),None,6 months,['£550 pcm (whole property)'],2 Bed Flat In Droylsden,1 bed flat,[550],550.0,M43
+429,Now,Furnished,Males or females,Stretford (M32),None,None,"['£400 pcm', '£430 pcm']",3 Lovely Rooms Available - Cheap Deposit,2 doubles,"[400, 430]",415.0,M32
+430,10 Dec 2018,Furnished,Males or females,Salford (M5),None,6 months,['£450 pcm'],Modern double room for rent - Available 10th Dec,Double room,[450],450.0,M5
+431,Now,Furnished,Female preferred,Manchester (M13),None,None,['£600 pcm'],Rent Paid Until Jan â19. Everything Included.,Double room,[600],600.0,M13
+432,Now,Furnished,Males or females,Salford (M5),None,3 months,"['£325 pcm', '£325 pcm']",6 Bed Large attractive property in Salford,Double room,"[325, 325]",325.0,M5
+433,Now,Furnished,Males or females,Chorlton (M21),None,5 months,"['£370 pcm', '£380 pcm']",Chorlton top location - Low deposit,2 doubles,"[370, 380]",375.0,M21
+434,Now,Furnished,Males or females,Victoria Park (M13),None,1 month,"['£725 pcm', '£725 pcm', '£725 pcm', '£595 pcm', '£625 pcm', '£635 pcm', '£650 pcm', '£675 pcm', '£575 pcm', '£575 pcm']","Beautiful rooms in a ""boutique style"" property",10 doubles,"[725, 725, 725, 595, 625, 635, 650, 675, 575, 575]",650.5,M13
+435,Now,Furnished,Males or females,Withington (M20),None,6 months,['£500 pcm'],Huge 2 Bedrooms Available Now at This Mansion,Double room,[500],500.0,M20
+436,Now,Furnished,Males or females,Fallowfield (M14),None,9 months,['£425 pcm'],Room available Wilmslow road - From 10th Nov 2018,Double room,[425],425.0,M14
+437,Now,Furnished,Males or females,Ardwick (M12),None,8 months,"['£475 pcm', '£475 pcm']",Ensuite Room Available for Students & Professional,2 doubles,"[475, 475]",475.0,M12
+438,Now,Furnished,Males or females,West Didsbury (M20),6 months,1 month,['£430 pcm'],Short term flatmate Double room West Didsbury,Double room,[430],430.0,M20
+439,01 Jan 2019,Furnished,Male preferred,Salford (M6),None,3 months,['£400 pcm'],Double Room Available - Chimney Pot Park,Double room,[400],400.0,M6
+440,Now,Furnished,Males or females,Withington (M20),12 months,3 months,['£440 pcm'],Comfortable clean house in residential area.,Double room,[440],440.0,M20
+441,Now,Furnished,No info,Rusholme (M14),7 months,None,['Potential Buddy Ups'],3 bedroom house to let in Rusholme,3 bed house,[],,M14
+442,Now,Furnished,Males or females,Middleton (M24),None,6 months,"['£85 pw', '£80 pw', '£99 pw', '£125 pw']",Double Room in Professional House Share,Double room,"[340, 320, 396, 500]",389.0,M24
+443,Now,Furnished,Males or females,Salford (M5),None,6 months,"['£120 pw', '£450 pcm', '£475 pcm', '£375 pcm']",***Double EnSuite***,Double room,"[480, 450, 475, 375]",445.0,M5
+444,Now,Furnished,Female preferred,Baguley (M23),None,6 months,['£475 pcm'],Friendly household,Double room,[475],475.0,M23
+445,Now,Furnished,Male preferred,Stretford (M32),None,None,"['£400 pcm', '£400 pcm']",Double Rooms and single room,2 doubles,"[400, 400]",400.0,M32
+446,Now,Furnished,Males or females,Hulme (M15),None,None,['£330 pcm'],Cheap double room near city centre available now,Double room,[330],330.0,M15
+447,Now,Furnished,Female preferred,Salford (M6),None,3 months,"['£275 pcm', '£350 pcm']",Single room for rent to professional Female,Single + double,"[275, 350]",312.5,M6
+448,Now,Furnished,Males or females,Fallowfield (M14),None,None,['£437 pcm'],Double Large Room in Fallowfield,Double room,[437],437.0,M14
+449,Now,Furnished,Female preferred,Blackley (M9),36 months,6 months,['£390 pcm'],Single room to let with family mother and daughter,Single room,[390],390.0,M9
+450,01 Jan 2019,Furnished,Males or females,Irlams O' Th' Height (M6),None,3 months,['£395 pcm'],Good Sized Double Room,Double room,[395],395.0,M6
+451,01 Dec 2018,Furnished,Males or females,Denton (M34),None,6 months,"['£120 pw', '£120 pw', '£120 pw', '£120 pw', '£120 pw', '£120 pw', '£110 pw', '£120 pw']",Luxury modern brand new 8 Bedroom HMO,6 doubles,"[480, 480, 480, 480, 480, 480, 440, 480]",475.0,M34
+452,03 Dec 2018,Furnished,Males or females,Old Trafford (M16),None,1 month,['£500 pcm'],Large Double Room - short term,Double room,[500],500.0,M16
+453,Now,Furnished,Males or females,Hulme (M15),None,3 months,"['£500 pcm', '£500 pcm']",One double room available in prime location!,Double room,"[500, 500]",500.0,M15
+454,01 Dec 2018,Furnished,Males or females,Levenshulme (M19),None,6 months,"['£550 pcm', '£500 pcm']",warm Friendly home near park.in a great location,2 doubles,"[550, 500]",525.0,M19
+455,Now,Furnished,Males or females,Fallowfield (M14),8 months,8 months,['£520 pcm'],Albion Road,Double room,[520],520.0,M14
+456,17 Dec 2018,Furnished,Males or females,West Didsbury (M20),None,3 months,['£650 pcm'],Amazing master ensuite - beautiful house - no fees,Double room,[650],650.0,M20
+457,Now,Furnished,Males or females,Rusholme (M14),None,7 months,"['£95 pw', '£95 pw', '£93 pw', '£90 pw']",4 Double Bedrooms House in the Curry Mile,Double room,"[380, 380, 372, 360]",373.0,M14
+458,Now,Furnished,No info,Hulme (M15),None,4 months,"['£1,600 pcm (whole property)']",Brand New Modern House,3 bed house,[1600],1600.0,M15
+459,Now,No info,No info,Manchester City Centre (M1),None,4 months,"['£700 pcm', '£700 pcm']",2 Bedroom flat apartment in City Centre,2 doubles,"[700, 700]",700.0,M1
+460,01 Jan 2019,Furnished,Males or females,Whitefield (M45),None,6 months,"['£123 pw', '£125 pw', '£120 pw', '£115 pw']",Rooms in great shared house in Whitefield,Double room,"[492, 500, 480, 460]",483.0,M45
+461,02 Jan 2019,Furnished,Males or females,Salford (M7),None,6 months,['£400 pcm'],A double w/parkin manccc 12 mins 2 spinningfields,Double room,[400],400.0,M7
+462,Now,Furnished,Males or females,Victoria Park (M14),None,6 months,['£105 pw'],Big room in amazing house!,Double room,[420],420.0,M14
+463,13 Dec 2018,Furnished,Males or females,Manchester City Centre (M4),2 months,None,['£500 pcm'],Ensuite room available in Northern Quarter loft,Double room,[500],500.0,M4
+464,Now,Furnished,Males or females,Eccles (M30),None,6 months,"['£520 pcm', '£560 pcm', '£560 pcm', '£540 pcm', '£580 pcm']",Luxury Double Rooms with ensuites in house share,Double room,"[520, 560, 560, 540, 580]",552.0,M30
+465,Now,Furnished,Males or females,Salford (M7),None,3 months,['£380 pcm'],One room is available in two bed room flat,Double room,[380],380.0,M7
+466,Now,Furnished,Males or females,Victoria Park (M13),None,6 months,['£325 pcm'],One Double Rooms available 01/09 4 bed apartment,Double room,[325],325.0,M13
+467,Now,Furnished,Males or females,Victoria Park (M13),None,6 months,['£325 pcm'],One double room in a 3 bed terrace on Welby Street,Double room,[325],325.0,M13
+468,Now,Part Furnished,No info,Victoria Park (M13),None,6 months,['£600 pcm (whole property)'],Modern One Bed Apartment part furnished,1 bed flat,[600],600.0,M13
+469,Now,Furnished,Males or females,Longsight (M12),None,None,['£346 pcm'],Room To Rent,Double room,[346],346.0,M12
+470,Now,Furnished,Males or females,Levenshulme (M13),None,4 months,"['£465 pcm', '£470 pcm']",Look Here!!!Ensuite Rooms Close to Centre!!! :),2 doubles,"[465, 470]",467.5,M13
+471,Now,Furnished,Males or females,Manchester (M11),None,1 month,['£350 pcm'],Rooms  Available for Rent,Double room,[350],350.0,M11
+472,Now,Furnished,Males or females,Eccles (M30),None,9 months,['£485 pcm'],"""High End "" Double Room, All inc  £485!",Double room,[485],485.0,M30
+473,Now,Furnished,Males or females,Chorlton (M21),None,12 months,['£308 pcm'],Room available in Chorlton houseshare,Double room,[308],308.0,M21
+474,Now,Furnished,Males or females,Manchester City Centre (M4),None,None,"['£519 pcm', '£499 pcm']",City Centre New Islington Northern Quarter,2 doubles,"[519, 499]",509.0,M4
+475,Now,Furnished,Males or females,Whitefield (M45),12 months,6 months,"['£420 pcm', '£370 pcm']",Bright Single & Double Bedroom,Single + double,"[420, 370]",395.0,M45
+476,Now,Furnished,Males or females,Manchester City Centre (M4),None,None,['£549 pcm'],Lux Large Double 10 mins from Piccadilly,Double room,[549],549.0,M4
+477,Now,Furnished,Males or females,Didsbury (M20),None,None,"['£469 pcm', '£349 pcm']",Double room and Single in West Didsbury,Single + double,"[469, 349]",409.0,M20
+478,Now,Furnished,Males or females,West Didsbury (M20),None,None,"['£479 pcm', '£499 pcm']",Large Double Room in Prof Share in West Didsbury,2 doubles,"[479, 499]",489.0,M20
+479,Now,Furnished,Males or females,West Didsbury (M20),None,None,['£349 pcm'],New Home in West Didsbury,Single room,[349],349.0,M20
+480,Now,Furnished,Males or females,Eccles (M30),None,6 months,['£474 pcm'],Beautiful Room in Great House with NO DEPOSIT,Double room,[474],474.0,M30
+481,03 Dec 2018,Furnished,Males or females,Manchester City Centre (M3),None,6 months,"['£850 pcm', '£800 pcm', '£800 pcm']",Brand New Manchester City Centre 3 Bed Town House,3 doubles,"[850, 800, 800]",816.6666666666666,M3
+482,Now,Furnished,Female preferred,Hulme (M15),None,10 months,['£520 pcm'],"Double Room, Great Flat Hulme, All Inclusive.",Double room,[520],520.0,M15
+483,Now,Furnished,No info,Victoria Park (M14),None,None,['£180 pw (whole property)'],Spacious 1Bed from 1St December,1 bed flat,[720],720.0,M14
+484,01 Dec 2018,Furnished,Males or females,Victoria Park (M13),12 months,6 months,['£350 pcm'],1 Bedroom in Newly Refublish House Available,Double room,[350],350.0,M13
+485,Now,Furnished,Males or females,Failsworth (M35),None,None,"['£120 pw', '£120 pw', '£120 pw', '£110 pw', '£120 pw', '£115 pw', '£115 pw']",Amazing Professional House Share,2 doubles,"[480, 480, 480, 440, 480, 460, 460]",468.57142857142856,M35
+486,01 Dec 2018,Furnished,Males or females,Fallowfield (M14),None,5 months,['£400 pcm'],Amazing deal - Low deposit,Double room,[400],400.0,M14
+487,Now,Furnished,Female preferred,Rusholme (M14),12 months,1 month,"['£125 pw', '£125 pw']",Two large rooms in beautiful Edwardian townhouse,2 doubles,"[500, 500]",500.0,M14
+488,Now,Furnished,Males or females,Whalley Range (M16),None,None,"['£380 pcm', '£380 pcm', '£390 pcm']",Hotel Style Accommodation - Low Deposit,3 doubles,"[380, 380, 390]",383.3333333333333,M16
+489,Now,Furnished,Males or females,Rusholme (M14),7 months,6 months,['£500 pcm'],Property has just been fully refurbished,Double room,[500],500.0,M14
+490,01 Dec 2018,Furnished,Males or females,Wythenshawe (M22),None,6 months,['£400 pcm'],Manchester Airport Double Room Modern Apartment,Double room,[400],400.0,M22
+491,Now,Furnished,No info,Salford (M3),None,6 months,['£595 pcm (whole property)'],X1 Town Hall - Studio Apartment to Rent!,Studio flat,[595],595.0,M3
+492,Now,Furnished,No info,Salford (M3),None,6 months,['£745 pcm (whole property)'],X1 Town Hall - One Bedroom Property to Rent!,1 bed flat,[745],745.0,M3
+493,28 Dec 2018,Furnished,Female preferred,Didsbury (M20),3 months,None,['£300 pcm'],Burnage short term let,Double room,[300],300.0,M20
+494,Now,Furnished,Males or females,Manchester City Centre (M3),None,6 months,['£525 pcm'],Available Now !! Double Bedroom/ Manchester City,Double room,[525],525.0,M3
+495,12 Jan 2019,Furnished,Males or females,Urmston (M41),36 months,1 month,"['£75 pw', '£75 pw']",Large house in Urmston town centre,2 doubles,"[300, 300]",300.0,M41
+496,Now,Furnished,Males or females,Manchester (M13),None,None,['£114 pw'],Spacious Double Room- very close to Uni campus,Double room,[456],456.0,M13
+497,Now,Furnished,Males or females,Salford (M7),None,None,"['£330 pcm', '£380 pcm']",Single and Double Rooms For Rent,Single + double,"[330, 380]",355.0,M7
+498,Now,Furnished,Males or females,Salford (M5),36 months,6 months,['£345 pcm'],6 bedroom house share in Salford * 1 Rooms Avail *,Double room,[345],345.0,M5
+499,02 Dec 2018,Furnished,Males or females,Manchester City Centre (M4),None,6 months,['£525 pcm'],One Bedroom in Two Bed Flat Share/ City Center,Double room,[525],525.0,M4
+500,26 Jan 2019,Furnished,Males or females,Droylsden (M43),None,None,['£500 pcm'],Whole new build next to tram stop,Double room,[500],500.0,M43
+501,03 Dec 2018,Furnished,Males or females,Manchester City Centre (M4),12 months,3 months,['£800 pcm'],"Bright, modern NQ flat share",Double room,[800],800.0,M4
+502,Now,Furnished,Males or females,Rusholme (M14),None,None,['£99 pw'],***£99 a week***M14 7PT***MOVE IN ASAP***,Double room,[396],396.0,M14
+503,Now,Furnished,Males or females,Withington (M20),None,None,"['£110 pw', '£110 pw', '£110 pw', '£95 pw', '£110 pw', '£110 pw', '£110 pw', '£110 pw', '£110 pw', '£110 pw', '£110 pw', '£110 pw']",Amasing Student/Professional Home Not to Be Missed,12 doubles,"[440, 440, 440, 380, 440, 440, 440, 440, 440, 440, 440, 440]",435.0,M20
+504,13 Dec 2018,No info,Males or females,Manchester City Centre (M3),None,6 months,['£620 pcm'],Split level  large double room in huge warehouse.,Double room,[620],620.0,M3
+505,Now,Furnished,No info,Longsight (M13),None,6 months,['Potential Buddy Ups'],Two Bedroom Flat is available,2 bed flat,[],,M13
+506,Now,Furnished,Males or females,Stretford (M32),None,None,['£340 pcm'],4 Bed Flat close to Trafford Centre,Double room,[340],340.0,M32
+507,Now,Furnished,Males or females,Fallowfield (M14),None,6 months,"['£395 pcm', '£350 pcm', '£395 pcm', '£450 pcm']",Completely Refurbished House Share -Bills Included,Double room,"[395, 350, 395, 450]",397.5,M14
+508,Now,Furnished,No info,Victoria Park (M14),4 months,3 months,['£650 pcm (whole property)'],1 bed flat Victoria park for short-term let,1 bed flat,[650],650.0,M14
+509,01 Jan 2019,Furnished,Males or females,Stretford (M32),None,3 months,['£425 pcm'],Comfortable double room to rent in a homely terrac,Double room,[425],425.0,M32
+510,01 Dec 2018,Furnished,Males or females,Fallowfield (M14),None,6 months,['£330 pcm'],"Single room in quiet house, all bills inc",Single room,[330],330.0,M14
+511,Now,Furnished,Males or females,Manchester City Centre (M3),24 months,1 month,['£550 pcm'],"Double room, with own bathroon.",Double room,[550],550.0,M3
+512,01 Dec 2018,Furnished,Males or females,Chorlton (M21),None,6 months,['£450 pcm'],Double room in fully furnished house share,Double room,[450],450.0,M21
+513,Now,Furnished,Males or females,Withington (M20),None,12 months,"['£330 pcm', '£330 pcm', '£330 pcm']",Lovely three bed house in great location,3 doubles,"[330, 330, 330]",330.0,M20
+514,Now,Furnished,Male preferred,Ancoats (M4),3 months,1 month,['£650 pcm'],Double Room & Own Bathroom,Double room,[650],650.0,M4
+515,01 Dec 2018,Furnished,Males or females,Victoria Park (M14),None,3 months,"['£115 pw', '£99 pw', '£93 pw', '£99 pw', '£115 pw', '£85 pw']",6 Bedroom Student House Victoria Park,Double room,"[460, 396, 372, 396, 460, 340]",404.0,M14
+516,Now,Furnished,Males or females,Rusholme (M14),None,3 months,"['£400 pcm', '£93 pw', '£380 pcm', '£400 pcm', '£425 pcm', '£450 pcm']",6 Double Bedrooms **Ideal Location for Uni,Double room,"[400, 372, 380, 400, 425, 450]",404.5,M14
+517,Now,Furnished,Female preferred,Sale (M33),None,3 months,['£500 pcm'],Peaceful Double Bedroom in the heart of Sale,Double room,[500],500.0,M33
+518,15 Mar 2019,Furnished,No info,Manchester (M13),None,3 months,['£695 pcm (whole property)'],Stunning studio + friendly communal spaces,1 bed flat,[695],695.0,M13
+519,Now,Furnished,Male preferred,Radcliffe (M26),None,6 months,"['£99 pw', '£110 pw', '£110 pw', '£99 pw', '£99 pw']",En-Suite Double Room,Double room,"[396, 440, 440, 396, 396]",413.6,M26
+520,Now,Furnished,Males or females,Manchester City Centre (M4),None,3 months,['£550 pcm'],"Central, Monday to Friday, bedroom and bathroom",Double room,[550],550.0,M4
+521,02 Dec 2018,Furnished,Female preferred,Rusholme (M14),None,None,['£395 pcm'],*Medium Sized Double by Platt Fields*,Double room,[395],395.0,M14
+522,Now,No info,Males or females,Eccles (M30),None,6 months,"['£360 pcm', '£425 pcm', '£500 pcm', '£360 pcm', '£300 pcm']",House Share in Monton,Double room,"[360, 425, 500, 360, 300]",389.0,M30
+523,10 Dec 2018,Furnished,Males or females,Moss Side (M16),None,None,"['£425 pcm', '£410 pcm', '£425 pcm', '£425 pcm', '£400 pcm', '£390 pcm']",Double/single bedrooms in shared accommodation,Single + 2 doubles,"[425, 410, 425, 425, 400, 390]",412.5,M16
+524,Now,Furnished,Males or females,Manchester City Centre (M1),36 months,6 months,['£775 pcm'],Flat share MAN City Centre M1 live out landlord,Double room,[775],775.0,M1
+525,Now,Furnished,Males or females,Salford (M5),None,6 months,['£400 pcm'],Large House.Close city centre. £400 inclusive,Double room,[400],400.0,M5
+526,30 Dec 2018,Furnished,Males or females,Gorton (M18),None,6 months,['£100 pw'],Large Double Room in Shared House,Double room,[400],400.0,M18
+527,01 Feb 2019,Furnished,Males or females,Manchester (M3),None,3 months,"['£550 pcm', '£575 pcm', '£575 pcm', '£625 pcm', '£625 pcm', '£550 pcm', '£575 pcm', '£575 pcm', '£625 pcm', '£625 pcm']",Beautiful rooms 10mn from City Centre,10 doubles,"[550, 575, 575, 625, 625, 550, 575, 575, 625, 625]",590.0,M3
+528,Now,Furnished,Males or females,Burnage (M19),9 months,6 months,"['£380 pcm', '£360 pcm', '£380 pcm', '£395 pcm']",Double Rooms Available,4 doubles,"[380, 360, 380, 395]",378.75,M19
+529,Now,Furnished,Males or females,Wythenshawe (M23),None,1 month,"['£550 pcm', '£475 pcm', '£500 pcm']","Bright and cosy double room close to airport,trams",Double room,"[550, 475, 500]",508.3333333333333,M23
+530,07 Jan 2019,Furnished,Males or females,Levenshulme (M19),None,6 months,['£550 pcm'],V large double room,Double room,[550],550.0,M19
+531,02 Dec 2018,Furnished,Female preferred,Manchester City Centre (M4),None,1 month,['£500 pcm'],Room For rent Near Manchester City center,Single room,[500],500.0,M4
+532,Now,Furnished,Males or females,Manchester (M1),None,None,['£700 pcm'],Luxurious Penthouse Apartment in MCR City Center,Double room,[700],700.0,M1
+533,Now,Furnished,No info,Manchester City Centre (M1),24 months,6 months,['£800 pcm (whole property)'],Studio Apt in the heart of MCR,1 bed flat,[800],800.0,M1
+534,Now,No info,Males or females,Winton (M30),None,None,['£399 pcm'],"Eccles Monton area, Double Room All Bills Included",Double room,[399],399.0,M30
+535,Now,Furnished,Males or females,Manchester (M14),12 months,6 months,['£370 pcm'],1 double bed room,Double room,[370],370.0,M14
+536,17 Dec 2018,No info,Males or females,Tyldesley (M29),None,None,['£370 pcm'],Room to rent in spacious modern property,Double room,[370],370.0,M29
+537,Now,Furnished,Males or females,Levenshulme (M19),3 months,None,['£126 pw'],"Dr Swamy PLAB centre, Ideal Doctors accommodation",Double room,[504],504.0,M19
+538,Now,Furnished,Males or females,Levenshulme (M19),2 months,1 month,['£196 pw'],Luxury En-Suite Double Bedroom,Double room,[784],784.0,M19
+539,Now,Furnished,Males or females,Levenshulme (M19),None,None,['£140 pw'],Immaculate 4 En-Suite Bedrooms Next to Swamy,Double room,[560],560.0,M19
+540,Now,Furnished,Males or females,Salford (M7),7 months,3 months,['£105 pw'],Immaculate 4-Bedroom Accommodation - 2 En-suite,Double room,[420],420.0,M7
+541,16 Dec 2018,Furnished,Males or females,Salford (M5),None,3 months,['£450 pcm'],Freshly Renovated House in Salford,Double room,[450],450.0,M5
+542,Now,Furnished,Males or females,Chorlton (M21),12 months,1 month,['£750 pcm'],Modern Flat in Chorlton,Double room,[750],750.0,M21
+543,01 Dec 2018,Furnished,Males or females,Manchester (M13),None,None,['£415 pcm'],Double Bedroom With All Bills Included,Double room,[415],415.0,M13
+544,Now,Furnished,Males or females,Manchester City Centre (M1),None,6 months,['£590 pcm'],Room in city centre available,Double room,[590],590.0,M1
+545,Now,Furnished,Males or females,Radcliffe (M26),None,None,['£350 pcm'],"Double room in radcliffe, bury easy acces to towns",Double room,[350],350.0,M26
+546,Now,Furnished,Males or females,Swinton (M27),None,6 months,"['£104 pw', '£93 pw', '£75 pw']",Rooms in houseshare near Swinton Stn,Single room,"[416, 372, 300]",362.6666666666667,M27
+547,Now,Furnished,Males or females,Salford (M7),None,3 months,['£115 pw'],Fantastic en-suit double room in Duncan street,Double room,[460],460.0,M7
+548,01 Dec 2018,Furnished,Males or females,Manchester City Centre (M1),None,9 months,['£289 pw'],Studio at Vita Student Circle Square Building 11,Double room,[1156],1156.0,M1
+549,Now,Furnished,Males or females,Fallowfield (M14),None,6 months,"['£375 pcm', '£390 pcm', '£390 pcm', '£290 pcm']",4  Rooms/ Great Location inc. C-Tax+ Wifi,Single + 3 doubles,"[375, 390, 390, 290]",361.25,M14
+550,05 Dec 2018,Furnished,Female preferred,Chorlton (M21),None,6 months,['£99 pw'],Double Room in Central Chorlton Houseshare,Double room,[396],396.0,M21
+551,Now,Furnished,Males or females,Withington (M20),None,6 months,['£99 pw'],Double Househare Room in Withington,Double room,[396],396.0,M20
+552,06 Dec 2018,Furnished,Males or females,Withington (M20),None,6 months,['£70 pw'],Inexpensive Double Houseshare Room - Withington,Double room,[280],280.0,M20
+553,Now,Furnished,Males or females,Fallowfield (M14),12 months,6 months,"['£375 pcm', '£375 pcm']","Large room in shared house, popular location",2 doubles,"[375, 375]",375.0,M14
+554,31 Dec 2018,Furnished,Males or females,Rusholme (M14),None,None,"['£430 pcm', '£412 pcm', '£450 pcm', '£420 pcm', '£400 pcm', '£420 pcm']",Zero Fee £0 All bills included and wifi :) M14,2 doubles,"[430, 412, 450, 420, 400, 420]",422.0,M14
+555,24 Dec 2018,Furnished,Males or females,Victoria Park (M14),None,None,"['£430 pcm', '£430 pcm', '£430 pcm', '£412 pcm', '£430 pcm', '£420 pcm']",âï¸£0Fee University fr£400pcm Victoria Park,Double room,"[430, 430, 430, 412, 430, 420]",425.3333333333333,M14
+556,14 Dec 2018,Furnished,Males or females,Rusholme (M14),None,6 months,"['£450 pcm', '£450 pcm', '£450 pcm', '£430 pcm', '£430 pcm', '£430 pcm']",£0 Fee All bills included ACOM150,2 doubles,"[450, 450, 450, 430, 430, 430]",440.0,M14
+557,Now,Furnished,Males or females,Salford (M6),None,None,"['£105 pw', '£95 pw']","Salford high-end houseshare, tasteful decor",2 doubles,"[420, 380]",400.0,M6
+558,Now,Furnished,Female preferred,Wythenshawe (M23),None,None,['£500 pcm'],Double room Apartment (Airport/southmanchester),Double room,[500],500.0,M23
+559,Now,Furnished,Males or females,Salford (M6),None,10 months,"['£90 pw', '£90 pw', '£90 pw', '£80 pw', '£85 pw', '£85 pw']","Salford student house for 6, great location+value",2 doubles,"[360, 360, 360, 320, 340, 340]",346.6666666666667,M6
+560,Now,Furnished,Female preferred,Rusholme (M14),None,8 months,"['£410 pcm', '£400 pcm']",2 X Double Bedrooms to Rent - Female Only House,2 doubles,"[410, 400]",405.0,M14
+561,Now,Furnished,Males or females,Fallowfield (M14),None,6 months,['£375 pcm'],Large Double Room in Friendly House Bills included,Double room,[375],375.0,M14
+562,Now,Furnished,Males or females,Salford - Charlestown (M6),None,None,"['£88 pw', '£88 pw', '£88 pw', '£88 pw', '£88 pw']",NEW shared apartments in Salford for 18-25 yr olds,5 doubles,"[352, 352, 352, 352, 352]",352.0,M6
+563,Now,Furnished,Males or females,Victoria Park (M14),11 months,9 months,"['£377 pcm', '£364 pcm']","Post Graduates invited, science based ideally.",2 doubles,"[377, 364]",370.5,M14
+564,Now,Furnished,Males or females,Rusholme (M14),None,6 months,"['£500 pcm', '£350 pcm']",Double Room   En suite,Double room,"[500, 350]",425.0,M14
+565,Now,Furnished,Males or females,Salford (M7),None,12 months,"['£540 pcm', '£500 pcm', '£370 pcm']","15 Min From City, Refurbished & No Deposit Needed",Single + 2 doubles,"[540, 500, 370]",470.0,M7
+566,22 Dec 2018,No info,Males or females,Salford (M5),None,None,['£430 pcm'],Double room - XQ7 Apartments,Double room,[430],430.0,M5
+567,Now,Furnished,Males or females,Sale (M33),None,None,['£400 pcm'],Double room furnished with washbasin,Double room,[400],400.0,M33
+568,Now,Furnished,Males or females,Atherton (M46),None,4 months,['£86 pw'],Atherton Houseshare- rooms available,Single room,[344],344.0,M46
+569,Now,Furnished,Males or females,Manchester (M9),24 months,12 months,['£350 pcm'],Double Room to Let No Fees Small Deposit,Double room,[350],350.0,M9
+570,Now,Furnished,Males or females,Manchester (M14),12 months,3 months,['£450 pcm'],Rooms to rent,Double room,[450],450.0,M14
+571,01 Dec 2018,Furnished,Male preferred,Manchester City Centre (M3),None,12 months,['£680 pcm'],Luxury double bedroom Great Northern,Double room,[680],680.0,M3
+572,14 Dec 2018,Furnished,Males or females,Hulme (M15),None,6 months,['£309 pcm'],Cosy house in Hulme,Double room,[309],309.0,M15
+573,01 Dec 2018,Furnished,Males or females,Manchester City Centre (M1),None,6 months,['£600 pcm'],Central double with own bathroom,Double room,[600],600.0,M1
+574,Now,Furnished,No info,Fallowfield (M14),None,None,['Potential Buddy Ups'],1 Double Room Available in a Huge House,6 bed house,[],,M14
+575,Now,Furnished,Males or females,Withington (M20),7 months,6 months,"['£300 pcm', '£300 pcm', '£300 pcm', '£300 pcm']",Spacious House Share Available,4 doubles,"[300, 300, 300, 300]",300.0,M20
+576,01 Sep 2019,Furnished,No info,Salford (M6),None,6 months,['£163 pw (whole property)'],X1 The Campus - Academic year of 2019-2020!,Studio flat,[652],652.0,M6
+577,Now,Furnished,Males or females,Sale (M33),12 months,3 months,['£425 pcm'],"Large double room, close to Metro and canal",Double room,[425],425.0,M33
+578,Now,Furnished,No info,Burnage (M19),None,8 months,['£974 pcm (whole property)'],Spacious 4 x Dbl Bedroom Terrace For Rent,4 bed house,[974],974.0,M19
+579,Now,Furnished,Males or females,Rusholme (M14),12 months,12 months,['£460 pcm'],1 bed appartment in Rusholme,Double room,[460],460.0,M14
+580,Now,Furnished,Males or females,Chorlton (M21),None,6 months,['£475 pcm'],One Room Left in House Share in Chorlton,Double room,[475],475.0,M21
+581,Now,Furnished,Males or females,Fallowfield (M14),8 months,8 months,"['£450 pcm', '£450 pcm', '£450 pcm']","3 Rooms Available on Landcross Road, Fallowfield",3 doubles,"[450, 450, 450]",450.0,M14
+582,Now,Furnished,Males or females,Victoria Park (M14),9 months,6 months,"['£377 pcm', '£363 pcm']",2 rooms to rent in a 5 bedroom property,2 doubles,"[377, 363]",370.0,M14
+583,01 Dec 2018,Furnished,Males or females,Fallowfield (M14),7 months,7 months,['£320 pcm'],"Fully furnished, double Room for rent",Double room,[320],320.0,M14
+584,Now,Furnished,Males or females,Old Trafford (M16),None,None,"['£400 pcm', '£375 pcm']",Nice room!! gotta see it...,2 doubles,"[400, 375]",387.5,M16
+585,Now,Furnished,Males or females,Wythenshawe (M22),None,1 month,['£125 pw'],Airport Large Ensuit Room,Double room,[500],500.0,M22
+586,Now,Furnished,Males or females,Wythenshawe (M22),None,1 month,['£100 pw'],Airport Comfort Convenience Move in Now,Double room,[400],400.0,M22
+587,Now,Furnished,Males or females,Droylsden (M43),None,None,"['£99 pw', '£99 pw', '£99 pw', '£99 pw']",Beautiful House Share,4 doubles,"[396, 396, 396, 396]",396.0,M43
+588,Now,Furnished,Female preferred,Prestwich (M25),None,6 months,['£450 pcm'],Lovely Newly Renovated Home. Large Double Room,Double room,[450],450.0,M25
+589,10 Dec 2018,Furnished,Males or females,Tyldesley (M29),None,None,['£400 pcm'],"Live in Landlord,Large well furnished Double Room.",Double room,[400],400.0,M29
+590,Now,Furnished,Males or females,West Didsbury (M20),12 months,6 months,['£380 pcm'],West Didsbury large house great location,Double room,[380],380.0,M20
+591,Now,Furnished,Female preferred,Higher Blackley (M9),None,3 months,"['£400 pcm', '£325 pcm', '£350 pcm', '£400 pcm', '£600 pcm']","Five Bed House to Rent in, Moston, Manchester",3 doubles,"[400, 325, 350, 400, 600]",415.0,M9
+592,Now,Furnished,No info,Salford (M6),12 months,12 months,['Potential Buddy Ups'],Amazing 4 Bed Student House 2 Mins from Campus,4 bed house,[],,M6
+593,Now,Furnished,Males or females,Stretford (M32),None,3 months,['£420 pcm'],Spacious double room in Trafford!!!,Double room,[420],420.0,M32
+594,01 Aug 2019,Furnished,No info,Rusholme (M14),24 months,11 months,['Potential Buddy Ups'],Student House 2019,6 bed house,[],,M14
+595,Now,Furnished,Males or females,Fallowfield (M14),8 months,4 months,['£350 pcm'],1 Room LEFT on Furness Road,Double room,[350],350.0,M14
+596,01 Dec 2018,Furnished,Males or females,Droylsden (M43),None,6 months,"['£375 pcm', '£375 pcm']",House share Droylsden,Single + double,"[375, 375]",375.0,M43
+597,06 Dec 2018,Furnished,Male preferred,Blackley (M9),None,None,['£375 pcm'],Hve good sized single room in large garden flat to,Single room,[375],375.0,M9
+598,08 Dec 2018,Furnished,Males or females,Sale (M33),None,6 months,"['£425 pcm', '£425 pcm']","Two bedroom mid-terrace property Sale, M33 7UA",Single + double,"[425, 425]",425.0,M33
+599,Now,Furnished,Males or females,West Gorton (M12),None,None,['£120 pw'],Mis riri gambi,Double room,[480],480.0,M12
+600,27 Dec 2018,Furnished,Males or females,Wythenshawe (M23),None,None,['£400 pcm'],Furnished Double Room in lovely welcoming house.,Double room,[400],400.0,M23
+601,Now,Furnished,Males or females,Levenshulme (M19),None,3 months,['£400 pcm'],Monday to Friday Double Room available,Double room,[400],400.0,M19
+602,Now,Furnished,Males or females,Rusholme (M14),None,6 months,"['£81 pw', '£81 pw', '£92 pw', '£98 pw', '£98 pw']",Very Nice shared house/ Rusholme / All Bills Inc,Double room,"[324, 324, 368, 392, 392]",360.0,M14
+603,Now,Furnished,Female preferred,Manchester City Centre (M3),9 months,9 months,['£550 pcm'],Double bedroom city centre flat with balcony,Double room,[550],550.0,M3
+604,Now,Furnished,Males or females,Moss Side (M16),None,3 months,"['£275 pcm', '£300 pcm']",2 Bedrooms available in M16,2 doubles,"[275, 300]",287.5,M16
+605,Now,Furnished,Males or females,Rusholme (M14),None,3 months,"['£400 pcm', '£83 pw', '£360 pcm', '£83 pw', '£360 pcm', '£85 pw']",14 Ba * 6 Double Bedrooms * Ideal Location for Uni,Double room,"[400, 332, 360, 332, 360, 340]",354.0,M14
+606,Now,Furnished,Males or females,Rusholme (M14),None,7 months,"['£450 pcm', '£425 pcm', '£425 pcm', '£450 pcm']",Amazing 4 Bedroom House -  Moss Lane East,3 doubles,"[450, 425, 425, 450]",437.5,M14
+607,01 Dec 2018,Furnished,Males or females,Victoria Park (M14),None,3 months,"['£93 pw', '£93 pw', '£95 pw', '£95 pw', '£350 pcm']",5 Bedroom House Victoria Park Close to Uni,2 doubles,"[372, 372, 380, 380, 350]",370.8,M14
+608,Now,Furnished,Males or females,Manchester (M14),None,6 months,"['£92 pw', '£98 pw', '£103 pw']",One En-suite is Available  in a three bed house,Double room,"[368, 392, 412]",390.6666666666667,M14
+609,Now,Furnished,Males or females,Fallowfield (M14),9 months,9 months,['£455 pcm'],Wonderful 5 Huge Bedrooms,Double room,[455],455.0,M14
+610,Now,Furnished,Males or females,Gorton (M18),None,3 months,"['£80 pw', '£370 pcm', '£75 pw']",double room near city centre Gorton  M187DE,Single room,"[320, 370, 300]",330.0,M18
+611,07 Dec 2018,Furnished,Males or females,Baguley (M23),None,None,['£425 pcm'],Peaceful Double Room within Brooklands,Double room,[425],425.0,M23
+612,15 Dec 2018,Furnished,Female preferred,Manchester (M14),7 months,7 months,['£120 pw'],Ensuite single room near University of Manchester,Single room,[480],480.0,M14
+613,Now,Furnished,Males or females,Irlam (M44),6 months,None,['£300 pcm'],Double Room in a Mid Terrace Furnished House,Double room,[300],300.0,M44
+614,14 Jan 2019,Furnished,Female preferred,Rusholme (M14),8 months,6 months,['£135 pw'],"1 En-suite Room, MSVS Neptune, 4 Bedroom Apartment",Single room,[540],540.0,M14
+615,Now,Furnished,Males or females,Eccles (M30),None,3 months,['£369 pcm'],Professional House Share,Double room,[369],369.0,M30
+616,Now,Furnished,Female preferred,Salford (M5),None,3 months,['£475 pcm'],Double room bills inc in a 2 bed apartment,Double room,[475],475.0,M5
+617,Now,No info,Males or females,Collyhurst (M40),None,None,['£400 pcm'],A room to rent close to  north quarter,Double room,[400],400.0,M40
+618,Now,Furnished,Female preferred,Winton (M30),None,3 months,['£425 pcm'],Double room  avail from December,Double room,[425],425.0,M30
+619,01 Jan 2019,Furnished,Males or females,Salford (M7),None,None,['£450 pcm'],"Furnished Double Room, Including Bills",Double room,[450],450.0,M7
+620,Now,Furnished,Males or females,Rusholme (M14),None,3 months,['£75 pw'],Single room within professional household,Single room,[300],300.0,M14
+621,Now,Furnished,Males or females,Salford (M7),None,None,['£350 pcm'],Double room to Rent,Double room,[350],350.0,M7
+622,01 Jan 2019,No info,Males or females,Rusholme (M14),6 months,None,['£411 pcm'],Double Room for Rent in January,Double room,[411],411.0,M14
+623,Now,Furnished,Males or females,Fallowfield (M14),None,None,"['£400 pcm', '£435 pcm', '£415 pcm', '£350 pcm']","Luxury House, Perfectly Situated",Double room,"[400, 435, 415, 350]",400.0,M14
+624,Now,Furnished,Males or females,Old Trafford (M16),6 months,3 months,['£90 pw'],Looking for a lodger!!,Double room,[360],360.0,M16
+625,Now,Furnished,Males or females,Failsworth (M35),None,3 months,"['£100 pw', '£100 pw', '£120 pw', '£120 pw', '£120 pw', '£120 pw']",New Double Rooms & En-Suites - All Bills Included,2 doubles,"[400, 400, 480, 480, 480, 480]",453.3333333333333,M35
+626,Now,Furnished,Male preferred,Levenshulme (M19),None,6 months,['£75 pw'],Room to Let - Levenshulme - Ideal 4 Dr Swammys,Double room,[300],300.0,M19
+627,04 Dec 2018,Furnished,Female preferred,Salford (M7),None,3 months,['£350 pcm'],Small double room,Double room,[350],350.0,M7
+628,Now,Furnished,Males or females,Hulme (M15),None,3 months,['£350 pcm'],Room for rent - £350 pcm all bills included..,Single room,[350],350.0,M15
+629,21 Dec 2018,Furnished,Males or females,West Didsbury (M20),None,3 months,['£600 pcm'],Top floor: huge bedroom with  ensuite,Double room,[600],600.0,M20
+630,Now,Furnished,Males or females,Salford (M7),None,None,['£330 pcm'],Spacious single room in modern house,Single room,[330],330.0,M7
+631,Now,No info,Males or females,Levenshulme (M19),None,6 months,['£232 pcm'],Spacious Double room in Levenshulme,Double room,[232],232.0,M19
+632,10 Dec 2018,Furnished,Males or females,Sharston (M22),None,6 months,['£600 pcm'],Luxury  1 bed apartment + shower room/WC,Double room,[600],600.0,M22
+633,Now,Furnished,Female preferred,Manchester (M8),None,6 months,['£450 pcm'],Friendly Flatmate Wanted,Double room,[450],450.0,M8
+634,01 Aug 2019,Furnished,Males or females,Salford (M5),None,12 months,"['£390 pcm', '£390 pcm', '£390 pcm', '£78 pw']",4 bed house near Salford Royal Hospital & Uni,Single + 3 doubles,"[390, 390, 390, 312]",370.5,M5
+635,Now,Furnished,No info,St Georges (M15),None,12 months,['Potential Buddy Ups'],2 bed apartment for rent in Castlefield,2 bed flat,[],,M15
+636,Now,Furnished,Males or females,Didsbury (M20),None,6 months,['£260 pcm'],Houseshare Didsbury Manchester,Double room,[260],260.0,M20
+637,Now,Furnished,Males or females,Denton (M34),None,None,['£450 pcm'],One room to rent in semi detached house,Double room,[450],450.0,M34
+638,Now,Furnished,Males or females,Victoria Park (M14),8 months,None,['£72 pw'],Room to rent in student house 2018 academic year,Double room,[288],288.0,M14
+639,Now,No info,Males or females,Wythenshawe (M22),None,None,"['£400 pcm', '£400 pcm', '£400 pcm', '£375 pcm']",Doble Room Availble Now,Single + 3 doubles,"[400, 400, 400, 375]",393.75,M22
+640,Now,Furnished,Males or females,Rusholme (M14),None,6 months,"['£400 pcm', '£400 pcm', '£400 pcm']",Newly refurbished house! Great location very clean,3 doubles,"[400, 400, 400]",400.0,M14
+641,Now,No info,Males or females,Benchill (M22),None,None,['£300 pcm'],Single room to rent,Single room,[300],300.0,M22
+642,Now,Furnished,Males or females,Salford (M5),None,6 months,['£440 pcm'],One Double Bed Room Available - 2 Bed House,Double room,[440],440.0,M5
+643,Now,Furnished,Males or females,Sale (M33),None,6 months,"['£415 pcm', '£340 pcm', '£460 pcm']",Large Double room -short walk to sale centre,3 doubles,"[415, 340, 460]",405.0,M33
+644,Now,Furnished,Male preferred,Burnage (M19),None,None,['£440 pcm'],2 guys seek flatmate from  December,Double room,[440],440.0,M19
+645,Now,Furnished,Male preferred,Gorton (M18),None,3 months,['£400 pcm'],Room to rent Debdale Park,Double room,[400],400.0,M18
+646,Now,Furnished,Males or females,Stretford (M32),None,3 months,['£330 pcm'],One Furnished Single Room Available For Rent,Single room,[330],330.0,M32
+647,05 Dec 2018,Furnished,Males or females,Manchester (M34),None,3 months,"['£125 pw', '£400 pcm', '£400 pcm', '£400 pcm', '£400 pcm']",Double room in newly extended house.,Double room,"[500, 400, 400, 400, 400]",420.0,M34
+648,Now,Furnished,Males or females,Ancoats (M4),None,12 months,['£495 pcm'],Couple Wanted to Share Brand New 2-Bed,Double room,[495],495.0,M4
+649,08 Dec 2018,Furnished,Males or females,Manchester (M3),None,2 months,['£550 pcm'],"Double room in 2 bed flat, 10 mins from town",Double room,[550],550.0,M3
+650,16 Dec 2018,Furnished,Male preferred,Chorlton (M21),None,4 months,['£385 pcm'],Furnished spacious double room in central Chorlton,Double room,[385],385.0,M21
+651,01 Mar 2019,No info,Female preferred,Swinton (M27),None,3 months,['£95 pw'],Double room with en suite South Swinton Mon-Fri,Double room,[380],380.0,M27
+652,Now,No info,Male preferred,Eccles (M30),None,None,['£415 pcm'],Happy Home,Double room,[415],415.0,M30
+653,01 Jan 2019,Furnished,Female preferred,Ardwick (M13),None,6 months,['£100 pw'],1 big double room available in a new built house,Double room,[400],400.0,M13
+654,Now,Furnished,Males or females,Fallowfield (M14),5 months,4 months,['£120 pw'],Spacious room in fun and safe house in Fallowfield,Double room,[480],480.0,M14
+655,Now,Furnished,Males or females,East Didsbury (M20),None,None,['£495 pcm'],Stunning double room. Pets considered,Double room,[495],495.0,M20
+656,Now,Furnished,Female preferred,Manchester (M8),None,12 months,['£300 pcm'],Looking for a flatmate for spare double room,Double room,[300],300.0,M8
+657,Now,Furnished,Males or females,Victoria Park (M13),None,6 months,"['£375 pcm', '£400 pcm', '£350 pcm']",Room available with all bills included from £350,Single room,"[375, 400, 350]",375.0,M13
+658,Now,Furnished,Female preferred,Whalley Range (M16),None,None,['£309 pcm'],Spacious double room,Double room,[309],309.0,M16
+659,Now,Furnished,Female preferred,Didsbury (M20),None,6 months,['£420 pcm'],Didsbury Lovely room  - bills included.,Double room,[420],420.0,M20
+660,Now,Furnished,Male preferred,Manchester City Centre (M1),None,6 months,['£475 pcm'],Flatmate Wanted!,Double room,[475],475.0,M1
+661,Now,Furnished,Males or females,Chorlton-cum-Hardy (M21),None,3 months,['£450 pcm'],Great Appartment in the heart of Colton-Cum-Hardy,Double room,[450],450.0,M21
+662,Now,Furnished,Female preferred,Prestwich (M25),None,3 months,['£125 pw'],Single  Room in a recently renovated home,Single room,[500],500.0,M25
+663,Now,Furnished,Males or females,Manchester (M14),None,None,['£450 pcm'],Double bedroom in 2 bed top floor flat,Double room,[450],450.0,M14
+664,Now,Furnished,Female preferred,West Didsbury (M20),7 months,7 months,"['£476 pcm', '£476 pcm']",Lovely house in Withington,2 doubles,"[476, 476]",476.0,M20
+665,01 Feb 2019,Furnished,Female preferred,Withington (M20),5 months,None,['£442 pcm'],Student Room to Let in Withington,Double room,[442],442.0,M20
+666,Now,Furnished,Males or females,Fallowfield (M14),None,10 months,"['£65 pw', '£65 pw', '£65 pw', '£65 pw', '£65 pw']",4/5 bedroom newly refurbished house- Ladybarn L,5 doubles,"[260, 260, 260, 260, 260]",260.0,M14
+667,Now,Furnished,Males or females,Higher Broughton (M7),None,None,['£120 pw'],Private Bedroom with Ensuite,Double room,[480],480.0,M7
+668,Now,Furnished,Female preferred,Salford (M5),36 months,6 months,['£337 pcm'],Double ensuite room close to city centre,Double room,[337],337.0,M5
+669,Now,Furnished,No info,Moss Nook (M22),None,6 months,['Potential Buddy Ups'],Manchester Airport,7 bed house,[],,M22
+670,21 Dec 2018,Furnished,Males or females,Chorlton (M21),None,6 months,['£390 pcm'],Big Double Room in Chorlton by Green,Double room,[390],390.0,M21
+671,Now,Furnished,Males or females,Prestwich (M25),None,6 months,['£110 pw'],Large Double Room in Semi-Detached House,Double room,[440],440.0,M25
+672,19 Dec 2018,Furnished,Males or females,Salford (M5),None,None,['£500 pcm'],Double room to rent,Double room,[500],500.0,M5
+673,Now,Furnished,Males or females,Salford (M7),None,3 months,['£350 pcm'],Double Room,Double room,[350],350.0,M7
+674,01 Feb 2019,Furnished,Males or females,Whalley Range (M16),None,1 month,"['£475 pcm', '£455 pcm', '£470 pcm']",Fun Household For Like Minded People,3 doubles,"[475, 455, 470]",466.6666666666667,M16
+675,Now,Furnished,Males or females,Whitefield (M45),None,6 months,['£399 pcm'],Ensuite £399pm inc 350meg Virgin BB,Double room,[399],399.0,M45
+676,Now,No info,Female preferred,Woodhouse Park (M22),None,None,['£400 pcm'],Female,Double room,[400],400.0,M22
+677,Now,Furnished,Males or females,Hulme (M15),None,7 months,['£400 pcm'],Beautiful double room available - Hulme,Double room,[400],400.0,M15
+678,15 Jan 2019,No info,Male preferred,Fallowfield (M14),None,6 months,['£92 pw'],317a Wilmslow road,Double room,[368],368.0,M14
+679,21 Dec 2018,No info,Males or females,Manchester City Centre (M1),None,None,['£350 pcm'],Cosy Room Slap Bang City Centre,Double room,[350],350.0,M1
+680,Now,No info,Males or females,West Didsbury (M20),None,None,['£400 pcm'],Spacious Double bedroom  to rent Monday to Friday,Double room,[400],400.0,M20
+681,Now,Furnished,Males or females,Hulme (M15),7 months,None,['£147 pw'],Room in student accomodation for rent,Single room,[588],588.0,M15
+682,Now,Furnished,Male preferred,Chorlton-cum-Hardy (M21),None,None,['£550 pcm'],Stunning Room in Large House in Chorlton Village,Double room,[550],550.0,M21
+683,Now,Furnished,Males or females,Salford (M5),None,6 months,['£420 pcm'],Single room available in Salford Quays asap,Single room,[420],420.0,M5
+684,Now,Furnished,Males or females,West Didsbury (M20),None,6 months,['£595 pcm'],Large bedroom with ensuite in new build house,Double room,[595],595.0,M20
+685,13 Jan 2019,Furnished,Males or females,Alexandra  Park (M16),None,6 months,['£348 pcm'],Double Room in two-bed apartment. Whalley Range,Double room,[348],348.0,M16
+686,Now,Furnished,Males or females,Cheetham Hill (M8),None,None,['£550 pcm'],Room to let in lovely 3 bedroom home,Double room,[550],550.0,M8
+687,15 Dec 2018,Furnished,Female preferred,Peel Hall (M22),None,None,['£350 pcm'],Single Clean Room To Rent,Single room,[350],350.0,M22
+688,Now,Furnished,Males or females,Partington (M31),None,None,['£95 pw'],Double room in very clean home Partington £95pw,Double room,[380],380.0,M31
+689,01 Jan 2019,Furnished,Males or females,Salford (M7),None,6 months,['£450 pcm'],Fully furnished double room available,Double room,[450],450.0,M7
+690,01 Feb 2019,Furnished,Males or females,West Didsbury (M20),None,None,['£350 pcm'],Room in refurbished West Didsbury flat,Double room,[350],350.0,M20
+691,01 Jan 2019,Furnished,Males or females,Fallowfield (M14),6 months,None,['£127 pw'],Spacious Room to Rent from January 2019,Double room,[508],508.0,M14
+692,Now,Furnished,Female preferred,Fallowfield (M14),5 months,None,['£141 pw'],Room in Student Accomodation - Fallowfield,Single room,[564],564.0,M14
+693,Now,Furnished,Male preferred,Manchester (M13),8 months,None,['£139 pw'],"Room available, Amazing location!",Double room,[556],556.0,M13
+694,Now,Furnished,Males or females,Victoria Park (M14),None,None,['£410 pcm'],Double Bedroom available.,Double room,[410],410.0,M14
+695,09 Dec 2018,Furnished,Males or females,St Georges (M15),None,12 months,['£425 pcm'],Room to rent in lovely Burton Place in Castlefield,Double room,[425],425.0,M15
+696,Now,Furnished,Males or females,Hulme (M15),None,None,['£475 pcm'],Double Room In Modern Flat With Parking Included,Double room,[475],475.0,M15
+697,Now,Furnished,Males or females,Ardwick (M12),None,6 months,['£310 pcm'],Room Near City Manchester University Oxford Road,Double room,[310],310.0,M12
+698,01 Dec 2018,Furnished,Female preferred,Manchester City Centre (M4),None,6 months,['£625 pcm'],Modern double room/ensuite in city centre,Double room,[625],625.0,M4
+699,Now,Furnished,Female preferred,Manchester City Centre (M4),None,6 months,['£550 pcm'],City Centre Manchester room to let,Double room,[550],550.0,M4
+700,Now,Furnished,Males or females,Partington (M31),None,None,['£100 pw'],Furnished Double Room - live in landlord,Double room,[400],400.0,M31
+701,Now,Furnished,Males or females,Manchester City Centre (M1),None,6 months,['£650 pcm'],Room for rent in Central Manchester,Double room,[650],650.0,M1
+702,25 Jan 2019,Furnished,Males or females,Salford (M3),None,6 months,['£425 pcm'],Double bedroom with ensuit City Point 2,Double room,[425],425.0,M3
+703,Now,Furnished,No info,Whitefield (M45),None,None,['£695 pcm (whole property)'],Three Bedroom Semi Detached house in Whitefield,3 bed house,[695],695.0,M45
+704,02 Jan 2019,Furnished,Male preferred,Woodhouse Park (M22),None,6 months,['£400 pcm'],MAN Airport - Kingsize Room,Double room,[400],400.0,M22
+705,Now,Furnished,Males or females,Manchester City Centre (M3),None,None,['£450 pcm'],1 Double Room,Double room,[450],450.0,M3
+706,Now,No info,Males or females,Radcliffe (M26),None,None,['£400 pcm'],Spacious Double Room To Rent,Double room,[400],400.0,M26
+707,Now,No info,Males or females,Victoria Park (M13),None,9 months,['£90 pw'],Rooms still available single and doubles,Single room,[360],360.0,M13
+708,Now,Furnished,Males or females,Castlefield (M3),None,None,['£470 pcm'],Beautiful flat  next to Deansgate station,Double room,[470],470.0,M3
+709,Now,Furnished,Males or females,Newton Heath (M40),None,None,['£300 pcm'],Lodger Required for lovely 2 bed Semi in M40,Double room,[300],300.0,M40
+710,Now,Furnished,Males or females,Fallowfield (M14),12 months,6 months,"['£230 pcm', '£230 pcm', '£230 pcm', '£220 pcm']",Nice  Semi detached 4 bedrooms to rent Fallowfield,Double room,"[230, 230, 230, 220]",227.5,M14
+711,17 Jan 2019,Furnished,Female preferred,Manchester City Centre (M4),None,None,['£485 pcm'],En Suite Room in City Centre Penthouse Flat,Double room,[485],485.0,M4
+712,Now,No info,Males or females,Atherton (M46),None,None,"['£300 pcm', '£280 pcm']",Hurry,Double room,"[300, 280]",290.0,M46
+713,Now,Furnished,Males or females,Harpurhey (M9),None,None,['£100 pw'],Room to let .Harpurhey/Crumsall,Single room,[400],400.0,M9
+714,Now,Furnished,Males or females,Salford Quays (M50),None,6 months,"['£450 pcm', '£350 pcm']",New Modern Apartment on Fifth Floor,2 doubles,"[450, 350]",400.0,M50
+715,02 Feb 2019,Furnished,Males or females,Manchester City Centre (M1),6 months,3 months,['£700 pcm'],City centre flat flatmate wanted!,Double room,[700],700.0,M1
+716,Now,No info,Males or females,Crumpsall (M8),None,None,['£350 pcm'],Share To Room,Double room,[350],350.0,M8
+717,01 Jan 2019,Furnished,Female preferred,Salford (M6),6 months,None,['£87 pw'],"Double bedroom to rent , flat share",Double room,[348],348.0,M6
+718,Now,Furnished,Males or females,Manchester City Centre (M1),None,3 months,['£625 pcm'],Double room in Northern Quarter- Now Available,Double room,[625],625.0,M1
+719,Now,Furnished,Female preferred,Fallowfield (M14),8 months,None,['£520 pcm'],Double bedroom available,Double room,[520],520.0,M14
+720,Now,No info,Female preferred,Cheetham Hill (M8),None,None,['£325 pcm'],Room For Female,Double room,[325],325.0,M8
+721,Now,Furnished,Female preferred,Swinton (M27),12 months,None,['£500 pcm'],"Room in beautiful home, Worsley border",Double room,[500],500.0,M27
+722,Now,Furnished,Males or females,Chorlton (M21),36 months,6 months,['£550 pcm'],"The Dog House, Beech Road, Chorlton Manchester M21",Double room,[550],550.0,M21
+723,05 Jan 2019,Furnished,Males or females,Old Trafford (M16),None,3 months,['£115 pw'],Newly Refurbish Double Room with Integrated Work S,Double room,[460],460.0,M16
+724,01 Jul 2019,Furnished,Males or females,Manchester (M14),24 months,12 months,"['£540 pcm', '£540 pcm']",Student Accommodation Ready for 2019 Two Bedroom,2 doubles,"[540, 540]",540.0,M14
+725,29 Jan 2019,Furnished,Male preferred,Salford (M5),36 months,6 months,['£550 pcm'],Bills included Ensuite 9th Floor Apartment,Double room,[550],550.0,M5
+726,Now,Furnished,Males or females,Gorton (M18),None,3 months,['£340 pcm'],Double room to rent in clean and renovated house,Double room,[340],340.0,M18
+727,01 Dec 2018,Furnished,Males or females,Hulme (M15),None,3 months,['£400 pcm'],Single bedroom - bills included,Single room,[400],400.0,M15
+728,14 Jan 2019,Furnished,Female preferred,Levenshulme (M19),3 months,None,['£450 pcm'],Double room - short lets or Mon-Fri. Levenshulme,Double room,[450],450.0,M19
+729,Now,Furnished,Males or females,Openshaw (M11),None,None,['£450 pcm'],Double room with en suite and walk in cupboard on,Double room,[450],450.0,M11
+730,Now,Furnished,Female preferred,Manchester (M11),None,10 months,['£348 pcm'],Single room by Etihad Stadium,Single room,[348],348.0,M11
+731,Now,Furnished,Female preferred,Whalley Range (M16),None,6 months,['£375 pcm'],Clean and spacious - room and bathroom available!,Double room,[375],375.0,M16
+732,23 Dec 2018,Furnished,Males or females,Didsbury (M20),None,6 months,"['£330 pcm', '£330 pcm']",2 double rooms in shared house - Only £330!,2 doubles,"[330, 330]",330.0,M20
+733,02 Jan 2019,Furnished,No info,Didsbury Village (M20),None,6 months,['£900 pcm (whole property)'],Modern flat - Didsbury Village,2 bed flat,[900],900.0,M20
+734,12 Dec 2018,Furnished,No info,West Didsbury (M20),None,None,['£450 pcm (whole property)'],Lovely Studio Flat in West Didsbury to Rent,1 bed flat,[450],450.0,M20
+735,Now,Furnished,Males or females,Fallowfield (M14),36 months,8 months,['£68 pw'],Double room with CH & DG windows,Double room,[272],272.0,M14
+736,01 Jan 2019,No info,Males or females,Rusholme (M14),7 months,None,['£303 pcm'],Downstairs room on a quiet street.,Single room,[303],303.0,M14
+737,17 Dec 2018,No info,Males or females,Hulme (M15),None,None,"['£410 pcm', '£410 pw']",Available Apartment,2 doubles,"[410, 1640]",1025.0,M15
+738,17 Dec 2018,No info,Males or females,Hulme (M15),None,3 months,"['£410 pcm', '£410 pcm']",Available Apartment,2 doubles,"[410, 410]",410.0,M15
+739,27 Dec 2018,No info,Female preferred,Crumpsall (M8),None,None,['£350 pcm'],Only Female Required,Double room,[350],350.0,M8
+740,Now,No info,Males or females,Salford (M3),None,None,['£110 pw'],Double Room M3,Double room,[440],440.0,M3
+741,Now,Furnished,Males or females,Salford (M6),None,10 months,['£300 pcm'],All Inclusive Single Room 5 Mins from Salford Uni,Single room,[300],300.0,M6
+742,21 Dec 2018,Furnished,Males or females,West Didsbury (M20),None,3 months,['£490 pcm'],Double Room available in West Didsbury,Double room,[490],490.0,M20
+743,Now,Furnished,Female preferred,Manchester (M12),None,None,['£100 pw'],Choice of Room in Family Home Ladies Prefered,Double room,[400],400.0,M12
+744,10 Dec 2018,Furnished,Males or females,Manchester City Centre (M3),None,None,['£650 pcm'],Quality city centre double room,Double room,[650],650.0,M3
+745,19 Nov 2019,Furnished,Males or females,Salford (M3),None,4 months,['£585 pcm'],Quiet professional house in an ideal location,Double room,[585],585.0,M3
+746,Now,No info,Males or females,Longsight (M13),None,6 months,['£300 pcm'],Room near Royal Infirmary Oxford Road UoM,Double room,[300],300.0,M13
+747,15 Dec 2018,Furnished,Males or females,Manchester (M1),None,None,['£600 pcm'],New York style Loft conversion - M1 NQ,Double room,[600],600.0,M1
+748,15 Dec 2018,Furnished,Males or females,Hulme (M15),None,6 months,['£540 pcm'],Furnished Double bedroom near city centre,Double room,[540],540.0,M15
+749,01 Jan 2019,Furnished,Male preferred,Manchester City Centre (M3),None,12 months,"['£480 pcm', '£450 pcm', '£380 pcm']",Double bedroom in Manchester City Centre,Double room,"[480, 450, 380]",436.6666666666667,M3
+750,Now,Furnished,Female preferred,Fallowfield (M14),None,None,['£411 pcm'],1 room to rent in a 2 bedroom flat in Fallowfield,Double room,[411],411.0,M14
+751,Now,Furnished,Males or females,Eccles (M30),None,3 months,['£450 pcm'],Large double bedroom recently renovated,Double room,[450],450.0,M30
+752,Now,Furnished,Males or females,Burnage (M19),None,6 months,"['£350 pcm', '£350 pcm', '£350 pcm', '£350 pcm', '£280 pcm']",Large double rooms Manchester (All bills included),Single + 4 doubles,"[350, 350, 350, 350, 280]",336.0,M19
+753,Now,Furnished,Males or females,Manchester (M18),None,6 months,"['£80 pw', '£80 pw', '£80 pw', '£90 pw', '£70 pw', '£80 pw', '£80 pw']",Double Rooms Manchester (All Bills Inclu),3 doubles,"[320, 320, 320, 360, 280, 320, 320]",320.0,M18
+754,Now,Furnished,Males or females,Salford (M6),9 months,None,['£469 pcm'],"Room in house, close to everything",Double room,[469],469.0,M6
+755,Now,Furnished,Males or females,Tyldesley (M29),None,None,['£100 pw'],Double Room own Bathroom to let,Double room,[400],400.0,M29
+756,Now,Furnished,Males or females,Swinton (M27),None,None,['£500 pcm'],Spacious double room to let with plenty of storage,Double room,[500],500.0,M27
+757,26 Jan 2019,Furnished,Males or females,Manchester (M14),5 months,5 months,['£437 pcm'],Student Room in Fallowfield,Double room,[437],437.0,M14
+758,Now,Furnished,Males or females,Worsley (M28),None,None,['£375 pcm'],Single Bedroom Within a Lovely Family Home,Single room,[375],375.0,M28
+759,02 Jan 2019,Furnished,Males or females,Manchester (M19),None,None,['£390 pcm'],Room to Rent,Double room,[390],390.0,M19
+760,Now,Furnished,Males or females,Salford (M7),None,3 months,['£359 pcm'],Nice Double Room Manchester Salford Bills included,Double room,[359],359.0,M7
+761,07 Jan 2019,Furnished,Males or females,Manchester City Centre (M1),None,None,['£125 pw'],Student bedroom to rent in shared 3 bedroom flat,Double room,[500],500.0,M1
+762,Now,Furnished,Males or females,Fallowfield (M14),None,8 months,['£548 pw'],Double Room with Ensuite - Bills Included,Double room,[2192],2192.0,M14
+763,01 Jan 2019,Furnished,Males or females,Old Trafford (M16),None,None,['£380 pcm'],Lovely double bedroom in 3 bed house,Double room,[380],380.0,M16
+764,10 Jan 2019,Furnished,Female preferred,Salford (M3),7 months,3 months,['£550 pcm'],Double Bedroom to Rent in Greengate - Mid January,Double room,[550],550.0,M3
+765,Now,Furnished,Males or females,Manchester (M40),None,None,['£250 pcm'],"Lovely, Clean, Tidy, Quiet Single Room",Single room,[250],250.0,M40
+766,21 Dec 2018,Furnished,Males or females,Hulme (M15),None,6 months,['£450 pcm'],City Centre Flat Available to Rent,Double room,[450],450.0,M15
+767,14 Dec 2018,Furnished,Males or females,Salford (M6),None,None,['£450 pcm'],Room to Rent in a Chilled House,Double room,[450],450.0,M6
+768,01 Jan 2019,No info,Female preferred,Manchester (M14),7 months,3 months,['£300 pcm'],Room to rent in 2 bedroom flat,Double room,[300],300.0,M14
+769,31 Jan 2019,Furnished,Males or females,St Georges (M15),None,6 months,['£437 pcm'],City centre flat available | £437 pcm exc. bills,Double room,[437],437.0,M15
+770,10 Jan 2019,No info,Males or females,Manchester City Centre (M3),None,6 months,['£475 pcm'],En Suite room to rent in Manchester City Centre,Double room,[475],475.0,M3
+771,Now,Furnished,Males or females,Manchester City Centre (M1),None,7 months,['£818 pcm (whole property)'],Medium Studio Flat in Central Manchester,1 bed flat,[818],818.0,M1
+772,Now,Furnished,Males or females,Fallowfield (M14),7 months,7 months,['£130 pw'],Looking for a person to fill a room in Fallowfield,Double room,[520],520.0,M14
+773,01 Jan 2019,Furnished,Males or females,Didsbury (M20),None,6 months,['£650 pcm'],"Awesome, friendly house in Didsbury",Double room,[650],650.0,M20
+774,Now,Furnished,Female preferred,Manchester City Centre (M4),12 months,3 months,['£650 pcm'],Ensiute Double Room available immediately,Double room,[650],650.0,M4
+775,Now,Furnished,Males or females,West Didsbury (M20),6 months,2 months,['£550 pcm'],Double room available in West Didsbury,Double room,[550],550.0,M20
+776,01 Jul 2019,Furnished,Males or females,West Didsbury (M20),None,12 months,"['£77 pw', '£77 pw']",Looking for two chilled flatmates,2 doubles,"[308, 308]",308.0,M20
+777,Now,Furnished,Males or females,Hulme (M15),None,6 months,['£600 pcm'],City Cent Spacious Double Bedroom + private bath,Double room,[600],600.0,M15
+778,Now,Furnished,Males or females,Ashton upon Mersey (M33),None,None,['£85 pw'],Single Room in Nice Clean House,Single room,[340],340.0,M33
+779,15 Dec 2018,Furnished,Males or females,Manchester (M14),6 months,6 months,['£450 pcm'],Room for Rent:December- June,Double room,[450],450.0,M14
+780,10 Dec 2018,Furnished,Males or females,Flixton (M41),None,6 months,"['£430 pcm', '£430 pcm', '£430 pcm', '£500 pcm']","Double room in large house, Bills inc near station",4 doubles,"[430, 430, 430, 500]",447.5,M41
+781,Now,Furnished,Female preferred,Chorlton-cum-Hardy (M21),None,9 months,['£445 pcm'],Lovely double in Chorlton Manchester!,Double room,[445],445.0,M21
+782,Now,Furnished,Males or females,Alexandra  Park (M16),None,None,['£400 pcm'],Lovely  room for student and young profesional,Single room,[400],400.0,M16
+783,Now,Furnished,Males or females,Swinton (M27),None,None,['£370 pcm'],"Double room, £370 PCM including bills",Double room,[370],370.0,M27
+784,09 Dec 2018,Furnished,Males or females,Eccles (M30),None,1 month,['£450 pcm'],"Large double room in friendly, tidy house",Double room,[450],450.0,M30
+785,Now,Furnished,Males or females,Whalley Range (M16),2 months,None,['£395 pcm'],Large Double Room w/en suite,Double room,[395],395.0,M16
+786,Now,Furnished,Female preferred,Baguley (M23),3 months,1 month,['£90 pw'],"Large double room in Brooklands, bills inc.",Double room,[360],360.0,M23
+787,Now,Furnished,Males or females,Hulme (M15),12 months,3 months,"['£430 pcm', '£390 pcm', '£370 pcm', '£280 pcm']",4 bedroom semi-detach house for sharing or to let,Double room,"[430, 390, 370, 280]",367.5,M15
+788,Now,Furnished,Males or females,Harpurhey (M9),None,6 months,['£300 pcm'],Large double room to let,Double room,[300],300.0,M9
+789,Now,Furnished,Males or females,Openshaw (M11),None,3 months,"['£380 pcm', '£390 pcm', '£400 pcm', '£400 pcm']",Newly Refurbed Co-Living House in Droyslden,4 doubles,"[380, 390, 400, 400]",392.5,M11
+790,Now,Furnished,Males or females,Fallowfield (M14),7 months,7 months,['£433 pcm'],Student room avaliable in Fallowfield,Double room,[433],433.0,M14
+791,Now,Furnished,Female preferred,Levenshulme (M19),24 months,6 months,"['£335 pcm', '£355 pcm']",2 rooms in friendly Vegan/veggie Levy houseshare,Single + double,"[335, 355]",345.0,M19
+792,02 Jan 2019,Furnished,Males or females,West Didsbury (M20),None,6 months,['£595 pcm'],Double room available in West Didsbury,Double room,[595],595.0,M20
+793,01 Feb 2019,Furnished,Males or females,Manchester City Centre (M1),None,3 months,['£215 pw'],Duplex Penthouse w/ Garden Terrace,Double room,[860],860.0,M1
+794,10 Dec 2018,No info,Males or females,Manchester City Centre (M4),None,6 months,"['£500 pcm', '£450 pcm']",2bed city flat (£950/month) overlooking park,2 doubles,"[500, 450]",475.0,M4
+795,09 Dec 2018,Furnished,Males or females,Gorton (M18),None,2 months,['£480 pcm'],Bright Double Room Available,Double room,[480],480.0,M18
+796,Now,Furnished,Males or females,Whalley Range (M16),None,2 months,['£380 pcm'],Happy House Seeking Housemates £380 All inc!,Double room,[380],380.0,M16
+797,Now,Furnished,Males or females,Manchester (M9),None,6 months,['£250 pcm'],Harpurhey / Blackley Single Room 4 Female Tenant,Single room,[250],250.0,M9
+798,30 Dec 2018,Furnished,Males or females,Fallowfield (M14),5 months,5 months,['£412 pcm'],Student Room available from January,Double room,[412],412.0,M14
+799,16 Dec 2018,Furnished,Males or females,Whalley Range (M16),6 months,3 months,"['£420 pcm', '£420 pcm', '£420 pcm']",Amazing Victorian grand house,3 doubles,"[420, 420, 420]",420.0,M16
+800,02 Jan 2019,Furnished,Males or females,Chorlton (M21),None,12 months,['£335 pcm'],Double bedroom to rent in Chorlton,Double room,[335],335.0,M21
+801,03 Dec 2018,Furnished,Males or females,St Georges (M15),None,1 month,['£700 pcm'],Double Room in Flat in Castlefield. £700 per Room,Double room,[700],700.0,M15
+802,15 Dec 2018,Furnished,Males or females,Hulme (M15),5 months,5 months,['£700 pcm'],1 double room to rent in renovated warehouse,Double room,[700],700.0,M15
+803,05 Dec 2018,Furnished,Female preferred,Salford (M5),6 months,1 month,['£600 pcm'],Bright double bedroom close to Salford Quays,Double room,[600],600.0,M5
+804,15 Jan 2019,Furnished,Males or females,Victoria Park (M13),5 months,None,['£178 pw'],En Suit Double Room in Flat!,Double room,[712],712.0,M13
+805,Now,Furnished,Males or females,Manchester City Centre (M4),None,1 month,['£750 pcm'],"Double Ensuite, City Centre, inc bills, balcony",Double room,[750],750.0,M4
+806,10 Dec 2018,Furnished,Males or females,Burnage (M19),None,None,['£600 pcm'],1 bedroom flat,Single room,[600],600.0,M19
+807,Now,Furnished,Males or females,Hulme (M15),8 months,None,['£211 pw'],Studio Appartment Close to Mmu Campus,Double room,[844],844.0,M15
+808,Now,Furnished,Female preferred,Levenshulme (M19),None,None,['£450 pcm'],Furnished Room House share - Good transport,Double room,[450],450.0,M19
+809,Now,Furnished,Female preferred,Little Hulton (M38),6 months,None,['£300 pcm'],Double room to rent (all bills included).,Double room,[300],300.0,M38
+810,Now,Furnished,Males or females,Manchester City Centre (M4),None,6 months,['£750 pcm'],"Modern, spacious double bedroom £750pm inc bills",Double room,[750],750.0,M4
+811,10 Dec 2018,Furnished,Males or females,Manchester City Centre (M4),6 months,None,['£450 pcm'],4th floor city centre apartment,Double room,[450],450.0,M4
+812,21 Dec 2018,Furnished,Males or females,Wythenshawe (M22),None,6 months,['£500 pcm'],Single / Double room To-Let,Double room,[500],500.0,M22
+813,Now,Furnished,Males or females,Manchester City Centre (M4),None,None,['£600 pcm'],Double Bedroom in the Green Quarter,Double room,[600],600.0,M4
+814,Now,Furnished,Males or females,Blackley (M9),None,None,"['£60 pw', '£55 pw', '£70 pw']",Fully furnished cosy rooms available,Single + 2 doubles,"[240, 220, 280]",246.66666666666666,M9
+815,01 Dec 2018,Furnished,Males or females,Chorlton (M21),None,6 months,['£330 pcm'],Room to rent in Chorlton house share,Double room,[330],330.0,M21
+816,Now,Furnished,Males or females,Sale (M33),None,None,['£400 pcm'],"Fully Furnished Double Size Room, All Bills Incl",Double room,[400],400.0,M33
+817,Now,Unfurnished,No info,Astley (M29),None,None,['Potential Buddy Ups'],3 bed semi detached house,3 bed house,[],,M29
+818,Now,Furnished,Males or females,Ladybarn (M14),None,6 months,"['£580 pcm', '£360 pcm']",House share M14 6YH,Single + double,"[580, 360]",470.0,M14
+819,Now,Furnished,Males or females,Moston (M40),None,None,['£125 pw'],Spaciousdoubleroom Available in Semidetached House,Double room,[500],500.0,M40
+820,Now,Furnished,Female preferred,Fallowfield (M14),None,6 months,"['£450 pcm', '£375 pcm']",Spacious double bedroom  £450  (bills included),Single + double,"[450, 375]",412.5,M14
+821,Now,Furnished,Males or females,Salford (M7),None,None,"['£500 pcm', '£380 pcm']",Double & Single room.Manchester city center & Unis,Single + double,"[500, 380]",440.0,M7
+822,02 Jan 2019,Furnished,Males or females,West Didsbury (M20),12 months,12 months,"['£495 pcm', '£495 pcm']",2 bedroom flat in West Didsbury,2 doubles,"[495, 495]",495.0,M20
+823,Now,Furnished,Female preferred,Withington (M20),None,12 months,['£360 pcm'],Looking for a nice housemate...,Double room,[360],360.0,M20
+824,Now,Furnished,Males or females,West Didsbury (M20),6 months,None,['£525 pcm'],Room Available West Dids,Double room,[525],525.0,M20
+825,Now,Furnished,Males or females,Salford (M6),None,None,"['£600 pcm', '£600 pcm', '£300 pcm']",One double bedroom avaliable in a two bedroom flat,3 doubles,"[600, 600, 300]",500.0,M6
+826,Now,No info,Males or females,Whalley Range (M16),None,6 months,['£320 pcm'],Blair road project,Double room,[320],320.0,M16
+827,Now,Furnished,Female preferred,Prestwich (M25),6 months,2 months,['£480 pcm'],Spare double room to rent with a female student,Double room,[480],480.0,M25
+828,Now,Furnished,Males or females,Longsight (M12),6 months,3 months,['£75 pw'],Single Room for Rent All Bill Included £75,Single room,[300],300.0,M12
+829,Now,No info,Female preferred,Crumpsall (M8),None,None,['£350 pcm'],Double Room,Double room,[350],350.0,M8
+830,Now,Furnished,Males or females,Abbey Hey (M18),None,12 months,['£250 pcm'],House  share in Abbey hey,Double room,[250],250.0,M18
+831,01 Feb 2019,Furnished,Males or females,Hulme (M15),None,12 months,['£425 pcm'],Looking for a new flatmate - 1 double room,Double room,[425],425.0,M15
+832,01 Jan 2019,Furnished,Males or females,Stretford (M32),None,None,['£50 pw'],Mark,Single room,[200],200.0,M32
+833,Now,Furnished,Males or females,Hulme (M15),None,None,"['£250 pcm', '£200 pcm']",Modern Four Bed Shared House Fully Furnished,Single + double,"[250, 200]",225.0,M15
+834,Now,Furnished,Males or females,Chorlton-cum-Hardy (M21),None,None,"['£400 pcm', '£375 pcm', '£375 pcm', '£350 pcm', '£350 pcm']",No Deposit - Professional House Share,5 doubles,"[400, 375, 375, 350, 350]",370.0,M21
+835,Now,No info,Males or females,Ringley (M26),None,12 months,"['£550 pcm', '£550 pcm']",2 Bed Executive Apt for rent near Bolton,Single + double,"[550, 550]",550.0,M26
+836,Now,Furnished,Males or females,Ladybarn (M14),6 months,6 months,['£800 pcm'],Cottage available  22 October 2018- 22 April 2019,Double room,[800],800.0,M14
+837,Now,Furnished,Males or females,Victoria Park (M14),6 months,6 months,['£125 pw'],Spare room in 8bed house - free rent till New Year,Double room,[500],500.0,M14
+838,23 Dec 2018,Furnished,Males or females,Didsbury (M20),None,6 months,['£715 pcm'],Double en suite room available in 6 bed house :),Double room,[715],715.0,M20
+839,01 Dec 2018,Furnished,Males or females,Salford (M5),None,None,['£550 pcm'],Room to rent  -  Pioneer House - Salford Quays,Double room,[550],550.0,M5
+840,01 Jan 2019,No info,Female preferred,Longsight (M13),None,4 months,['£500 pcm'],Double Bedroom with Ensuite,Double room,[500],500.0,M13
+841,01 Dec 2018,Furnished,Males or females,Manchester City Centre (M1),None,6 months,['£700 pcm'],Large Double Bedroom in Massive City Centre Flat,Double room,[700],700.0,M1
+842,Now,Furnished,Female preferred,Denton (M34),None,None,['£80 pw'],Loft Room Conversion,Double room,[320],320.0,M34
+843,18 Dec 2018,Furnished,Males or females,Chorlton (M21),None,3 months,['£185 pcm'],Room available in relaxed and friendly house share,Double room,[185],185.0,M21
+844,01 Dec 2018,Furnished,Male preferred,Manchester (M34),None,3 months,"['£360 pcm', '£395 pcm']",Double room in large detached house,2 doubles,"[360, 395]",377.5,M34
+845,Now,Furnished,Male preferred,Chorlton (M21),None,8 months,['£595 pcm'],Attic Room in Centre of Chorlton all bills inc,Double room,[595],595.0,M21
+846,01 Dec 2018,Furnished,Males or females,Manchester (M13),None,None,['£465 pcm'],Females here Walking to  city centre.,Single room,[465],465.0,M13
+847,01 Dec 2018,No info,Female preferred,Fallowfield (M14),None,None,['£400 pcm'],Single Room With En-suite,Single room,[400],400.0,M14
+848,15 Dec 2019,Furnished,Males or females,Rusholme (M14),6 months,6 months,['£115 pw'],Student Double Room Avaliable,Double room,[460],460.0,M14
+849,01 Dec 2018,Furnished,Female preferred,Hulme (M15),None,12 months,['£380 pcm'],Double room in a friendly flat in Hulme,Double room,[380],380.0,M15
+850,Now,Furnished,Males or females,Stretford (M32),None,1 month,['£575 pcm'],Dble/twin room:  single occupancy £130 per week.,Double room,[575],575.0,M32
+851,Now,Furnished,Males or females,Middleton (M24),4 months,None,['£400 pcm'],House mate required,Double room,[400],400.0,M24
+852,05 Jan 2019,Furnished,Female preferred,Manchester City Centre (M1),None,12 months,['£500 pcm'],Looking for a roomie starting in the new year!,Double room,[500],500.0,M1
+853,Now,Furnished,Males or females,Failsworth (M35),None,None,"['£520 pcm', '£500 pcm']",Large rooms  no more than 10 minutes   from City,2 doubles,"[520, 500]",510.0,M35
+854,01 Jan 2019,No info,Males or females,Hulme (M15),None,None,"['£147 pw', '£147 pw']",2 x en-suite rooms,2 singles,"[588, 588]",588.0,M15
+855,01 Jan 2019,Furnished,No info,Manchester City Centre (M3),None,6 months,['Potential Buddy Ups'],Light and Spacious City Centre Appartment,2 bed flat,[],,M3
+856,Now,Furnished,Female preferred,Eccles (M30),None,6 months,['£455 pcm'],House  Share  Eccles,Double room,[455],455.0,M30
+857,01 Jan 2019,Furnished,Males or females,Salford Quays (M50),12 months,6 months,['£450 pcm'],Spacious Salford Quays Apartment with own Bathroom,Double room,[450],450.0,M50
+858,09 Feb 2019,Furnished,Males or females,Manchester (M14),None,12 months,['£405 pcm'],Looking for a flatmate for a 2 bed apartment,Double room,[405],405.0,M14
+859,04 Dec 2018,Furnished,Males or females,Manchester City Centre (M1),None,6 months,['£825 pcm'],Beautiful ONE bed apartment in trendy NQ!,Double room,[825],825.0,M1
+860,15 Dec 2018,Furnished,Female preferred,Prestwich (M25),None,2 months,['£500 pcm'],Large double furnished room in lovely house,Double room,[500],500.0,M25
+861,01 Dec 2018,No info,Males or females,West Didsbury (M20),None,6 months,['£400 pcm'],Friendly Houseshare in West Didsbury (Burton Rd),Double room,[400],400.0,M20
+862,Now,Furnished,Males or females,Newall Green (M23),None,None,['£425 pcm'],Large Double Furnished Airy Room,Double room,[425],425.0,M23
+863,Now,Furnished,Males or females,Hulme (M15),None,None,['£220 pw'],GOOD VIBES-let out comp.1 BedApt - quiet&safe area,Double room,[880],880.0,M15
+864,12 Dec 2018,Furnished,Males or females,Salford (M5),None,6 months,['£400 pcm'],Spacious en-suite double room in Salford Quays,Double room,[400],400.0,M5
+865,20 Dec 2018,Furnished,Males or females,Manchester City Centre (M3),None,None,['£700 pcm'],"Huge 2 bed, 2 bath flat in great location!",Double room,[700],700.0,M3
+866,Now,Furnished,Males or females,Victoria Park (M13),None,None,['£129 pw'],Cheap New Accomodation- Cinema and Gym,Double room,[516],516.0,M13
+867,07 Jan 2019,Furnished,Female preferred,Manchester (M13),12 months,3 months,['£140 pw'],*Short term let* Single bed 10 mins from UoM,Single room,[560],560.0,M13
+868,01 Dec 2018,Furnished,Males or females,Ardwick (M13),None,6 months,['£440 pcm'],"Close to City centre, University and shops",Double room,[440],440.0,M13
+869,Now,Furnished,Males or females,Eccles (M30),None,None,['£400 pcm'],Monton family home,Double room,[400],400.0,M30
+870,Now,Furnished,Males or females,Chorlton (M21),None,None,['£500 pcm'],Room in Chorlton,Single room,[500],500.0,M21
+871,Now,Furnished,Males or females,Old Trafford (M16),None,6 months,['£450 pcm'],NO BILLS Lovely Home with cleaner & fibre BB,Double room,[450],450.0,M16
+872,10 Jan 2019,Furnished,Female preferred,Manchester City Centre (M1),12 months,4 months,['£550 pcm'],Fully furnished double room Manchester city centre,Double room,[550],550.0,M1
+873,15 Jan 2019,Furnished,Males or females,Didsbury (M20),18 months,6 months,['£850 pcm'],En-suite double in large Didsbury apartment,Double room,[850],850.0,M20
+874,Now,Furnished,Males or females,Eccles (M30),None,2 months,['£360 pcm'],"Double Room - furnished, friendly, professional",Double room,[360],360.0,M30
+875,Now,Furnished,Male preferred,Fallowfield (M14),None,None,['£450 pcm'],Furnished double room with own private shower room,Double room,[450],450.0,M14
+876,10 Dec 2018,Furnished,Female preferred,Old Trafford (M16),None,None,['£400 pcm'],Big double room in terraced house with little yard,Double room,[400],400.0,M16
+877,Now,Furnished,Males or females,Fallowfield (M14),None,None,['£110 pw'],Double Bedroom close to Manchester Uni/Oxford Rd,Double room,[440],440.0,M14
+878,Now,Furnished,Males or females,Wythenshawe (M22),None,None,['£350 pcm'],Refurbished house !,Single room,[350],350.0,M22
+879,Now,Furnished,Males or females,Manchester (M9),None,None,"['£120 pw', '£95 pw']","3 rooms to rent. 1 single,1 double & 1 studio",Single + double,"[480, 380]",430.0,M9
+880,Now,Furnished,Males or females,Sale (M33),None,1 month,"['£420 pcm', '£420 pcm', '£420 pcm', '£470 pcm', '£440 pcm', '£390 pcm', '£470 pcm']",House share in Sale,Single room,"[420, 420, 420, 470, 440, 390, 470]",432.85714285714283,M33
+881,01 Dec 2018,Furnished,Female preferred,Levenshulme (M19),None,3 months,['£390 pcm'],large doub cosy incl 390pcm wifi 20 mins c,Double room,[390],390.0,M19
+882,Now,Furnished,Male preferred,Droylsden (M43),None,3 months,['£95 pw'],Large king size bed room to let,Double room,[380],380.0,M43
+883,04 Dec 2018,Furnished,Males or females,Manchester (M18),None,3 months,"['£79 pw', '£99 pw']",Beautiful Cosy Hotel Styel  Rooms to  Rent,Single + double,"[316, 396]",356.0,M18
+884,Now,No info,Males or females,Manchester (M3),6 months,None,['£390 pcm'],Large Unfurnished room in manchester/salford area,Double room,[390],390.0,M3
+885,Now,Furnished,Males or females,Fallowfield (M14),7 months,6 months,['£368 pcm'],Double bedroom on top floor,Double room,[368],368.0,M14
+886,20 Jan 2019,Furnished,Males or females,Withington (M20),None,3 months,['£450 pcm'],Large double room to rent in friendly clean house,Double room,[450],450.0,M20
+887,Now,No info,Males or females,Rusholme (M14),None,None,['£380 pcm'],Great location 5 min walk from Oxford Road .,Double room,[380],380.0,M14
+888,02 Dec 2018,Furnished,Males or females,Sale (M33),None,2 months,['£370 pcm'],*Available Now* All Bills & Parking in Sale,Double room,[370],370.0,M33
+889,Now,Furnished,Males or females,Abbey Hey (M18),None,6 months,"['£80 pw', '£80 pw', '£350 pcm', '£70 pw', '£70 pw']",Nice rooms to let Manchester (all bills Incl),2 singles + 3 doubles,"[320, 320, 350, 280, 280]",310.0,M18
+890,Now,Furnished,Female preferred,Salford (M6),12 months,None,['£469 pcm'],Room in house available in Salford,Double room,[469],469.0,M6
+891,Now,Furnished,Female preferred,Eccles (M30),3 months,1 month,['£450 pcm'],Monton Village private sunny double room/ensuite,Double room,[450],450.0,M30
+892,Now,Furnished,Males or females,Fallowfield (M14),6 months,6 months,['£433 pcm'],Cosy attic room in friendly sociable house,Double room,[433],433.0,M14
+893,Now,Furnished,No info,Salford (M6),None,1 month,['£143 pw (whole property)'],Iq Salford Silver Ensuite Double Bed,1 bed flat,[572],572.0,M6
+894,02 Jan 2019,Furnished,Males or females,Sale (M33),None,3 months,['£500 pcm'],Double room available,Double room,[500],500.0,M33
+895,25 Jan 2019,No info,Males or females,Chorlton (M21),None,None,['£500 pcm'],Double room in friendly house,Double room,[500],500.0,M21
+896,02 Jan 2019,Furnished,Female preferred,Stretford (M32),None,3 months,['£485 pcm'],Spacious Dbl room with ensuite in family home,Double room,[485],485.0,M32
+897,14 Jan 2019,Furnished,Female preferred,Didsbury Village (M20),6 months,6 months,['£470 pcm'],Room available in 3-bedroom flat in Didsbury,Double room,[470],470.0,M20
+898,Now,No info,Female preferred,Manchester City Centre (M4),None,None,['£550 pcm'],Double Bedroom In Green Quarter,Double room,[550],550.0,M4
+899,02 Dec 2018,Furnished,Males or females,Manchester (M8),None,6 months,['£300 pcm'],Spare room for rent,Single room,[300],300.0,M8
+900,12 Dec 2018,Furnished,Males or females,Burnage (M19),None,6 months,['£300 pcm'],Room in Big 3 Bed House- £300 Available December,Double room,[300],300.0,M19
+901,Now,Furnished,Males or females,Withington (M20),12 months,6 months,"['£385 pcm', '£285 pcm']",Creative Looking For House Mates (South Manc),Double room,"[385, 285]",335.0,M20
+902,Now,Furnished,Males or females,Rusholme (M14),5 months,5 months,['£350 pcm'],Room for Rent - for Student in Rusholme,Double room,[350],350.0,M14
+903,Now,Furnished,Males or females,Salford (M5),None,6 months,['£529 pcm'],Available Now  Double Bedroom 3 Bedroom Apartment,Double room,[529],529.0,M5
+904,07 Dec 2018,Furnished,Female preferred,Salford (M3),12 months,6 months,['£525 pcm'],King Size ensuite by the arndale,Double room,[525],525.0,M3
+905,Now,Furnished,Males or females,Denton (M34),None,2 months,['£525 pcm'],Very Clean Large Room En Suite Available Now.,Double room,[525],525.0,M34
+906,Now,Furnished,Female preferred,Whalley Range (M16),None,6 months,['£375 pcm'],Female Tenant,Double room,[375],375.0,M16
+907,18 Dec 2018,Furnished,Males or females,Manchester (M13),None,8 months,['£99 pw'],Nicely Furnished Large Double Room with Bills inc.,Double room,[396],396.0,M13
+908,Now,Furnished,Males or females,Salford (M6),None,None,['£711 pcm'],X1 the Campus Student Flat,Single room,[711],711.0,M6
+909,Now,Furnished,Males or females,Chorlton (M21),None,5 months,['£358 pcm'],Double Room - Chorlton House Share,Double room,[358],358.0,M21
+910,Now,Furnished,Males or females,Whalley Range (M16),None,None,['£100 pw'],Lovely room in quiet Whalley Range borders,Double room,[400],400.0,M16
+911,01 Dec 2018,Furnished,Males or females,Fallowfield (M14),None,6 months,['£280 pcm'],Double room house share.House newly built,Double room,[280],280.0,M14
+912,Now,Furnished,Males or females,Radcliffe (M26),None,3 months,['£350 pcm'],Double Room in newly decorated/furnished house All,Double room,[350],350.0,M26
+913,Now,Furnished,Males or females,Ladybarn (M14),None,6 months,['£450 pcm'],Double Room in Withington available NOW,Double room,[450],450.0,M14
+914,Now,Furnished,Males or females,Hulme (M15),None,6 months,['£250 pcm'],Friendly housemate wanted!,Double room,[250],250.0,M15
+915,Now,Part Furnished,No info,Blackley (M9),None,1 month,['Potential Buddy Ups'],450 Double  NO DEPOSIT. Bills Inc.,4 bed house,[],,M9
+916,Now,No info,Males or females,Atherton (M46),None,None,['£450 pcm'],Double room in Atherton,Double room,[450],450.0,M46
+917,Now,Furnished,Males or females,Manchester City Centre (M1),2 months,None,['£130 pw'],"City Centre Double, Interior Brick, Newly Done",Double room,[520],520.0,M1
+918,Now,Furnished,Female preferred,Eccles (M30),None,1 month,['£400 pcm'],1 Single room to rent,Single room,[400],400.0,M30
+919,03 Dec 2018,Furnished,Males or females,Manchester City Centre (M4),36 months,6 months,['Potential Buddy Ups'],2 bed duplex top floor flat in a converted mill,2 bed flat,[],,M4
+920,20 Dec 2018,No info,Males or females,Manchester City Centre (M4),None,1 month,['£550 pcm'],Double Room with Own Bathroom in Green Quarter,Double room,[550],550.0,M4
+921,Now,Furnished,Males or females,Salford (M5),None,3 months,['£400 pcm'],Nice and Clean,Double room,[400],400.0,M5
+922,15 Dec 2018,Furnished,Males or females,Wythenshawe (M22),None,3 months,['£450 pcm'],Furnished Double Bedroom Close to the Airport,Double room,[450],450.0,M22
+923,Now,No info,Males or females,Salford (M7),None,None,['£500 pcm'],Bedroom to Rent,Double room,[500],500.0,M7
+924,01 Dec 2018,Furnished,Males or females,Eccles (M30),None,2 months,['£450 pcm'],Home with a Hot Tub (9 Mins from City Centre),Double room,[450],450.0,M30
+925,Now,Furnished,Female preferred,Prestwich (M25),None,None,['£100 pw'],Spare room in family home,Single room,[400],400.0,M25
+926,Now,Furnished,Males or females,Openshaw (M11),12 months,6 months,"['£75 pw', '£100 pw']",Small or Double room for rent,Single + double,"[300, 400]",350.0,M11
+927,Now,Furnished,Males or females,Rusholme (M14),None,None,['£400 pcm'],Room to let,Double room,[400],400.0,M14
+928,19 Dec 2018,Furnished,Female preferred,West Didsbury (M20),None,12 months,['£520 pcm'],Room for rent in West Didsbury,Double room,[520],520.0,M20
+929,Now,Furnished,Males or females,Ardwick (M13),None,9 months,['£375 pcm'],Excellent Double Room Close to Manchester Uni,Double room,[375],375.0,M13
+930,01 Jan 2019,Furnished,Males or females,Fallowfield (M14),6 months,None,['£409 pcm'],"2 Rooms for Rent, Student Home, Jan-June 2019",Double room,[409],409.0,M14
+931,12 Dec 2018,Furnished,Males or females,Manchester (M13),None,6 months,['£330 pcm'],M13 Finished room Bills Included,Double room,[330],330.0,M13
+932,11 Dec 2018,Furnished,Males or females,Manchester City Centre (M1),24 months,6 months,['£395 pcm'],A Nice Single Room in City Centre,Single room,[395],395.0,M1
+933,Now,Furnished,Males or females,Cheetham Hill (M8),None,None,['£250 pcm'],Single Room to Rent,Single room,[250],250.0,M8
+934,Now,Furnished,Males or females,Radcliffe (M26),None,None,['£350 pcm'],Double room 7 miles M/CR centre,Double room,[350],350.0,M26
+935,Now,Furnished,Males or females,Eccles (M30),6 months,1 month,['£95 pw'],Double Room to Let,Double room,[380],380.0,M30
+936,01 Dec 2018,No info,Males or females,Rusholme (M14),None,None,['£350 pcm'],One Double Room_Short & Long Stays Bill Inc,Double room,[350],350.0,M14
+937,12 Dec 2018,Furnished,Female preferred,Rusholme (M14),None,None,['£60 pw'],Nice bedroom,Double room,[240],240.0,M14
+938,10 Jan 2019,Furnished,Males or females,Radcliffe (M26),None,6 months,['£95 pw'],Luxury House Share - 3 Minutes Walk to Metrolink,Double room,[380],380.0,M26
+939,08 Dec 2018,Furnished,No info,Manchester City Centre (M1),None,9 months,"['£1,096 pcm (whole property)']",1 bedroom apartment - inner city living,1 bed flat,[1096],1096.0,M1
+940,01 Dec 2018,Furnished,Female preferred,St Georges (M15),None,None,['£700 pcm'],Room with Own Private Bathroom and Car Parking,Double room,[700],700.0,M15
+941,Now,Furnished,Female preferred,Swinton (M27),None,3 months,"['£100 pw', '£100 pw']",Happy Home!,2 singles,"[400, 400]",400.0,M27
+942,Now,Furnished,Males or females,Salford (M6),None,5 months,['£470 pcm'],"Heights Of irlam, 2 Miles Media City",Double room,[470],470.0,M6
+943,08 Jan 2019,Furnished,Males or females,Chorlton (M21),None,None,['£360 pcm'],"Double room in friendly house share, fab location!",Double room,[360],360.0,M21
+944,02 Jan 2019,Furnished,Males or females,Ancoats (M4),None,None,['£500 pcm'],Monday-Friday let-10 min walk from Piccadilly,Double room,[500],500.0,M4
+945,01 Feb 2019,Furnished,Males or females,West Didsbury (M20),None,None,['£415 pcm'],Great Location,Double room,[415],415.0,M20
+946,01 Dec 2018,Furnished,Males or females,Levenshulme (M19),None,None,['£288 pcm'],Double room to Rent in Levenshulme,Double room,[288],288.0,M19
+947,01 Jan 2019,Furnished,Male preferred,St Georges (M15),None,12 months,['£430 pcm'],Double room for rent in a cool 5th floor apartment,Double room,[430],430.0,M15
+948,Now,Furnished,Males or females,Wythenshawe (M22),None,3 months,"['£440 pcm', '£415 pcm', '£440 pcm', '£360 pcm']",Professional House Share all bills included.,Double room,"[440, 415, 440, 360]",413.75,M22
+949,03 Dec 2018,Furnished,Female preferred,Old Trafford (M16),None,None,"['£280 pcm', '£340 pcm']",Lovely Room in clean + happy home,Double room,"[280, 340]",310.0,M16
+950,Now,Furnished,Males or females,Salford (M5),None,None,['£420 pcm'],Double room - £420 - Close to city centre,Double room,[420],420.0,M5
+951,Now,Furnished,Males or females,Middleton (M24),None,3 months,"['£163 pw', '£150 pw']",Fully Furnished 2 double bedrooms with 2 bathrooms,Double room,"[652, 600]",626.0,M24
+952,07 Jan 2019,Furnished,Female preferred,Manchester (M12),None,3 months,['£100 pw'],Double room in Friendly Professional House,Double room,[400],400.0,M12
+953,02 Dec 2018,Furnished,Males or females,Chorlton (M21),None,6 months,['£99 pw'],Large Double Room in Chorlton.,Double room,[396],396.0,M21
+954,Now,Furnished,Males or females,Old Trafford (M16),3 months,12 months,['£500 pcm'],Double Bed Room,Double room,[500],500.0,M16
+955,Now,Furnished,Males or females,Astley (M29),None,6 months,['£500 pcm'],Brand New Home,Double room,[500],500.0,M29
+956,01 Dec 2018,Furnished,Female preferred,Salford (M5),None,6 months,['£560 pcm'],Double room in lovely Salford Quays apt  - female,Double room,[560],560.0,M5
+957,14 Dec 2018,Furnished,Males or females,Fallowfield (M14),None,None,['£220 pcm'],Flatmate  Wanted December - September,Double room,[220],220.0,M14
+958,05 Dec 2018,Furnished,Female preferred,St Georges (M15),None,3 months,['£500 pcm'],£450 + Mon - Fri Castlefield  Double En Suite,Double room,[500],500.0,M15
+959,Now,No info,Males or females,Firswood (M16),None,None,['£395 pcm'],Spacious Double Room to Rent (Ground floor),Double room,[395],395.0,M16
+960,28 Dec 2018,Furnished,Female preferred,Manchester City Centre (M3),None,6 months,['£720 pcm'],Beautiful double room in Greengate Apartments,Double room,[720],720.0,M3
+961,Now,No info,Males or females,Manchester City Centre (M1),None,8 months,['£167 pw'],Premium range 2 en-suite Student accommodation i,Single room,[668],668.0,M1
+962,Now,Furnished,Female preferred,Sale (M33),None,None,['£400 pcm'],"House share in large, friendly house in Sale",Single room,[400],400.0,M33
+963,Now,Furnished,Males or females,Northern Moor (M23),None,None,['£95 pw'],Cosy single room. Ideal for airport staff,Single room,[380],380.0,M23
+964,Now,Furnished,Female preferred,Prestwich (M25),None,4 months,['£90 pw'],Double room in shared house-prestwich,Double room,[360],360.0,M25
+965,Now,Furnished,Males or females,East Didsbury (M20),7 months,None,['£600 pcm'],House share available in East Didsbury,Double room,[600],600.0,M20
+966,Now,Furnished,Males or females,Irlam (M44),None,6 months,"['£400 pcm', '£400 pcm']",Brand new refurbished  house en suite double beds,2 doubles,"[400, 400]",400.0,M44
+967,Now,Furnished,Males or females,Newton Heath (M40),None,3 months,"['£350 pcm', '£275 pcm']",Fully furnished Single and Double Room available,Single + double,"[350, 275]",312.5,M40
+968,Now,Furnished,Males or females,Partington (M31),None,None,['£500 pcm'],We are a married couple 55 and 59 years old .,Double room,[500],500.0,M31
+969,20 Mar 2019,Furnished,Female preferred,Manchester (M13),None,4 months,['£131 pw'],March 2019 -  Ensuite Double Room Female Flat,Double room,[524],524.0,M13
+970,Now,Furnished,Males or females,Moston (M40),None,None,['£500 pcm'],One Double Bedroom For Rent,Double room,[500],500.0,M40
+971,Now,Furnished,Males or females,Urmston (M41),None,3 months,"['£385 pcm', '£390 pcm', '£395 pcm', '£350 pcm']",Room in a shared house near Urmston Town Centre,Double room,"[385, 390, 395, 350]",380.0,M41
+972,20 Dec 2018,Furnished,Males or females,Fallowfield (M14),6 months,6 months,['£494 pcm'],Double Room for rent,Double room,[494],494.0,M14
+973,Now,Furnished,Males or females,Benchill (M22),None,1 month,['£80 pw'],Double bedroom,Double room,[320],320.0,M22
+974,09 Dec 2018,Furnished,Female preferred,Salford (M5),None,1 month,['£420 pcm'],Double room available (Females),Double room,[420],420.0,M5
+975,Now,Furnished,Males or females,West Didsbury (M20),None,1 month,['£350 pcm'],Single room to let in quiet gay-friendly house,Single room,[350],350.0,M20
+976,Now,Furnished,Males or females,Fallowfield (M14),7 months,None,['£411 pcm'],"Lovely room to rent in Fallowfield, Manchester",Double room,[411],411.0,M14
+977,Now,Furnished,Males or females,Withington (M20),None,3 months,['£650 pcm'],Large double en-suite bedroom in M20,Double room,[650],650.0,M20
+978,Now,Furnished,Males or females,Wythenshawe (M22),None,None,['£400 pcm'],Ensuit room available in M22,Single room,[400],400.0,M22
+979,Now,Furnished,Males or females,Fallowfield (M14),7 months,7 months,['£116 pw'],Room in student house to rent ASAP,Double room,[464],464.0,M14
+980,23 Dec 2018,Furnished,Female preferred,St Georges (M15),None,3 months,"['£650 pcm', '£650 pcm']",2 bed apartment to let,2 doubles,"[650, 650]",650.0,M15
+981,01 Dec 2018,Furnished,Males or females,Fallowfield (M14),None,None,['£541 pcm'],Double room in a house share in  Fallowfield,Double room,[541],541.0,M14
+982,Now,Furnished,Males or females,Manchester City Centre (M3),None,4 months,['£790 pcm'],Double room | 38th floor Beetham Tower,Double room,[790],790.0,M3
+983,06 Jan 2019,No info,Males or females,Hulme (M15),None,None,['£575 pcm'],1 Double Bedroom Flat To Let Out.,Double room,[575],575.0,M15
+984,08 Dec 2018,Furnished,Males or females,Old Trafford (M16),None,3 months,['£370 pcm'],Double Room In a Cosy House,Double room,[370],370.0,M16
+985,19 Dec 2018,Furnished,Males or females,Rusholme (M14),None,None,['£111 pw'],High quality double room Bills Included Rusholme,Double room,[444],444.0,M14
+986,13 Jan 2019,Part Furnished,No info,Levenshulme (M19),None,6 months,['£680 pcm (whole property)'],2 bed terraced hourse to rent,2 bed house,[680],680.0,M19
+987,01 Dec 2018,Furnished,Female preferred,Fallowfield (M14),None,6 months,['£480 pcm'],Lovely tidy house looking for new female housemate,Double room,[480],480.0,M14
+988,Now,Furnished,Males or females,Baguley (M23),None,6 months,['£450 pcm'],"Spacious, cosy double room- local transport links",Double room,[450],450.0,M23
+989,Now,Furnished,Males or females,Ardwick (M13),None,6 months,['£300 pcm'],"Close to Uni, Single room available",Single room,[300],300.0,M13
+990,Now,Furnished,Males or females,Eccles (M30),None,3 months,['£450 pcm'],Large Furnished Double room.  Monton,Double room,[450],450.0,M30
+991,Now,Furnished,Males or females,Salford (M6),None,None,['£500 pcm'],Room for rent in gorgeous Salford house.,Double room,[500],500.0,M6
+992,07 Jan 2019,Furnished,Female preferred,Hulme (M15),None,1 month,['£650 pcm'],Lovely Double Room in clean modern Townhouse,Double room,[650],650.0,M15
+993,Now,Furnished,Female preferred,Manchester (M8),None,None,['£350 pcm'],Single room to let - Avaliable immediately,Single room,[350],350.0,M8
+994,10 Jan 2019,No info,Males or females,Manchester City Centre (M1),None,None,['£425 pcm'],1 bedroom available in fantastic city centre flat,Double room,[425],425.0,M1
+995,01 Dec 2018,Furnished,Males or females,Manchester (M1),None,None,"['£1,068 pcm']",Miss Badriya,Double room,[1068],1068.0,M1
+996,Now,Furnished,Males or females,Blackley (M9),None,None,"['£80 pw', '£80 pw']",2 double rooms for rent.Blackley Area,2 doubles,"[320, 320]",320.0,M9
+997,Now,Furnished,Female preferred,Fallowfield (M14),None,4 months,['£450 pcm'],Double Room to rent in homely house x,Double room,[450],450.0,M14
+998,Now,Furnished,Males or females,Ardwick (M13),None,9 months,['£280 pcm'],"Single room, close to universities and station.",Single room,[280],280.0,M13
+999,Now,Furnished,Males or females,Hulme (M15),8 months,None,['£375 pcm'],Double bedroom room - Hulme,Double room,[375],375.0,M15
+1000,Now,Furnished,Males or females,Manchester City Centre (M4),None,None,['£500 pcm'],Amazing central double bedroom in NQ!,Double room,[500],500.0,M4
+1001,Now,No info,Males or females,Manchester (M60),10 months,9 months,['£168 pw'],Lambert and Fairfield House,Single room,[672],672.0,M60
+1002,Now,Furnished,Female preferred,Burnage (M19),None,None,['£450 pcm'],Female preferred- Newly decorated big room,Single room,[450],450.0,M19
+1003,Now,Furnished,Males or females,Manchester (M14),8 months,8 months,['£303 pcm'],Student Only Dble Room Rushulme £75Ppw,Double room,[303],303.0,M14
+1004,Now,No info,Males or females,Droylsden (M43),None,6 months,"['£500 pcm', '£500 pcm', '£500 pcm', '£500 pcm', '£500 pcm', '£475 pcm']",***House Share - All Bills Included Plus Wifi***,6 doubles,"[500, 500, 500, 500, 500, 475]",495.8333333333333,M43
+1005,14 Jan 2019,Furnished,Males or females,Fallowfield (M14),None,None,['£600 pcm'],Double in Friendly Fallowfield Flat! NO DEPOSIT,Double room,[600],600.0,M14
+1006,Now,Furnished,Males or females,Eccles (M30),None,6 months,"['£450 pcm', '£450 pcm', '£450 pcm', '£450 pcm', '£450 pcm']",*Brand New* Large Double Rooms! Cmk Just £450 Pm,5 doubles,"[450, 450, 450, 450, 450]",450.0,M30
+1007,Now,No info,Males or females,Rusholme (M14),None,None,['£140 pw'],Oxney House and Gardens Flat,Double room,[560],560.0,M14
+1008,Now,Furnished,Female preferred,Salford (M5),None,2 months,['£500 pcm'],Lovely Double Room,Double room,[500],500.0,M5
+1009,Now,Furnished,Males or females,Middleton (M24),None,3 months,['£300 pcm'],Double room in house share,Double room,[300],300.0,M24
+1010,Now,Furnished,Males or females,Manchester (M19),None,6 months,"['£75 pw', '£85 pw', '£85 pw', '£85 pw']",Large Double Room Manchester(Burnage/ Didsbury),Single + double,"[300, 340, 340, 340]",330.0,M19
+1011,Now,Furnished,Female preferred,Fallowfield (M14),12 months,6 months,"['£110 pw', '£100 pw']",1 double room and 1 single room to rent,Single + double,"[440, 400]",420.0,M14
+1012,Now,Furnished,Males or females,Manchester (M18),None,6 months,"['£699 pcm', '£699 pcm']",2 bed Ground Flat Manchester (all bills inc),2 doubles,"[699, 699]",699.0,M18
+1013,Now,Furnished,Males or females,Longsight (M12),None,6 months,"['£395 pcm', '£350 pcm', '£395 pcm']",Spacious Double Rooms in comfortable house,2 doubles,"[395, 350, 395]",380.0,M12
+1014,Now,Furnished,Males or females,Salford (M5),None,None,['£550 pcm'],En-Suite Double Room near City Centre (Bills Inc.),Double room,[550],550.0,M5
+1015,Now,Furnished,Males or females,Rusholme (M14),None,3 months,['£300 pcm'],Two Double Rooms to Available,Double room,[300],300.0,M14
+1016,06 Jan 2019,Furnished,Males or females,Manchester City Centre (M3),2 months,1 month,['£630 pcm'],"Super Friendly, Clean and Quiet Apartment!",Double room,[630],630.0,M3
+1017,21 Jan 2019,No info,Males or females,Ancoats (M4),None,12 months,"['£502 pcm', '£502 pcm']",2 Bed Flat to rent in Manchester,2 doubles,"[502, 502]",502.0,M4
+1018,Now,Furnished,Female preferred,Manchester City Centre (M1),None,6 months,['£550 pcm'],Spacious Triplex Apartment in City Centre,Double room,[550],550.0,M1
+1019,15 Dec 2018,Furnished,Female preferred,Castlefield (M3),None,3 months,['£500 pcm'],2 bedroom flat to rent in Deansgate,Double room,[500],500.0,M3
+1020,Now,Furnished,Males or females,Manchester City Centre (M4),8 months,None,['£136 pw'],Lovely double room in a 4 bedroom flat,Double room,[544],544.0,M4
+1021,02 Jan 2019,Furnished,Males or females,Denton (M34),None,1 month,['£400 pcm'],Double room available,Double room,[400],400.0,M34
+1022,Now,Furnished,Males or females,Rusholme (M14),None,7 months,['£333 pcm'],Room to Rent in Student Home from Dec/Jan to June,Double room,[333],333.0,M14

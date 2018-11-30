@@ -1,0 +1,751 @@
+,Availablility,Furnishing,Gender_requirement,Location,Max_period,Min_period,Price,Short_description,Size,Price_per_month,Average_price_per_month,Postal_code
+0,Now,Furnished,Males or females,Liverpool (L15),None,6 months,['£119 pw'],Fabulous Boutique Hotel Style Luxury House Share,Double room,[476],476.0,L15
+1,Now,Furnished,Males or females,Liverpool (L6),None,6 months,"['£280 pcm', '£280 pcm', '£280 pcm', '£280 pcm', '£280 pcm', '£280 pcm', '£280 pcm']",Lovely Double Rooms Available Now,5 doubles,"[280, 280, 280, 280, 280, 280, 280]",280.0,L6
+2,Now,Furnished,Males or females,Liverpool City Centre (L6),None,6 months,"['£90 pw', '£80 pw', '£80 pw', '£80 pw']",Refurbished Double Rooms near City-centre,4 doubles,"[360, 320, 320, 320]",330.0,L6
+3,15 Dec 2018,Furnished,Males or females,Liverpool City Centre (L1),6 months,6 months,['£115 pw'],Tenancy Available for Now or January 2019,Double room,[460],460.0,L1
+4,01 Dec 2018,Furnished,Males or females,Liverpool (L15),None,6 months,"['£360 pcm', '£330 pcm']",>>>>Black Friday Offer!!<<<<,2 doubles,"[360, 330]",345.0,L15
+5,02 Jan 2019,Furnished,Males or females,Aigburth (L17),None,6 months,['£350 pcm'],>>Large Double Room!! NO DEPOSIT!!!<<,Double room,[350],350.0,L17
+6,01 Dec 2018,Furnished,Males or females,Allerton (L18),None,6 months,"['£330 pcm', '£360 pcm']",>>>>Black Friday Offer!!<<<<,2 doubles,"[330, 360]",345.0,L18
+7,01 Dec 2018,Furnished,Males or females,Aigburth (L17),None,6 months,['£345 pcm'],>>>>Black Friday Offer!!<<<<,Double room,[345],345.0,L17
+8,Now,Furnished,Males or females,Liverpool (L15),None,3 months,['£300 pcm'],>>>Last room at this low low price<<<,Double room,[300],300.0,L15
+9,Now,Furnished,Males or females,Walton (L9),None,3 months,['£280 pcm'],Very spacious property with friendly housemates,Double room,[280],280.0,L9
+10,Now,Furnished,Males or females,Whiston (L35),None,3 months,['£365 pcm'],En-suite double room close to Whiston Hospital,Double room,[365],365.0,L35
+11,07 Jan 2019,Furnished,Males or females,Liverpool (L8),None,6 months,['£430 pcm'],Modern Large Double Room!! NO DEPOSIT!!!,Double room,[430],430.0,L8
+12,Now,Furnished,Males or females,Liverpool (L6),None,6 months,['£595 pcm'],En-suite Double Room garden parking bills £595,Double room,[595],595.0,L6
+13,Now,Furnished,Males or females,Liverpool (L6),None,6 months,['£450 pcm'],Double £450 Wi Fi and all bills Kensington,Double room,[450],450.0,L6
+14,Now,Furnished,Males or females,Liverpool (L6),None,3 months,['£400 pcm'],Hampstead Double all bills inc £400 pcmWi Fi,Double room,[400],400.0,L6
+15,22 Dec 2018,Furnished,Males or females,Liverpool (L6),None,6 months,['£400 pcm'],Double Wi Fi Inc bills £400pcm (52 W),Double room,[400],400.0,L6
+16,Now,Furnished,Males or females,Liverpool (L6),None,6 months,['£500 pcm'],Large double room all bills inc £500 pcm,Double room,[500],500.0,L6
+17,Now,Furnished,Males or females,Liverpool (L7),None,2 months,['£70 pw'],"1 double bedroom - Stanley Street, L7",Double room,[280],280.0,L7
+18,01 Feb 2019,Furnished,Males or females,Liverpool (L6),None,2 months,['£80 pw'],1 double room 1st Feb 2019 - Sheil Road,Double room,[320],320.0,L6
+19,01 Jan 2019,Furnished,Males or females,Liverpool (L6),None,1 month,"['£70 pw', '£70 pw', '£70 pw', '£70 pw']",3 double bedrooms available 1/1/19 - Mansell Road,3 doubles,"[280, 280, 280, 280]",280.0,L6
+20,11 Dec 2018,Furnished,Males or females,Liverpool (L6),None,1 month,"['£80 pw', '£80 pw']",2 Double rooms available - Hinton Street,2 doubles,"[320, 320]",320.0,L6
+21,Now,Furnished,Males or females,Liverpool (L6),None,2 months,"['£85 pw', '£85 pw', '£85 pw']",Newly renovated 3 Bedroom Houseshare Parton Street,3 doubles,"[340, 340, 340]",340.0,L6
+22,Now,Furnished,Males or females,Liverpool (L7),None,6 months,"['£350 pcm', '£350 pcm', '£350 pcm', '£320 pcm', '£295 pcm', '£350 pcm', '£320 pcm', '£295 pcm', '£350 pcm']",Great Room with All Bills and Cleaner inc.,Double room,"[350, 350, 350, 320, 295, 350, 320, 295, 350]",331.1111111111111,L7
+23,Now,Furnished,Males or females,Liverpool (L7),None,6 months,"['£325 pcm', '£325 pcm']",1 Room to rent £325 pm bills included,Double room,"[325, 325]",325.0,L7
+24,03 Dec 2018,Furnished,Males or females,Liverpool (L6),None,2 months,['£75 pw'],"1 Double room available - Halsbury Road, L6",Double room,[300],300.0,L6
+25,Now,Furnished,Males or females,Walton (L9),None,6 months,['£550 pcm'],3 Bed House to Rent - £550,Double room,[550],550.0,L9
+26,Now,Furnished,Males or females,Liverpool (L6),None,None,['£300 pcm'],Room  Available  close to University,Double room,[300],300.0,L6
+27,Now,Furnished,Males or females,Liverpool (L17),None,6 months,"['£99 pw', '£89 pw', '£95 pw', '£89 pw', '£100 pw']",No Deposit Bills Included First Week Free,4 doubles,"[396, 356, 380, 356, 400]",377.6,L17
+28,Now,Furnished,Males or females,Liverpool (L9),None,6 months,"['£90 pw', '£65 pw', '£100 pw', '£90 pw', '£69 pw']",Beautiful Last Double Room  *Bills Included*,Double room,"[360, 260, 400, 360, 276]",331.2,L9
+29,Now,Furnished,Males or females,Liverpool (L19),None,3 months,"['£95 pw', '£100 pw', '£75 pw', '£65 pw', '£90 pw', '£100 pw', '£80 pw', '£95 pw', '£75 pw']","*Bills Included*  Rooms  Broughton Drve, L19",4 doubles,"[380, 400, 300, 260, 360, 400, 320, 380, 300]",344.44444444444446,L19
+30,01 Dec 2018,Furnished,Males or females,Liverpool (L6),None,1 month,"['£75 pw', '£75 pw']",Clean Quiet House Share- September Road L6,2 doubles,"[300, 300]",300.0,L6
+31,Now,Furnished,Male preferred,Liverpool (L15),None,None,['£65 pw'],Homely accommodation for independent person.,Double room,[260],260.0,L15
+32,Now,Furnished,Males or females,Liverpool (L7),None,3 months,['£275 pcm'],Very cheap lovely single room in L7,Single room,[275],275.0,L7
+33,Now,Furnished,Males or females,Liverpool (L5),None,3 months,['£85 pw'],Lovely Friendly Home - Double room available,Double room,[340],340.0,L5
+34,Now,Furnished,Males or females,Liverpool (L5),None,3 months,['£368 pcm'],"Spacious, light and airy room",Double room,[368],368.0,L5
+35,Now,Furnished,Males or females,Liverpool (L4),None,4 months,"['£411 pcm', '£368 pcm', '£368 pcm', '£368 pcm', '£368 pcm']",FIVE Brand New Rooms- couples room 1-5,5 doubles,"[411, 368, 368, 368, 368]",376.6,L4
+36,Now,Furnished,Males or females,Liverpool (L5),None,2 months,"['£368 pcm', '£368 pcm']",2 Rooms available in lovely friendly clean house,2 doubles,"[368, 368]",368.0,L5
+37,10 Dec 2018,Furnished,Males or females,Prescot (L34),None,6 months,"['£450 pcm', '£450 pcm', '£450 pcm', '£450 pcm', '£410 pcm', '£390 pcm']",Luxury professional house share,Double room,"[450, 450, 450, 450, 410, 390]",433.3333333333333,L34
+38,01 Dec 2018,No info,Males or females,Liverpool (L13),None,None,['£300 pcm'],Spare  Room in Tuebrook,Double room,[300],300.0,L13
+39,Now,Furnished,Males or females,Liverpool (L13),None,3 months,['£400 pcm'],2 Bed House Share with Live-in-Landlord,Double room,[400],400.0,L13
+40,Now,Furnished,Males or females,Liverpool (L7),None,None,"['£84 pw', '£84 pw']",Two Large Fully Furnished Rooms to Let,2 doubles,"[336, 336]",336.0,L7
+41,Now,Furnished,No info,Liverpool City Centre (L1),None,None,['£158 pw (whole property)'],VITA Student Studio,1 bed flat,[632],632.0,L1
+42,10 Dec 2018,Furnished,Males or females,Liverpool (L8),12 months,12 months,"['£350 pcm', '£300 pcm', '£250 pcm', '£300 pcm']",Dr Mohamed omar,Single + 3 doubles,"[350, 300, 250, 300]",300.0,L8
+43,02 Jan 2019,Furnished,Males or females,Liverpool City Centre (L3),None,2 months,['£400 pcm'],Waterfront  Spare Room,Single room,[400],400.0,L3
+44,01 Dec 2018,Furnished,Males or females,Aigburth (L17),None,6 months,"['£350 pcm', '£350 pcm']",>>>>Black Friday Offer!!<<<<,2 doubles,"[350, 350]",350.0,L17
+45,Now,Furnished,Males or females,Liverpool (L6),None,None,['£375 pcm'],L6-1RM-Great for professionals & hospital staff!,Double room,[375],375.0,L6
+46,Now,No info,Males or females,Liverpool (L15),None,None,"['£230 pcm', '£200 pcm', '£230 pcm', '£230 pcm']",Three rooms available in Wavertree from £200PCM,3 doubles,"[230, 200, 230, 230]",222.5,L15
+47,Now,No info,Males or females,Liverpool (L15),None,None,"['£230 pcm', '£230 pcm', '£240 pcm']",Three rooms available in Picton from £230PCM,3 doubles,"[230, 230, 240]",233.33333333333334,L15
+48,Now,Furnished,Males or females,Liverpool City Centre (L7),None,1 month,['£95 pw'],Double bed room in Liverpool City Centre,Double room,[380],380.0,L7
+49,Now,Furnished,Males or females,Liverpool City Centre (L7),None,1 month,['£90 pw'],Single bed room in Liverpool City Centre,Single room,[360],360.0,L7
+50,Now,Furnished,Males or females,Allerton (L18),None,7 months,"['£77 pw', '£77 pw', '£77 pw', '£77 pw', '£77 pw']",Student rooms/houses 2018/19/20 Bills included,2 doubles,"[308, 308, 308, 308, 308]",308.0,L18
+51,Now,Furnished,Males or females,Allerton (L18),None,6 months,"['£350 pcm', '£350 pcm', '£330 pcm', '£350 pcm', '£350 pcm', '£270 pcm']",Large double furnished rooms Allerton,Double room,"[350, 350, 330, 350, 350, 270]",333.3333333333333,L18
+52,02 Feb 2019,Furnished,Males or females,Liverpool (L7),None,3 months,"['£80 pw', '£90 pw', '£110 pw', '£100 pw']",Rooms in Kensington house,Single room,"[320, 360, 440, 400]",380.0,L7
+53,Now,Furnished,Males or females,Liverpool (L6),None,3 months,"['£310 pcm', '£240 pcm', '£270 pcm', '£270 pcm', '£320 pcm', '£285 pcm']",Furnished Room in Modern and Clean House,2 singles,"[310, 240, 270, 270, 320, 285]",282.5,L6
+54,Now,No info,Males or females,Liverpool (L15),None,None,"['£300 pcm', '£270 pcm', '£360 pcm', '£360 pcm']",â¦ï¸Barrington Rd â¦ï¸Grant Aveâ¦ï¸â¦ï¸,Double room,"[300, 270, 360, 360]",322.5,L15
+55,Now,Furnished,Males or females,Liverpool (L7),None,None,"['£74 pw', '£84 pw']",**2 Weeks Rent Free**Houseshare All Bills Included,2 doubles,"[296, 336]",316.0,L7
+56,23 Dec 2018,Furnished,Males or females,Liverpool (L4),None,6 months,"['£305 pcm', '£240 pcm', '£240 pcm', '£350 pcm']",Boutique Houseshare **Fully Furnished**,Single + double,"[305, 240, 240, 350]",283.75,L4
+57,Now,Furnished,Males or females,Liverpool (L4),None,6 months,"['£70 pw', '£80 pw', '£75 pw', '£85 pw']",*No Admin Fee* Cosy 4-bed/ 2 baths House-share,Double room,"[280, 320, 300, 340]",310.0,L4
+58,Now,Furnished,Males or females,Liverpool (L7),None,6 months,"['£375 pcm', '£250 pcm', '£295 pcm', '£350 pcm', '£385 pcm', '£295 pcm']",Double Room near City Centre,2 doubles,"[375, 250, 295, 350, 385, 295]",325.0,L7
+59,Now,Furnished,Males or females,Liverpool City Centre (L7),None,6 months,"['£90 pw', '£90 pw', '£85 pw', '£75 pw', '£85 pw']",**Xmas Deal: No Admin Fee!** 20Min to City Centre,Double room,"[360, 360, 340, 300, 340]",340.0,L7
+60,Now,Furnished,Males or females,Liverpool City Centre (L7),None,6 months,"['£310 pcm', '£335 pcm', '£360 pcm', '£340 pcm', '£360 pcm']",**Xmas Deal: No Admin Fee** Xl Room by City Centre,Double room,"[310, 335, 360, 340, 360]",341.0,L7
+61,Now,Furnished,Males or females,Liverpool (L4),None,None,['£400 pcm'],The Lodge House â room available â,Double room,[400],400.0,L4
+62,Now,Furnished,Males or females,Liverpool (L13),None,6 months,"['£575 pcm', '£600 pcm', '£600 pcm', '£515 pcm', '£515 pcm', '£450 pcm', '£480 pcm']",Ensuite Luxury Pads  **Xmas Deal: No Admin Fee!**,3 doubles,"[575, 600, 600, 515, 515, 450, 480]",533.5714285714286,L13
+63,Now,Furnished,Males or females,Liverpool City Centre (L3),9 months,None,['£122 pw'],Modern Double Ensuite Room - All Bills Included,Double room,[488],488.0,L3
+64,Now,Furnished,Males or females,Liverpool (L15),None,6 months,"['£340 pcm', '£325 pcm', '£250 pcm', '£250 pcm', '£250 pcm', '£325 pcm', '£250 pcm']",XL Rooms Near Centre,Double room,"[340, 325, 250, 250, 250, 325, 250]",284.2857142857143,L15
+65,Now,Furnished,Males or females,Liverpool (L15),None,6 months,"['£80 pw', '£80 pw', '£90 pw', '£80 pw', '£85 pw', '£85 pw']",Very spacious detached house share - Off Smithdown,3 doubles,"[320, 320, 360, 320, 340, 340]",333.3333333333333,L15
+66,01 Dec 2018,Furnished,Males or females,Liverpool (L15),None,6 months,"['£360 pcm', '£330 pcm']",>>>>Black Friday Offer!!<<<<,2 doubles,"[360, 330]",345.0,L15
+67,01 Dec 2018,Furnished,Males or females,Allerton (L18),None,3 months,['£325 pcm'],>>>>Black Friday Offer!!<<<<,Double room,[325],325.0,L18
+68,08 Dec 2018,Furnished,Males or females,Liverpool (L15),None,6 months,"['£360 pcm', '£340 pcm', '£350 pcm', '£330 pcm', '£285 pcm']",Large Double*Friendly House-share off Smithdown Rd,Double room,"[360, 340, 350, 330, 285]",333.0,L15
+69,Now,Furnished,Males or females,Liverpool (L15),None,6 months,"['£90 pw', '£80 pw', '£75 pw', '£65 pw', '£85 pw', '£85 pw']",*Boutique Flat on Smithdown Rd* XL ROOM w/ SOFA,2 doubles,"[360, 320, 300, 260, 340, 340]",320.0,L15
+70,Now,Furnished,Males or females,Liverpool (L15),None,6 months,"['£80 pw', '£85 pw', '£90 pw', '£90 pw', '£95 pw']",5 brand new En-suites Smithdown Rd **Rathbone,5 doubles,"[320, 340, 360, 360, 380]",352.0,L15
+71,Now,Furnished,Males or females,Liverpool (L15),None,6 months,"['£90 pw', '£75 pw', '£95 pw', '£85 pw', '£85 pw']",5 New Rooms in Central Location,2 doubles,"[360, 300, 380, 340, 340]",344.0,L15
+72,Now,Furnished,Males or females,Aigburth (L17),None,6 months,"['£380 pcm', '£300 pcm']",First Month Rent Half Price**Sunbourne Road,Double room,"[380, 300]",340.0,L17
+73,12 Jan 2019,Furnished,Males or females,Aigburth (L17),None,6 months,"['£295 pcm', '£305 pcm', '£305 pcm', '£330 pcm', '£345 pcm', '£305 pcm', '£320 pcm']",Low Deposit *Minutes Walk to Sefton Park!*,Double room,"[295, 305, 305, 330, 345, 305, 320]",315.0,L17
+74,17 Dec 2018,Furnished,Males or females,Liverpool (L4),None,6 months,"['£325 pcm', '£300 pcm', '£425 pcm', '£300 pcm', '£350 pcm']",**No Fees No Deposit**Excellent Size Double Rooms,Double room,"[325, 300, 425, 300, 350]",340.0,L4
+75,Now,Furnished,Males or females,Liverpool (L4),None,None,"['£90 pw', '£90 pw', '£90 pw', '£75 pw']",*Excellent Furnished 3 Bedrooms Near City Centre*,Single + 2 doubles,"[360, 360, 360, 300]",345.0,L4
+76,Now,Furnished,Males or females,Liverpool (L6),None,6 months,"['£75 pw', '£80 pw', '£70 pw', '£70 pw', '£70 pw', '£70 pw']",Boutique house *Minutes* to City Centre,3 doubles,"[300, 320, 280, 280, 280, 280]",290.0,L6
+77,Now,Furnished,Males or females,Liverpool (L9),None,6 months,"['£400 pcm', '£400 pcm', '£495 pcm']",**Upgrade your Pad Before Christmas**,3 doubles,"[400, 400, 495]",431.6666666666667,L9
+78,Now,Furnished,Males or females,Liverpool (L18),None,6 months,"['£85 pw', '£85 pw', '£85 pw', '£85 pw', '£75 pw']",*Boutique house* Live on the Beatles' street!,5 doubles,"[340, 340, 340, 340, 300]",332.0,L18
+79,Now,Furnished,Males or females,Bootle (L20),None,6 months,"['£299 pcm', '£310 pcm', '£305 pcm', '£320 pcm']",Newly refurbished 4-bed house for Sociable Sharers,Single + 3 doubles,"[299, 310, 305, 320]",308.5,L20
+80,12 Dec 2018,Furnished,Males or females,Prescot (L34),None,6 months,"['£70 pw', '£85 pw', '£70 pw', '£85 pw']",***Double Room Steley Way***,Double room,"[280, 340, 280, 340]",310.0,L34
+81,Now,Furnished,Males or females,Prescot (L35),None,6 months,"['£390 pcm', '£260 pcm', '£345 pcm', '£303 pcm']",***First Months Rent Half Price***Shaw Lane,Double room,"[390, 260, 345, 303]",324.5,L35
+82,Now,Furnished,No info,Liverpool (L6),None,6 months,['Potential Buddy Ups'],"Brilliant Location , available immediately",2 bed house,[],,L6
+83,Now,Furnished,Female preferred,Liverpool (L33),None,None,"['£100 pw', '£85 pw']",Liverpool L33 Females preferred!,Double room,"[400, 340]",370.0,L33
+84,Now,Furnished,Males or females,Liverpool (L17),None,6 months,"['£375 pcm', '£375 pcm', '£330 pcm', '£330 pcm']",***First Month 1/2 Price*** Xl Room Sefton,4 doubles,"[375, 375, 330, 330]",352.5,L17
+85,Now,Furnished,Males or females,Liverpool (L15),None,6 months,"['£75 pw', '£75 pw', '£75 pw', '£75 pw']",Rooms Available Fully Refurbished  L15,3 doubles,"[300, 300, 300, 300]",300.0,L15
+86,Now,Furnished,Males or females,Liverpool (L6),None,6 months,['£85 pw'],1 room available Fully refurbished  L6,Double room,[340],340.0,L6
+87,Now,Furnished,Males or females,Liverpool (L13),None,6 months,"['£85 pw', '£90 pw']",Rooms Available L13,2 doubles,"[340, 360]",350.0,L13
+88,Now,Furnished,Males or females,Liverpool (L15),None,6 months,"['£290 pcm', '£290 pcm', '£290 pcm', '£260 pcm', '£290 pcm', '£290 pcm', '£260 pcm']",Great Value Rooms with Cleaner and All Bills Inc,Double room,"[290, 290, 290, 260, 290, 290, 260]",281.42857142857144,L15
+89,01 Dec 2018,Furnished,Males or females,Aigburth (L17),None,6 months,['£345 pcm'],>>>>Black Friday Offer!!<<<<,Double room,[345],345.0,L17
+90,Now,Furnished,Males or females,Liverpool (L6),None,1 month,['£90 pw'],1 Room available 10 bed Property L6,Double room,[360],360.0,L6
+91,Now,Furnished,Males or females,Garston (L19),None,None,['£350 pcm'],Lodger wanted! £350 p/m bills included,Double room,[350],350.0,L19
+92,01 Dec 2018,Furnished,Males or females,Liverpool (L15),None,6 months,['£350 pcm'],>>>>Black Friday Offer!!<<<<,Double room,[350],350.0,L15
+93,01 Dec 2018,Furnished,Males or females,Allerton (L18),None,3 months,['£325 pcm'],>>>>Black Friday Offer!!<<<<,Double room,[325],325.0,L18
+94,01 Dec 2018,Furnished,Males or females,Aigburth (L17),None,3 months,"['£375 pcm', '£345 pcm']",>>>>Black Friday Offer!!<<<<,2 doubles,"[375, 345]",360.0,L17
+95,01 Dec 2018,Furnished,Males or females,Aigburth (L17),None,6 months,"['£350 pcm', '£350 pcm']",>>>>Black Friday Offer!!<<<<,2 doubles,"[350, 350]",350.0,L17
+96,05 Dec 2018,Furnished,Males or females,Liverpool (L15),None,3 months,"['£75 pw', '£75 pw', '£75 pw', '£75 pw', '£75 pw', '£75 pw']","Hurry, Last Few Rooms! No Deposit L15 Wavertree",2 singles + 4 doubles,"[300, 300, 300, 300, 300, 300]",300.0,L15
+97,14 Dec 2018,Furnished,Males or females,Mossley Hill (L18),12 months,1 month,['£80 pw'],Post Graduate Rooms Close to I M Marsh Campus,Single room,[320],320.0,L18
+98,14 Dec 2018,Furnished,Males or females,Garston (L19),None,3 months,['£75 pw'],NO DEPOSIT : Rooms in Garston from just £75 p/w!!,Double room,[300],300.0,L19
+99,Now,Furnished,Males or females,Liverpool (L6),None,6 months,"['£280 pcm', '£280 pcm', '£280 pcm', '£280 pcm', '£280 pcm', '£280 pcm', '£280 pcm']",Lovely Double Rooms Available Now,5 doubles,"[280, 280, 280, 280, 280, 280, 280]",280.0,L6
+100,01 Dec 2018,Furnished,Males or females,Liverpool (L15),None,3 months,['£300 pcm'],Large Room With TV Inc. broadband & utility Bills,Double room,[300],300.0,L15
+101,Now,Furnished,Female preferred,Liverpool (L7),None,6 months,"['£345 pcm', '£325 pcm', '£315 pcm', '£325 pcm']",Large room in shared house near hospital and uni,Double room,"[345, 325, 315, 325]",327.5,L7
+102,22 Dec 2018,Furnished,Female preferred,Aigburth (L17),None,6 months,"['£500 pcm', '£475 pcm', '£450 pcm']",Sefton Park;  Exceptional houseshare with cleaner;,Double room,"[500, 475, 450]",475.0,L17
+103,07 Dec 2018,Furnished,Female preferred,Aigburth (L17),None,6 months,"['£450 pcm', '£450 pcm']",Lrge dble in newly refurbished 2 bed nr Lark Lane,2 doubles,"[450, 450]",450.0,L17
+104,Now,Furnished,Female preferred,Grassendale (L19),None,6 months,"['£350 pcm', '£350 pcm', '£385 pcm']",2 dbles female share + cleaner off Aigburth Rd,Double room,"[350, 350, 385]",361.6666666666667,L19
+105,13 Dec 2018,Furnished,Males or females,Liverpool (L8),6 months,6 months,"['£400 pcm', '£400 pcm', '£450 pcm']",Luxury Double Bedroom in Sefton Park area,2 doubles,"[400, 400, 450]",416.6666666666667,L8
+106,Now,Furnished,Males or females,Liverpool (L8),None,6 months,"['£325 pcm', '£325 pcm', '£325 pcm', '£325 pcm', '£325 pcm']","5 Double Bedrooms, 5 Personal Bathrooms",Double room,"[325, 325, 325, 325, 325]",325.0,L8
+107,Now,Furnished,No info,Liverpool (L8),None,6 months,['Potential Buddy Ups'],5 Bed Flat (all en-suites) Wavertree/Sdown/Sefton,4 bed flat,[],,L8
+108,Now,Furnished,Males or females,Liverpool (L13),None,6 months,"['£90 pw', '£85 pw', '£100 pw', '£100 pw', '£85 pw', '£90 pw']",2 Rooms Left Stunning 6 bed mutlilet. Bills incl,2 doubles,"[360, 340, 400, 400, 340, 360]",366.6666666666667,L13
+109,Now,Furnished,Males or females,Liverpool (L9),None,None,['£89 pw'],Newly Renovated No deposit   3 miles  to City,Double room,[356],356.0,L9
+110,Now,Furnished,Males or females,Liverpool (L13),None,6 months,"['£65 pw', '£75 pw', '£75 pw', '£90 pw', '£90 pw', '£75 pw']",5* Luxury 6 Bed 4 Bath House Share - No Deposit!!!,2 doubles,"[260, 300, 300, 360, 360, 300]",313.3333333333333,L13
+111,Now,Furnished,Males or females,Liverpool (L17),None,6 months,"['£90 pw', '£90 pw', '£90 pw', '£65 pw']",A Recently Refurbished 4 Bedroom Flat Share,Single + 3 doubles,"[360, 360, 360, 260]",335.0,L17
+112,Now,Furnished,Males or females,Liverpool (L4),None,None,"['£90 pw', '£90 pw']",Walton Hall Park  king size room  no deposit,Double room,"[360, 360]",360.0,L4
+113,Now,Furnished,Males or females,Scaris-brick (L40),None,6 months,['£100 pw'],Farmhouse near Ormskirk/Southport,Single room,[400],400.0,L40
+114,Now,Furnished,Males or females,Liverpool (L13),None,2 months,"['£250 pcm', '£350 pcm', '£350 pcm', '£325 pcm', '£350 pcm']",New refurbished house in Old Swan L13,Single room,"[250, 350, 350, 325, 350]",325.0,L13
+115,Now,Furnished,Males or females,Liverpool City Centre (L8),None,6 months,"['£450 pcm', '£450 pcm', '£450 pcm', '£450 pcm', '£450 pcm', '£475 pcm', '£475 pcm', '£475 pcm', '£475 pcm', '£475 pcm', '£495 pcm', '£550 pcm']",Luxury Co Living Professional Block,12 doubles,"[450, 450, 450, 450, 450, 475, 475, 475, 475, 475, 495, 550]",472.5,L8
+116,Now,Furnished,No info,Liverpool City Centre (L6),None,None,['£350 pcm (whole property)'],Large 1 Bed Unfurnished Flat Near City Centre,1 bed flat,[350],350.0,L6
+117,Now,Furnished,Males or females,Liverpool City Centre (L7),None,6 months,"['£375 pcm', '£395 pcm', '£415 pcm']",Newly Refurbished young professional house,3 doubles,"[375, 395, 415]",395.0,L7
+118,Now,Furnished,Males or females,Liverpool (L4),None,3 months,['£275 pcm'],Large Ensuite Studio Style Room,Double room,[275],275.0,L4
+119,Now,Furnished,Males or females,Liverpool City Centre (L6),None,10 months,"['£85 pw', '£85 pw', '£85 pw', '£85 pw', '£85 pw', '£85 pw']",Brand New 6 Bed House 2019,6 doubles,"[340, 340, 340, 340, 340, 340]",340.0,L6
+120,Now,Furnished,Males or females,Liverpool City Centre (L7),None,11 months,"['£95 pw', '£95 pw', '£95 pw', '£95 pw']","4 Bed Student, 5 Minute Walk to Uni!",4 doubles,"[380, 380, 380, 380]",380.0,L7
+121,01 Aug 2019,Furnished,Males or females,Liverpool City Centre (L7),None,11 months,"['£100 pw', '£100 pw', '£100 pw', '£100 pw']",All En Suite 4 Bed Student House 2019,4 doubles,"[400, 400, 400, 400]",400.0,L7
+122,Now,Furnished,Males or females,Liverpool City Centre (L7),None,11 months,"['£90 pw', '£90 pw', '£90 pw', '£90 pw', '£90 pw', '£90 pw']",6 bed Student house as close to UNI as possible!,6 doubles,"[360, 360, 360, 360, 360, 360]",360.0,L7
+123,01 Apr 2019,Furnished,Males or females,Liverpool City Centre (L6),None,11 months,"['£85 pw', '£85 pw', '£85 pw', '£85 pw', '£85 pw', '£85 pw']",6 Bed Student House for March 2019,6 doubles,"[340, 340, 340, 340, 340, 340]",340.0,L6
+124,01 Sep 2019,Furnished,Males or females,Liverpool City Centre (L7),None,10 months,"['£90 pw', '£90 pw', '£90 pw', '£90 pw', '£90 pw', '£90 pw']",6 Bed Student House 0.5 Miles from Uni!,6 doubles,"[360, 360, 360, 360, 360, 360]",360.0,L7
+125,02 Aug 2019,Furnished,Males or females,Liverpool City Centre (L6),None,11 months,"['£85 pw', '£85 pw', '£85 pw']",5 Bed Student Modern House,3 doubles,"[340, 340, 340]",340.0,L6
+126,02 Aug 2019,Furnished,Males or females,Liverpool City Centre (L8),None,11 months,"['£70 pw', '£70 pw', '£70 pw', '£70 pw']",£70 p/w Student Double Rooms 2019 - No Fees!,4 doubles,"[280, 280, 280, 280]",280.0,L8
+127,Now,Furnished,Males or females,Garston (L19),None,6 months,['£265 pcm'],Large Double Room Near Speke & Garston,Double room,[265],265.0,L19
+128,Now,Furnished,Males or females,Liverpool (L15),None,None,"['£425 pcm', '£395 pcm', '£375 pcm']","Luxury four bed house, All Doubles",3 doubles,"[425, 395, 375]",398.3333333333333,L15
+129,Now,Furnished,Males or females,Liverpool City Centre (L6),None,6 months,['£375 pcm'],New Luxury 4 Bed House Share! 1 Room Left!,Double room,[375],375.0,L6
+130,Now,Furnished,Males or females,Liverpool (L4),None,3 months,"['£275 pcm', '£225 pcm', '£275 pcm', '£325 pcm']",Cheap Rent!,4 doubles,"[275, 225, 275, 325]",275.0,L4
+131,Now,Furnished,Males or females,Liverpool (L15),None,3 months,"['£425 pcm', '£375 pcm']","All Ensuites, Fully Refurbished 5 bed!",2 doubles,"[425, 375]",400.0,L15
+132,Now,Furnished,Males or females,Liverpool (L15),None,3 months,['£300 pcm'],>>>Last room at this low low price<<<,Double room,[300],300.0,L15
+133,02 Jan 2019,Furnished,Males or females,Aigburth (L17),None,6 months,['£350 pcm'],>>Large Double Room!! NO DEPOSIT!!!<<,Double room,[350],350.0,L17
+134,Now,Furnished,Males or females,Liverpool (L15),12 months,3 months,['£400 pcm'],New Large En Suite Room!,Double room,[400],400.0,L15
+135,Now,Furnished,Males or females,Liverpool City Centre (L6),None,6 months,"['£285 pcm', '£220 pcm']",No Fees or Deposit!!,Double room,"[285, 220]",252.5,L6
+136,Now,Furnished,Males or females,Liverpool City Centre (L6),None,None,"['£335 pcm', '£335 pcm', '£335 pcm', '£350 pcm']",4 Bed House 1 En Suite Close to Town!,4 doubles,"[335, 335, 335, 350]",338.75,L6
+137,Now,Furnished,Males or females,Liverpool City Centre (L7),None,3 months,"['£75 pw', '£75 pw', '£75 pw', '£75 pw', '£75 pw', '£75 pw']",Large Rooms available 10 minutes from city centre,6 doubles,"[300, 300, 300, 300, 300, 300]",300.0,L7
+138,Now,No info,Males or females,Aigburth (L17),None,None,"['£300 pcm', '£325 pcm', '£350 pcm', '£350 pcm', '£350 pcm']",Huge rooms and Communal living in Aigburth,5 doubles,"[300, 325, 350, 350, 350]",335.0,L17
+139,Now,Furnished,Males or females,Liverpool City Centre (L7),None,3 months,"['£375 pcm', '£375 pcm', '£375 pcm', '£375 pcm']",Brand New Student Property!,4 doubles,"[375, 375, 375, 375]",375.0,L7
+140,Now,Furnished,Males or females,Garston (L19),None,3 months,"['£330 pcm', '£390 pcm', '£395 pcm', '£350 pcm', '£390 pcm', '£425 pcm']",1 Large Room Left Near Airport!,Double room,"[330, 390, 395, 350, 390, 425]",380.0,L19
+141,Now,Furnished,Males or females,Liverpool City Centre (L7),None,6 months,['£415 pcm'],Off Suite Room in Luxury House Share!,Double room,[415],415.0,L7
+142,Now,Furnished,Males or females,Liverpool City Centre (L8),None,3 months,"['£375 pcm', '£400 pcm', '£375 pcm']",Rooms Available in Massive Property,3 doubles,"[375, 400, 375]",383.3333333333333,L8
+143,Now,Furnished,Males or females,Liverpool City Centre (L7),None,3 months,['£375 pcm'],1 Room Left- Large Ensuite,Double room,[375],375.0,L7
+144,Now,Furnished,Males or females,Liverpool City Centre (L7),None,6 months,"['£350 pcm', '£350 pcm', '£375 pcm', '£325 pcm']",New 4 Bed Student House Ideal for Masters Students,2 doubles,"[350, 350, 375, 325]",350.0,L7
+145,Now,Furnished,Males or females,Allerton (L18),None,6 months,['£325 pcm'],Beautiful House in Mossley Hill by Penny Lane!,Double room,[325],325.0,L18
+146,Now,Furnished,Males or females,Allerton (L18),None,3 months,['£325 pcm'],Mossley Hill Home by Penny Lane/Allerton Road,Double room,[325],325.0,L18
+147,Now,Furnished,Males or females,Liverpool City Centre (L6),None,3 months,['£375 pcm'],Brand new all luxury house!,Double room,[375],375.0,L6
+148,Now,Furnished,Males or females,Aigburth (L17),None,6 months,"['£550 pcm', '£433 pcm', '£390 pcm', '£450 pcm', '£390 pcm', '£550 pcm', '£550 pcm', '£395 pcm', '£550 pcm', '£425 pcm', '£425 pcm', '£425 pcm']",Huge Studio En Suite Room Lark Lane,Double room,"[550, 433, 390, 450, 390, 550, 550, 395, 550, 425, 425, 425]",461.0833333333333,L17
+149,01 Jul 2019,Furnished,Males or females,Liverpool City Centre (L8),11 months,10 months,"['£100 pw', '£100 pw', '£100 pw', '£105 pw', '£105 pw', '£105 pw', '£110 pw', '£115 pw', '£115 pw', '£115 pw', '£90 pw', '£90 pw']","Brand New, All Ensuite Rooms, Students 2018",12 doubles,"[400, 400, 400, 420, 420, 420, 440, 460, 460, 460, 360, 360]",416.6666666666667,L8
+150,Now,Furnished,Males or females,Liverpool City Centre (L6),None,3 months,"['£350 pcm', '£327 pcm', '£250 pcm']","Spacious Rooms, Big house, Cheap Rent!",Single + 2 doubles,"[350, 327, 250]",309.0,L6
+151,Now,Furnished,Males or females,Liverpool (L15),None,6 months,"['£325 pcm', '£335 pcm', '£375 pcm']",Luxury New House in Nice Area,3 doubles,"[325, 335, 375]",345.0,L15
+152,Now,Furnished,Males or females,Liverpool (L9),None,6 months,"['£275 pcm', '£295 pcm', '£295 pcm']","No Fees, Massive Rooms, 1 x En suite Left",3 doubles,"[275, 295, 295]",288.3333333333333,L9
+153,Now,Furnished,Males or females,Liverpool (L4),None,6 months,"['£300 pcm', '£325 pcm']",All Girls! All En Suite and Big Rooms!,2 doubles,"[300, 325]",312.5,L4
+154,Now,Furnished,Males or females,Liverpool City Centre (L3),None,2 months,['£80 pw'],Double room City Centre Students + Professionals,Double room,[320],320.0,L3
+155,Now,Furnished,Males or females,Aigburth (L17),None,6 months,"['£80 pw', '£80 pw', '£80 pw', '£80 pw']",A Recently Refurbished 4 Bedroom Flat Share,Double room,"[320, 320, 320, 320]",320.0,L17
+156,Now,Furnished,Males or females,Liverpool City Centre (L7),None,6 months,['£350 pcm'],Close to City Centre! New Refurb! Tv per Room,Double room,[350],350.0,L7
+157,Now,Furnished,Males or females,Liverpool City Centre (L7),None,6 months,"['£325 pcm', '£265 pcm']","Lads House. No Fees, cheap rent and large rooms!",2 doubles,"[325, 265]",295.0,L7
+158,Now,Furnished,Males or females,Liverpool City Centre (L8),None,3 months,"['£350 pcm', '£325 pcm']","Huge garden ,Games Room, Close To  Lark Lane",2 doubles,"[350, 325]",337.5,L8
+159,Now,Furnished,Males or females,Liverpool City Centre (L6),None,10 months,"['£295 pcm', '£295 pcm']",4 Bed Small House with Big Rooms L7!,2 doubles,"[295, 295]",295.0,L6
+160,Now,Furnished,Males or females,Liverpool City Centre (L7),None,3 months,"['£395 pcm', '£475 pcm']",Huge En Suite Double Rooms in Modern House!,2 doubles,"[395, 475]",435.0,L7
+161,Now,Furnished,Males or females,Liverpool (L13),None,3 months,"['£325 pcm', '£350 pcm', '£350 pcm']","Small House with Large Rooms, NO Fees!",3 doubles,"[325, 350, 350]",341.6666666666667,L13
+162,Now,Furnished,Males or females,Liverpool City Centre (L7),None,6 months,['£375 pcm'],En Suite Large Room in a 4 Bed Flat!,Double room,[375],375.0,L7
+163,Now,Furnished,Males or females,Liverpool City Centre (L7),None,3 months,['£325 pcm'],"HUGE ROOM, Just off Edge Lane! Great links to M62!",Double room,[325],325.0,L7
+164,Now,Furnished,Males or females,Liverpool (L17),None,6 months,"['£476 pcm', '£465 pcm']",Huge Studio En Suite Room Lark Lane,2 doubles,"[476, 465]",470.5,L17
+165,Now,Furnished,Males or females,Liverpool (L4),None,3 months,['£350 pcm'],"Brand new Refurb, Ensuite HUGE ROOM",Double room,[350],350.0,L4
+166,Now,Furnished,Males or females,Liverpool (L9),None,6 months,['£265 pcm'],"Near Aintree Hospital, Walk in Wardrobe",Double room,[265],265.0,L9
+167,Now,Unfurnished,No info,Liverpool (L4),None,6 months,['Potential Buddy Ups'],2 Bed Unfurnished Family House,2 bed house,[],,L4
+168,Now,Furnished,Female preferred,Liverpool (L15),None,6 months,['£425 pcm'],Luxury Double Room in 3 Bed All Girls House!,Double room,[425],425.0,L15
+169,Now,Furnished,Males or females,Liverpool (L4),None,None,"['£375 pcm', '£275 pcm']",1 Large Studio and 1 Big Double Room,2 doubles,"[375, 275]",325.0,L4
+170,Now,Furnished,Males or females,Bootle (L20),None,6 months,"['£250 pcm', '£265 pcm', '£295 pcm']",Large Rooms in Bootle. No Fees!!,3 doubles,"[250, 265, 295]",270.0,L20
+171,Now,Furnished,Males or females,Liverpool (L9),None,6 months,"['£385 pcm', '£385 pcm']","1 Week Free Rent, New Refurb, Close to Hospital",2 doubles,"[385, 385]",385.0,L9
+172,Now,Furnished,Males or females,Liverpool (L15),None,6 months,['£225 pcm'],"All Male House, 1 Room Left! Cheap Rent!",Double room,[225],225.0,L15
+173,Now,Furnished,Males or females,Liverpool (L15),None,3 months,"['£395 pcm', '£375 pcm', '£425 pcm']",New New New - Luxury 4 Bed Professional,3 doubles,"[395, 375, 425]",398.3333333333333,L15
+174,Now,Furnished,Males or females,Liverpool (L6),None,None,['£95 pw'],Room available in newly refurbished shared house!,Double room,[380],380.0,L6
+175,Now,Furnished,Males or females,Mossley Hill (L18),None,1 month,['£300 pcm'],Cozy double room in lovely houseshare,Double room,[300],300.0,L18
+176,Now,Furnished,Males or females,Liverpool City Centre (L6),None,6 months,"['£85 pw', '£85 pw', '£80 pw', '£85 pw', '£85 pw', '£95 pw']",Awesome new rooms -  *LAST ROOM*,Double room,"[340, 340, 320, 340, 340, 380]",343.3333333333333,L6
+177,01 Dec 2018,Furnished,Males or females,Liverpool (L15),None,6 months,['£350 pcm'],>>>>Black Friday Offer!!<<<<,Double room,[350],350.0,L15
+178,01 Dec 2018,Furnished,Males or females,Aigburth (L17),None,1 month,"['£400 pcm', '£470 pcm']",1 double room sharing   2 bathrooms  between 3,Double room,"[400, 470]",435.0,L17
+179,Now,Furnished,Males or females,Liverpool (L18),None,3 months,"['£370 pcm', '£420 pcm']",Double Room Available in Excellent Location,Double room,"[370, 420]",395.0,L18
+180,Now,Furnished,Males or females,Liverpool (L7),10 months,4 months,"['£76 pw', '£76 pw', '£76 pw']",Rooms availabe in 5 Bed Student House,2 doubles,"[304, 304, 304]",304.0,L7
+181,01 Jan 2019,Furnished,Males or females,Liverpool (L7),None,4 months,"['£75 pw', '£75 pw', '£75 pw']",3 Double Bedrooms Short Term Let for Students,3 doubles,"[300, 300, 300]",300.0,L7
+182,01 Jul 2019,Furnished,Males or females,Liverpool (L7),None,12 months,"['£75 pw', '£75 pw', '£75 pw', '£75 pw']",4 Double Bedrooms in a Student House,4 doubles,"[300, 300, 300, 300]",300.0,L7
+183,Now,Furnished,Males or females,Liverpool (L20),None,3 months,"['£70 pw', '£80 pw', '£80 pw', '£80 pw']",Bootle Shared house available - All bills included,Single + 3 doubles,"[280, 320, 320, 320]",310.0,L20
+184,Now,Furnished,Males or females,Liverpool (L13),None,2 months,"['£84 pw', '£72 pw']",Lovely Victorian Home to share :),2 doubles,"[336, 288]",312.0,L13
+185,Now,Furnished,Female preferred,Liverpool (L7),6 months,6 months,['£563 pcm'],Ensuite Double room to rent in Liverpool,Double room,[563],563.0,L7
+186,Now,Furnished,Males or females,Liverpool City Centre (L3),None,7 months,['£94 pw'],£500 cash back student accommodation in Marybone,Single room,[376],376.0,L3
+187,01 Jan 2019,Furnished,Males or females,Liverpool (L7),None,6 months,"['£105 pw', '£110 pw']",PhD / Post Grad Student rooms from Jan 19,2 doubles,"[420, 440]",430.0,L7
+188,01 Dec 2018,Furnished,Males or females,Liverpool City Centre (L6),None,None,"['£280 pcm', '£280 pcm', '£300 pcm', '£300 pcm']",Newly Refurbished L6 High Spec City Centre House,Single + double,"[280, 280, 300, 300]",290.0,L6
+189,03 Dec 2018,Furnished,Males or females,Liverpool (L3),None,3 months,['£495 pcm'],Warm en-suite with friendly flat mate,Double room,[495],495.0,L3
+190,Now,Furnished,Males or females,Liverpool (L15),None,6 months,['£119 pw'],Fabulous Boutique Hotel Style Luxury House Share,Double room,[476],476.0,L15
+191,Now,Furnished,Males or females,Liverpool City Centre (L3),None,None,['£500 pcm'],Double bedroom in 2 bed apartment,Double room,[500],500.0,L3
+192,Now,Furnished,Males or females,Liverpool (L15),None,3 months,"['£340 pcm', '£300 pcm', '£300 pcm', '£260 pcm']",2 rooms in Wavertree with cleaner from £260pm,Single + double,"[340, 300, 300, 260]",300.0,L15
+193,01 Dec 2018,Furnished,Males or females,Liverpool (L17),None,None,['£375 pcm'],Double bedroom to rent,Double room,[375],375.0,L17
+194,Now,Furnished,Males or females,Liverpool (L7),None,6 months,"['£325 pcm', '£325 pcm']",1 Room to rent £325 pm bills included,Double room,"[325, 325]",325.0,L7
+195,Now,Furnished,Males or females,Liverpool City Centre (L6),None,8 months,['£225 pcm'],***Newly Renovated Double Room Near City Centre***,Double room,[225],225.0,L6
+196,Now,No info,Males or females,Liverpool City Centre (L6),None,5 months,['£51 pw'],***Newly Renovated Double Room Near City Centre***,Double room,[204],204.0,L6
+197,Now,Furnished,Males or females,Liverpool (L4),None,4 months,"['£315 pcm', '£300 pcm', '£325 pcm', '£325 pcm', '£370 pcm']",Double Room - Newly Renovated CLEANING Incl,Double room,"[315, 300, 325, 325, 370]",327.0,L4
+198,07 Jan 2019,Furnished,Males or females,Liverpool (L8),None,6 months,['£430 pcm'],Modern Large Double Room!! NO DEPOSIT!!!,Double room,[430],430.0,L8
+199,Now,Furnished,Males or females,Liverpool (L4),None,4 months,"['£315 pcm', '£300 pcm', '£325 pcm', '£325 pcm', '£370 pcm']",Double Room - Newly Renovated CLEANING Incl,Double room,"[315, 300, 325, 325, 370]",327.0,L4
+200,Now,Furnished,Males or females,Liverpool (L15),None,6 months,"['£290 pcm', '£290 pcm', '£290 pcm', '£260 pcm', '£290 pcm', '£290 pcm', '£260 pcm']",Great Value Rooms with Cleaner and All Bills Inc,Double room,"[290, 290, 290, 260, 290, 290, 260]",281.42857142857144,L15
+201,Now,Furnished,Males or females,Aigburth (L17),None,6 months,"['£375 pcm', '£350 pcm', '£325 pcm', '£325 pcm', '£325 pcm']",XL Double Room close to Sefton Park!,Double room,"[375, 350, 325, 325, 325]",340.0,L17
+202,Now,Furnished,Males or females,Liverpool City Centre (L8),None,None,"['£130 pw', '£130 pw', '£130 pw', '£130 pw', '£130 pw', '£150 pw']",Luxury Ensuite Rooms City Cente,6 doubles,"[520, 520, 520, 520, 520, 600]",533.3333333333334,L8
+203,Now,Furnished,Males or females,Liverpool (L7),None,None,"['£325 pcm', '£325 pcm', '£325 pcm', '£325 pcm', '£325 pcm', '£325 pcm', '£325 pcm']",High Quality Ensuite  Double and single Rooms,Single + double,"[325, 325, 325, 325, 325, 325, 325]",325.0,L7
+204,Now,Furnished,Males or females,Liverpool (L6),None,None,"['£375 pcm', '£375 pcm', '£375 pcm', '£375 pcm', '£375 pcm', '£375 pcm', '£375 pcm', '£375 pcm', '£375 pcm', '£375 pcm', '£375 pcm']",High quality Ensuite Rooms close to city centre,Double room,"[375, 375, 375, 375, 375, 375, 375, 375, 375, 375, 375]",375.0,L6
+205,Now,Furnished,Males or females,Liverpool City Centre (L6),None,None,"['£100 pw', '£400 pcm', '£400 pcm', '£400 pcm', '£400 pcm', '£400 pcm']",Ensuite Rooms City Centre,Double room,"[400, 400, 400, 400, 400, 400]",400.0,L6
+206,Now,Furnished,Males or females,Liverpool City Centre (L1),None,11 months,"['£125 pw', '£125 pw', '£125 pw', '£125 pw', '£125 pw', '£125 pw']",Luxury Rooms City Cente,6 doubles,"[500, 500, 500, 500, 500, 500]",500.0,L1
+207,Now,Furnished,Males or females,Liverpool City Centre (L8),None,6 months,"['£115 pw', '£115 pw', '£115 pw']",Luxury House Share (3 people MAX!),3 doubles,"[460, 460, 460]",460.0,L8
+208,Now,Furnished,Males or females,Liverpool City Centre (L6),None,6 months,['£330 pcm'],Beautifully Refurbished Double Room. One week free,Double room,[330],330.0,L6
+209,01 Dec 2018,Furnished,Males or females,Liverpool (L6),None,6 months,['£375 pcm'],"Huge,Spacious Room for Rent inc Bills, L6 NO FEE",Double room,[375],375.0,L6
+210,05 Jan 2019,Furnished,Males or females,Liverpool City Centre (L3),15 months,8 months,['£162 pw'],Stunning Studio's in the heart of Liverpool,Single room,[648],648.0,L3
+211,Now,Furnished,Males or females,Liverpool (L6),None,3 months,"['£350 pcm', '£325 pcm', '£350 pcm', '£325 pcm', '£305 pcm', '£350 pcm']",Excellent House Share,Double room,"[350, 325, 350, 325, 305, 350]",334.1666666666667,L6
+212,Now,No info,Males or females,Liverpool (L13),None,3 months,"['£365 pcm', '£365 pcm', '£365 pcm', '£385 pcm']",****Stunning 4 Bedroom House Share*****,2 doubles,"[365, 365, 365, 385]",370.0,L13
+213,Now,Furnished,Males or females,Liverpool (L13),None,3 months,"['£372 pcm', '£350 pcm', '£450 pcm', '£372 pcm', '£325 pcm']",Lovely House Share  2 Rooms Available Now,2 doubles,"[372, 350, 450, 372, 325]",373.8,L13
+214,01 Sep 2019,Furnished,Males or females,Liverpool City Centre (L1),11 months,3 months,"['£135 pw', '£130 pw', '£115 pw', '£110 pw', '£115 pw', '£115 pw', '£115 pw', '£115 pw', '£110 pw', '£115 pw']",En-suite Student Rooms All Utilities Inc. L1,8 singles + 2 doubles,"[540, 520, 460, 440, 460, 460, 460, 460, 440, 460]",470.0,L1
+215,01 Sep 2019,Furnished,Males or females,Liverpool (L7),None,11 months,['£85 pw'],Student rooms for rent (Liverpool),Single room,[340],340.0,L7
+216,Now,Furnished,Males or females,Liverpool (L11),None,4 months,"['£295 pcm', '£310 pcm', '£325 pcm', '£350 pcm']","4 Double rooms in L11, Near TJ Morris., Croxteth",4 doubles,"[295, 310, 325, 350]",320.0,L11
+217,Now,Furnished,Males or females,Liverpool (L8),None,1 month,"['£70 pw', '£70 pw']",1 double room available - Boswell Street,Double room,"[280, 280]",280.0,L8
+218,15 Dec 2018,Furnished,No info,Liverpool (L15),12 months,3 months,['£335 pcm (whole property)'],*********1 Room for a Male Avail Now*******,5 bed house,[335],335.0,L15
+219,Now,Furnished,Males or females,Ormskirk (L39),24 months,4 months,"['£105 pw', '£100 pw']",Rooms to let in Ormskirk town centre £105 pw,2 doubles,"[420, 400]",410.0,L39
+220,01 Dec 2018,Furnished,Males or females,Allerton (L18),None,6 months,"['£330 pcm', '£360 pcm']",>>>>Black Friday Offer!!<<<<,2 doubles,"[330, 360]",345.0,L18
+221,01 Dec 2018,Furnished,Males or females,Aigburth (L17),None,3 months,"['£375 pcm', '£345 pcm']",>>>>Black Friday Offer!!<<<<,2 doubles,"[375, 345]",360.0,L17
+222,Now,Furnished,Males or females,Liverpool (L4),None,3 months,"['£325 pcm', '£70 pw', '£100 pw', '£100 pw', '£109 pw']",Fully furnished luxury room close to city,Double room,"[325, 280, 400, 400, 436]",368.2,L4
+223,Now,Furnished,Males or females,Liverpool (L13),None,None,"['£90 pw', '£85 pw', '£80 pw', '£100 pw', '£95 pw']",Rooms To let in newly refurbish House L13,2 doubles,"[360, 340, 320, 400, 380]",360.0,L13
+224,Now,Furnished,Males or females,Ormskirk (L39),None,6 months,"['£75 pw', '£75 pw', '£75 pw', '£75 pw']","5 Bed Shared Student Accommodation, Halsall Lan",Double room,"[300, 300, 300, 300]",300.0,L39
+225,Now,Furnished,Males or females,Aigburth (L17),None,6 months,"['£80 pw', '£80 pw', '£80 pw', '£80 pw']",A Recently Refurbished 4 Bedroom Flat Share,Double room,"[320, 320, 320, 320]",320.0,L17
+226,Now,Furnished,Males or females,Liverpool (L17),None,6 months,"['£90 pw', '£90 pw', '£90 pw', '£65 pw']",A Recently Refurbished 4 Bedroom Flat Share,Single + 3 doubles,"[360, 360, 360, 260]",335.0,L17
+227,Now,Furnished,Males or females,Liverpool City Centre (L7),None,3 months,"['£330 pcm', '£350 pcm']",Amazing rooms - top Liverpool Location - Low dep.,2 doubles,"[330, 350]",340.0,L7
+228,Now,Furnished,Males or females,Liverpool (L13),None,6 months,"['£75 pw', '£90 pw', '£75 pw', '£85 pw']",Rooms Available from £75.00,2 doubles,"[300, 360, 300, 340]",325.0,L13
+229,Now,Furnished,Males or females,Aigburth (L17),None,6 months,"['£79 pw', '£79 pw', '£79 pw', '£79 pw', '£79 pw']",Excellent Location. Large Apartment. Recently reno,5 doubles,"[316, 316, 316, 316, 316]",316.0,L17
+230,Now,Furnished,Males or females,Liverpool (L17),None,6 months,"['£95 pw', '£95 pw', '£95 pw']",Beautiful restored Victorian House to rent,3 doubles,"[380, 380, 380]",380.0,L17
+231,Now,Furnished,Males or females,Liverpool City Centre (L2),None,12 months,['£110 pw'],King Size Room in city centre flat for Rent,Double room,[440],440.0,L2
+232,Now,Furnished,Males or females,Liverpool City Centre (L3),None,10 months,"['£135 pw', '£135 pw', '£135 pw', '£135 pw', '£135 pw', '£135 pw', '£135 pw', '£135 pw']",The Paramount by Cloud Student Homes,8 doubles,"[540, 540, 540, 540, 540, 540, 540, 540]",540.0,L3
+233,Now,Furnished,Males or females,Liverpool City Centre (L3),None,10 months,"['£125 pw', '£125 pw', '£125 pw', '£125 pw', '£125 pw', '£125 pw', '£125 pw', '£125 pw', '£125 pw', '£125 pw', '£125 pw', '£125 pw']",Plato House - Lettings by Cloud Student Homes,12 doubles,"[500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500]",500.0,L3
+234,01 Dec 2018,Furnished,Female preferred,Liverpool (L18),None,6 months,['£330 pcm'],Double room just off Penny Lane,Double room,[330],330.0,L18
+235,Now,Furnished,Males or females,Liverpool (L13),None,6 months,"['£65 pw', '£75 pw', '£75 pw', '£90 pw', '£90 pw', '£75 pw']",5* Luxury 6 Bed 4 Bath House Share - No Deposit!!!,2 doubles,"[260, 300, 300, 360, 360, 300]",313.3333333333333,L13
+236,Now,Furnished,Males or females,Crosby (L23),6 months,None,['£100 pw'],Large room in Crosby For Short Term Lets,Double room,[400],400.0,L23
+237,01 Mar 2019,Furnished,No info,Liverpool City Centre (L2),None,6 months,['£699 pcm (whole property)'],"Studio with Bills inc, on-Site Gym and Concierge",Studio flat,[699],699.0,L2
+238,01 Jul 2019,Furnished,Males or females,Liverpool (L7),None,12 months,"['£85 pw', '£85 pw', '£85 pw', '£85 pw', '£85 pw', '£65 pw']",Student Home from £65/wk Bills&Cleaner Incl,Single + 5 doubles,"[340, 340, 340, 340, 340, 260]",326.6666666666667,L7
+239,Now,Furnished,Males or females,Liverpool (L6),None,6 months,"['£350 pcm', '£350 pcm', '£350 pcm', '£350 pcm', '£350 pcm', '£350 pcm', '£350 pcm', '£350 pcm']",Kensington/Anfield - Double Rooms To Rent,Double room,"[350, 350, 350, 350, 350, 350, 350, 350]",350.0,L6
+240,01 Jul 2019,Furnished,No info,Liverpool (L15),None,12 months,['£65 pw (whole property)'],"Student Hse from £65pw,Cleaner,Bills&Welcome Pk",4 bed house,[260],260.0,L15
+241,01 Jul 2019,Furnished,Males or females,Liverpool (L7),None,12 months,"['£85 pw', '£85 pw', '£85 pw', '£85 pw', '£85 pw', '£85 pw']","6 Bed Student Hse-Bills,Cleaner & Welcome Pk Incl",6 doubles,"[340, 340, 340, 340, 340, 340]",340.0,L7
+242,Now,Furnished,Males or females,Liverpool City Centre (L7),None,3 months,"['£330 pcm', '£350 pcm']",Amazing rooms - top Liverpool Location - Low dep.,2 doubles,"[330, 350]",340.0,L7
+243,Now,Furnished,Males or females,Liverpool (L15),None,3 months,['£75 pw'],Rooms in Shared House in Wavertree . All Inclusive,Double room,[300],300.0,L15
+244,Now,Furnished,Males or females,Allerton (L18),12 months,3 months,['£85 pw'],1 Bedroom in Student House Available NOW!,Double room,[340],340.0,L18
+245,Now,Furnished,Males or females,Ormskirk (L39),None,3 months,"['£120 pw', '£120 pw', '£120 pw', '£120 pw', '£120 pw', '£120 pw', '£120 pw', '£120 pw', '£120 pw']","Student Rooms Available, Short Term Lets Accepted",2 doubles,"[480, 480, 480, 480, 480, 480, 480, 480, 480]",480.0,L39
+246,Now,Furnished,Female preferred,Mossley Hill (L18),None,3 months,"['£400 pcm', '£425 pcm']",Double room available in luxury house-share,Double room,"[400, 425]",412.5,L18
+247,14 Jan 2019,Furnished,Males or females,Aigburth (L17),None,1 month,['£400 pcm'],Spacious double room near Lark Lane,Double room,[400],400.0,L17
+248,Now,Furnished,Males or females,Liverpool (L4),None,1 month,"['£250 pcm', '£375 pcm']",2 rooms available close to city centre,Single + double,"[250, 375]",312.5,L4
+249,08 Dec 2018,Furnished,Males or females,Liverpool (L13),None,2 months,['£280 pcm'],"Lovely house, quiet and relaxed.  Cleaner also",Double room,[280],280.0,L13
+250,Now,Furnished,Males or females,Liverpool (L15),None,9 months,"['£78 pw', '£78 pw', '£78 pw', '£78 pw', '£78 pw', '£60 pw']","Student Rooms by Penny Lane, all bills included",Single room,"[312, 312, 312, 312, 312, 240]",300.0,L15
+251,Now,Furnished,Males or females,Liverpool City Centre (L1),12 months,6 months,['£135 pw (whole property)'],Self Contained studios from £135 all inclusive,Studio flat,[540],540.0,L1
+252,Now,Furnished,Males or females,Liverpool City Centre (L1),None,4 months,['£100 pw'],"Landlord ,Share a Base",Double room,[400],400.0,L1
+253,01 Dec 2018,Furnished,Males or females,Liverpool (L13),None,6 months,['£395 pcm'],En-suite rooms to let in  large luxury house,Double room,[395],395.0,L13
+254,Now,Furnished,Males or females,Liverpool (L20),None,1 month,"['£245 pcm', '£250 pcm', '£245 pcm', '£300 pcm']",Quiet small house-share close to city.,2 doubles,"[245, 250, 245, 300]",260.0,L20
+255,Now,Furnished,Males or females,Liverpool (L22),None,6 months,['£99 pw'],Double Studio Room Within House Share,Double room,[396],396.0,L22
+256,Now,Furnished,Males or females,Bootle (L20),None,6 months,['£65 pw'],Single Room Within House Share,Single room,[260],260.0,L20
+257,Now,Furnished,Males or females,Litherland (L21),None,6 months,['£65 pw'],Double Room Within House Share,Double room,[260],260.0,L21
+258,Now,Furnished,Males or females,Liverpool (L20),None,6 months,['£65 pw'],Double Room Within House Share,Double room,[260],260.0,L20
+259,10 Dec 2018,Furnished,Female preferred,Liverpool (L15),6 months,3 months,['£96 pw'],Rent My Student Room,Double room,[384],384.0,L15
+260,Now,Furnished,Males or females,Liverpool City Centre (L1),None,6 months,"['£395 pcm', '£395 pcm']",Two Double Bedrooms in Apartment with Large Lounge,Double room,"[395, 395]",395.0,L1
+261,Now,Furnished,Males or females,Litherland (L21),None,6 months,"['£100 pw', '£100 pw']","Litherland, L21. Own bathroom, kitchen, all bills",2 doubles,"[400, 400]",400.0,L21
+262,Now,Furnished,Males or females,Liverpool (L9),None,6 months,"['£90 pw', '£90 pw', '£90 pw', '£90 pw', '£90 pw', '£90 pw', '£90 pw', '£90 pw']",Orrell Park House Share - Harley Street,3 doubles,"[360, 360, 360, 360, 360, 360, 360, 360]",360.0,L9
+263,Now,Furnished,Males or females,Liverpool (L6),None,None,['£300 pcm'],House Share,Double room,[300],300.0,L6
+264,Now,Furnished,Female preferred,Liverpool (L15),None,None,['£380 pcm'],Large room in nice welcoming house,Double room,[380],380.0,L15
+265,01 Dec 2018,Furnished,Males or females,Liverpool (L5),None,6 months,"['£325 pcm', '£325 pcm', '£300 pcm', '£300 pcm']",Recent newly-built refurbished 4 Bedroom ho,4 doubles,"[325, 325, 300, 300]",312.5,L5
+266,Now,Furnished,Males or females,Liverpool (L7),None,6 months,"['£160 pcm', '£180 pcm', '£200 pcm', '£200 pcm']",Great Double Rooms available in L7. Liverpool.,3 doubles,"[160, 180, 200, 200]",185.0,L7
+267,01 Jul 2019,Furnished,No info,Liverpool (L7),12 months,12 months,['£105 pw (whole property)'],Newly Refurbish Student Let for 2019-2020,6 bed flat,[420],420.0,L7
+268,Now,Furnished,Males or females,Liverpool (L4),None,4 months,['£75 pw'],Large Double Room £75 p/w inclusive of all bills,Double room,[300],300.0,L4
+269,Now,Furnished,Males or females,Liverpool (L4),None,4 months,['£75 pw'],Large double room £75 p/w inc all bills,Double room,[300],300.0,L4
+270,Now,Furnished,No info,Liverpool (L5),12 months,9 months,['£110 pw (whole property)'],Phoenix Place - Brand New for September 2018!,1 bed flat,[440],440.0,L5
+271,Now,Furnished,Males or females,Liverpool (L7),None,3 months,['£450 pcm'],"Double Room for rent. Edge Hill, Liverpool7",Double room,[450],450.0,L7
+272,Now,Furnished,Males or females,Liverpool City Centre (L3),8 months,1 month,"['£99 pw', '£99 pw', '£110 pw']",Falkland House Luxury Student Accommodation,3 doubles,"[396, 396, 440]",410.6666666666667,L3
+273,01 Sep 2019,Furnished,No info,Liverpool City Centre (L3),12 months,9 months,['£125 pw (whole property)'],One Islington Plaza - New for early 2019!,1 bed flat,[500],500.0,L3
+274,Now,Furnished,Female preferred,Ormskirk (L39),None,None,"['£100 pw', '£100 pw']","1 WEEK DEP cottage in rural location, Edge Hill",2 doubles,"[400, 400]",400.0,L39
+275,01 Jul 2019,Furnished,No info,Liverpool (L18),None,12 months,['£655 pw (whole property)'],7 Bedroom Student House +  Welcome Pack & Cleaner,7 bed house,[2620],2620.0,L18
+276,01 Dec 2018,Furnished,Males or females,Liverpool (L7),None,6 months,"['£360 pcm', '£360 pcm', '£360 pcm']",L7 - Shabby Chic-Scandi Inspired Student Home,3 doubles,"[360, 360, 360]",360.0,L7
+277,Now,Furnished,Males or females,Liverpool (L9),None,3 months,"['£400 pcm', '£400 pcm', '£400 pcm']",Brand new refurbished 3 BR house / 2 bathrooms,3 doubles,"[400, 400, 400]",400.0,L9
+278,Now,Furnished,Males or females,Liverpool (L4),None,3 months,"['£300 pcm', '£300 pcm', '£300 pcm', '£300 pcm', '£300 pcm']",5 Double Bedrooms Available In L4,5 doubles,"[300, 300, 300, 300, 300]",300.0,L4
+279,Now,Furnished,Males or females,Liverpool City Centre (L6),None,6 months,"['£85 pw', '£85 pw', '£80 pw', '£85 pw', '£85 pw', '£95 pw']",Awesome new rooms -  *LAST ROOM*,Double room,"[340, 340, 320, 340, 340, 380]",343.3333333333333,L6
+280,11 Dec 2018,Furnished,Males or females,Liverpool (L7),None,6 months,"['£290 pcm', '£210 pcm', '£320 pcm', '£270 pcm']",House share (Edge lane) wifi & cleaner incl,Double room,"[290, 210, 320, 270]",272.5,L7
+281,Now,Furnished,Males or females,Liverpool City Centre (L7),None,None,['£325 pcm'],Double Bedroom - £325pcm with all bills,Double room,[325],325.0,L7
+282,14 Dec 2018,Furnished,Males or females,Liverpool City Centre (L6),None,6 months,"['£85 pw', '£85 pw', '£80 pw', '£65 pw']",Fantastic Four bedroom property,Double room,"[340, 340, 320, 260]",315.0,L6
+283,Now,Furnished,Males or females,Liverpool (L5),None,3 months,"['£70 pw', '£70 pw', '£70 pw', '£60 pw', '£60 pw', '£60 pw']",Excellent double room L5 6SX,2 doubles,"[280, 280, 280, 240, 240, 240]",260.0,L5
+284,Now,Furnished,Males or females,Liverpool (L4),None,None,"['£260 pcm', '£225 pcm', '£250 pcm', '£265 pcm']",New rooms to let near city centre,Single + 3 doubles,"[260, 225, 250, 265]",250.0,L4
+285,Now,Furnished,No info,Liverpool City Centre (L1),None,6 months,['£143 pw (whole property)'],Studio @  X1 Liverpool One. £143 P/Week,1 bed flat,[572],572.0,L1
+286,14 Dec 2018,Furnished,Males or females,West Derby (L12),None,4 months,"['£400 pcm', '£400 pcm']",Two double rooms available in West Derby,2 doubles,"[400, 400]",400.0,L12
+287,Now,Furnished,Males or females,Liverpool (L7),None,6 months,['£265 pcm'],Shared duplex all bills inc. single at £61.20pw,Single room,[265],265.0,L7
+288,Now,Furnished,Males or females,Walton (L9),None,6 months,"['£85 pw', '£80 pw', '£75 pw']",**Double Room in Immaculate House Share** £75pw,3 doubles,"[340, 320, 300]",320.0,L9
+289,Now,Furnished,Males or females,Liverpool City Centre (L1),8 months,8 months,['£115 pw'],Student Only - Great Location Bills Included,Double room,[460],460.0,L1
+290,Now,Furnished,Males or females,Liverpool City Centre (L8),None,None,['£95 pw'],Perfect Location STUDENT share,Double room,[380],380.0,L8
+291,Now,Furnished,Males or females,Liverpool City Centre (L8),12 months,12 months,['£115 pw'],Student Only - Large Double Room Bills Included,Double room,[460],460.0,L8
+292,Now,Furnished,Female preferred,Liverpool City Centre (L1),8 months,8 months,['£115 pw'],Student Only - Double Rooms Perfect Location,Double room,[460],460.0,L1
+293,Now,Furnished,Males or females,Liverpool City Centre (L1),11 months,11 months,['£563 pcm'],Student Only - Penthouse Apartment City Centre,Double room,[563],563.0,L1
+294,Now,Furnished,Male preferred,Liverpool (L6),8 months,8 months,['£105 pw'],Student Only - Large Double Room Bills Included,Double room,[420],420.0,L6
+295,Now,Furnished,Female preferred,Liverpool (L15),10 months,None,['£412 pcm'],Student Only - Large Double Room Bills Included,Double room,[412],412.0,L15
+296,Now,Furnished,Males or females,Liverpool (L17),8 months,8 months,['£368 pcm'],Student Only - Large Double Room Bills Included,Double room,[368],368.0,L17
+297,Now,Furnished,Male preferred,Liverpool (L15),10 months,10 months,"['£90 pw', '£90 pw']",Student Only - Double Bedroom in a Stunning House,2 doubles,"[360, 360]",360.0,L15
+298,Now,Furnished,Males or females,Liverpool (L6),None,6 months,"['£85 pw', '£85 pw', '£80 pw', '£85 pw', '£85 pw', '£95 pw']",Stunning Double Rooms - House Share,2 doubles,"[340, 340, 320, 340, 340, 380]",343.3333333333333,L6
+299,Now,Furnished,Males or females,Liverpool City Centre (L3),10 months,10 months,"['£90 pw', '£90 pw', '£90 pw', '£90 pw', '£90 pw', '£90 pw', '£90 pw']",Luxury Rooms Available - City Centre Location,2 doubles,"[360, 360, 360, 360, 360, 360, 360]",360.0,L3
+300,Now,No info,Males or females,Freshfield (L37),None,1 month,"['£200 pcm', '£250 pcm', '£300 pcm', '£220 pcm', '£250 pcm', '£275 pcm', '£300 pcm', '£220 pcm', '£250 pcm', '£275 pcm']",Rooms in shared accomodation,3 singles + 7 doubles,"[200, 250, 300, 220, 250, 275, 300, 220, 250, 275]",254.0,L37
+301,01 Jan 2019,Furnished,Males or females,Liverpool (L7),None,1 month,['£65 pw'],"1 double bedroom available - Edge Grove, L7",Double room,[260],260.0,L7
+302,Now,Furnished,Males or females,Liverpool (L4),None,3 months,"['£70 pw', '£65 pw', '£65 pw', '£55 pw']",Cheap double room L4 0UA,Double room,"[280, 260, 260, 220]",255.0,L4
+303,Now,Furnished,Males or females,Liverpool (L6),None,6 months,"['£75 pw', '£75 pw', '£70 pw', '£60 pw']",Four bedroom House to Let,Double room,"[300, 300, 280, 240]",280.0,L6
+304,Now,Furnished,Males or females,Liverpool (L4),None,3 months,"['£260 pcm', '£260 pcm', '£260 pcm', '£260 pcm']",Excellent rooms in County road,4 doubles,"[260, 260, 260, 260]",260.0,L4
+305,Now,Furnished,Males or females,Liverpool (L7),10 months,10 months,['£75 pw'],Lovely rooms to let in student house,Single room,[300],300.0,L7
+306,Now,Furnished,Males or females,Liverpool (L6),None,6 months,"['£75 pw', '£75 pw', '£75 pw', '£75 pw', '£75 pw', '£75 pw']",Homely rooms in great house share,6 doubles,"[300, 300, 300, 300, 300, 300]",300.0,L6
+307,Now,Furnished,Males or females,Liverpool (L6),None,6 months,"['£70 pw', '£75 pw', '£75 pw', '£75 pw']",Reasonable houses for reasonable prices,4 doubles,"[280, 300, 300, 300]",295.0,L6
+308,Now,Furnished,Males or females,Liverpool (L4),None,6 months,"['£300 pcm', '£250 pcm', '£225 pcm', '£220 pcm']","Newly-built double room in 4 Bedroom House, L4",3 doubles,"[300, 250, 225, 220]",248.75,L4
+309,Now,Furnished,Males or females,Liverpool (L6),12 months,6 months,"['£300 pcm', '£325 pcm', '£325 pcm']",Recently renovated beautiful 4-bedroom shared,2 doubles,"[300, 325, 325]",316.6666666666667,L6
+310,Now,Furnished,Males or females,Liverpool (L6),None,6 months,"['£250 pcm', '£275 pcm', '£300 pcm', '£325 pcm']",Recently renovated rooms for rent in Liverpool L6,4 doubles,"[250, 275, 300, 325]",287.5,L6
+311,Now,Furnished,Males or females,Liverpool (L4),None,6 months,"['£250 pcm', '£300 pcm', '£325 pcm']",Recently renovated rooms for rent in Liverpool L4,3 doubles,"[250, 300, 325]",291.6666666666667,L4
+312,Now,Furnished,Males or females,Liverpool (L6),None,6 months,"['£280 pcm', '£300 pcm', '£300 pcm']","Beautiful rooms to rent on Molyneux Road, L6",3 doubles,"[280, 300, 300]",293.3333333333333,L6
+313,Now,Furnished,Males or females,Bootle (L20),None,6 months,"['£250 pcm', '£275 pcm', '£300 pcm', '£325 pcm']",Variety of Renovated Double Bedrooms for Rent L20,4 doubles,"[250, 275, 300, 325]",287.5,L20
+314,Now,Furnished,Males or females,Liverpool (L6),None,6 months,"['£300 pcm', '£300 pcm', '£325 pcm', '£325 pcm']",Newly-renovated rooms to rent on Gloucester Road,4 doubles,"[300, 300, 325, 325]",312.5,L6
+315,Now,Furnished,Males or females,Bootle (L20),None,None,"['£300 pcm', '£300 pcm', '£300 pcm', '£300 pcm']","Cosy, newly-built double bedrooms for rent, L20",Double room,"[300, 300, 300, 300]",300.0,L20
+316,Now,Furnished,Males or females,Bootle (L20),None,6 months,"['£300 pcm', '£300 pcm', '£300 pcm', '£300 pcm']","Beautiful, newly-built 4 Bedroom house for Rent",4 doubles,"[300, 300, 300, 300]",300.0,L20
+317,Now,Furnished,Males or females,Liverpool (L21),None,3 months,"['£115 pw', '£110 pw', '£95 pw', '£110 pw', '£110 pw', '£120 pw']","NO Deposit, Luxury Room, En-Suite, Bills incl.",Single + double,"[460, 440, 380, 440, 440, 480]",440.0,L21
+318,Now,Furnished,Males or females,Liverpool (L15),None,None,"['£85 pw', '£85 pw', '£85 pw']",Large double rooms Just Off Smithdown Road,2 doubles,"[340, 340, 340]",340.0,L15
+319,Now,Furnished,Males or females,Aigburth (L17),None,3 months,"['£120 pw', '£120 pw']","EnSuite Rooms, Sefton Park, 18th Century Manor",Double room,"[480, 480]",480.0,L17
+320,Now,Furnished,Males or females,Liverpool (L7),None,None,"['£70 pw', '£70 pw']",2 rooms left in share near city center - edge lane,2 doubles,"[280, 280]",280.0,L7
+321,Now,Furnished,No info,Liverpool City Centre (L8),None,6 months,['£155 pw (whole property)'],X1 The Studios Large Studio Apartment Baltic Trian,1 bed flat,[620],620.0,L8
+322,Now,Furnished,Males or females,Liverpool (L15),10 months,3 months,"['£375 pcm', '£375 pcm', '£375 pcm', '£325 pcm']",1 Single Room Available,Single room,"[375, 375, 375, 325]",362.5,L15
+323,Now,Furnished,Males or females,Liverpool (L15),None,None,['£350 pcm'],Lovely Double Room Shared Household,Double room,[350],350.0,L15
+324,Now,Furnished,Males or females,Liverpool (L15),None,9 months,['£230 pcm'],Wavertree Single Fully Furnished Room,Single room,[230],230.0,L15
+325,Now,Furnished,Female preferred,Liverpool (L15),None,3 months,"['£340 pcm', '£380 pcm']",Double Room in Modernised Shared House L15,Double room,"[340, 380]",360.0,L15
+326,Now,Furnished,Males or females,Liverpool (L7),8 months,8 months,['£85 pw'],12B North View,Double room,[340],340.0,L7
+327,Now,Furnished,Males or females,Liverpool (L8),7 months,7 months,"['£112 pw', '£112 pw']",Large double rooms available in Georgian townhouse,2 doubles,"[448, 448]",448.0,L8
+328,Now,Furnished,Males or females,Liverpool (L15),10 months,10 months,"['£88 pw', '£88 pw', '£88 pw', '£88 pw', '£88 pw', '£88 pw']",Student rooms in new build property,6 doubles,"[352, 352, 352, 352, 352, 352]",352.0,L15
+329,Now,Furnished,Males or females,Liverpool (L6),6 months,6 months,['£350 pcm'],"Double room, in mixed shared house",Double room,[350],350.0,L6
+330,01 Jan 2019,Furnished,Males or females,Crosby (L23),None,6 months,['£425 pcm'],Large furnished double room with park views,Double room,[425],425.0,L23
+331,Now,Furnished,Males or females,Liverpool City Centre (L3),None,2 months,['£80 pw'],Double room City Centre Students + Professionals,Double room,[320],320.0,L3
+332,Now,Unfurnished,No info,Liverpool (L6),None,6 months,['£350 pcm (whole property)'],Spacious One Bedroom Flat Now Available,1 bed flat,[350],350.0,L6
+333,Now,Furnished,Males or females,Liverpool City Centre (L7),None,6 months,['£80 pw'],3 Dble Rooms nr city centre,Double room,[320],320.0,L7
+334,Now,Furnished,Males or females,Liverpool (L7),None,None,"['£69 pw', '£69 pw']",5 Bed 2 Bath House Share near city centre,2 doubles,"[276, 276]",276.0,L7
+335,Now,Furnished,Males or females,Liverpool (L7),None,3 months,"['£75 pw', '£75 pw', '£75 pw', '£75 pw', '£75 pw', '£75 pw', '£75 pw']","Large Double Rooms Available near city centre, L7",7 doubles,"[300, 300, 300, 300, 300, 300, 300]",300.0,L7
+336,Now,Furnished,Males or females,Liverpool (L6),None,None,['£75 pw'],Dble Rooms near City Center - Belmont Drive,Double room,[300],300.0,L6
+337,Now,Furnished,Males or females,Bootle (L20),None,None,['£85 pw'],Luxury Ensuite room in Bootle,Double room,[340],340.0,L20
+338,Now,Furnished,Males or females,Liverpool (L5),None,None,"['£100 pw', '£100 pw', '£100 pw']",Dble Room available for short term stays,3 doubles,"[400, 400, 400]",400.0,L5
+339,Now,Furnished,Males or females,Liverpool (L6),7 months,3 months,"['£85 pw', '£75 pw', '£80 pw', '£85 pw', '£75 pw']",Open House Viewing Saturday 24Th November 11-1Pm,4 doubles,"[340, 300, 320, 340, 300]",320.0,L6
+340,Now,Furnished,Males or females,Liverpool (L6),8 months,6 months,"['£85 pw', '£75 pw', '£80 pw', '£85 pw', '£75 pw']",Newly Refurbished house share in Great Location,4 doubles,"[340, 300, 320, 340, 300]",320.0,L6
+341,Now,Furnished,Males or females,Liverpool (L6),None,3 months,['£305 pcm'],Single Furnished all bills wi fi parking £305,Single room,[305],305.0,L6
+342,Now,Furnished,Female preferred,Aigburth (L17),None,6 months,"['£320 pcm', '£320 pcm']",Spacious Double Room in friendly shared house,Double room,"[320, 320]",320.0,L17
+343,Now,Furnished,Males or females,Mossley Hill (L18),None,3 months,['£100 pw'],Spacious Double Room with Fibre Broadband via WiFi,Double room,[400],400.0,L18
+344,Now,Furnished,Males or females,Liverpool (L3),None,6 months,"['£475 pcm', '£475 pcm']",Two beautiful rooms Seymour Street,2 doubles,"[475, 475]",475.0,L3
+345,Now,Furnished,Males or females,Liverpool (L5),None,3 months,['£75 pw'],Cheap room at quiet location,Double room,[300],300.0,L5
+346,Now,Furnished,Males or females,Liverpool (L6),None,6 months,['£75 pw'],Lovely place to live,Double room,[300],300.0,L6
+347,Now,Furnished,Males or females,Liverpool City Centre (L1),12 months,6 months,['£129 pw (whole property)'],£129 pw BILLS INC Self Contained Studio Flats,Studio flat,[516],516.0,L1
+348,Now,Furnished,Males or females,Liverpool City Centre (L1),12 months,3 months,['£124 pw (whole property)'],Self Contained Studio Flats Internal Windows,Studio flat,[496],496.0,L1
+349,01 Feb 2019,Furnished,Males or females,Liverpool City Centre (L1),12 months,11 months,['£129 pw (whole property)'],Self Contained Studio Flats in Baltic Triangle,Studio flat,[516],516.0,L1
+350,Now,Furnished,Males or females,Liverpool (L6),None,None,['£375 pcm'],L6-1RM-Great for professionals & hospital staff!,Double room,[375],375.0,L6
+351,Now,Furnished,Males or females,Liverpool (L13),None,6 months,"['£380 pcm', '£380 pcm', '£380 pcm']",3 Large En Suite Rooms available £380 pcm,3 doubles,"[380, 380, 380]",380.0,L13
+352,Now,Furnished,Males or females,Liverpool (L15),None,3 months,"['£80 pw', '£80 pw', '£80 pw', '£90 pw']",Double bedroom + own private living room!,Double room,"[320, 320, 320, 360]",330.0,L15
+353,Now,Furnished,Males or females,Ormskirk (L39),10 months,10 months,"['£120 pw', '£120 pw', '£120 pw', '£120 pw', '£120 pw', '£120 pw']",**6 Bedroom Property Available**,6 doubles,"[480, 480, 480, 480, 480, 480]",480.0,L39
+354,Now,Furnished,Males or females,Liverpool (L15),12 months,12 months,['£78 pw'],Double Room Avaliable £77.50 ppw nr Smithdown,Double room,[312],312.0,L15
+355,Now,Furnished,Males or females,Liverpool (L17),None,6 months,['£380 pcm'],*Fantastic large double room by Sefton Park**,Double room,[380],380.0,L17
+356,15 Jan 2019,Furnished,Males or females,Liverpool City Centre (L7),None,6 months,"['£80 pw', '£75 pw', '£75 pw']",Newly renovated 3 bed house available from mid-Jan,Double room,"[320, 300, 300]",306.6666666666667,L7
+357,Now,Furnished,Males or females,Liverpool (L7),None,6 months,"['£350 pcm', '£350 pcm', '£350 pcm', '£320 pcm', '£295 pcm', '£350 pcm', '£320 pcm', '£295 pcm', '£350 pcm']",Great Room with All Bills and Cleaner inc.,Double room,"[350, 350, 350, 320, 295, 350, 320, 295, 350]",331.1111111111111,L7
+358,01 Dec 2018,No info,Males or females,Liverpool (L4),None,None,"['£350 pcm', '£275 pcm']",House share,Single + double,"[350, 275]",312.5,L4
+359,Now,Furnished,Males or females,Liverpool (L4),None,6 months,['£85 pw'],Large double room! Cake Wine Gym,Double room,[340],340.0,L4
+360,01 Feb 2019,Furnished,Males or females,Liverpool (L6),None,1 month,['£80 pw'],Double Bedroom Available 1/2/19 - Grantham Street,Double room,[320],320.0,L6
+361,Now,Furnished,Males or females,Liverpool (L15),None,1 month,['£75 pw'],1 double bedroom available - Rathbone Road,Double room,[300],300.0,L15
+362,Now,Furnished,Males or females,Liverpool (L4),None,3 months,"['£70 pw', '£75 pw', '£80 pw', '£75 pw', '£70 pw', '£65 pw']",* Rent Half Price For First Month *,Single + 2 doubles,"[280, 300, 320, 300, 280, 260]",290.0,L4
+363,Now,No info,Males or females,Liverpool City Centre (L7),8 months,None,['£80 pw'],"1 double room for rent, fantastic location.",Double room,[320],320.0,L7
+364,08 Dec 2018,Furnished,Males or females,Liverpool (L6),3 months,3 months,"['£285 pcm', '£289 pcm']",Harmonious beautiful clean easygoing house,2 doubles,"[285, 289]",287.0,L6
+365,Now,Furnished,Males or females,Liverpool (L7),12 months,10 months,['£75 pw'],Rooms Available All Inclusive £75/Wk,Double room,[300],300.0,L7
+366,Now,Furnished,Males or females,Liverpool City Centre (L3),12 months,6 months,"['£120 pw', '£120 pw', '£120 pw', '£120 pw', '£120 pw', '£125 pw']",Brand New City centre rooms @ £120/wk all inc.,6 doubles,"[480, 480, 480, 480, 480, 500]",483.3333333333333,L3
+367,Now,Furnished,Males or females,Liverpool (L6),None,6 months,['£650 pcm'],£650pcm Ensuite Double Secure parking inc bills,Double room,[650],650.0,L6
+368,Now,Furnished,Males or females,Grassendale (L19),None,3 months,['£350 pcm'],"Double room to rent, newly refurbished house share",Double room,[350],350.0,L19
+369,01 Jan 2019,Furnished,Female preferred,Liverpool (L8),None,None,['£475 pcm'],Double room in Liverpool,Double room,[475],475.0,L8
+370,Now,Furnished,Males or females,Liverpool (L15),None,3 months,['£75 pw'],Rooms in Shared House in Wavertree . All Inclusive,Double room,[300],300.0,L15
+371,Now,Furnished,Males or females,Formby (L37),None,6 months,['£500 pcm'],Double Room Available to Rent,Double room,[500],500.0,L37
+372,Now,Furnished,Males or females,Liverpool (L6),None,None,"['£75 pw', '£80 pw', '£85 pw']","Large Single, Large Double, Huge Attic Room",Single + 2 doubles,"[300, 320, 340]",320.0,L6
+373,Now,Furnished,Males or females,Liverpool City Centre (L1),None,6 months,"['£495 pcm', '£400 pcm']",Refurbished two bedroom apartment,Single + double,"[495, 400]",447.5,L1
+374,Now,Furnished,Males or females,Aigburth (L17),None,3 months,"['£75 pw', '£75 pw', '£75 pw', '£75 pw']","Luxury Flat Share in Aigburth, L17",4 doubles,"[300, 300, 300, 300]",300.0,L17
+375,Now,Furnished,Males or females,Liverpool (L6),None,None,['£675 pcm'],V.Large en-suite double inc bills +parking £675,Double room,[675],675.0,L6
+376,Now,Furnished,Males or females,Walton (L9),None,6 months,"['£75 pw', '£70 pw', '£70 pw', '£75 pw', '£60 pw']","Clean house, All bills inc, L9, Walton, No Depo",Single + 4 doubles,"[300, 280, 280, 300, 240]",280.0,L9
+377,Now,Furnished,Males or females,Aigburth (L17),None,1 month,"['£100 pw', '£75 pw']",Rooms in large house  Aigburth,2 doubles,"[400, 300]",350.0,L17
+378,Now,Furnished,Males or females,Liverpool City Centre (L6),None,6 months,"['£80 pw', '£80 pw', '£80 pw', '£55 pw']",Four Bedrooms House Share L6 9AB,Single + 3 doubles,"[320, 320, 320, 220]",295.0,L6
+379,Now,Furnished,Males or females,Aigburth (L17),None,3 months,"['£60 pw', '£60 pw', '£55 pw', '£60 pw']",Great House Share in L17,Double room,"[240, 240, 220, 240]",235.0,L17
+380,Now,Furnished,Males or females,Liverpool City Centre (L6),None,6 months,"['£80 pw', '£80 pw', '£80 pw', '£70 pw']",Student Property - Thornes road,Double room,"[320, 320, 320, 280]",310.0,L6
+381,01 Dec 2018,Furnished,Males or females,Liverpool (L6),None,None,['£500 pcm'],Overlooking Newsham  Park,Double room,[500],500.0,L6
+382,Now,Furnished,Males or females,Liverpool (L15),None,6 months,"['£110 pw', '£90 pw', '£110 pw', '£75 pw']",Luxury home for Professionals All bills included,Single + double,"[440, 360, 440, 300]",385.0,L15
+383,Now,Furnished,Males or females,Ormskirk (L39),10 months,8 months,['£120 pw'],**1 Room Available to Rent**,Double room,[480],480.0,L39
+384,Now,Furnished,Males or females,Ormskirk (L39),10 months,10 months,"['£120 pw', '£120 pw', '£120 pw']",**3 Double Bedrooms Available Immediately**,3 doubles,"[480, 480, 480]",480.0,L39
+385,Now,Furnished,Males or females,Liverpool (L7),None,10 months,"['£75 pw', '£75 pw', '£75 pw', '£75 pw', '£75 pw']",**Double Rooms**Jubilee Drive*£75Pppw*,5 doubles,"[300, 300, 300, 300, 300]",300.0,L7
+386,Now,Furnished,Males or females,Bootle (L20),None,6 months,"['£79 pw', '£65 pw', '£85 pw']",Double Studio Room Within House Share,Single + double,"[316, 260, 340]",305.3333333333333,L20
+387,Now,Furnished,Males or females,Liverpool (L4),None,6 months,"['£65 pw', '£65 pw', '£65 pw', '£60 pw', '£60 pw']",**Professional House Share** All Bills inc**,2 singles + 3 doubles,"[260, 260, 260, 240, 240]",252.0,L4
+388,Now,Furnished,Males or females,Seaforth (L21),None,6 months,"['£70 pw', '£70 pw', '£70 pw', '£70 pw', '£90 pw']",*Double Room*Seaforth Train Station*All Bills inc*,2 doubles,"[280, 280, 280, 280, 360]",296.0,L21
+389,Now,Furnished,Males or females,Seaforth (L21),None,3 months,"['£89 pw', '£103 pw', '£99 pw']",Seaforth Waterloo fresh warm clean  no deposit,Double room,"[356, 412, 396]",388.0,L21
+390,Now,Furnished,Males or females,Liverpool (L4),None,3 months,"['£65 pw', '£60 pw', '£70 pw', '£45 pw']",Cheap Double room - Newark Street,Double room,"[260, 240, 280, 180]",240.0,L4
+391,Now,Furnished,Males or females,Liverpool (L4),None,3 months,"['£290 pcm', '£300 pcm', '£290 pcm', '£250 pcm']",Excellent House Share - Roxburgh Street,Double room,"[290, 300, 290, 250]",282.5,L4
+392,Now,Furnished,Males or females,Liverpool (L5),None,3 months,"['£85 pw', '£85 pw', '£85 pw', '£85 pw', '£85 pw', '£85 pw', '£85 pw', '£85 pw', '£85 pw', '£85 pw', '£85 pw', '£85 pw']",Ensuite Rooms Available.  All Bills included,12 doubles,"[340, 340, 340, 340, 340, 340, 340, 340, 340, 340, 340, 340]",340.0,L5
+393,Now,Furnished,Males or females,Kirkby (L32),None,4 months,['£125 pw'],Luxury Detached houseshare,Double room,[500],500.0,L32
+394,Now,Furnished,Males or females,Liverpool (L7),None,None,['£90 pw'],Newly refurbished 7 bedroom Houseshare,Double room,[360],360.0,L7
+395,01 Dec 2018,Furnished,No info,Liverpool (L7),None,6 months,['£600 pcm (whole property)'],1 bedroom Top floor apartment to rent -L7,1 bed flat,[600],600.0,L7
+396,Now,Furnished,Males or females,Liverpool (L7),None,None,['£60 pw'],L7 Kensington student rooms,Double room,[240],240.0,L7
+397,Now,Furnished,Female preferred,Liverpool (L6),None,6 months,"['£395 pcm', '£365 pcm', '£320 pcm', '£300 pcm']",Female Professionals/Students,2 singles + 2 doubles,"[395, 365, 320, 300]",345.0,L6
+398,Now,Furnished,Males or females,Garston (L19),None,6 months,"['£100 pw', '£100 pw', '£85 pw']",Double bedroom available in house share,3 doubles,"[400, 400, 340]",380.0,L19
+399,Now,Furnished,Males or females,Liverpool (L5),18 months,1 month,"['£80 pw', '£110 pw', '£80 pw', '£80 pw', '£110 pw', '£85 pw', '£90 pw', '£110 pw', '£100 pw', '£120 pw', '£80 pw', '£90 pw']","Let rooms on L8,L5,L4 Liverpool",7 singles + 5 doubles,"[320, 440, 320, 320, 440, 340, 360, 440, 400, 480, 320, 360]",378.3333333333333,L5
+400,Now,Furnished,Males or females,Liverpool (L7),10 months,10 months,['£95 pw'],2 student rooms in brand new 6 bed from Sept,Double room,[380],380.0,L7
+401,01 Dec 2018,Furnished,Males or females,Aigburth (L17),None,6 months,"['£400 pcm', '£375 pcm', '£400 pcm', '£450 pcm']",Professional Rooms in Refurb House near Lark Lane,4 doubles,"[400, 375, 400, 450]",406.25,L17
+402,01 Dec 2019,Furnished,Males or females,Liverpool (L15),6 months,3 months,"['£345 pcm', '£345 pcm']",Double Room Smithdown Road £345 1/1/19,2 doubles,"[345, 345]",345.0,L15
+403,15 Dec 2018,Furnished,Males or females,Liverpool (L7),None,6 months,"['£410 pcm', '£390 pcm']",Room to let close to Liverpool City centre.,Single + double,"[410, 390]",400.0,L7
+404,Now,Furnished,Female preferred,Liverpool (L15),None,12 months,['£350 pcm'],Double Room available in L15,Double room,[350],350.0,L15
+405,Now,Furnished,Males or females,Liverpool (L6),None,6 months,"['£345 pcm', '£345 pcm', '£345 pcm', '£345 pcm']",4 Bed House Share ANFIELD,4 doubles,"[345, 345, 345, 345]",345.0,L6
+406,Now,Furnished,Males or females,Waterloo (L22),None,None,['£80 pw'],Clean House. Waterloo/Crosby. No Deposit / Fees!,Double room,[320],320.0,L22
+407,Now,No info,Males or females,Liverpool (L15),None,3 months,"['£275 pcm', '£295 pcm']",Double room available L15 3JR,2 doubles,"[275, 295]",285.0,L15
+408,20 Dec 2018,No info,Males or females,Whiston (L35),None,None,"['£400 pcm', '£400 pcm', '£400 pcm', '£450 pcm', '£450 pcm', '£450 pcm']",Available  Now!  First Month Rent Half Price,Double room,"[400, 400, 400, 450, 450, 450]",425.0,L35
+409,Now,Furnished,Males or females,Bootle (L20),None,6 months,['£65 pw'],**Double Room*All Bills inc**Bootle,Double room,[260],260.0,L20
+410,Now,Furnished,Males or females,Liverpool (L4),None,3 months,"['£65 pw', '£65 pw', '£70 pw', '£88 pw']",Newly refurbished rooms to let,Single + 3 doubles,"[260, 260, 280, 352]",288.0,L4
+411,01 Dec 2018,Furnished,Males or females,Mossley Hill (L18),None,3 months,['£345 pcm'],"L18, All inclusive, double room in quality house,",Double room,[345],345.0,L18
+412,Now,Furnished,Males or females,Liverpool (L7),None,None,['£60 pw'],L7     Kensington student rooms to  rent,Double room,[240],240.0,L7
+413,Now,Furnished,No info,Liverpool (L15),None,None,['Potential Buddy Ups'],Amazing 6 bedroom Student House in Liverpool,6 bed flat,[],,L15
+414,Now,Furnished,Males or females,Liverpool City Centre (L3),12 months,6 months,['£130 pw'],Shared House 53 Seymour Street Liverpool City,Double room,[520],520.0,L3
+415,Now,Furnished,Males or females,Liverpool City Centre (L2),24 months,6 months,['£550 pcm'],FULLY furnished studio located in central Liverpoo,Single room,[550],550.0,L2
+416,Now,Furnished,Males or females,Liverpool City Centre (L7),None,None,['Potential Buddy Ups'],3 Bed. Bills incuded. 10 mins from UoL.,3 bed house,[],,L7
+417,Now,Furnished,Males or females,Liverpool (L7),None,6 months,"['£90 pw', '£90 pw', '£90 pw', '£90 pw', '£90 pw', '£90 pw']",Gladstone Road - Double Bedrooms in New Townhouse,6 doubles,"[360, 360, 360, 360, 360, 360]",360.0,L7
+418,Now,Furnished,Males or females,Liverpool (L7),12 months,6 months,"['£95 pw', '£95 pw', '£95 pw', '£95 pw', '£95 pw', '£95 pw']",Selection of En Suite Rooms available in Holt Road,2 doubles,"[380, 380, 380, 380, 380, 380]",380.0,L7
+419,Now,Furnished,Males or females,Liverpool (L9),None,None,"['£325 pcm', '£425 pcm', '£425 pcm']",Luxurious New House Done to an Extremely High Stan,Single + 2 doubles,"[325, 425, 425]",391.6666666666667,L9
+420,Now,Furnished,Males or females,Liverpool (L5),None,3 months,['£75 pw'],Only 1 Room Remaining - £75,Double room,[300],300.0,L5
+421,Now,Furnished,Males or females,Mossley Hill (L18),None,6 months,"['£80 pw', '£90 pw', '£90 pw', '£90 pw', '£75 pw']",Excellent Luxury Double Bedroom off Allerton Road,2 doubles,"[320, 360, 360, 360, 300]",340.0,L18
+422,Now,Furnished,Males or females,Liverpool (L7),None,6 months,"['£100 pw', '£100 pw', '£100 pw', '£90 pw', '£90 pw', '£90 pw']",Connaught Road En Suite Rooms,6 doubles,"[400, 400, 400, 360, 360, 360]",380.0,L7
+423,Now,Furnished,Males or females,Liverpool (L7),None,6 months,"['£75 pw', '£75 pw']",Double Bedrooms In Four Bed Apartment Fell Street,2 doubles,"[300, 300]",300.0,L7
+424,Now,Furnished,Males or females,Liverpool City Centre (L6),None,3 months,"['£90 pw', '£90 pw', '£85 pw']","Lovely house, great location, f/f double rooms",3 doubles,"[360, 360, 340]",353.3333333333333,L6
+425,01 Dec 2018,Furnished,Males or females,Liverpool (L15),None,3 months,"['£330 pcm', '£340 pcm', '£350 pcm', '£260 pcm']",Single & Double room available,Single + double,"[330, 340, 350, 260]",320.0,L15
+426,Now,Furnished,Males or females,Liverpool (L6),None,3 months,"['£300 pcm', '£300 pcm', '£300 pcm']",Double bed Available close to local amenities& Uni,3 doubles,"[300, 300, 300]",300.0,L6
+427,Now,Furnished,Males or females,Liverpool City Centre (L7),None,None,"['£390 pcm', '£390 pcm', '£350 pcm', '£350 pcm']",4 Bed. Bills incuded. 10 mins walk from UoL.,2 singles + 2 doubles,"[390, 390, 350, 350]",370.0,L7
+428,Now,Furnished,Males or females,Liverpool City Centre (L8),None,None,"['£150 pw', '£150 pw', '£150 pw']",Dble Room in Liverpool Centre's Georgian Quarter,3 doubles,"[600, 600, 600]",600.0,L8
+429,Now,Furnished,Males or females,Aigburth (L17),None,None,['£395 pcm'],One Double Ensuite Bedroom!! Modern Furnished Apar,Double room,[395],395.0,L17
+430,Now,Furnished,Males or females,Liverpool City Centre (L1),12 months,10 months,"['£92 pw', '£94 pw', '£97 pw', '£97 pw', '£92 pw', '£97 pw']",Student rooms available opposite Bombed out Church,2 doubles,"[368, 376, 388, 388, 368, 388]",379.3333333333333,L1
+431,Now,Furnished,Males or females,Liverpool (L8),9 months,9 months,['£99 pw'],Room available for let!,Double room,[396],396.0,L8
+432,Now,Furnished,Female preferred,Crosby (L23),None,None,['£550 pcm'],Double-room in lovely large house in Blundellsands,Double room,[550],550.0,L23
+433,Now,Furnished,Males or females,Garston (L19),None,3 months,"['£300 pcm', '£360 pcm', '£400 pcm']",Double Bedrooms Available in Refurbished House,3 doubles,"[300, 360, 400]",353.3333333333333,L19
+434,Now,Furnished,Males or females,Liverpool (L6),None,None,"['£85 pw', '£75 pw', '£80 pw']",2 bedrooms available - Molyneux Road,3 doubles,"[340, 300, 320]",320.0,L6
+435,Now,Furnished,Male preferred,Waterloo (L22),None,6 months,['£70 pw'],"Modern Studio, Own Kitchen, Close to Train Station",Double room,[280],280.0,L22
+436,Now,Furnished,Males or females,Liverpool (L6),None,6 months,"['£75 pw', '£75 pw', '£75 pw', '£75 pw', '£75 pw', '£75 pw', '£75 pw']",Large double bedrooms in 7 Bedroom house share,5 doubles,"[300, 300, 300, 300, 300, 300, 300]",300.0,L6
+437,01 Dec 2018,Furnished,Males or females,Aigburth (L17),None,None,['£375 pcm'],Amazing Aigburth Home from Home,Double room,[375],375.0,L17
+438,Now,Furnished,No info,Liverpool (L7),None,6 months,['Potential Buddy Ups'],Price Drop from £95 to £80 per Week,6 bed house,[],,L7
+439,Now,No info,Males or females,Liverpool (L3),None,None,"['£675 pcm', '£1 pcm']",2 Bed Flat In Alexandra Court To Rent,2 doubles,"[675, 1]",338.0,L3
+440,Now,Furnished,Males or females,Liverpool City Centre (L7),None,3 months,['£304 pcm'],Kensington Fields Houseshare £70pw all bills inc,Double room,[304],304.0,L7
+441,Now,Furnished,Males or females,Ormskirk (L39),None,None,['£110 pw'],Double furnished room,Double room,[440],440.0,L39
+442,Now,Furnished,Males or females,Liverpool (L15),None,None,['£280 pcm'],Single Room in Wavertree,Single room,[280],280.0,L15
+443,Now,Furnished,Male preferred,Liverpool (L8),None,3 months,['£350 pcm'],"Double room close to city centre, unis, docks",Double room,[350],350.0,L8
+444,Now,Furnished,Males or females,Liverpool City Centre (L3),8 months,None,['£145 pw'],Tenancy Takeover - Student Accommodation,Double room,[580],580.0,L3
+445,Now,Furnished,Males or females,Liverpool (L7),7 months,5 months,['£85 pw'],Smithdown Student Room £85/week,Double room,[340],340.0,L7
+446,Now,Furnished,Male preferred,Liverpool (L7),None,1 month,"['£385 pcm', '£410 pcm']",Spacious Double Bedroom in New Build House,Double room,"[385, 410]",397.5,L7
+447,01 Dec 2018,Furnished,Males or females,Liverpool (L18),None,None,['£320 pcm'],Double room  in Allerton,Double room,[320],320.0,L18
+448,Now,Furnished,Female preferred,Liverpool (L8),10 months,9 months,['£365 pcm'],Gorgeous female flat near Sefton Park,Single room,[365],365.0,L8
+449,Now,Furnished,Males or females,Liverpool (L5),None,None,['£300 pcm'],Room to rent in friendly house,Double room,[300],300.0,L5
+450,Now,Furnished,Males or females,Liverpool City Centre (L3),None,3 months,['£550 pcm'],"Double bedroom, in Liverpool City Centre (L3)",Double room,[550],550.0,L3
+451,Now,Furnished,Female preferred,Liverpool City Centre (L3),None,6 months,['£500 pcm'],City centre brand spanking new apartment,Double room,[500],500.0,L3
+452,Now,Furnished,Males or females,Liverpool City Centre (L7),None,2 months,['£450 pcm'],Lovely New Room Kensington Fields L7 8Rw,Double room,[450],450.0,L7
+453,01 Jan 2019,Furnished,Female preferred,Liverpool (L7),8 months,5 months,['£92 pw'],Room on Offer in Kensington Fields House,Double room,[368],368.0,L7
+454,Now,Furnished,Males or females,Bickerstaffe (L39),None,1 month,['£100 pw'],"Sunny room with rural views, close to Ormskirk",Double room,[400],400.0,L39
+455,Now,Furnished,Males or females,Liverpool (L6),24 months,None,"['£90 pw', '£90 pw']",Post Grad Student Room in Quiet Liverpool House,2 doubles,"[360, 360]",360.0,L6
+456,Now,Unfurnished,No info,Mossley Hill (L18),None,6 months,['£625 pcm (whole property)'],Superb Two Bed Apartment & Parking,2 bed flat,[625],625.0,L18
+457,Now,Furnished,Males or females,Liverpool (L8),None,1 month,"['£70 pw', '£80 pw']",Furnished single and double rooms available,Single + double,"[280, 320]",300.0,L8
+458,Now,Furnished,Males or females,Liverpool City Centre (L3),None,3 months,['£85 pw'],1 Bedroom to rent in house Liverpool City Centre,Double room,[340],340.0,L3
+459,Now,Furnished,Males or females,Liverpool (L6),10 months,None,['£330 pcm'],"Mins Walk to Shops, 5 Mins Drive City Centre",Double room,[330],330.0,L6
+460,Now,No info,Males or females,Netherton (L30),None,None,"['£450 pcm', '£450 pcm']",Double Bedroom With En-suite,2 doubles,"[450, 450]",450.0,L30
+461,Now,No info,Males or females,Garston (L19),None,None,['£350 pcm'],Friendly House Bills Included,Double room,[350],350.0,L19
+462,Now,Furnished,Males or females,Liverpool (L7),12 months,2 months,"['£65 pw', '£65 pw', '£65 pw', '£65 pw', '£65 pw']",Student Rooms Available 10 Mins Walk from Uni -,5 singles,"[260, 260, 260, 260, 260]",260.0,L7
+463,Now,Furnished,Males or females,Liverpool (L4),None,1 month,['£100 pw'],Double Loft Room Furnished. Home From Home,Double room,[400],400.0,L4
+464,16 Dec 2018,Furnished,Males or females,Liverpool City Centre (L3),7 months,None,['£98 pw'],Liverpool city center premium single room,Single room,[392],392.0,L3
+465,Now,Furnished,Males or females,Liverpool (L8),None,6 months,"['£300 pcm', '£300 pcm', '£320 pcm']","3 rooms available in shared house, all bills",3 doubles,"[300, 300, 320]",306.6666666666667,L8
+466,Now,Unfurnished,No info,Aigburth (L17),None,6 months,['£600 pcm (whole property)'],Refurbished Penthouse close to Lark Ln/Sefton Park,2 bed flat,[600],600.0,L17
+467,Now,Furnished,Males or females,Liverpool (L3),None,3 months,['£350 pcm'],"Bianca House, City Centre, Shared Property",Single room,[350],350.0,L3
+468,04 Dec 2018,No info,Males or females,Liverpool City Centre (L1),None,None,['£335 pcm'],Double Room In City Centre,Double room,[335],335.0,L1
+469,Now,Furnished,Males or females,Aughton (L39),12 months,7 months,"['£520 pcm', '£450 pcm']",Two rooms in quiet house,2 doubles,"[520, 450]",485.0,L39
+470,Now,Furnished,Males or females,Walton (L9),None,None,['£350 pcm'],Double Room to Rent,Double room,[350],350.0,L9
+471,27 Dec 2018,Furnished,Males or females,Aigburth (L17),None,None,['£320 pcm'],Friendly flatshare in Aigburth,Double room,[320],320.0,L17
+472,Now,Furnished,Males or females,Liverpool City Centre (L7),None,None,['£100 pw'],Luxury room in Fairfield,Double room,[400],400.0,L7
+473,Now,Furnished,Males or females,Woolton (L25),None,3 months,['£380 pcm'],Double room to let in shared house in Woolton,Double room,[380],380.0,L25
+474,Now,Furnished,Female preferred,Liverpool (L11),None,6 months,['£400 pcm'],Double room in  house.,Double room,[400],400.0,L11
+475,16 Dec 2018,Furnished,Males or females,Liverpool City Centre (L8),None,None,['£82 pw'],Double room next to City Centre,Double room,[328],328.0,L8
+476,14 Dec 2018,Furnished,Males or females,Liverpool City Centre (L6),None,1 month,"['£295 pcm', '£295 pcm']",Student accommodation,2 doubles,"[295, 295]",295.0,L6
+477,Now,Furnished,Males or females,Liverpool City Centre (L8),None,None,['£350 pcm'],Room to rent  in Baltic Area,Double room,[350],350.0,L8
+478,Now,Furnished,Males or females,Liverpool City Centre (L8),None,3 months,"['£420 pcm', '£425 pcm']",2X Short/Long Let Bedrms. Nr City Centre/Jm Uni L8,2 doubles,"[420, 425]",422.5,L8
+479,Now,Furnished,Males or females,Ormskirk (L39),None,6 months,"['£100 pw', '£80 pw']",Double  and single rooms available,Single + double,"[400, 320]",360.0,L39
+480,Now,Furnished,Males or females,Grassendale (L19),None,None,"['£90 pw', '£90 pw']",Furnished single room,2 singles,"[360, 360]",360.0,L19
+481,01 Dec 2018,No info,Female preferred,Liverpool City Centre (L3),8 months,7 months,['£100 pw'],Urgent Student Accommodation takeover,Double room,[400],400.0,L3
+482,Now,Furnished,Males or females,Walton (L9),None,6 months,"['£90 pw', '£80 pw', '£85 pw', '£80 pw', '£75 pw']","Newly refurbished, ideal for working professionals",Single + double,"[360, 320, 340, 320, 300]",328.0,L9
+483,Now,Furnished,Female preferred,Allerton (L18),12 months,1 month,['£85 pw'],Lovely Room in Family Home,Single room,[340],340.0,L18
+484,Now,Furnished,Males or females,Ormskirk (L39),None,None,['£100 pw'],Room in lovely house very close to town centre,Double room,[400],400.0,L39
+485,Now,Furnished,Males or females,Liverpool (L6),8 months,6 months,"['£320 pcm', '£350 pcm']","Double rooms in quiet, clean house share. All inc.",2 doubles,"[320, 350]",335.0,L6
+486,Now,Furnished,Males or females,Liverpool (L7),None,3 months,"['£55 pw', '£55 pw', '£55 pw', '£55 pw']",4 Bedroom Property To Let,4 singles,"[220, 220, 220, 220]",220.0,L7
+487,01 Apr 2019,Furnished,Males or females,Liverpool City Centre (L3),4 months,3 months,['£106 pw'],Liverpool City Centre Double En-Suite Room,Double room,[424],424.0,L3
+488,01 Jul 2019,Furnished,Males or females,Liverpool (L7),12 months,12 months,"['£85 pw', '£85 pw', '£85 pw']",Rooms,3 doubles,"[340, 340, 340]",340.0,L7
+489,01 Mar 2019,Furnished,Males or females,Liverpool (L7),4 months,4 months,['£433 pcm'],Modern single room for rent! 2 friendly flatmates!,Single room,[433],433.0,L7
+490,05 Dec 2018,Furnished,No info,Liverpool (L8),8 months,None,['£540 pcm (whole property)'],New Studio Flat Available,Studio flat,[540],540.0,L8
+491,01 Aug 2019,Furnished,Males or females,Liverpool (L3),None,12 months,['£365 pcm'],Double Bedroom £365 a month 5 minute walk to LJMU,Double room,[365],365.0,L3
+492,Now,Furnished,Males or females,Liverpool City Centre (L3),None,8 months,['£134 pw'],1 room in 6 bed flat to rent at The Lantern,Double room,[536],536.0,L3
+493,Now,No info,Males or females,Liverpool City Centre (L3),8 months,8 months,['£134 pw'],Room with double bed to rent in a 6 bedroom flat,Double room,[536],536.0,L3
+494,Now,No info,Males or females,Liverpool City Centre (L3),12 months,9 months,['£115 pw'],Ensuite room in a cluster available in Liverpool!,Double room,[460],460.0,L3
+495,Now,Furnished,Males or females,Liverpool (L15),None,6 months,"['£350 pcm', '£350 pcm']",*Large Double Bed En-Suite Rooms to Let**,2 doubles,"[350, 350]",350.0,L15
+496,Now,Furnished,Male preferred,Liverpool (L4),None,3 months,['£400 pcm'],Room for rent in Walton Liverpool,Double room,[400],400.0,L4
+497,Now,Furnished,Males or females,Ormskirk (L39),None,6 months,['£80 pw'],"Student house 1 bedroom, Ormskirk, Move in ASAP",Single room,[320],320.0,L39
+498,Now,Furnished,Males or females,Liverpool (L4),None,6 months,['£55 pw'],Nice Single Room with Patio Door,Single room,[220],220.0,L4
+499,01 Dec 2018,Furnished,Female preferred,Bootle (L20),None,None,"['£300 pcm', '£275 pcm']",Furnished Double Rooms  In Large Girl's Apartment,2 doubles,"[300, 275]",287.5,L20
+500,Now,Furnished,Males or females,Liverpool (L15),None,6 months,"['£60 pw', '£60 pw', '£60 pw', '£60 pw']",L15 Lawence rd  Wavertree L15,4 doubles,"[240, 240, 240, 240]",240.0,L15
+501,01 Jan 2019,Furnished,Males or females,Liverpool City Centre (L7),None,3 months,['£450 pcm'],Large Double Bedroom in City Centre,Double room,[450],450.0,L7
+502,Now,Furnished,Males or females,Whiston (L35),None,3 months,['£350 pcm'],Room within walking distance of Whiston Hospital,Double room,[350],350.0,L35
+503,Now,Furnished,Males or females,Whiston (L35),None,3 months,['£450 pcm'],Prescot/Whiston (L35) Perfect for Whiston Hospital,Double room,[450],450.0,L35
+504,Now,Furnished,Males or females,Liverpool (L6),None,3 months,['£75 pw'],Double room available immediately,Double room,[300],300.0,L6
+505,14 Jan 2019,No info,Males or females,Liverpool City Centre (L3),None,None,['£366 pcm'],Central Location - Liverpool Lime Street,Double room,[366],366.0,L3
+506,Now,No info,Males or females,Liverpool City Centre (L1),6 months,3 months,['£95 pw'],Convenient Double Room Next To Albert Dock,Double room,[380],380.0,L1
+507,Now,No info,Males or females,Liverpool City Centre (L3),None,None,['£140 pw'],Urgent Tenancy Takeover at The Lantern,Single room,[560],560.0,L3
+508,Now,No info,Males or females,Liverpool (L7),None,None,['£600 pcm'],"Room in Mostly Unocupied Flat, Bills inc Council T",Double room,[600],600.0,L7
+509,01 Jan 2019,Furnished,Males or females,Liverpool City Centre (L7),10 months,3 months,['£467 pcm'],Top Floor En Suite Room - 5 Minute Walk to UoL,Double room,[467],467.0,L7
+510,07 Dec 2018,Furnished,Males or females,Liverpool City Centre (L1),8 months,None,['£125 pw'],Studio Flat in Vita Student Liverpool.,Double room,[500],500.0,L1
+511,Now,Furnished,No info,Liverpool City Centre (L1),9 months,7 months,['£110 pw (whole property)'],Studio Flat for Rent in L1 - Must Go,Studio flat,[440],440.0,L1
+512,Now,Furnished,Males or females,Liverpool (L17),None,6 months,['£395 pcm'],Attractive apartment to yourself (Mon-Fri let),Double room,[395],395.0,L17
+513,Now,Furnished,Males or females,Liverpool (L7),None,6 months,['£85 pw'],Room in house to rent,Double room,[340],340.0,L7
+514,Now,Furnished,Males or females,Liverpool (L15),None,3 months,"['£90 pw', '£75 pw', '£85 pw', '£85 pw', '£95 pw']",5 New Rooms in Central Location,5 doubles,"[360, 300, 340, 340, 380]",344.0,L15
+515,Now,Furnished,Males or females,Aigburth (L17),None,None,"['£395 pcm', '£395 pcm', '£495 pcm']",ROOMS  TO LET  Aigburth Road (Long/Short term stay,3 doubles,"[395, 395, 495]",428.3333333333333,L17
+516,Now,Furnished,Males or females,Liverpool (L6),None,None,['£390 pcm'],"Tenancy Needed Asap, Romer Road, Liverpool",Double room,[390],390.0,L6
+517,01 Sep 2019,Furnished,Female preferred,Liverpool (L6),None,9 months,"['£425 pcm', '£565 pcm', '£475 pcm', '£430 pcm', '£420 pcm', '£380 pcm', '£420 pcm']",Masters and PhD house for 2019/20,6 doubles,"[425, 565, 475, 430, 420, 380, 420]",445.0,L6
+518,Now,Furnished,Males or females,Liverpool City Centre (L7),None,6 months,['£85 pw'],large room available- Kensington Fields,Double room,[340],340.0,L7
+519,07 Dec 2018,Furnished,Males or females,Liverpool (L15),None,3 months,"['£260 pcm', '£260 pcm']",Easy going home in L15 (near Smithdown),2 doubles,"[260, 260]",260.0,L15
+520,Now,Furnished,Males or females,Liverpool City Centre (L6),8 months,None,['£120 pw'],Europa Student accommodation - reduced price,Double room,[480],480.0,L6
+521,15 Dec 2018,Furnished,Males or females,Liverpool (L5),None,6 months,['£134 pw'],The Lantern Liverpool Student Accommodation,Double room,[536],536.0,L5
+522,22 Dec 2018,Furnished,Males or females,Liverpool (L15),None,5 months,['£96 pw'],Room in a 7 bed house,Double room,[384],384.0,L15
+523,Now,Furnished,Males or females,Bootle (L20),None,None,['£350 pcm'],Furnished double room,Double room,[350],350.0,L20
+524,Now,Furnished,Males or females,Liverpool City Centre (L8),None,3 months,"['£70 pw', '£70 pw', '£80 pw', '£80 pw', '£70 pw', '£80 pw', '£70 pw', '£80 pw', '£70 pw', '£80 pw', '£80 pw', '£80 pw']",On a budget? Rooms in friendly house available,5 singles + 7 doubles,"[280, 280, 320, 320, 280, 320, 280, 320, 280, 320, 320, 320]",303.3333333333333,L8
+525,Now,Furnished,No info,Liverpool (L13),5 months,1 month,['£155 pw (whole property)'],Short-Stay Fully Furnished Accommodation to Rent,4 bed house,[620],620.0,L13
+526,Now,Furnished,Males or females,Liverpool (L7),7 months,7 months,['£369 pcm'],Lovely Room Available to Rent in Student Home,Double room,[369],369.0,L7
+527,Now,Furnished,Males or females,Liverpool (L8),None,6 months,['£70 pw'],1 spacious bedroom house share to rent,Double room,[280],280.0,L8
+528,Now,Furnished,Males or females,Liverpool City Centre (L1),1 month,None,['£400 pcm'],Big Double Room in Liverpool City Center,Double room,[400],400.0,L1
+529,Now,Furnished,Males or females,Liverpool (L7),None,2 months,"['£350 pcm', '£350 pcm', '£350 pcm', '£275 pcm', '£275 pcm']",Recently Refurbished House,3 doubles,"[350, 350, 350, 275, 275]",320.0,L7
+530,01 Jan 2019,Furnished,Males or females,Liverpool City Centre (L3),None,None,['£97 pw'],Courtney McMahon,Double room,[388],388.0,L3
+531,Now,Furnished,Males or females,Bootle (L20),1 month,None,"['£425 pw', '£425 pw', '£425 pw', '£425 pw', '£425 pw']",Executive Studio Flat - Bills included- Free wifi,5 doubles,"[1700, 1700, 1700, 1700, 1700]",1700.0,L20
+532,Now,Furnished,Males or females,Liverpool (L5),None,6 months,['£99 pw'],Phoenix place double room,Double room,[396],396.0,L5
+533,Now,Part Furnished,Males or females,Liverpool (L8),None,12 months,['£495 pcm (whole property)'],One Bed Self Contained Student Flat (incl. bills),1 bed flat,[495],495.0,L8
+534,01 Dec 2018,Furnished,Males or females,Liverpool City Centre (L1),6 months,None,['£180 pw'],Studio room in student accomodation,Double room,[720],720.0,L1
+535,Now,Furnished,Males or females,Liverpool (L7),None,None,['£499 pcm'],A fantastic two bedroom apartment for sharers,Double room,[499],499.0,L7
+536,Now,Furnished,Males or females,Liverpool City Centre (L8),None,7 months,['£250 pcm'],Rooms for rent,Single room,[250],250.0,L8
+537,26 Dec 2018,Furnished,Males or females,Liverpool City Centre (L3),None,None,['£900 pcm'],City Centre Apartment,Double room,[900],900.0,L3
+538,07 Jan 2019,Furnished,Males or females,Woolton (L25),None,None,['£475 pcm'],Bedroom available in Woolton Village,Double room,[475],475.0,L25
+539,Now,Furnished,Males or females,Liverpool (L8),9 months,None,['£90 pw'],5 bedroom house on Lesseps Road,Double room,[360],360.0,L8
+540,Now,Furnished,Males or females,Halewood (L26),None,3 months,['£400 pcm'],Double bedroom £400 all bills included Liverpool,Double room,[400],400.0,L26
+541,Now,Furnished,Males or females,Liverpool (L8),12 months,6 months,"['£83 pw', '£83 pw']","2 rooms to let Smithdown, Liverpool",2 doubles,"[332, 332]",332.0,L8
+542,Now,Furnished,Males or females,Liverpool (L9),None,6 months,['£95 pw'],"One Double Bedroom, Close to Rice Lane, L9 3by",Double room,[380],380.0,L9
+543,01 Jan 2019,Furnished,Males or females,Liverpool (L15),None,2 months,"['£99 pw', '£99 pw', '£99 pw', '£99 pw', '£99 pw', '£99 pw']",Double Room in Student House from January 2019,Double room,"[396, 396, 396, 396, 396, 396]",396.0,L15
+544,Now,Furnished,Female preferred,Liverpool (L15),5 months,None,['£330 pcm'],Furnished double room available L15,Double room,[330],330.0,L15
+545,Now,Furnished,No info,Liverpool City Centre (L3),None,12 months,['£750 pcm (whole property)'],One Bedroom Top Floor Waterside Apartment for Rent,1 bed flat,[750],750.0,L3
+546,Now,Furnished,Males or females,Liverpool (L4),None,1 month,"['£65 pw', '£60 pw']",Large furnished bedsit,2 singles,"[260, 240]",250.0,L4
+547,01 Feb 2019,Furnished,Males or females,Liverpool City Centre (L1),None,6 months,['£430 pcm'],Double Room with En-suite,Double room,[430],430.0,L1
+548,06 Dec 2018,Furnished,Males or females,Liverpool (L7),None,3 months,"['£350 pcm', '£350 pcm', '£340 pcm', '£340 pcm']",One Double Room Available  from 6Th of Dec 18,Double room,"[350, 350, 340, 340]",345.0,L7
+549,08 Dec 2018,Furnished,Males or females,Liverpool City Centre (L8),None,12 months,['£400 pcm'],Large double bedroom in Georgian Quarter house,Double room,[400],400.0,L8
+550,Now,Furnished,No info,Liverpool City Centre (L7),36 months,9 months,['Potential Buddy Ups'],"Flat in Minster Court, Liverpool, Merseyside",2 bed flat,[],,L7
+551,Now,Furnished,Males or females,Liverpool (L6),8 months,8 months,['£90 pw'],Double Room Available in New Luxury House,Double room,[360],360.0,L6
+552,01 Dec 2018,No info,Males or females,Liverpool City Centre (L1),9 months,None,['£112 pw'],1 modern bedroom for rent,Double room,[448],448.0,L1
+553,Now,No info,Males or females,Grassendale (L19),None,3 months,['£285 pcm'],Double room to rent in friendly house share.,Double room,[285],285.0,L19
+554,Now,Furnished,No info,Liverpool City Centre (L1),None,None,['£200 pw (whole property)'],Liverpool City Center Serviced Apartment,Studio flat,[800],800.0,L1
+555,Now,Furnished,Males or females,Bootle (L20),None,3 months,['£240 pcm'],Single room available 2.5 m fm city,Double room,[240],240.0,L20
+556,01 Jan 2019,Furnished,Males or females,Liverpool (L4),None,4 months,"['£350 pcm', '£350 pcm', '£350 pcm', '£350 pcm']",Newly Refurbished L6 Furnished 4-Bed House,4 doubles,"[350, 350, 350, 350]",350.0,L4
+557,Now,Furnished,Males or females,Garston (L19),None,1 month,['£400 pcm'],Room to let in a friendly house !,Single room,[400],400.0,L19
+558,14 Dec 2018,Furnished,Males or females,Liverpool City Centre (L3),None,6 months,['£366 pcm'],Social house looking for roommate,Double room,[366],366.0,L3
+559,15 Dec 2018,Furnished,Males or females,Liverpool City Centre (L2),None,None,['£450 pcm'],Double room with bills in bright city centre flat,Double room,[450],450.0,L2
+560,Now,Furnished,No info,Liverpool (L4),None,1 month,['Potential Buddy Ups'],Townhouse,4 bed house,[],,L4
+561,21 Dec 2018,Furnished,Males or females,Mossley Hill (L18),None,6 months,"['£400 pcm', '£400 pcm', '£400 pcm']",Double rooms available in friendly houseshare L18,3 doubles,"[400, 400, 400]",400.0,L18
+562,Now,Furnished,Males or females,Liverpool (L24),12 months,None,['£85 pw'],Available soon,Double room,[340],340.0,L24
+563,Now,Furnished,Males or females,Liverpool City Centre (L8),None,None,['£100 pw'],Fully furnished room next to City Centre,Double room,[400],400.0,L8
+564,Now,Furnished,Males or females,Liverpool (L17),None,3 months,['£280 pcm'],Double Room Salisbury Road L15 Fully Furnished,Double room,[280],280.0,L17
+565,Now,Furnished,Males or females,Liverpool (L6),None,3 months,"['£95 pw', '£90 pw', '£95 pw', '£100 pw', '£95 pw']",Large Double Room in a 5 Bedroom House Share,Double room,"[380, 360, 380, 400, 380]",380.0,L6
+566,Now,Furnished,Males or females,Aigburth (L17),36 months,6 months,"['£450 pcm', '£450 pcm']",2 x double rooms to let in L17 house share,2 doubles,"[450, 450]",450.0,L17
+567,Now,Furnished,Males or females,Whiston (L35),None,1 month,['£340 pcm'],Whiston Houseshare,Double room,[340],340.0,L35
+568,Now,Furnished,Males or females,Liverpool (L3),36 months,1 month,['£125 pw'],StAndrews (Liverpool Centre-Perfect) SuperDeluxe,Double room,[500],500.0,L3
+569,Now,Furnished,Males or females,Liverpool City Centre (L3),None,None,['£124 pw'],All inclusive en suite room - 124 pppw (Urgent),Double room,[496],496.0,L3
+570,01 Feb 2019,No info,Males or females,Liverpool (L15),None,None,['£550 pcm'],"Double Bedroom, Waverteee",Double room,[550],550.0,L15
+571,07 Dec 2018,Furnished,Males or females,Liverpool City Centre (L1),None,1 month,['£400 pcm'],Re-rent studio room,Double room,[400],400.0,L1
+572,Now,Furnished,No info,Liverpool City Centre (L1),12 months,9 months,['£145 pw (whole property)'],1 Bed Room Flat at 321 Crosshall Street Student Vi,1 bed flat,[580],580.0,L1
+573,01 Dec 2018,Furnished,Males or females,Litherland (L21),None,3 months,['£100 pw'],Bright Spacious Double Room with Fibre Broadband!,Double room,[400],400.0,L21
+574,08 Dec 2018,Furnished,Males or females,Liverpool City Centre (L3),8 months,5 months,['£138 pw'],The Lantern Bronze lower city view ensuite room,Double room,[552],552.0,L3
+575,10 Dec 2018,Furnished,Female preferred,Liverpool City Centre (L3),6 months,2 months,['£350 pcm'],1 dble bedroom available to share in a 2 bed house,Double room,[350],350.0,L3
+576,01 Dec 2018,Furnished,Males or females,Liverpool (L17),None,None,['£50 pw'],Looking for serious people.,Double room,[200],200.0,L17
+577,01 Dec 2018,Furnished,Female preferred,Liverpool (L7),None,None,['£98 pw'],"Female, 10Minto Citycentre Bright Double Room",Double room,[392],392.0,L7
+578,Now,No info,Males or females,Liverpool (L3),None,None,['£99 pw'],Tenancy Takeover -Liberty Atlantic Point Liverpool,Double room,[396],396.0,L3
+579,Now,Furnished,Female preferred,Liverpool City Centre (L1),None,None,['£120 pw'],Room in Cathedral Campus - 1st rent paid STUDENTS,Double room,[480],480.0,L1
+580,20 Dec 2018,Furnished,Male preferred,Liverpool City Centre (L2),None,1 month,['£600 pcm'],Liverpool City Centre Double,Double room,[600],600.0,L2
+581,Now,Furnished,Males or females,Liverpool (L7),5 months,5 months,['£95 pw'],Room available in 6 bed student house,Double room,[380],380.0,L7
+582,Now,Furnished,Males or females,Halewood (L26),None,None,['£395 pcm'],Double Fronted Executive Detached House - Halewood,Double room,[395],395.0,L26
+583,12 Dec 2018,Furnished,Female preferred,Liverpool (L15),36 months,6 months,"['£90 pw', '£90 pw', '£80 pw', '£68 pw']",Welcome join WorldTraveler settle Wavertree,Single + 2 doubles,"[360, 360, 320, 272]",328.0,L15
+584,Now,Furnished,Males or females,Liverpool (L8),None,None,['£85 pw'],Large double room in an flatshare. Close to city,Double room,[340],340.0,L8
+585,Now,Furnished,Males or females,Garston (L19),None,3 months,['£85 pw'],Double room to rent,Double room,[340],340.0,L19
+586,Now,Furnished,Males or females,Liverpool City Centre (L3),9 months,9 months,['£99 pw'],Room to rent Liverpool,Double room,[396],396.0,L3
+587,Now,Furnished,Males or females,Liverpool (L7),None,None,['£325 pcm'],**URGENT** Looking for replacement tenant,Double room,[325],325.0,L7
+588,Now,Furnished,Males or females,Liverpool City Centre (L6),24 months,6 months,"['£60 pw', '£60 pw', '£60 pw', '£60 pw']",Student House! Double Room! All Bills Included!,4 doubles,"[240, 240, 240, 240]",240.0,L6
+589,Now,Furnished,Males or females,Liverpool (L6),12 months,3 months,['£350 pcm'],*Couples Welcome - Larger than Average Double*,Double room,[350],350.0,L6
+590,Now,Furnished,Males or females,Liverpool (L15),None,None,['£390 pcm'],Student house in smithdown area,Double room,[390],390.0,L15
+591,Now,No info,Males or females,Liverpool (L21),None,None,['£380 pcm'],Modern Double Room By The Beach,Double room,[380],380.0,L21
+592,Now,Furnished,Males or females,Liverpool (L6),9 months,7 months,"['£90 pw', '£90 pw', '£90 pw']",Brand New developed House,3 doubles,"[360, 360, 360]",360.0,L6
+593,01 Dec 2018,No info,Males or females,Liverpool (L27),None,None,['£350 pcm'],Sammi,Double room,[350],350.0,L27
+594,01 Feb 2019,Furnished,Female preferred,Mossley Hill (L18),None,2 months,['£350 pcm'],Double room with enusuite - bills included!,Double room,[350],350.0,L18
+595,01 Dec 2018,Furnished,Female preferred,Knowsley (L34),None,None,['£75 pw'],"Cosy double room, close to whiston hospital",Double room,[300],300.0,L34
+596,Now,Furnished,Males or females,Liverpool (L6),None,None,['£80 pw'],Large Double Room in a Beautiful House,Double room,[320],320.0,L6
+597,Now,Furnished,Males or females,Mossley Hill (L18),None,6 months,['£220 pcm'],"Homely, spacious rooms in Mossley Hill",Single room,[220],220.0,L18
+598,Now,Furnished,Males or females,Liverpool City Centre (L3),None,6 months,['£120 pw'],Lovely Liverpool Marina 4 Bed Hse,Double room,[480],480.0,L3
+599,15 Dec 2018,Furnished,Males or females,Liverpool (L3),8 months,5 months,['£148 pw'],Ensuite Bedroom Byrom Point,Single room,[592],592.0,L3
+600,Now,Furnished,Males or females,Liverpool (L4),None,6 months,['£100 pw'],Double room ensuite for rent,Double room,[400],400.0,L4
+601,26 Jan 2019,Furnished,Males or females,Aintree (L10),None,None,"['£65 pw', '£65 pw', '£70 pw', '£70 pw']",Perfect for aintree hospital workers/stud Jan 2019,Double room,"[260, 260, 280, 280]",270.0,L10
+602,Now,Furnished,Males or females,Liverpool (L15),None,10 months,"['£100 pw', '£100 pw', '£100 pw']",2 double rooms  in wavertree,2 doubles,"[400, 400, 400]",400.0,L15
+603,Now,Furnished,Males or females,Liverpool City Centre (L3),None,6 months,['£375 pcm'],Flatmate wanted - city centre apartment,Double room,[375],375.0,L3
+604,Now,Furnished,Males or females,Liverpool City Centre (L6),9 months,9 months,['£126 pw'],First Year Student Room in Europa Student Flats,Double room,[504],504.0,L6
+605,01 Jan 2019,Furnished,Males or females,Liverpool City Centre (L3),6 months,6 months,['£97 pw'],Double bedroom for rent,Double room,[388],388.0,L3
+606,Now,No info,Males or females,Bootle (L20),None,None,['£70 pw'],Room For Rent,Single room,[280],280.0,L20
+607,Now,Furnished,Males or females,Liverpool (L6),None,None,"['£550 pcm', '£550 pcm']",2 bed flat,2 doubles,"[550, 550]",550.0,L6
+608,Now,Furnished,Female preferred,Allerton (L18),10 months,1 month,['£85 pw'],Lovely Room in MY Home,Single room,[340],340.0,L18
+609,Now,Furnished,Males or females,Liverpool (L13),None,None,['£75 pw'],1 spare room avaliable,Double room,[300],300.0,L13
+610,Now,Furnished,Males or females,Liverpool City Centre (L1),None,1 month,"['£410 pcm', '£475 pcm']",Epsley House,Single + double,"[410, 475]",442.5,L1
+611,21 Dec 2018,Furnished,Males or females,Great Crosby (L23),None,6 months,['£575 pcm'],Bright Double room in friendly & quiet large house,Double room,[575],575.0,L23
+612,Now,Furnished,Males or females,Liverpool City Centre (L8),None,3 months,['£368 pcm'],Cosy room with big bed,Double room,[368],368.0,L8
+613,Now,Furnished,Males or females,Crosby (L23),None,None,['£120 pw'],Now Available for Longer Term - Double Room,Double room,[480],480.0,L23
+614,Now,Furnished,Males or females,Liverpool (L17),None,None,['£320 pcm'],Nice double room nr St Michaels rail; mon-fri only,Double room,[320],320.0,L17
+615,Now,Furnished,Males or females,Liverpool City Centre (L3),None,6 months,['£75 pw'],Double Room in City Centre £75p/w no fees,Double room,[300],300.0,L3
+616,Now,Furnished,Males or females,Liverpool (L15),24 months,12 months,"['£80 pw', '£80 pw', '£80 pw', '£80 pw', '£80 pw', '£80 pw', '£82 pw', '£81 pw', '£83 pw']",L15 Smithdown Rd 8/9 Bed Student House Flat Bills,9 doubles,"[320, 320, 320, 320, 320, 320, 328, 324, 332]",322.6666666666667,L15
+617,Now,Furnished,Males or females,Liverpool (L5),None,None,['£200 pcm'],Single room close to city,Single room,[200],200.0,L5
+618,Now,Furnished,Males or females,Liverpool City Centre (L1),None,6 months,['£138 pw'],Urgent Student Accommodation Takeover,Double room,[552],552.0,L1
+619,Now,No info,Female preferred,Liverpool (L19),None,6 months,['£495 pcm'],Beautiful bedroom with own living room. Bills inc,Double room,[495],495.0,L19
+620,Now,Furnished,Males or females,Liverpool (L20),None,3 months,['£300 pcm'],Stylish Double Room To Rent  WIFI + All Bill Incl,Double room,[300],300.0,L20
+621,Now,Furnished,Males or females,Liverpool (L13),None,None,['£370 pcm'],Paul An Marie,Double room,[370],370.0,L13
+622,Now,Furnished,Males or females,Liverpool (L6),None,None,"['£300 pcm', '£300 pcm']","1 bedroom for rent,",Double room,"[300, 300]",300.0,L6
+623,Now,Furnished,Males or females,Crosby (L23),1 month,None,"['£120 pw', '£120 pw']",7 Bedroom House in the Heart of Crosby,2 doubles,"[480, 480]",480.0,L23
+624,Now,No info,Males or females,Woolton (L25),None,None,['£140 pw'],Single room in Woolton Liverpool,Single room,[560],560.0,L25
+625,Now,Furnished,Males or females,Liverpool (L15),None,9 months,['£99 pw'],Modern Luxury Student Double Room L15 5AJ,Double room,[396],396.0,L15
+626,Now,Furnished,Males or females,Liverpool City Centre (L3),None,1 month,"['£420 pcm', '£400 pcm']",Student/Profesional Rooms To Let,Single + double,"[420, 400]",410.0,L3
+627,Now,Furnished,Males or females,Liverpool (L5),36 months,6 months,['£100 pw'],Luxury 2Bedroom Open Plan Apartment,Double room,[400],400.0,L5
+628,Now,No info,Males or females,Liverpool (L4),None,None,['£360 pcm'],Double Room,Double room,[360],360.0,L4
+629,Now,Furnished,Males or females,Liverpool (L8),None,None,['£94 pw'],Double room in a nice new house,Double room,[376],376.0,L8
+630,Now,Furnished,Males or females,Liverpool (L8),None,6 months,['£410 pcm'],Double Room to Rent All Bills Included,Double room,[410],410.0,L8
+631,Now,Furnished,Males or females,Liverpool City Centre (L3),10 months,6 months,['£700 pcm'],Liverpool City Centre flat available £700/month,Double room,[700],700.0,L3
+632,Now,Furnished,Males or females,Liverpool (L15),7 months,4 months,['£65 pw'],Large student room on Lawrence road (Smithdown),Double room,[260],260.0,L15
+633,Now,No info,Males or females,Liverpool (L15),12 months,None,['£216 pcm'],"1 Bedroom in L15 Smithdown, Large Double Bed",Double room,[216],216.0,L15
+634,Now,No info,Males or females,Mawdesley (L40),None,1 month,['£95 pw'],Spare room & private lounge,Double room,[380],380.0,L40
+635,Now,No info,Males or females,Liverpool City Centre (L3),10 months,8 months,['£98 pw'],URGENT!! room for rent,Single room,[392],392.0,L3
+636,07 Dec 2018,Furnished,Female preferred,Liverpool (L11),None,None,['£350 pcm'],Nice clean furnished double room,Double room,[350],350.0,L11
+637,Now,Furnished,Males or females,Liverpool City Centre (L3),4 months,None,"['£250 pw', '£195 pw']",Modern Central Monday- Friday Rental,2 doubles,"[1000, 780]",890.0,L3
+638,Now,Furnished,Female preferred,Aigburth (L17),None,None,['£330 pcm'],Bright spacious double room in friendly house!,Double room,[330],330.0,L17
+639,Now,Furnished,Males or females,Aigburth (L17),None,6 months,['£420 pcm'],Spacious Room... Awesome Housemates!,Double room,[420],420.0,L17
+640,Now,Furnished,Males or females,Liverpool (L5),12 months,1 month,['£450 pcm'],15min Walk to Lime Street and Universities,Double room,[450],450.0,L5
+641,Now,Furnished,Males or females,Liverpool (L15),None,3 months,['£55 pw'],Double room all bills included,Double room,[220],220.0,L15
+642,01 Dec 2018,Furnished,Males or females,Woolton (L25),None,None,['£400 pcm'],Room available 01/12/18,Double room,[400],400.0,L25
+643,Now,Furnished,No info,Liverpool City Centre (L1),None,None,['£140 pw (whole property)'],Student Accommodation - Studio Apartment,1 bed flat,[560],560.0,L1
+644,Now,Furnished,Males or females,Liverpool (L15),None,6 months,['£80 pw'],Urgent student accomodation takeover needed,Single room,[320],320.0,L15
+645,Now,Furnished,Males or females,Great Crosby (L23),None,1 month,['£450 pcm'],Houseshare in quiet area of Crosby,Single room,[450],450.0,L23
+646,Now,No info,Males or females,Liverpool (L4),None,None,['£265 pcm'],Room To Rent,Single room,[265],265.0,L4
+647,Now,Furnished,Males or females,Liverpool (L7),None,None,['£400 pcm'],Large house with cheap rent,Double room,[400],400.0,L7
+648,Now,Furnished,Males or females,Ormskirk (L40),12 months,None,['£370 pcm'],Debbie,Single room,[370],370.0,L40
+649,Now,No info,Males or females,Liverpool (L15),None,None,['£300 pcm'],Double bedroom with en suite,Double room,[300],300.0,L15
+650,Now,Furnished,No info,Liverpool (L7),10 months,None,['£98 pw (whole property)'],Studio Apartment near University of Liverpool,1 bed flat,[392],392.0,L7
+651,Now,Furnished,Males or females,Liverpool City Centre (L1),1 month,1 month,['£200 pw'],Cosy Modern Apartment in City Centre,Double room,[800],800.0,L1
+652,15 Dec 2018,Furnished,Males or females,Liverpool (L8),None,6 months,['£312 pcm'],Flat Mate Needed,Double room,[312],312.0,L8
+653,Now,Furnished,Males or females,Liverpool (L7),None,1 month,['£95 pw'],Room Available In Share House -£95pw- Bills inc.,Double room,[380],380.0,L7
+654,Now,Furnished,Males or females,Liverpool (L7),None,6 months,['£250 pcm'],Double Room in 4 Bed Houseshare Walking Distance T,Double room,[250],250.0,L7
+655,Now,Furnished,Males or females,Bootle (L20),None,3 months,['£350 pcm'],Double Room all bills included.,Double room,[350],350.0,L20
+656,07 Jan 2019,No info,Males or females,Liverpool City Centre (L1),None,3 months,['£500 pcm'],Spacious 2 Bed Apartment City Centre,Double room,[500],500.0,L1
+657,Now,Furnished,Female preferred,Liverpool (L15),None,6 months,"['£450 pcm', '£350 pcm', '£375 pcm', '£300 pcm']",*Stunning* Double rooms in Beautiful house,4 doubles,"[450, 350, 375, 300]",368.75,L15
+658,Now,No info,Males or females,Liverpool City Centre (L3),None,None,['£134 pw'],Student accommodation,Double room,[536],536.0,L3
+659,Now,Furnished,Males or females,Liverpool City Centre (L1),None,6 months,['£650 pcm'],Tastefully Furnished Luxury 2 Bed Apartment in Liv,Double room,[650],650.0,L1
+660,Now,Furnished,Males or females,Formby (L37),None,None,['£600 pcm'],Formby room,Double room,[600],600.0,L37
+661,Now,Furnished,Males or females,Liverpool (L15),None,None,"['£300 pcm', '£325 pcm', '£325 pcm', '£300 pw']",Double bedroom  - All bills included!,Double room,"[300, 325, 325, 1200]",537.5,L15
+662,Now,Furnished,Males or females,Liverpool (L5),12 months,None,['£135 pw'],Student accommodation,Single room,[540],540.0,L5
+663,Now,Furnished,Males or females,Liverpool City Centre (L6),9 months,9 months,['£126 pw'],Student Accommodation - Europa Student Living,Single room,[504],504.0,L6
+664,Now,Furnished,Males or females,Liverpool (L7),24 months,8 months,"['£365 pcm', '£390 pcm', '£345 pcm']",Lovely home for masters student/young professional,Double room,"[365, 390, 345]",366.6666666666667,L7
+665,Now,Furnished,Males or females,Ormskirk (L39),12 months,None,"['£120 pw', '£120 pw', '£120 pw']",Student rooms to rent in ormskirk,3 doubles,"[480, 480, 480]",480.0,L39
+666,01 Jan 2019,Furnished,Males or females,Liverpool (L6),None,7 months,['£128 pw'],1 Bed available student accommodation,Double room,[512],512.0,L6
+667,Now,No info,Males or females,Liverpool City Centre (L3),None,6 months,['£122 pw'],Ablett House student accommodation,Double room,[488],488.0,L3
+668,Now,Furnished,Males or females,Liverpool City Centre (L3),9 months,None,['£127 pw'],Student room for rent at Grand Central Liverpool,Single room,[508],508.0,L3
+669,07 Jan 2019,Furnished,Males or females,Liverpool (L19),None,1 month,['£400 pcm'],Professional and spacious double room available,Double room,[400],400.0,L19
+670,Now,Furnished,Males or females,Rainhill (L35),None,None,['£425 pcm'],Rainhill House Share - Double Room,Double room,[425],425.0,L35
+671,Now,Furnished,Males or females,Great Crosby (L23),None,None,['£120 pw'],Town house near the beach and train station,Double room,[480],480.0,L23
+672,Now,Furnished,Males or females,Liverpool (L13),None,6 months,['£450 pcm'],All bills included ...,Double room,[450],450.0,L13
+673,01 Dec 2018,Furnished,Males or females,Litherland (L21),None,None,['£400 pcm'],Modern Double bedroom fully furnished - Litherland,Double room,[400],400.0,L21
+674,Now,Furnished,Male preferred,Liverpool (L15),11 months,6 months,['£80 pw'],Student House - room available,Double room,[320],320.0,L15
+675,31 Jan 2019,Furnished,Males or females,Liverpool (L17),None,3 months,['£300 pcm'],Lark Lane/Sefton Park Area double room,Double room,[300],300.0,L17
+676,14 Dec 2018,Furnished,Female preferred,Liverpool (L8),None,6 months,['£375 pcm'],L8 Area 2 Furnished Rooms Modern House Bills Inc,Double room,[375],375.0,L8
+677,Now,No info,Males or females,Liverpool (L13),None,6 months,['£95 pw'],Large and Bright Room in Fully Refurbished House,Double room,[380],380.0,L13
+678,Now,Furnished,Males or females,Liverpool (L4),3 months,None,['£220 pcm'],quiet  house Near Liverpool,Single room,[220],220.0,L4
+679,Now,Furnished,Males or females,Liverpool (L4),12 months,3 months,['£310 pcm'],Double room available in shared house with one oth,Double room,[310],310.0,L4
+680,24 Dec 2018,Furnished,Male preferred,Liverpool (L3),None,None,['£409 pcm'],Double room in Liverpool city centre.,Double room,[409],409.0,L3
+681,Now,Furnished,Males or females,Liverpool City Centre (L3),None,6 months,['£375 pcm'],Spacious 2 bedroom apartment in city centre,Double room,[375],375.0,L3
+682,Now,Furnished,Males or females,Liverpool (L15),None,None,['£70 pw'],**Double Room available - All Bills Included **,Double room,[280],280.0,L15
+683,Now,No info,Males or females,Bootle (L20),None,3 months,"['£300 pcm', '£220 pcm', '£300 pcm', '£220 pcm']",Large Rooms in House 2.5 Miles from Liverpool,2 doubles,"[300, 220, 300, 220]",260.0,L20
+684,Now,Furnished,Males or females,Halewood (L26),None,2 months,"['£350 pcm', '£300 pcm']",2 Double rooms Halewood with free wii fii,2 doubles,"[350, 300]",325.0,L26
+685,Now,Furnished,Males or females,Liverpool City Centre (L6),None,8 months,['£225 pcm'],**Modern/Newly Renovated Double Room in Liverpool*,Double room,[225],225.0,L6
+686,Now,No info,Males or females,Liverpool (L8),None,None,['£100 pw'],Room To Rent Near Sefton Park,Double room,[400],400.0,L8
+687,Now,Furnished,Males or females,Liverpool (L15),None,None,['£377 pcm'],Large furnised double room to rent in modern house,Double room,[377],377.0,L15
+688,Now,Furnished,Males or females,Liverpool (L15),12 months,None,['£450 pcm'],Double room available in shared house with 1 other,Double room,[450],450.0,L15
+689,03 Jan 2019,Furnished,Males or females,Liverpool City Centre (L8),None,6 months,['£498 pcm'],Gorgeous double room for rent in Georgian Quarter,Double room,[498],498.0,L8
+690,Now,Furnished,Males or females,Liverpool (L3),None,None,['£500 pcm'],Double Room available,Double room,[500],500.0,L3
+691,Now,No info,Males or females,Liverpool (L4),None,None,['£70 pw'],"£10 per Day, No Deposit, No Fees",Double room,[280],280.0,L4
+692,01 Feb 2019,Furnished,No info,Liverpool City Centre (L3),None,6 months,['£166 pw (whole property)'],Amazing studio in the city center. All included,Studio flat,[664],664.0,L3
+693,Now,Furnished,No info,Liverpool City Centre (L1),None,6 months,['£143 pw (whole property)'],1 Double bed studio apartment in liverpool city,1 bed flat,[572],572.0,L1
+694,Now,Furnished,Males or females,Liverpool City Centre (L1),10 months,10 months,['£92 pw'],1 double bedroom city centre,Double room,[368],368.0,L1
+695,Now,Furnished,Males or females,Liverpool (L9),None,6 months,"['£385 pcm', '£385 pcm']",If Carlsberg Did Rooms to Rent,2 doubles,"[385, 385]",385.0,L9
+696,Now,Furnished,Males or females,Bootle (L20),None,None,['£350 pcm'],Double room to rent in 3 bed Penthouse apartment,Double room,[350],350.0,L20
+697,Now,Furnished,Males or females,West Derby (L12),None,None,['£325 pcm'],Large Double Room with Own Bathroom,Double room,[325],325.0,L12
+698,Now,Furnished,Males or females,Liverpool (L15),None,12 months,['£310 pcm'],double bedroom avaiable,Double room,[310],310.0,L15
+699,Now,Furnished,Males or females,Liverpool City Centre (L8),7 months,6 months,['£130 pw'],Room in 3 bed flat available - Georgian Quarter,Double room,[520],520.0,L8
+700,Now,No info,Males or females,Liverpool (L3),8 months,8 months,['£108 pw'],Room Available Now,Double room,[432],432.0,L3
+701,12 Dec 2018,Furnished,Female preferred,Speke (L24),None,None,['£360 pcm'],Room to let for female in Hunts Cross,Single room,[360],360.0,L24
+702,Now,Furnished,Males or females,Liverpool City Centre (L1),None,None,['£575 pcm'],Cosy L1 city Center apartment double room,Double room,[575],575.0,L1
+703,Now,Furnished,Males or females,Hunt's Cross (L25),None,None,['£90 pw'],Large double bedroom,Double room,[360],360.0,L25
+704,Now,Furnished,Males or females,Allerton (L18),None,6 months,['£360 pcm'],"Rooms Available, L18, Allerton",Double room,[360],360.0,L18
+705,Now,Furnished,Males or females,Liverpool (L15),8 months,8 months,['£70 pw'],"Spare room, only £70 a week. On Smithdown road",Double room,[280],280.0,L15
+706,24 May 2019,Furnished,Males or females,Liverpool (L4),None,3 months,['£220 pcm'],Single  room in share near Liverpool on,Single room,[220],220.0,L4
+707,Now,Furnished,Males or females,Aughton (L39),12 months,6 months,['£520 pcm'],Large en-suite master bedroom,Double room,[520],520.0,L39
+708,Now,Furnished,Males or females,Aigburth (L17),None,6 months,"['£380 pcm', '£300 pcm']","£300 per month, first months rent half price",Double room,"[380, 300]",340.0,L17
+709,Now,Furnished,Female preferred,Liverpool City Centre (L1),None,None,['£500 pcm'],Double bedroom  in Liverpool centre,Double room,[500],500.0,L1
+710,Now,Furnished,Males or females,Liverpool City Centre (L8),None,None,['£300 pcm'],Georgian Quarter,Single room,[300],300.0,L8
+711,Now,Furnished,No info,Liverpool City Centre (L3),None,None,['Potential Buddy Ups'],Large luxury apartment at Kings Dock.,2 bed flat,[],,L3
+712,05 Jan 2019,No info,Males or females,Liverpool (L6),6 months,6 months,['£128 pw'],1 bed in a shared flat. Student accommodation,Double room,[512],512.0,L6
+713,Now,Furnished,Males or females,Whiston (L35),None,None,['£360 pcm'],Two berth caravan parked on rear private drive,Double room,[360],360.0,L35
+714,Now,Furnished,Males or females,Liverpool City Centre (L8),None,None,['£312 pcm'],"City Centre Flat . Double Room, balcony.",Double room,[312],312.0,L8
+715,Now,Furnished,Males or females,Aigburth (L17),None,6 months,['£400 pcm'],FURN ROOMS,Double room,[400],400.0,L17
+716,Now,Furnished,Males or females,Liverpool City Centre (L3),None,None,['£97 pw'],Room Available in Vauxhall road,Double room,[388],388.0,L3
+717,Now,Furnished,Males or females,Liverpool (L3),5 months,3 months,['£640 pcm'],Jacob Roberts,Single room,[640],640.0,L3
+718,Now,Furnished,Males or females,Liverpool (L6),8 months,None,['£60 pw'],CHEAP!! 1 Bed double room in Liverpool house share,Double room,[240],240.0,L6
+719,Now,Furnished,Males or females,Allerton (L18),6 months,1 month,['£425 pcm'],Lovely room in house,Double room,[425],425.0,L18
+720,Now,Furnished,Males or females,Liverpool City Centre (L3),12 months,6 months,['£550 pcm'],Roommate wanted near city centre,Double room,[550],550.0,L3
+721,Now,Furnished,Males or females,Liverpool (L4),None,None,"['£50 pw', '£65 pw', '£90 pw']",Room fully furnished. International welcome,2 singles + double,"[200, 260, 360]",273.3333333333333,L4
+722,Now,Furnished,Males or females,Liverpool (L12),None,None,['£350 pcm'],Trendy decorated Double Room For Rent,Double room,[350],350.0,L12
+723,Now,Furnished,No info,Liverpool City Centre (L1),3 months,None,['£200 pw (whole property)'],Mid Week serviced Apartment   in the City,Studio flat,[800],800.0,L1
+724,Now,Furnished,Males or females,Liverpool City Centre (L1),None,6 months,['£425 pcm'],1 double bed room to rent,Double room,[425],425.0,L1
+725,Now,Furnished,Males or females,Liverpool (L13),None,None,['£450 pcm'],Double Bedroom in  refurbished professional house,Double room,[450],450.0,L13
+726,Now,Furnished,Males or females,Aigburth (L17),36 months,6 months,"['£75 pw', '£75 pw']",Room to let,2 doubles,"[300, 300]",300.0,L17
+727,Now,Furnished,Males or females,Liverpool (L15),None,None,['£115 pw'],"Brand new 6 bedroom house, Great location",Double room,[460],460.0,L15
+728,Now,Furnished,Males or females,Liverpool City Centre (L3),11 months,11 months,['£95 pw'],Double En-suite rooms next to Uni Campus',Double room,[380],380.0,L3
+729,Now,Furnished,Males or females,Bootle (L20),None,3 months,['£350 pcm'],2 Bedroom House In Bootle,Double room,[350],350.0,L20
+730,Now,Furnished,Males or females,Liverpool (L6),None,None,"['£295 pcm', '£305 pcm']",Double Rooms in Fairfield,2 doubles,"[295, 305]",300.0,L6
+731,Now,Furnished,Male preferred,Liverpool (L17),None,8 months,['£446 pcm'],Spare large room to rent / near city centre,Double room,[446],446.0,L17
+732,Now,Furnished,Males or females,Liverpool (L9),None,1 month,"['£750 pcm', '£750 pcm']",Premium Double Rooms with Private Living room!,2 doubles,"[750, 750]",750.0,L9
+733,Now,Furnished,Female preferred,Liverpool (L7),None,9 months,['£85 pw'],Urgent tenancy takeover reqd,Double room,[340],340.0,L7
+734,01 Jan 2019,Furnished,Males or females,Liverpool (L7),None,None,['£80 pw'],Large double room in Kensington,Double room,[320],320.0,L7
+735,01 Jan 2019,Furnished,Males or females,Liverpool (L7),None,None,['£80 pw'],1 Double Room - *Perfect for Exchange Students*,Double room,[320],320.0,L7
+736,Now,Furnished,Males or females,Liverpool (L4),36 months,4 months,['£95 pw'],Room to let,Double room,[380],380.0,L4
+737,06 Jan 2019,Furnished,Males or females,Liverpool (L5),None,None,['£100 pw'],Double room for rent - pets considered,Double room,[400],400.0,L5
+738,Now,Furnished,Males or females,Liverpool (L4),None,12 months,"['£450 pcm', '£450 pcm', '£375 pcm']",Rooms for Let,Single + 2 doubles,"[450, 450, 375]",425.0,L4
+739,Now,Furnished,Males or females,Liverpool (L8),9 months,None,['£95 pw'],Single Room in a 4-Bed Accommodation,Single room,[380],380.0,L8
+740,Now,Furnished,Males or females,Aigburth (L17),None,1 month,['£360 pcm'],House with two rooms in clean and modern house,Double room,[360],360.0,L17
+741,Now,Furnished,Males or females,Liverpool (L13),None,None,['£100 pw'],Single room available would suit a student,Single room,[400],400.0,L13
+742,Now,No info,Males or females,Speke (L24),None,None,['£100 pw'],Double Room For Rent,Double room,[400],400.0,L24
+743,Now,Furnished,Males or females,Prescot (L35),None,6 months,"['£90 pw', '£90 pw']",Modern new rooms,2 doubles,"[360, 360]",360.0,L35
+744,Now,Furnished,Males or females,Liverpool (L15),9 months,6 months,['£85 pw'],Spare Room Smithdown Liverpool £85/Week,Double room,[340],340.0,L15
+745,Now,Furnished,Males or females,Liverpool City Centre (L3),None,6 months,['£450 pcm'],Double room available in a cozy city centre flat,Double room,[450],450.0,L3
+746,Now,Furnished,No info,Liverpool City Centre (L3),12 months,2 months,['£120 pw (whole property)'],Student accommodation near UoL,1 bed flat,[480],480.0,L3
+747,Now,Furnished,Males or females,Formby (L37),None,None,['£130 pw'],New luxury double in detached house Formby,Double room,[520],520.0,L37
+748,Now,Furnished,Males or females,Liverpool (L8),None,None,['£94 pw'],Double Room Available Including Bills,Double room,[376],376.0,L8
+749,01 Sep 2019,Furnished,Males or females,Liverpool (L3),24 months,12 months,"['£120 pw', '£120 pw', '£120 pw', '£120 pw', '£120 pw', '£120 pw', '£120 pw']",Stunning Seven Room Gold Standard Property,7 singles,"[480, 480, 480, 480, 480, 480, 480]",480.0,L3

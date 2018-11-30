@@ -1,0 +1,1101 @@
+,Availablility,Furnishing,Gender_requirement,Location,Max_period,Min_period,Price,Short_description,Size,Price_per_month,Average_price_per_month,Postal_code
+0,Now,Furnished,Males or females,Leyton (E10),None,2 months,"['£1,000 pcm', '£660 pcm']",2 Large Double Rooms in Gay House in Leyton,2 doubles,"[1000, 660]",830.0,E10
+1,23 Dec 2018,Furnished,Males or females,Chiswick Park (W4),None,4 months,['£180 pw'],Modern Double Room in Chiswick Park (C1),Double room,[720],720.0,W4
+2,Now,No info,Males or females,Stratford (E15),None,None,"['£650 pcm', '£541 pcm']",Double rooms available in Stratford**All Bills Inc,2 doubles,"[650, 541]",595.5,E15
+3,23 Dec 2018,Furnished,Males or females,Shoreditch (E1),None,None,['£800 pcm'],2 Large Double in Shoreditch Bricklane,2 doubles,[800],800.0,E1
+4,01 Dec 2018,Furnished,Males or females,Regent's Park (NW1),None,2 months,"['£1,000 pcm']",Double Room Zone 1 near Regents Park,Double room,[1000],1000.0,NW1
+5,Now,Furnished,Males or females,Manor Park (E12),None,None,['£375 pcm'],Double room TO LET in Manor Park,Double room,[375],375.0,E12
+6,30 Nov 2018,Furnished,No info,Manor House (N4),None,6 months,"['£1,195 pcm (whole property)']",Brand new flat with separate kitchen inc bills,Studio flat,[1195],1195.0,N4
+7,Now,Furnished,Males or females,London E3 (E3),None,3 months,['£650 pcm'],ðCheap & Bright Double Room in E3-Zone 2ð,Double room,[650],650.0,E3
+8,17 Dec 2018,Furnished,Males or females,London E1 (E1),None,3 months,['£750 pcm'],Stunning Double Room in Liverpool Street Area,Double room,[750],750.0,E1
+9,02 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,3 months,['£650 pcm'],ð¡Special Semi-Double Room in Canary Wharfð¡,Double room,[650],650.0,E14
+10,01 Dec 2018,Furnished,No info,London Bridge (SE1),None,6 months,"['£1,650 pcm (whole property)']",Fully furnished 1st floor flat in london bridge.,1 bed flat,[1650],1650.0,SE1
+11,06 Dec 2018,Furnished,Males or females,Wood Green (N22),None,3 months,['£625 pcm'],Brand New Double Room in Modern House,Double room,[625],625.0,N22
+12,01 Dec 2018,Furnished,Males or females,Old Street (N1),None,6 months,"['£200 pw', '£210 pw', '£225 pw']",3 Bedrooms - Old Street - Furnishd - Bills Incl.,3 doubles,"[800, 840, 900]",846.6666666666666,N1
+13,Now,Furnished,Males or females,Streatham (SW16),None,6 months,['£750 pcm'],Large double in friendly houseshare with garden,Double room,[750],750.0,SW16
+14,01 Feb 2019,Furnished,Males or females,Earl's Court (SW5),None,12 months,['£625 pcm'],"Cosy, bright room in amazing flat in Earls Court",Single room,[625],625.0,SW5
+15,02 Dec 2018,Furnished,Males or females,Custom House (E16),None,3 months,['£550 pcm'],Newly Refurbished Single Bedroom Available To Let,Single room,[550],550.0,E16
+16,01 Dec 2018,Furnished,Males or females,Brockley (SE4),1 month,1 month,['£566 pcm'],"Short Term - Small double in clean, stylish flat",Double room,[566],566.0,SE4
+17,Now,Furnished,Males or females,Kingsbury (NW9),24 months,6 months,"['£650 pcm', '£500 pcm']",Double Room  To Rent Kingsbury,2 doubles,"[650, 500]",575.0,NW9
+18,20 Dec 2018,Furnished,Males or females,Hackney (E9),None,None,['£708 pcm'],The best house family in London,Double room,[708],708.0,E9
+19,05 Dec 2018,Furnished,Males or females,London NW1 (NW1),None,6 months,['£250 pw'],Large Double room Warren street NW1,Double room,[1000],1000.0,NW1
+20,Now,Furnished,Female preferred,North Finchley (N12),None,None,['£550 pcm'],Beautiful Double Room in Friendly Family Home,Double room,[550],550.0,N12
+21,Now,Furnished,Males or females,Stepney Green (E1),None,11 months,['£650 pcm'],Large Double for 650 Mile End,Double room,[650],650.0,E1
+22,14 Dec 2018,No info,No info,London NW10 (NW10),None,6 months,['£780 pcm (whole property)'],Great studio in Harlesden,Studio flat,[780],780.0,NW10
+23,03 Dec 2018,Furnished,Males or females,Streatham Common (SW16),None,12 months,['£720 pcm'],Beautiful Edwardian rooms - Streatham Common house,Double room,[720],720.0,SW16
+24,Now,Furnished,Males or females,Streatham Hill (SW16),None,3 months,['£475 pcm'],#Lovely Single Room#,Double room,[475],475.0,SW16
+25,30 Nov 2018,Furnished,Males or females,Wimbledon (SW19),None,3 months,['£650 pcm'],#5 mins wimbledon station double room#,Double room,[650],650.0,SW19
+26,Now,Furnished,Males or females,London SW18 (SW18),None,3 months,['£150 pw'],Double Rooms Next to Earlsfield Station,Double room,[600],600.0,SW18
+27,07 Dec 2018,Furnished,No info,London NW10 (NW10),None,6 months,['£900 pcm (whole property)'],===Studio flat to let in Neasden/ Wembley===,Studio flat,[900],900.0,NW10
+28,Now,Furnished,No info,London NW9 (NW9),None,6 months,['£875 pcm (whole property)'],++ Brand new Studio flat to let in Colindale ++,Studio flat,[875],875.0,NW9
+29,Now,Furnished,Males or females,Fulham Broadway (SW6),None,None,"['£300 pw', '£280 pw', '£245 pw']",Luxury New Flat -Fulham- Ensuite & 2 Double Rooms,3 doubles,"[1200, 1120, 980]",1100.0,SW6
+30,07 Dec 2018,Furnished,Males or females,Wimbledon (SW19),None,4 months,['£620 pcm'],10 minutes Walk from Morden Tube Station!,Double room,[620],620.0,SW19
+31,Now,Furnished,Males or females,Hackney (E5),None,2 months,['£235 pw'],Amazing Double Room ENSUITE**Hackney**4Bed Flat,Double room,[940],940.0,E5
+32,31 Dec 2018,Furnished,Males or females,Aldgate East (E1),None,3 months,['£150 pw'],Fantastic Room in Aldgate East Area+All Bill Incld,Double room,[600],600.0,E1
+33,20 Dec 2018,Furnished,Males or females,All Saints (E14),None,3 months,['£115 pw'],Fantastic Room with Balcony+All Bill Including,Double room,[460],460.0,E14
+34,Now,Furnished,Males or females,Angel (N1),None,3 months,['£910 pcm'],! Lovely Room in Best Location! Angel Area!,Double room,[910],910.0,N1
+35,05 Jan 2019,Furnished,Males or females,Bethnal Green (E2),None,None,"['£195 pw', '£195 pw', '£175 pw']","ð¹ Nice Rooms, Perfect Location for You ð¹",3 doubles,"[780, 780, 700]",753.3333333333334,E2
+36,03 Jan 2019,Furnished,Males or females,White City (W12),None,3 months,['£758 pcm'],Double Room January*WHITE CITY*Good Location,Double room,[758],758.0,W12
+37,04 Dec 2018,Furnished,Males or females,Regent's Park (NW1),None,6 months,"['£270 pw', '£240 pw', '£270 pw', '£230 pw']",Very Beautiful and Luxury Flat in RegentÂ´S Park,4 doubles,"[1080, 960, 1080, 920]",1010.0,NW1
+38,Now,Furnished,Males or females,Greenwich (SE10),None,None,"['£169 pw', '£198 pw', '£225 pw', '£245 pw']",ðBEST ROOMS in se10...discount Today...25%off,4 doubles,"[676, 792, 900, 980]",837.0,SE10
+39,Now,Furnished,Males or females,Cricklewood (NW2),None,3 months,['£140 pw'],# Double Single use available in Cricklewood!!,Single room,[560],560.0,NW2
+40,31 Dec 2018,Furnished,Males or females,Peckham (SE15),None,None,"['£109 pw', '£109 pw', '£129 pw', '£129 pw', '£139 pw', '£139 pw']",Six Lovely Furnished Bedrooms with Spacious Garden,6 doubles,"[436, 436, 516, 516, 556, 556]",502.6666666666667,SE15
+41,04 Dec 2018,Furnished,Males or females,Regent's Park (NW1),None,6 months,"['£270 pw', '£240 pw', '£270 pw', '£230 pw']",4 Luxurious DOuble Room in Regent's Park/ NEW FLAT,4 doubles,"[1080, 960, 1080, 920]",1010.0,NW1
+42,Now,Furnished,Males or females,Kensal Rise (NW10),None,6 months,"['£865 pcm', '£895 pcm', '£865 pcm', '£865 pcm', '£815 pcm']",">>No Deposit&MonthâS Rent,Move to Kensal Rise<<",5 doubles,"[865, 895, 865, 865, 815]",861.0,NW10
+43,Now,Furnished,Males or females,Canary Wharf (E14),None,None,"['£225 pw', '£225 pw']",âï¸ New ; 2 Rooms in Modern Flat Now ! âï¸,2 doubles,"[900, 900]",900.0,E14
+44,01 Jan 2019,Furnished,Males or females,London SE7 (SE7),None,6 months,['£700 pcm'],Spacious Double Room,Double room,[700],700.0,SE7
+45,15 Dec 2018,Furnished,Males or females,Earl's Court (SW5),None,None,['£265 pw'],En suite double bedroom in speactacular new refurb,Double room,[1060],1060.0,SW5
+46,Now,Furnished,Males or females,Hanwell (W7),None,6 months,['£710 pcm'],Big Double Room for 1 or for a Couple.,Double room,[710],710.0,W7
+47,14 Dec 2018,Furnished,Males or females,Balham (SW12),None,None,['£695 pcm'],Double rooms to rent in Balham/Clapham area,Double room,[695],695.0,SW12
+48,Now,Furnished,Males or females,Old Street (N1),None,12 months,['£710 pcm'],Spacious double room in friendly flat share!,Double room,[710],710.0,N1
+49,03 Dec 2018,Furnished,Males or females,Aldgate East (E1),None,3 months,['£170 pw'],Amazing Room in Newly Refurbish Flat@Aldgate East,Double room,[680],680.0,E1
+50,Now,Furnished,Males or females,Old Street (E2),None,None,['£159 pw'],Shoreditch/Old Street/Amazing Furnished Bedroom,Double room,[636],636.0,E2
+51,Now,Furnished,Males or females,Tufnell Park (N19),None,None,"['£225 pw', '£190 pw']",ð¸ Move Asap ! Central London ! ð¸,2 doubles,"[900, 760]",830.0,N19
+52,31 Dec 2018,Furnished,Males or females,Whitechapel (E1),None,3 months,['£130 pw'],Amazing Room in Stepney/Whitechapel+Bill Including,Double room,[520],520.0,E1
+53,04 Dec 2018,Furnished,Males or females,Bayswater (W2),None,6 months,"['£370 pw', '£330 pw', '£330 pw', '£260 pw', '£270 pw', '£240 pw']",6 Luxurious Double Room in a New Flat,6 doubles,"[1480, 1320, 1320, 1040, 1080, 960]",1200.0,W2
+54,01 Dec 2018,Furnished,Males or females,Mile End (E3),None,None,['£129 pw'],Mile End/Close To Station/Lovely Furnished Bedroom,Single room,[516],516.0,E3
+55,Now,Furnished,Males or females,Hendon (NW4),12 months,6 months,['£175 pw'],Lovely En-Suite Room in Hendon,Double room,[700],700.0,NW4
+56,16 Dec 2018,Furnished,Males or females,Bow (E3),None,8 months,"['£500 pcm', '£600 pcm']",Double Room To Let,Double room,"[500, 600]",550.0,E3
+57,06 Dec 2018,Furnished,Males or females,Wandsworth (SW18),None,6 months,['£645 pcm'],Room to rent in lovely 2 bed flat in Wandsworth,Double room,[645],645.0,SW18
+58,01 Dec 2018,Furnished,Males or females,Shoreditch (E2),None,3 months,['£150 pw'],Amazing Room in Shoreditch Area+All Bill Including,Double room,[600],600.0,E2
+59,Now,Furnished,Males or females,Westferry (E14),None,3 months,['£120 pw'],Amazing Room in Westferry+Close to Canary Wharf,Single room,[480],480.0,E14
+60,Now,Furnished,No info,Holloway (N7),None,6 months,['£780 pcm (whole property)'],Cheapest Studio in Central London!,Studio flat,[780],780.0,N7
+61,Now,Furnished,Males or females,Russell Square (WC1),None,None,"['£320 pw', '£270 pw', '£235 pw', '£280 pw']",Stunning HOUSE in Central London,4 doubles,"[1280, 1080, 940, 1120]",1105.0,WC1
+62,04 Dec 2018,Furnished,Males or females,Hyde Park (W2),None,6 months,"['£370 pw', '£330 pw', '£330 pw', '£260 pw', '£270 pw', '£240 pw']",Amazing Luxury Flat - Perfect Location Hyde Park,6 doubles,"[1480, 1320, 1320, 1040, 1080, 960]",1200.0,W2
+63,20 Dec 2018,Furnished,Males or females,Paddington (W2),12 months,6 months,['£190 pw'],Stunning Bedsit in Paddington,Double room,[760],760.0,W2
+64,03 Dec 2018,Furnished,Males or females,King's Cross (WC1),None,None,"['£245 pw', '£320 pw', '£285 pw']",**Luxury New Flat** 4 Rooms / King's Cross,3 doubles,"[980, 1280, 1140]",1133.3333333333333,WC1
+65,13 Dec 2018,Furnished,Males or females,Wandsworth (SW18),2 months,None,['£200 pw'],Short Let Doubled Bed  in Wandsworth / Earlsfield,Double room,[800],800.0,SW18
+66,18 Dec 2018,Furnished,Males or females,North Acton (W3),None,3 months,['£780 pcm'],Double room in garden house near central line,Double room,[780],780.0,W3
+67,Now,Furnished,Female preferred,London E18 (E18),None,3 months,['£104 pw'],"Luxury Single Room, London E18, 19 Mins to Liv St",Single room,[416],416.0,E18
+68,01 Dec 2018,Furnished,Males or females,Paddington (W9),None,2 months,"['£200 pw', '£220 pw']",Double Room next to park Near Maida Vale station,2 doubles,"[800, 880]",840.0,W9
+69,30 Nov 2018,Furnished,Males or females,Fulham Palace Road (SW6),None,3 months,['£145 pw'],***Fulham-Spacious Amazing Double Room (All Bills,Single room,[580],580.0,SW6
+70,Now,Furnished,Males or females,Angel (N1),None,6 months,['£173 pw'],"Islington/Angel 1 Minute to Tube, Large Room",Double room,[692],692.0,N1
+71,Now,Furnished,Males or females,Blackhorse Road (E17),12 months,3 months,"['£115 pw', '£125 pw', '£130 pw', '£150 pw', '£185 pw', '£200 pw']",Studio Flat/Ensuite/ Double Rm  Blackhorse Rd St,6 doubles,"[460, 500, 520, 600, 740, 800]",603.3333333333334,E17
+72,Now,Furnished,Males or females,Marylebone (W1),None,None,['£265 pw'],Marylebone / Double room in a friendly flatshare,Double room,[1060],1060.0,W1
+73,Now,No info,Males or females,Chelsea (SW10),None,None,['£240 pw'],CHELSEA Wonderful room next to the Thames,Double room,[960],960.0,SW10
+74,15 Dec 2018,Furnished,Males or females,Leyton (E11),None,3 months,['£160 pw'],Furnished Double room Leyton 694 pcm,Double room,[640],640.0,E11
+75,Now,Furnished,Males or females,Seven Sisters Road (N7),None,4 months,['£720 pcm'],Room for Rent in Finsbury Park,Double room,[720],720.0,N7
+76,Now,Furnished,Males or females,Hammersmith and Fulham (SW6),None,None,"['£280 pw', '£245 pw']","Imperial Wharf, 2 gorgeous double rooms",2 doubles,"[1120, 980]",1050.0,SW6
+77,Now,Furnished,Males or females,Clapham (SW4),None,3 months,['£520 pcm'],Flat in Clapham South,Double room,[520],520.0,SW4
+78,Now,Furnished,Males or females,Belgravia (SW1),None,None,['£340 pw'],Sloane Square/Victoria. Bright-Massive room!,Double room,[1360],1360.0,SW1
+79,Now,Furnished,Males or females,St John's Wood (NW8),None,None,['£220 pw'],Wonderful room amazing location 5 min from station,Double room,[880],880.0,NW8
+80,Now,Furnished,Males or females,Battersea (SW8),None,None,['£250 pw'],Ensuite Available Now in Battersea Brand New Flat,Double room,[1000],1000.0,SW8
+81,Now,Furnished,Males or females,South Kensington (SW7),None,None,['£310 pw'],South Ken. Area-beautiful room,Double room,[1240],1240.0,SW7
+82,Now,Furnished,Males or females,Hammersmith and Fulham (SW6),None,None,"['£195 pw', '£180 pw']","Hamersmith/Fulham, 2 large double rooms!!",2 doubles,"[780, 720]",750.0,SW6
+83,16 Dec 2018,Furnished,Males or females,Battersea (SW8),None,3 months,['£195 pw'],Spacious Flathsare W/Garden | Battersea,Double room,[780],780.0,SW8
+84,01 Jan 2019,Furnished,Males or females,London SE7 (SE7),None,6 months,['£700 pcm'],Spacious Double Room,Double room,[700],700.0,SE7
+85,05 Dec 2018,Furnished,Males or females,Westminster (SW1),None,None,"['£245 pw', '£305 pw']",Westminster / High Standard New Property,2 doubles,"[980, 1220]",1100.0,SW1
+86,Now,Furnished,Males or females,Westminster (SW1),None,None,"['£310 pw', '£275 pw', '£265 pw', '£250 pw']",4x doubles Westminster | Neighbors with the Queen,4 doubles,"[1240, 1100, 1060, 1000]",1100.0,SW1
+87,Now,Furnished,Males or females,Baker Street (W1),None,None,['£270 pw'],Baker Street/ Stunning Double Room,Double room,[1080],1080.0,W1
+88,Now,Furnished,Males or females,Surrey Quays (SE8),None,6 months,"['£155 pw', '£155 pw']",2 Double Bedrooms in Stunning House - Zone 2,2 doubles,"[620, 620]",620.0,SE8
+89,Now,Furnished,Males or females,London SW16 (SW16),None,1 month,['£695 pcm'],No Deposit/All Bills inc Available now,Double room,[695],695.0,SW16
+90,Now,Furnished,Males or females,Victoria (SW1),None,3 months,"['£250 pw', '£255 pw', '£275 pw', '£310 pw']","""VICTORIA"" New Luxury Property-En-Suite",4 doubles,"[1000, 1020, 1100, 1240]",1090.0,SW1
+91,06 Dec 2018,Furnished,Males or females,Belgravia (SW1),None,6 months,"['£250 pw', '£255 pw', '£305 pw', '£270 pw']",-High Standard New Property-,4 doubles,"[1000, 1020, 1220, 1080]",1080.0,SW1
+92,Now,Furnished,Males or females,Camden Town (NW1),None,None,"['£230 pw', '£220 pw']",2 Brand new double rooms in Camden Town!,2 doubles,"[920, 880]",900.0,NW1
+93,Now,Furnished,Males or females,King's Cross (WC1),None,None,['£265 pw'],Kings Cross Stunning New Room Available,Double room,[1060],1060.0,WC1
+94,Now,Furnished,Males or females,London W14 (W14),None,3 months,['£270 pw'],Spacious Double Room - Hammersmith,Double room,[1080],1080.0,W14
+95,05 Dec 2018,Furnished,Males or females,Hyde Park (W2),None,6 months,"['£370 pw', '£330 pw', '£330 pw', '£260 pw', '£270 pw', '£240 pw']",Luxury Flat in Hyde Park with Huge Living Room!,6 doubles,"[1480, 1320, 1320, 1040, 1080, 960]",1200.0,W2
+96,03 Dec 2018,Furnished,No info,Aldgate East (E1),None,None,['£250 pw (whole property)'],Aldgate East /Whitechapel Zone 1 Studio flat,1 bed flat,[1000],1000.0,E1
+97,04 Dec 2018,Furnished,Males or females,Roehampton (SW15),None,None,['£110 pw'],Luxury Single Room,Single room,[440],440.0,SW15
+98,01 Dec 2018,Furnished,Males or females,Shoreditch (E2),None,None,"['£160 pw', '£175 pw']",Food+Drink+Fun= You at a  Lively Nighty Area !!,2 doubles,"[640, 700]",670.0,E2
+99,Now,Furnished,Males or females,London SW6 (SW6),None,None,['£290 pw'],Imperial Wharf. Luxury En-suite Brand new Flat,Double room,[1160],1160.0,SW6
+100,Now,Furnished,Males or females,Fulham (SW6),None,None,"['£285 pw', '£235 pw']",Chelsea /New property /Ensuite room,2 doubles,"[1140, 940]",1040.0,SW6
+101,Now,Furnished,Males or females,Canary Wharf (E14),None,4 months,"['£150 pw', '£165 pw', '£215 pw', '£230 pw']",Absolutely luxury accommodation in Canary Wharf!,4 doubles,"[600, 660, 860, 920]",760.0,E14
+102,05 Dec 2018,Furnished,Males or females,Victoria (SW1),None,6 months,"['£250 pw', '£255 pw', '£310 pw', '£275 pw']",Luxury New Flat - Ensuite & 3 Double Rooms - Asap,4 doubles,"[1000, 1020, 1240, 1100]",1090.0,SW1
+103,Now,Furnished,Males or females,Clapham Junction (SW11),None,None,"['£220 pw', '£200 pw']","Clapham Junction, 2 large double rooms, all bills!",2 doubles,"[880, 800]",840.0,SW11
+104,03 Dec 2018,Furnished,Males or females,King's Cross (WC1),None,6 months,"['£320 pw', '£235 pw', '£260 pw', '£285 pw']",*Luxury Brand New Property*,4 doubles,"[1280, 940, 1040, 1140]",1100.0,WC1
+105,Now,Furnished,Males or females,Notting Hill (W10),12 months,6 months,['£280 pw'],Best Brand New Ensuite in North Kensington//Now!!!,Double room,[1120],1120.0,W10
+106,Now,Furnished,Males or females,Marylebone (NW8),None,3 months,['£220 pw'],Brand new flat - double room - St Johns Wood,Double room,[880],880.0,NW8
+107,19 Dec 2018,Furnished,Males or females,Victoria (SW1),None,None,['£265 pw'],Victoria / Amazing double room,Double room,[1060],1060.0,SW1
+108,Now,Furnished,Males or females,Fitzrovia (WC1),None,None,"['£325 pw', '£245 pw']",New Brand Property/Central London,2 doubles,"[1300, 980]",1140.0,WC1
+109,Now,Furnished,Males or females,Canary Wharf (E14),None,None,"['£180 pw', '£200 pw', '£215 pw']",ð¥Stunning Double Rooms in Canary Wharfð¥,3 doubles,"[720, 800, 860]",793.3333333333334,E14
+110,Now,Furnished,Males or females,London SE15 (SE15),None,9 months,"['£600 pcm', '£625 pcm', '£650 pcm', '£550 pcm']",STUNNING refurbishment - be the 1st to live here!,4 doubles,"[600, 625, 650, 550]",606.25,SE15
+111,Now,Furnished,Males or females,Shepherds Bush (W12),None,4 months,['£800 pcm'],Double Room in Shepherd's Bush,Double room,[800],800.0,W12
+112,Now,No info,Males or females,Shoreditch (N1),None,None,['£185 pw'],Today Discount for You! Take the Deal with Us,Double room,[740],740.0,N1
+113,31 Jan 2019,Furnished,Males or females,Old Street (EC1),None,2 months,['£245 pw'],*Old Street* Amazing Double Room!!,Double room,[980],980.0,EC1
+114,Now,Furnished,Males or females,St James's Park (SW1),None,None,"['£245 pw', '£305 pw']",Luxurious 5* building in the heart of Belgravia,2 doubles,"[980, 1220]",1100.0,SW1
+115,Now,Furnished,Males or females,Sloane Square (SW1),None,None,"['£260 pw', '£310 pw']",Luxe New Brand Property,2 doubles,"[1040, 1240]",1140.0,SW1
+116,01 Dec 2018,Furnished,Males or females,Maida Hill (W9),None,None,['£195 pw'],*Double Room|Living Room|Garden|Maida Vale*,Double room,[780],780.0,W9
+117,Now,Furnished,Males or females,Belgravia (SW1),None,None,['£260 pw'],Belgravia Stunning New Room All Inclusive,Double room,[1040],1040.0,SW1
+118,Now,Furnished,Males or females,Victoria (SW1),None,None,"['£255 pw', '£250 pw', '£315 pw', '£280 pw']","Victoria/Pimlico, zone 1, brand new 4 bedroom flat",4 doubles,"[1020, 1000, 1260, 1120]",1100.0,SW1
+119,05 Dec 2018,Furnished,Males or females,Green Park (SW1),None,6 months,"['£250 pw', '£255 pw', '£310 pw', '£275 pw']",Luxury New Flat - Ensuite & 3 Rooms - Victoria,4 doubles,"[1000, 1020, 1240, 1100]",1090.0,SW1
+120,03 Dec 2018,Furnished,Males or females,Marylebone (W1),None,3 months,['£265 pw'],Marylebone - Cozy Double,Double room,[1060],1060.0,W1
+121,Now,Furnished,Males or females,Chelsea (SW3),None,None,"['£260 pw', '£310 pw']",New Brand Luxury Property/Sloane Square,2 doubles,"[1040, 1240]",1140.0,SW3
+122,Now,No info,Males or females,Canary Wharf (E14),None,None,"['£190 pw', '£210 pw', '£220 pw']",ð¥Stunning Double Rooms in Canary Wharfð¥,3 doubles,"[760, 840, 880]",826.6666666666666,E14
+123,Now,No info,Males or females,Stratford (E15),None,None,['£150 pw'],** Huge Double Room in Stratford **,Double room,[600],600.0,E15
+124,06 Jan 2019,Furnished,Males or females,Blackwall (E14),None,None,['£230 pw'],ð¦Balcony by river and private toiletð¦,Double room,[920],920.0,E14
+125,07 Dec 2018,Furnished,No info,Paddington (W2),None,6 months,['£900 pcm (whole property)'],Studio Flat.Paddington.Glouster Terrace W2,Studio flat,[900],900.0,W2
+126,Now,No info,No info,King's Cross (WC1),None,None,['£900 pcm'],"Studio flat, King's Cross, Wicklow Street. WC1X 9J",Double room,[900],900.0,WC1
+127,Now,Furnished,Males or females,King's Cross (N1),None,None,['£290 pw'],King's Cross/Massive room with balcony,Double room,[1160],1160.0,N1
+128,Now,Furnished,Males or females,Battersea (SW8),None,None,['£255 pw'],"Battersea, amazing room with bathroom!",Double room,[1020],1020.0,SW8
+129,05 Dec 2018,Furnished,Males or females,Stratford (E15),None,None,"['£170 pw', '£180 pw', '£150 pw']","Luxury +â¦ So Much More Than Location, Location",Single + 2 doubles,"[680, 720, 600]",666.6666666666666,E15
+130,Now,Furnished,Males or females,Bermondsey (SE16),None,3 months,['£210 pw'],Beautiful Flatshare w/Living Room!,Double room,[840],840.0,SE16
+131,Now,Furnished,Males or females,Whitechapel (E1),None,None,"['£955 pcm', '£955 pcm']",Beautiful Modern 2 bed property // Zone 1,2 doubles,"[955, 955]",955.0,E1
+132,15 Dec 2018,Furnished,Female preferred,Homerton (E9),None,6 months,['£900 pcm'],Double bedroom available in Homerton,Double room,[900],900.0,E9
+133,03 Dec 2018,Furnished,Males or females,Willesden Green (NW10),None,3 months,['£170 pw'],"Bright Double Room - Willesden Green, Zone 2",Double room,[680],680.0,NW10
+134,Now,Furnished,Males or females,Stockwell (SW8),None,None,"['£215 pw', '£225 pw']",**New Property** 2 Rooms /Stockwell,2 doubles,"[860, 900]",880.0,SW8
+135,Now,Furnished,Males or females,Mile End (E3),None,3 months,['£160 pw'],4 Min to the Central Line #Mileend,Double room,[640],640.0,E3
+136,13 Dec 2018,No info,Males or females,East Acton (W3),None,6 months,['£735 pcm'],"Big Double in Zone 2, East Acton, Central Line!!!",Double room,[735],735.0,W3
+137,Now,Furnished,Males or females,Kensington and Chelsea (SW10),None,None,['£245 pw'],"Fulham, great double room with bathroom!",Double room,[980],980.0,SW10
+138,03 Dec 2018,Furnished,Males or females,Battersea (SW11),None,6 months,['£564 pcm'],Lovely Double Room in Battersea,Double room,[564],564.0,SW11
+139,02 Jan 2019,Furnished,Males or females,London W11 (W11),None,2 months,"['£235 pw', '£250 pw']",Clean & Bright 2 Double!,2 doubles,"[940, 1000]",970.0,W11
+140,18 Dec 2018,Furnished,Males or females,Victoria (SW1),None,None,['£340 pw'],Victoria / Amazing double room,Double room,[1360],1360.0,SW1
+141,Now,Furnished,Males or females,Hyde Park (W2),None,6 months,"['£370 pw', '£330 pw', '£330 pw', '£260 pw', '£270 pw', '£240 pw']",Hyde Park / Fantastic & Luxury BRAND NEW Flatshare,6 doubles,"[1480, 1320, 1320, 1040, 1080, 960]",1200.0,W2
+142,Now,Furnished,Males or females,Canary Wharf (E14),None,None,['£563 pcm'],"Lime house /Canary W S room ,living room  2TOILETS",Double room,[563],563.0,E14
+143,Now,Furnished,Males or females,Tooting Broadway (SW17),2 months,None,"['£600 pcm', '£665 pcm']",Short Let!! 2 Rooms Tooting Broadway! St Georges H,2 doubles,"[600, 665]",632.5,SW17
+144,Now,Furnished,Males or females,London SW4 (SW4),None,None,['£225 pw'],Refurbished Property Wonderful Room + Balcony,Double room,[900],900.0,SW4
+145,Now,Furnished,Males or females,London Bridge (SE1),None,None,['£200 pw'],"London Bridge, Jubilee Line, amazing double room!",Double room,[800],800.0,SE1
+146,19 Dec 2018,Furnished,Males or females,Victoria (SW1),None,3 months,['£265 pw'],Bright Lovely Double W/Patio - Victoria,Double room,[1060],1060.0,SW1
+147,Now,Furnished,Males or females,Hackney (E9),None,None,['£190 pw'],"Hackney Central, female flatshare, large room!",Double room,[760],760.0,E9
+148,Now,Furnished,Males or females,Poplar (E14),2 months,2 months,['£125 pw'],Nice single  3minutes from Poplar station/ zone2,Single room,[500],500.0,E14
+149,01 Dec 2018,Furnished,Female preferred,Stratford (E15),None,6 months,['£127 pw'],Superb Double Room in Stratford - Good Location,Double room,[508],508.0,E15
+150,20 Dec 2018,Furnished,Males or females,Finchley Central (N3),None,6 months,"['£795 pcm', '£695 pcm', '£645 pcm', '£595 pcm']",**Modern 4 Double Bedroom in Finchley Central***,4 doubles,"[795, 695, 645, 595]",682.5,N3
+151,Now,Furnished,Males or females,Mile End (E3),None,None,"['£180 pw', '£200 pw', '£230 pw']",ð¥Stunning Double Rooms in Mile Endð¥,3 doubles,"[720, 800, 920]",813.3333333333334,E3
+152,23 Dec 2018,Furnished,Female preferred,London N7 (N7),None,None,"['£150 pw', '£160 pw']",Spacious two double  room N7 near Camden Town,2 doubles,"[600, 640]",620.0,N7
+153,Now,Furnished,Males or females,Camden (NW1),None,None,['£230 pw'],Camden Town Stunning Room Next to the Station,Double room,[920],920.0,NW1
+154,15 Dec 2018,Furnished,Males or females,Willesden (NW10),None,None,"['£145 pw', '£180 pw']",2 Rooms Available in the Same House 15/12,2 doubles,"[580, 720]",650.0,NW10
+155,Now,Furnished,Males or females,London SW16 (SW16),None,3 months,"['£1,025 pcm', '£1,125 pcm', '£1,100 pcm']","Gorgeous house, 5 mins to station,  all bills incl",3 doubles,"[1025, 1125, 1100]",1083.3333333333333,SW16
+156,03 Dec 2018,Furnished,Males or females,London City Airport (E16),None,None,['£205 pw'],ðAmazing offer before Christmas ð,Double room,[820],820.0,E16
+157,17 Dec 2018,Furnished,Males or females,Hackney (E8),None,2 months,['£225 pw'],High Standard Ensuite - Hackney,Double room,[900],900.0,E8
+158,15 Dec 2018,Furnished,Males or females,Euston Square (NW1),None,None,['£160 pw'],Amazing Flat !!!  Single Room in Central London,Single room,[640],640.0,NW1
+159,Now,Furnished,Males or females,Mile End (E3),None,None,"['£155 pw', '£150 pw', '£175 pw', '£165 pw']",4 Amazing Rooms Next to Central Line !,4 doubles,"[620, 600, 700, 660]",645.0,E3
+160,Now,Furnished,Males or females,Stockwell (SW9),None,6 months,"['£230 pw', '£220 pw']",*Beautiful Flathare - Brand New*,2 doubles,"[920, 880]",900.0,SW9
+161,Now,Furnished,Males or females,Shoreditch (E1),None,None,"['£130 pw', '£150 pw']","Go with the Flow , 2 Rooms , Too Good! #Stepney",2 doubles,"[520, 600]",560.0,E1
+162,24 Dec 2018,Furnished,Males or females,Shoreditch (E2),None,3 months,['£200 pw'],Sensational in Shoreditch Centre!,Double room,[800],800.0,E2
+163,Now,Furnished,Males or females,Battersea (SW8),None,None,['£255 pw'],Battersea. Amazing En-suite available NOW,Double room,[1020],1020.0,SW8
+164,30 Dec 2018,Furnished,Males or females,Blackhorse Road (E17),12 months,3 months,"['£115 pw', '£125 pw', '£150 pw', '£185 pw', '£200 pw']","Studio Flat/ Ensuite, Double Rm Blackhorse Rd St",5 doubles,"[460, 500, 600, 740, 800]",620.0,E17
+165,03 Dec 2018,No info,Males or females,Old Street (N1),None,2 months,['£180 pw'],Avail. 03/12***Super Nice Flat***Call Me Asap,Double room,[720],720.0,N1
+166,18 Dec 2018,Furnished,Female preferred,Hammersmith (W6),None,None,['£430 pcm'],Single Bed in  Twin Room. Central Location,Single room,[430],430.0,W6
+167,Now,Furnished,Males or females,Kensington and Chelsea (SW10),None,3 months,['£260 pw'],Fantastic Ensuite - Chelsea!,Double room,[1040],1040.0,SW10
+168,Now,Furnished,Males or females,Chelsea (SW3),None,None,['£260 pw'],Chelsea/King's Road. En-suite Room!,Double room,[1040],1040.0,SW3
+169,Now,Furnished,Males or females,Aldgate (E1),None,8 months,['£200 pw'],Bright & Spacious Double - Aldgate,Double room,[800],800.0,E1
+170,Now,Furnished,Males or females,Kentish Town (NW5),None,None,['£180 pw'],"Camden Town, Northern Line, great double room!",Double room,[720],720.0,NW5
+171,27 Jan 2019,Furnished,Males or females,Mudchute (E14),None,6 months,['£699 pcm'],ð Crazy Astonishing Cozy Double E14ð,Double room,[699],699.0,E14
+172,26 Jan 2019,Furnished,Males or females,Chiswick (W4),None,6 months,"['£735 pcm', '£750 pcm', '£800 pcm', '£650 pcm']","Single Prof/Share Nr Tube Allbills, Wifi, Ctax",Single room,"[735, 750, 800, 650]",733.75,W4
+173,13 Dec 2018,Furnished,Males or females,Parsons Green (SW6),None,6 months,"['£539 pcm', '£520 pcm']",Two bdrms to let in wonderful Parsons Green,2 doubles,"[539, 520]",529.5,SW6
+174,01 Dec 2018,Furnished,Males or females,Whitechapel (E1),None,1 month,['£95 pw'],+Single Room in Bethnal Green/ Whitechapel,Single room,[380],380.0,E1
+175,Now,Furnished,Males or females,Camden Town (NW1),None,3 months,"['£225 pw', '£235 pw']",Brand New Flat - 2 Double Rooms - Camden Town,2 doubles,"[900, 940]",920.0,NW1
+176,Now,Furnished,Males or females,Putney (SW15),None,6 months,"['£635 pcm', '£575 pcm', '£575 pcm']",50% Deposit Discount - Double Rooms In Putney,3 doubles,"[635, 575, 575]",595.0,SW15
+177,Now,Furnished,No info,London NW8 (NW8),None,6 months,"['£1,285 pcm (whole property)']",Great studio in St John's Wood,Studio flat,[1285],1285.0,NW8
+178,03 Dec 2018,Furnished,No info,Holborn (EC1),None,6 months,"['£2,165 pcm (whole property)']","A recently refurbished, large 1 bedroom apartment",1 bed flat,[2165],2165.0,EC1
+179,01 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,1 month,['£120 pw'],+Single Room in Canary Wharf,Single room,[480],480.0,E14
+180,01 Jan 2019,Furnished,Males or females,Whitechapel (E1),None,None,['£155 pw'],Double Room in Bethnal Green|Whitechapel,Double room,[620],620.0,E1
+181,02 Dec 2018,Furnished,Males or females,Euston Square (NW1),None,6 months,"['£220 pw', '£200 pw']",Amazing Location !!! 2 Bright Dbl Room in Central,2 doubles,"[880, 800]",840.0,NW1
+182,Now,Furnished,Males or females,Shepherds Bush (W12),None,None,['£235 pw'],Bright and spacious room / Shepherds Bush,Double room,[940],940.0,W12
+183,Now,Furnished,Males or females,Notting Hill (W11),None,None,['£230 pw'],Notting Hill Area/ Iconic House-friendly flatmates,Double room,[920],920.0,W11
+184,31 Jan 2019,Furnished,Males or females,Blackwall (E14),None,6 months,['£699 pcm'],ð°Double Room £400 Deposit Onlyð°,Double room,[699],699.0,E14
+185,Now,Furnished,Males or females,Canary Wharf (E14),None,None,['£155 pw'],Open Your Wings. Go Up to the Top! #Cw,Double room,[620],620.0,E14
+186,02 Dec 2018,Furnished,Males or females,Islington (N7),None,None,['£240 pw'],ð Large Double Room for Couple ð«ð,Double room,[960],960.0,N7
+187,Now,Furnished,Males or females,Neasden (NW2),None,None,['£200 pw'],Nice Double room with private Bathroom just 200pw!,Double room,[800],800.0,NW2
+188,Now,Furnished,Males or females,Shoreditch (EC2),None,6 months,['£225 pw'],Modern Double Room in Old Street,Double room,[900],900.0,EC2
+189,Now,Furnished,Males or females,Barbican (EC2),None,None,['£210 pw'],Barbican/Bank. Single room in friendly flat,Single room,[840],840.0,EC2
+190,Now,Unfurnished,No info,Finsbury Park (N4),None,12 months,['Potential Buddy Ups'],Brand New Refurbished 2 Bed Flat - Hi Spec Finish,2 bed flat,[],,N4
+191,21 Dec 2018,No info,Males or females,Putney (SW15),None,None,['£650 pcm'],Large Double Room with Lots of Storage,Double room,[650],650.0,SW15
+192,31 Dec 2018,Furnished,Males or females,Aldgate East (E1),None,4 months,['£180 pw'],Massive Double Room Close to Wapping Station,Double room,[720],720.0,E1
+193,Now,Furnished,No info,Finsbury Park (N4),None,6 months,['Potential Buddy Ups'],"Finsbury Park, N4, Superb 2 Bed Modern Apartment",2 bed flat,[],,N4
+194,13 Jan 2019,Furnished,Males or females,Island Gardens (E14),None,6 months,['£689 pcm'],Fantastic Double Bed in E14 - Bills inc!ð¨,Double room,[689],689.0,E14
+195,07 Jan 2019,Furnished,Males or females,Marylebone (NW8),None,3 months,['£825 pcm'],"Lovely Double Room, All Bills incl, Marylebone",Double room,[825],825.0,NW8
+196,Now,Furnished,Males or females,Shoreditch (EC1),None,6 months,['£210 pw'],Great Double Room in Shoreditch,Double room,[840],840.0,EC1
+197,Now,Furnished,Males or females,Hendon (NW9),None,None,['£185 pw'],Amazing Room in a Luxury House in Hendon,Double room,[740],740.0,NW9
+198,03 Dec 2018,Furnished,Males or females,London E15 (E15),None,6 months,['£510 pcm'],Double room in Victorian House in Stratford,Double room,[510],510.0,E15
+199,01 Dec 2018,Furnished,Males or females,Roehampton (SW15),None,None,['£190 pw'],â¤ Lovely Studio Room in Roehampton/Putney,Double room,[760],760.0,SW15
+200,09 Jan 2019,Unfurnished,No info,London N16 (N16),12 months,None,"['£1,350 pcm (whole property)']","John Campbell Road, one bed flat with terrace",1 bed flat,[1350],1350.0,N16
+201,17 Dec 2018,Furnished,Males or females,Colliers Wood (SW19),None,6 months,['£625 pcm'],Double Bedroom in Lovely House Share,Double room,[625],625.0,SW19
+202,Now,Furnished,Males or females,Limehouse (E14),None,None,['£128 pw'],Single Room+Garden+Parking in Limehouse|Mile End,Single room,[512],512.0,E14
+203,Now,No info,Males or females,Shoreditch (N1),None,3 months,['£165 pw'],Single Room Avail. Now/Call Me Now/Old Street,Double room,[660],660.0,N1
+204,16 Jan 2019,Furnished,Males or females,Marylebone (NW1),None,3 months,"['£1,300 pcm']","AMAZING Double Room, Marylebone, Bills Included.",Double room,[1300],1300.0,NW1
+205,Now,Furnished,No info,Streatham (SW16),None,6 months,['£900 pcm (whole property)'],Studio flat in SW16,Studio flat,[900],900.0,SW16
+206,25 Jan 2019,Furnished,Males or females,East India (E14),None,6 months,['£915 pcm'],ðAmazing Double Ensuite Roomð¥,Double room,[915],915.0,E14
+207,08 Dec 2018,Furnished,Males or females,Farringdon (EC1),None,12 months,"['£1,200 pcm']",Massive 1 room in a flat Farringdon,Double room,[1200],1200.0,EC1
+208,Now,Furnished,Males or females,Marylebone (NW8),None,None,['£220 pw'],Marylebone / Amazing double room,Double room,[880],880.0,NW8
+209,07 Dec 2018,Furnished,Males or females,Limehouse (E14),None,None,['£135 pw'],**Cheap Double Room in Limehouse|Mile End**,Double room,[540],540.0,E14
+210,02 Dec 2018,Furnished,No info,Harringay (N4),None,None,"['£1,100 pcm (whole property)']",Gorgeous Studio next to Finsbury Park/Haringay,Studio flat,[1100],1100.0,N4
+211,Now,Furnished,Males or females,South Woodford (E18),None,None,['£155 pw'],Spacious Double Room on Central Line,Double room,[620],620.0,E18
+212,03 Jan 2019,Furnished,Males or females,London Bridge (SE1),None,6 months,"['£999 pcm', '£999 pcm', '£849 pcm']",Bermondsey Street Living!!  (98WHIGRO),Double room,"[999, 999, 849]",949.0,SE1
+213,Now,Furnished,Males or females,London N19 (N19),None,None,['£230 pw'],"Finsbury Park, large couple room, all bills inc.!",Double room,[920],920.0,N19
+214,Now,Furnished,Males or females,Stoke Newington (N16),None,3 months,"['£150 pw', '£155 pw', '£160 pw']",Spacious Rooms in Stoke Newington/Stamford Hill,3 doubles,"[600, 620, 640]",620.0,N16
+215,Now,Furnished,Males or females,Camden (NW1),None,None,['£200 pw'],"Heart of Camden Town, Clean and  New Flat, Double",Double room,[800],800.0,NW1
+216,Now,Furnished,Males or females,London SW11 (SW11),None,None,['£225 pw'],Stunning Room Walking Distance from the Station,Double room,[900],900.0,SW11
+217,28 Dec 2018,Furnished,Males or females,Notting Hill Gate (W11),None,6 months,['£200 pw'],AWESOME - Notting Hill Gate- Furnished- Bill inclu,Double room,[800],800.0,W11
+218,20 Dec 2018,Furnished,Males or females,Parsons Green (SW6),None,6 months,['£600 pcm'],Double room to rent in a friendly flat share.,Double room,[600],600.0,SW6
+219,01 Dec 2018,Furnished,Males or females,Shoreditch (E1),None,1 month,"['£160 pw', '£160 pw', '£165 pw', '£180 pw', '£200 pw', '£200 pw']",#Fashionst#December#Shoreditch High Street,6 doubles,"[640, 640, 660, 720, 800, 800]",710.0,E1
+220,Now,Furnished,Males or females,South Wimbledon (SW19),None,None,"['£1,050 pcm', '£1,050 pcm', '£1,100 pcm', '£1,050 pcm', '£1,050 pcm']",Roof Garden Luxury Accommodation,Double room,"[1050, 1050, 1100, 1050, 1050]",1060.0,SW19
+221,07 Dec 2018,Furnished,Males or females,West Norwood (SE27),None,6 months,['£615 pcm'],Double Room in smart 2 bedroom flat West Norwood,Double room,[615],615.0,SE27
+222,Now,Furnished,Males or females,Canary Wharf (E14),None,None,['£170 pw'],Modern for Cheap Prices !! Who Doesn't Want ?,Double room,[680],680.0,E14
+223,Now,Furnished,No info,Pimlico (SW1),None,12 months,['£300 pw (whole property)'],A bright ground floor studio flat,1 bed flat,[1200],1200.0,SW1
+224,Now,Furnished,Males or females,Aldgate East (E1),None,4 months,['£170 pw'],Nice Big Double Room at Whitechapel/Shadwell,Double room,[680],680.0,E1
+225,Now,Furnished,Males or females,Stratford (E15),None,None,"['£155 pw', '£165 pw', '£170 pw', '£180 pw']",â­ Last Available Soon in Stratford â­,4 doubles,"[620, 660, 680, 720]",670.0,E15
+226,07 Dec 2018,No info,Males or females,Canary Wharf (E14),None,None,['£160 pw'],Large Double Room Bright&Clean in Canary Wharf,Double room,[640],640.0,E14
+227,17 Dec 2018,Furnished,Female preferred,London NW8 (NW8),None,1 month,"['£750 pcm', '£860 pcm']",Marylebone Paddington Edgware Rd,Double room,"[750, 860]",805.0,NW8
+228,01 Feb 2019,Furnished,Males or females,Kennington (SE11),None,7 months,"['£850 pcm', '£799 pcm', '£889 pcm']",Zone 1 - Perfect Private Flat! (5DANRD),Double room,"[850, 799, 889]",846.0,SE11
+229,Now,Furnished,Males or females,Bow (E3),None,None,['£104 pw'],Cheapest Single Room in Bow|Hackney|Victoria Park,Single room,[416],416.0,E3
+230,Now,Furnished,Males or females,Stockwell (SW4),None,None,"['£225 pw', '£215 pw']","Stockwell, 2 brand new double rooms, Victoria Line",2 doubles,"[900, 860]",880.0,SW4
+231,Now,Furnished,Males or females,Mile End (E3),None,None,['£150 pw'],Nice Double Room in Mile End**2 Weeks Deposit**,Double room,[600],600.0,E3
+232,23 Jan 2019,Furnished,Males or females,Borough (SE1),None,8 months,"['£949 pcm', '£999 pcm', '£1,099 pcm']",Bermondsey Street Living!!  (79LEATH),Double room,"[949, 999, 1099]",1015.6666666666666,SE1
+233,17 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,None,"['£160 pw', '£180 pw', '£160 pw']",Book for December and pay rent later x,3 doubles,"[640, 720, 640]",666.6666666666666,E14
+234,Now,Furnished,Males or females,Bethnal Green (E2),None,None,"['£150 pw', '£165 pw', '£185 pw', '£225 pw']",Warm Rooms in Bethnal Green !,4 doubles,"[600, 660, 740, 900]",725.0,E2
+235,Now,Furnished,Males or females,Shoreditch (EC1),None,6 months,['£200 pw'],Double Room in Old Street - Shoreditch,Double room,[800],800.0,EC1
+236,19 Jan 2019,Furnished,No info,Bow (E3),None,12 months,['£365 pw (whole property)'],Art Deco Style Newly Refurbished 1 Bed Flat. E3,1 bed flat,[1460],1460.0,E3
+237,Now,Furnished,Males or females,Vauxhall (SW8),None,None,['£230 pw'],"Vauxhall, Victoria Line, large double room!",Double room,[920],920.0,SW8
+238,01 Jan 2019,Furnished,Female preferred,North Greenwich (SE10),None,9 months,['£950 pcm'],Double room with your own bathroom,Double room,[950],950.0,SE10
+239,08 Dec 2018,Furnished,Males or females,Whitechapel (E1),None,None,['£149 pw'],Double Room in Bethnal Green|Stepney Green,Double room,[596],596.0,E1
+240,Now,Furnished,Males or females,Camden (NW3),None,3 months,['£173 pw'],Spacious Room Available in Camden!,Double room,[692],692.0,NW3
+241,01 Jan 2019,Furnished,Males or females,Earl's Court (SW5),None,6 months,['£280 pw'],The Best En-Suite You Can Find - Earl's Court,Double room,[1120],1120.0,SW5
+242,Now,Furnished,Males or females,London NW10 (NW10),None,6 months,['£550 pcm'],Lovely Bright room Well located 2 bed flat NW10.,Single room,[550],550.0,NW10
+243,31 Dec 2018,Furnished,Males or females,Colliers Wood (SW19),None,6 months,['£750 pcm'],This Ensuite Room Is Better Than Yours.  ð¼,Double room,[750],750.0,SW19
+244,28 Dec 2018,Furnished,Males or females,Notting Hill (W11),None,6 months,['£200 pw'],Lovely Double Room in Notting Hill,Double room,[800],800.0,W11
+245,16 Dec 2018,Furnished,Males or females,Harringay (N4),None,3 months,['£125 pw'],Double Room,Double room,[500],500.0,N4
+246,24 Dec 2018,Furnished,Males or females,Aldgate East (E1),None,3 months,['£149 pw'],Amazing Double Room near Bricklane|Aldgate East,Double room,[596],596.0,E1
+247,01 Dec 2018,Furnished,Males or females,Kilburn Park (NW6),None,None,['£200 pw'],Modern  Quite Place Double Room Next to Park,Double room,[800],800.0,NW6
+248,09 Dec 2018,Furnished,Males or females,Stepney Green (E1),None,None,['£210 pw'],Large Double Room Is Now in Stepney Green,Double room,[840],840.0,E1
+249,13 Dec 2018,Furnished,Males or females,Hendon Central (NW4),None,3 months,['£650 pcm'],"Large double room in Hendon, Close to MDX Uni.",Double room,[650],650.0,NW4
+250,02 Mar 2019,Furnished,Males or females,Chiswick (W4),None,6 months,"['£500 pcm', '£580 pcm', '£660 pcm', '£680 pcm']",One double room in W4 p/share. Near shops & tube.,Double room,"[500, 580, 660, 680]",605.0,W4
+251,Now,Furnished,Males or females,Canary Wharf (E14),None,None,"['£175 pw', '£205 pw', '£205 pw']",ð¯ Final Ensuite Available for the Year ð¯,3 doubles,"[700, 820, 820]",780.0,E14
+252,Now,Furnished,Males or females,Kilburn Park (NW6),None,5 months,['£145 pw'],Fantastic single/ Kilburn park!!!,Single room,[580],580.0,NW6
+253,01 Jan 2019,Furnished,Males or females,Earl's Court (SW5),None,6 months,['£280 pw'],Stunning En-Suite Double Room in Earls Court,Double room,[1120],1120.0,SW5
+254,Now,Furnished,Males or females,Stepney Green (E1),None,None,['£127 pw'],Brand New Single Room in Stepney Grren|Mile End,Single room,[508],508.0,E1
+255,Now,Furnished,Males or females,Hoxton (E2),None,3 months,['£155 pw'],Nice Double Room near Hoxton/Shoreditch,Double room,[620],620.0,E2
+256,Now,Furnished,Males or females,Shepherds Bush (W12),None,None,['£140 pw'],Brand new lovely single room for  non smoker,Single room,[560],560.0,W12
+257,Now,Furnished,Males or females,Chalk Farm (NW5),None,6 months,['£200 pw'],Very Modern Double Room- Next to Kentish Town,Double room,[800],800.0,NW5
+258,Now,Furnished,No info,Whitechapel (E1),None,None,['£250 pw (whole property)'],Nice Studio Flat Next to Whitechapel Station,Studio flat,[1000],1000.0,E1
+259,Now,No info,Males or females,Stepney Green (E1),None,3 months,['£607 pcm'],Single Room 2 Minutes Walk To Stepney Green Stati,Double room,[607],607.0,E1
+260,14 Jan 2019,Furnished,Males or females,Paddington (W2),None,3 months,"['£1,350 pcm']","Spacious Double Room, All Bills incl, Paddington.",Double room,[1350],1350.0,W2
+261,Now,Furnished,Males or females,Kentish Town (NW5),None,6 months,['£200 pw'],Double Room in Kentish Town Available. Now,Double room,[800],800.0,NW5
+262,20 Dec 2018,Furnished,Males or females,West Hampstead (NW6),None,6 months,"['£950 pcm', '£850 pcm', '£800 pcm']",Double Rooms in desirable top floor flat w garden,3 doubles,"[950, 850, 800]",866.6666666666666,NW6
+263,Now,Furnished,Males or females,St John's Wood (NW8),None,None,['£220 pw'],"St. John's Wood, large & brand new double room!",Double room,[880],880.0,NW8
+264,16 Jan 2019,No info,No info,South Hampstead (NW6),None,6 months,"['£1,517 pcm (whole property)']",Stunning one bedroom apartment in South Hampstead,1 bed flat,[1517],1517.0,NW6
+265,Now,Furnished,No info,London NW2 (NW2),None,6 months,"['£1,907 pcm (whole property)']",Great two bedroom garden flat in Willesden Green,2 bed flat,[1907],1907.0,NW2
+266,24 Dec 2018,Furnished,Males or females,Aldgate East (E1),None,None,['£150 pw'],*Amazing Dbl Room in Bricklane|Aldgate East*,Double room,[600],600.0,E1
+267,15 Jan 2019,Furnished,Males or females,Marylebone (NW1),None,3 months,"['£1,075 pcm']","AMAZING Double Room, Marylebone, Bills Included.",Double room,[1075],1075.0,NW1
+268,Now,Furnished,Males or females,Stepney Green (E1),None,3 months,['£200 pw'],large double room is now in Stepney Green zone 2,Double room,[800],800.0,E1
+269,11 Dec 2018,Furnished,Males or females,Golders Green (NW11),12 months,3 months,"['£495 pcm', '£610 pcm']",Golders Green single £495/big room £610 pcm,Single + double,"[495, 610]",552.5,NW11
+270,Now,Furnished,Males or females,Norbury (SW16),None,12 months,"['£800 pcm', '£710 pcm', '£710 pcm', '£720 pcm', '£715 pcm']",A Beautiful home for couples and single sharers,5 doubles,"[800, 710, 710, 720, 715]",731.0,SW16
+271,01 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,None,"['£130 pw', '£150 pw', '£170 pw']",Funky Friday- at This Age !! at Canary Wharf !!,Single + 2 doubles,"[520, 600, 680]",600.0,E14
+272,Now,Furnished,Males or females,Shepherds Bush (W12),None,None,['£235 pw'],"West London, zone 2, large & modern double room!",Double room,[940],940.0,W12
+273,15 Dec 2018,Furnished,Males or females,Bow Road (E3),None,2 months,['£200 pw'],Great Twin Room in Great House and Area E3,Double room,[800],800.0,E3
+274,07 Jan 2019,Furnished,Males or females,Marylebone (NW8),None,3 months,['£825 pcm'],"STUNNING Double Room, Marylebone, Bills Included.",Double room,[825],825.0,NW8
+275,Now,Furnished,Males or females,Brixton (SW2),None,4 months,['£600 pcm'],Double Room in Tulse Hill (Bills Included),Double room,[600],600.0,SW2
+276,Now,Furnished,Males or females,Catford (SE6),None,3 months,['£550 pcm'],Large Double in Catford (Bills Inc),Double room,[550],550.0,SE6
+277,01 Dec 2018,Furnished,Males or females,Finsbury Park (N4),None,3 months,['£625 pcm'],Double in Finsbury Park/Crouch Hill Bills Inc,Double room,[625],625.0,N4
+278,Now,Furnished,Males or females,King's Cross (WC1),None,None,"['£330 pw', '£235 pw', '£270 pw', '£280 pw']","King's Cross, brand new 4 bedroom flat!!",4 doubles,"[1320, 940, 1080, 1120]",1115.0,WC1
+279,18 Jan 2019,Furnished,Males or females,Liverpool Street (E1),None,4 months,['£210 pw'],Luxurious room in the City - Liverpool Street!!,Double room,[840],840.0,E1
+280,Now,Furnished,Males or females,Whitechapel (E1),None,3 months,['£129 pw'],Cosy Single Room+Living Room@Stepney Green*Zone 2,Single room,[516],516.0,E1
+281,Now,Furnished,Males or females,Shoreditch (E2),None,None,"['£175 pw', '£175 pw', '£175 pw', '£185 pw']",4 Amazing Rooms Near Brick Lane !,4 doubles,"[700, 700, 700, 740]",710.0,E2
+282,Now,Furnished,No info,Willesden Junction (NW10),None,6 months,['£850 pcm (whole property)'],Studio Flat in Willesden junction,Studio flat,[850],850.0,NW10
+283,Now,Furnished,Males or females,Finsbury Park (N4),None,None,['£230 pw'],Huge room/ Finsbury Park/ Couples ok,Double room,[920],920.0,N4
+284,06 Feb 2019,Furnished,Males or females,Shoreditch (E2),None,3 months,['£149 pw'],**Clean Double Room @Shoreditch/Bethnal Green**,Double room,[596],596.0,E2
+285,Now,Furnished,Males or females,Baker Street (W1),None,None,['£270 pw'],"Zone 1, Baker Street, gorgeous double room!",Double room,[1080],1080.0,W1
+286,Now,Furnished,No info,London NW6 (NW6),None,6 months,['Potential Buddy Ups'],Beautiful two bedroom apartment,2 bed flat,[],,NW6
+287,Now,No info,No info,London NW8 (NW8),None,6 months,"['£1,733 pcm (whole property)']",Beautiful One Bedroom Apartment in St John's Wood,1 bed flat,[1733],1733.0,NW8
+288,07 Dec 2018,Furnished,Males or females,Earlsfield (SW18),None,None,['£200 pw'],Stunning Loft En-Suite In The Famous Grid!,Double room,[800],800.0,SW18
+289,05 Jan 2019,No info,Males or females,London Fields (E8),None,6 months,"['£1,075 pcm']",Beautiful spacious double bedroom - London Fields,Double room,[1075],1075.0,E8
+290,Now,Furnished,Males or females,London SE1 (SE1),None,None,"['£205 pw', '£215 pw']",2 Massive Rooms Next to London Bridge !,2 doubles,"[820, 860]",840.0,SE1
+291,16 Dec 2018,Furnished,Males or females,Aldgate East (E1),None,3 months,['£135 pw'],Cosy Single Room near Stepney Green/Whitechapel,Single room,[540],540.0,E1
+292,Now,Furnished,Males or females,Bermondsey (SE16),None,None,['£205 pw'],London Bridge Great Room Minutes from the Station,Double room,[820],820.0,SE16
+293,12 Dec 2018,Furnished,Males or females,Leyton (E10),None,1 month,['£170 pw'],Big double room close Leyton station,Double room,[680],680.0,E10
+294,Now,Furnished,Males or females,Aldgate East (E1),None,3 months,"['£145 pw', '£135 pw', '£145 pw', '£175 pw']",Selection of Cheap Rooms in East London 1/2,Single + 3 doubles,"[580, 540, 580, 700]",600.0,E1
+295,Now,Furnished,Males or females,Kensington and Chelsea (W8),None,None,['£250 pw'],"Earl's court, District Line, amazing double room!",Double room,[1000],1000.0,W8
+296,Now,Furnished,Males or females,White City (W12),None,None,"['£195 pw', '£205 pw', '£215 pw', '£200 pw']",4 Brand New Rooms Near Kensington !,4 doubles,"[780, 820, 860, 800]",815.0,W12
+297,Now,No info,Males or females,Shoreditch (N1),None,3 months,['£180 pw'],All inc./2 Weeks Deposit/Old Street/Call Me,Double room,[720],720.0,N1
+298,Now,Furnished,Males or females,Whitechapel (E1),None,None,['£200 pw'],Bright room close to Liverpool St!!,Double room,[800],800.0,E1
+299,03 Dec 2018,Furnished,Males or females,Holborn (WC1),None,6 months,"['£320 pw', '£255 pw', '£245 pw', '£285 pw']",Luxury New Flat - Ensuite & 3 Rooms - Kings Cross,4 doubles,"[1280, 1020, 980, 1140]",1105.0,WC1
+300,Now,Furnished,Males or females,Highbury (N5),None,None,"['£810 pcm', '£790 pcm', '£950 pcm']",THREE Rooms in Stunning Highbury Garden Flat,3 doubles,"[810, 790, 950]",850.0,N5
+301,Now,Furnished,Males or females,Notting Hill (W11),None,None,['£210 pw'],"Notting Hill/Portobello Road,stunning double room!",Double room,[840],840.0,W11
+302,Now,Furnished,Males or females,Ravenscourt Park (W6),None,3 months,['£260 pw'],W6 0Ja __ Hammermisth __ Very Nice Double Room,Double room,[1040],1040.0,W6
+303,03 Jan 2019,Furnished,Males or females,Fitzrovia (W1),None,3 months,['£265 pw'],Stunning Double Room - Fitzrovia,Double room,[1060],1060.0,W1
+304,05 Jan 2019,Furnished,Males or females,Gloucester Road (SW7),None,2 months,"['£300 pw', '£245 pw']",Perfect Location - 1 Double & 1 Couple,2 doubles,"[1200, 980]",1090.0,SW7
+305,01 Jan 2019,Furnished,Males or females,Forest Hill (SE23),None,6 months,['£150 pw'],Stunning Top Storey Duplex with Garden,Double room,[600],600.0,SE23
+306,01 Dec 2018,Furnished,No info,Greenwich (SE10),None,6 months,"['£1,820 pcm (whole property)']",3 x Dble bedroom in Furnished Flat in Greenwich,3 bed flat,[1820],1820.0,SE10
+307,Now,Furnished,Males or females,Hampstead (NW3),None,None,['£220 pw'],Hampstead Area. Huge room w private bathroom,Double room,[880],880.0,NW3
+308,Now,Furnished,Males or females,London NW8 (NW8),None,6 months,['£850 pcm'],Bright double room in Swiss Cottage,Double room,[850],850.0,NW8
+309,Now,No info,No info,St John's Wood (NW8),None,6 months,"['£1,350 pcm (whole property)']",Great One bedroom flat in St Johns Wood,1 bed flat,[1350],1350.0,NW8
+310,Now,Furnished,Males or females,Old Oak Common (NW10),None,3 months,"['£1,050 pcm']",Wonderful Double Room Fully Furnished,Double room,[1050],1050.0,NW10
+311,Now,Furnished,Males or females,Tooting Broadway (SW17),None,None,['£625 pcm'],Spaciosu Room Just Renovated Near Station,Double room,[625],625.0,SW17
+312,Now,Furnished,Males or females,Old Street (EC1),None,None,['£255 pw'],Barbican. City of London.  Well present room,Double room,[1020],1020.0,EC1
+313,Now,Furnished,No info,Leyton (E11),None,6 months,"['£2,480 pcm (whole property)']",5 bed house,5 bed house,[2480],2480.0,E11
+314,Now,Furnished,Males or females,Mudchute (E14),None,3 months,['£875 pcm'],Amazing Double Room Available Near Mudchute,Double room,[875],875.0,E14
+315,01 Dec 2018,Furnished,Males or females,Shepherds Bush (W12),None,3 months,['£235 pw'],Spacious Double - Call It Home!,Double room,[940],940.0,W12
+316,04 Jan 2019,Furnished,Males or females,Highgate (N6),None,None,['£735 pcm'],Double room in leafy Highgate w/ great housemates!,Double room,[735],735.0,N6
+317,14 Jan 2019,Furnished,Males or females,Shadwell (E1),None,6 months,['£160 pw'],(361.2)Nice Double room near Stepney Green Station,Single room,[640],640.0,E1
+318,Now,Furnished,Males or females,London E1 (E1),None,None,"['£210 pw', '£165 pw', '£180 pw', '£155 pw']",4 Amazing Rooms in Top Location !,4 doubles,"[840, 660, 720, 620]",710.0,E1
+319,06 Dec 2018,Furnished,Males or females,Edmonton (N18),None,None,['£150 pw'],Bright double room.,Double room,[600],600.0,N18
+320,Now,Furnished,Males or females,Fulham (SW6),None,None,['£255 pw'],Ensuite room/Friendly flatshare - Fulham,Double room,[1020],1020.0,SW6
+321,Now,Furnished,Males or females,East India (E14),None,3 months,['£780 pcm'],Spacious Double Bedroom Available Right Now,Double room,[780],780.0,E14
+322,06 Dec 2018,Furnished,No info,Southfields (SW18),None,6 months,['£300 pw (whole property)'],Newly Refurbished 1 Bed Garden Flat,1 bed flat,[1200],1200.0,SW18
+323,Now,Furnished,Males or females,Clapton (E5),None,None,"['£680 pcm', '£700 pcm']",Double Rooms Double Comfort- Stoke Newington,2 doubles,"[680, 700]",690.0,E5
+324,Now,No info,Males or females,Caledonian Road (N7),None,None,['£830 pcm'],Spacious Double Room Refurbished Caledonian Road,Double room,[830],830.0,N7
+325,16 Dec 2018,Furnished,Males or females,Whitechapel (E1),None,None,['£135 pw'],**No Deposit Required** Single Room|Prime Location,Single room,[540],540.0,E1
+326,10 Jan 2019,No info,No info,Stepney Green (E1),None,12 months,['Potential Buddy Ups'],Amazing two bed schoold conversion with terrace E1,2 bed flat,[],,E1
+327,Now,Furnished,Males or females,Hackney (E5),None,None,['£220 pw'],Hackney ~ Modern Double w Private Bathroom,Double room,[880],880.0,E5
+328,Now,Furnished,Males or females,London N17 (N17),None,3 months,"['£150 pw', '£160 pw', '£150 pw', '£140 pw', '£110 pw']",Turnpike Lane! Last Double Room Left!,Double room,"[600, 640, 600, 560, 440]",568.0,N17
+329,Now,Furnished,No info,St John's Wood (NW8),None,6 months,['£450 pw (whole property)'],1 Bed Flat - Former Church Conversion! âªâªâª,1 bed flat,[1800],1800.0,NW8
+330,Now,No info,No info,St John's Wood (NW8),None,6 months,"['£1,950 pcm (whole property)']",Stunning one bedroom flat in St John's Wood,1 bed flat,[1950],1950.0,NW8
+331,05 Dec 2018,Furnished,No info,London NW8 (NW8),None,6 months,"['£1,495 pcm (whole property)']",Beautiful One Bedroom Apartment in St John's Wood,1 bed flat,[1495],1495.0,NW8
+332,Now,No info,Males or females,Shoreditch (N1),None,3 months,['£185 pw'],Available Now/Discount Today/Call Me/Old Street,Double room,[740],740.0,N1
+333,Now,Furnished,Males or females,Ravenscourt Park (W6),None,3 months,['£270 pw'],Huge & Bright Couple Room w/Sofa!,Double room,[1080],1080.0,W6
+334,17 Dec 2018,Furnished,Males or females,Dalston (E8),None,3 months,['£225 pw'],Ensuite Double Room - Hackney Central,Double room,[900],900.0,E8
+335,Now,Furnished,Males or females,Canary Wharf (E14),None,None,"['£135 pw', '£145 pw', '£155 pw', '£165 pw']",4 Amazing Rooms in Canary Wharf !,4 doubles,"[540, 580, 620, 660]",600.0,E14
+336,Now,Furnished,Males or females,Clerkenwell (EC1),None,3 months,"['£210 pw', '£250 pw']",Barbican-Lovely Room in Great Property,Single room,"[840, 1000]",920.0,EC1
+337,01 Dec 2018,Furnished,No info,Clapham North (SW4),None,12 months,['Potential Buddy Ups'],"Top spec two bedroom flat, amazing location",2 bed flat,[],,SW4
+338,Now,Furnished,Males or females,Clapham Junction (SW11),None,6 months,['£185 pw'],"Amazing huge double, 5 min Clapham Junction BR",Double room,[740],740.0,SW11
+339,25 Dec 2018,Furnished,Males or females,Aldgate East (E1),None,None,['£150 pw'],Double Room Prime Location Aldgate East /Zone 1,Double room,[600],600.0,E1
+340,02 Dec 2018,Furnished,Males or females,Mile End (E3),None,1 month,['£165 pw'],Very Big Double Room Just 2 Minutes From Mile End,Double room,[660],660.0,E3
+341,Now,Furnished,Males or females,Wimbledon (SW19),None,6 months,"['£800 pcm', '£750 pcm', '£750 pcm']",Large Double Rooms Right By Wimbeldon Park Station,3 doubles,"[800, 750, 750]",766.6666666666666,SW19
+342,Now,Furnished,Males or females,Stockwell (SW8),None,3 months,['£250 pw'],*Exclusive Ensuite in Stockwell*,Double room,[1000],1000.0,SW8
+343,Now,Furnished,Males or females,Canary Wharf (E14),None,None,"['£240 pw', '£195 pw', '£240 pw']",3 Luxury Rooms Next to Canary Wharf !,3 doubles,"[960, 780, 960]",900.0,E14
+344,20 Dec 2018,Furnished,Males or females,Bethnal Green (E2),None,None,"['£140 pw', '£160 pw']",Preparing your DECEMBER in London !!,2 doubles,"[560, 640]",600.0,E2
+345,Now,Furnished,Males or females,Vauxhall (SW8),None,3 months,['£250 pw'],Stunning Ensuite Double Room - Wandsworth,Double room,[1000],1000.0,SW8
+346,Now,Furnished,Males or females,Fitzrovia (W1),None,6 months,['£720 pcm'],Single room to rent in a Hall of Residence,Single room,[720],720.0,W1
+347,Now,Furnished,Males or females,Canary Wharf (E14),None,None,"['£1,100 pcm', '£1,300 pcm', '£1,100 pcm']",Super Lucury Room in Canary Wharf with Gym,3 doubles,"[1100, 1300, 1100]",1166.6666666666667,E14
+348,Now,Furnished,Males or females,Brixton (SW2),None,6 months,['£740 pcm'],Stunning double room - 1 min from Brixton Station,Double room,[740],740.0,SW2
+349,Now,Furnished,Males or females,Aldgate East (E1),None,3 months,['£160 pw'],Double Room at Shadwell/Whitechapel Zone 2,Double room,[640],640.0,E1
+350,12 Dec 2018,Furnished,No info,Finsbury Park (N4),None,12 months,['£875 pcm (whole property)'],Top floor open plan studio flat N4,Studio flat,[875],875.0,N4
+351,Now,Furnished,Males or females,Bayswater (W2),None,None,['£235 pw'],Bayswater-Double Room for Single Use,Double room,[940],940.0,W2
+352,Now,No info,No info,London NW8 (NW8),None,6 months,['Potential Buddy Ups'],Stunning two bedroom apartment in St John's Wood,2 bed flat,[],,NW8
+353,Now,Furnished,Males or females,Swiss Cottage (NW3),None,6 months,['£650 pcm'],Lovely Room in bright flatshare in Swiss Cottage,Single room,[650],650.0,NW3
+354,Now,Furnished,Males or females,Paddington (W9),None,None,"['£265 pw', '£170 pw', '£250 pw']",3 Amazing Rooms next to Paddington !,3 doubles,"[1060, 680, 1000]",913.3333333333334,W9
+355,05 Jan 2019,Furnished,Males or females,South Kensington (SW7),None,2 months,"['£305 pw', '£245 pw']",Stunning 2 Double Rooms - Gloucester Road,2 doubles,"[1220, 980]",1100.0,SW7
+356,Now,Furnished,Males or females,Shoreditch (E2),None,None,"['£160 pw', '£175 pw', '£195 pw', '£215 pw']",ðBEST ROOMS in e1.....discount Today...25%off,4 doubles,"[640, 700, 780, 860]",745.0,E2
+357,10 Dec 2018,Unfurnished,No info,Streatham Hill (SW2),None,6 months,['Potential Buddy Ups'],Newly refurbished bright and spacious 3 bed flat,3 bed flat,[],,SW2
+358,08 Dec 2018,Furnished,Males or females,Bethnal Green (E2),None,None,['£150 pw'],Nice Cosy Double Room at Bethnal Green,Double room,[600],600.0,E2
+359,15 Dec 2018,Unfurnished,No info,Plumstead (SE18),None,6 months,"['£1,700 pcm (whole property)']",Excellent 4 Bedroom House,4 bed house,[1700],1700.0,SE18
+360,Now,Furnished,Male preferred,Clapham Junction (SW11),None,6 months,['£650 pcm'],Room Available Near Clapham Junction,Double room,[650],650.0,SW11
+361,Now,Furnished,Males or females,Notting Hill (W10),None,None,['£215 pw'],*Notting Hill/Ladbroke Grove! 1 Stunning Double Be,Double room,[860],860.0,W10
+362,Now,Furnished,Males or females,Canary Wharf (E14),None,None,"['£165 pw', '£185 pw', '£195 pw', '£215 pw']",ðBEST ROOMS in e14.....discount Today...25%off,4 doubles,"[660, 740, 780, 860]",760.0,E14
+363,Now,Furnished,Males or females,Beckton (E6),None,7 months,['£785 pcm'],Double En-suite  with Kitchenette  - Beckton,Double room,[785],785.0,E6
+364,Now,Furnished,Males or females,Earl's Court (SW5),None,3 months,"['£250 pw', '£310 pw']","Earl's Court-amazing rooms available, couples ok",2 doubles,"[1000, 1240]",1120.0,SW5
+365,25 Jan 2019,Furnished,Males or females,Farringdon (EC1),None,1 month,['£205 pw'],Beautiful single room - BARBICAN,Single room,[820],820.0,EC1
+366,29 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,6 months,['£980 pcm'],"Large En-Suite, stunning river views! Concierge!",Double room,[980],980.0,E14
+367,Now,Furnished,Males or females,Mile End (E3),None,None,"['£158 pw', '£185 pw', '£195 pw', '£215 pw']",ðBEST ROOMS in e3.....discount Today...25%off,4 doubles,"[632, 740, 780, 860]",753.0,E3
+368,05 Jan 2019,Furnished,Males or females,London SE1 (SE1),None,3 months,"['£1,200 pcm']",Zone 1 bright double room with fabulous views,Double room,[1200],1200.0,SE1
+369,Now,Furnished,Males or females,Marylebone (NW8),None,None,"['£300 pw', '£195 pw', '£240 pw']",3 Luxury Rooms with Gym Near Baker Street !,3 doubles,"[1200, 780, 960]",980.0,NW8
+370,10 Dec 2018,Furnished,Males or females,Manor House (N4),None,6 months,['£823 pcm'],Large Double Room 5-10 min Walk Manor House Stn,Double room,[823],823.0,N4
+371,Now,Furnished,Males or females,Walthamstow Central (E17),None,3 months,['£160 pw'],A Big Double Room Available Asap,Double room,[640],640.0,E17
+372,03 Dec 2018,Furnished,Males or females,Islington (N7),None,6 months,"['£1,050 pcm']",Double room in 2 bed 2 bath flat with gym&concierg,Double room,[1050],1050.0,N7
+373,Now,Furnished,Males or females,Harringay (N4),None,6 months,['£155 pw'],+Furnished Room in Haringey W/Living Room & Garden,Double room,[620],620.0,N4
+374,Now,No info,Female preferred,Kingsbury (NW9),None,9 months,['£165 pw'],Lovely ensuite double room in female household,Double room,[660],660.0,NW9
+375,Now,Furnished,Males or females,Norbury (SW16),None,6 months,"['£485 pcm', '£580 pcm']",50% Deposit Only! Double&Single Rooms - Norbury,Single + double,"[485, 580]",532.5,SW16
+376,Now,No info,No info,Finsbury Park (N4),None,None,['Potential Buddy Ups'],4 Bedroom to rent in Finsbury Park,4 bed flat,[],,N4
+377,Now,Furnished,Males or females,Bethnal Green (E2),None,None,"['£158 pw', '£175 pw', '£185 pw', '£215 pw']",ðBest Rooms in E2...Discount Today...25%off New,4 doubles,"[632, 700, 740, 860]",733.0,E2
+378,Now,Furnished,Males or females,Kilburn (NW2),None,5 months,['£160 pw'],Spacious bedroom in beautiful Kilburn â¤ï¸,Double room,[640],640.0,NW2
+379,Now,Furnished,Males or females,Golders Green (NW11),None,None,['£180 pw'],Golders Green ~ DoubleR. with Garden,Double room,[720],720.0,NW11
+380,Now,Furnished,Males or females,Canary Wharf (E14),None,6 months,['£630 pw'],Furnished-All Bills Paid-ZoNE2-Free Wifi,Double room,[2520],2520.0,E14
+381,01 Dec 2018,Furnished,Males or females,Wapping (E1),12 months,4 months,"['£850 pcm', '£700 pcm', '£695 pcm']",3 Modern Large rooms*Wapping/shadwell*Tower Hill,3 doubles,"[850, 700, 695]",748.3333333333334,E1
+382,Now,Furnished,Males or females,Bloomsbury (WC1),None,None,"['£250 pw', '£290 pw']","Bloomsbury-Spacious Double Room, Perfect 4 Couples",Double room,"[1000, 1160]",1080.0,WC1
+383,Now,Furnished,Males or females,Old Street (N1),None,None,"['£1,100 pcm']",Warehouse Big Ensuite Bedroom Minutes from Old St,Double room,[1100],1100.0,N1
+384,09 Dec 2018,Furnished,Males or females,Wandsworth (SW18),None,12 months,['£105 pw'],Single Room LOW Bills in Wandsworth,Single room,[420],420.0,SW18
+385,Now,No info,Female preferred,Holloway (N7),None,5 months,['£155 pw'],Amazing double room in Holloway,Double room,[620],620.0,N7
+386,26 Dec 2018,Furnished,Males or females,St John's Wood (NW8),None,3 months,['£230 pw'],Lovely Double  Room Is St Johns Wood Coulple Ok!!,Double room,[920],920.0,NW8
+387,Now,Furnished,Males or females,Vauxhall (SW8),None,3 months,"['£220 pw', '£235 pw']","Vauxhall-Double Rooms in  Zone1, Flatshare",2 doubles,"[880, 940]",910.0,SW8
+388,Now,Furnished,Males or females,Pimlico (SW1),None,None,['£225 pw'],Pimplico Double Room with Private Patio,Double room,[900],900.0,SW1
+389,Now,Furnished,Males or females,London E1 (E1),None,None,['£100 pw'],Single Room in Bethnal Green,Single room,[400],400.0,E1
+390,09 Jan 2019,Furnished,Males or females,Tooting Broadway (SW17),None,12 months,['£750 pcm'],double bedroom all bills included,Double room,[750],750.0,SW17
+391,03 Dec 2018,Furnished,Males or females,Kentish Town (NW5),None,6 months,['£700 pcm'],Double  Room in a quiet lovely Flat in KentishTown,Double room,[700],700.0,NW5
+392,Now,Furnished,Males or females,South Ealing (W5),None,4 months,['£147 pw'],Great Opportunity to Live in West London,Double room,[588],588.0,W5
+393,Now,Furnished,Males or females,Barons Court (W6),None,None,"['£260 pw', '£200 pw']",Earl's Court / Couple & Double / 2 Bathrooms,2 doubles,"[1040, 800]",920.0,W6
+394,Now,Furnished,Males or females,Russell Square (WC1),None,None,['£325 pw'],Luxury Brand New Property/ Central London,Double room,[1300],1300.0,WC1
+395,Now,Furnished,Males or females,Aldgate East (E1),None,3 months,"['£200 pw', '£240 pw', '£250 pw']",Bethnal Green-Double room available-Flatshare,Double room,"[800, 960, 1000]",920.0,E1
+396,15 Dec 2018,Furnished,Males or females,Willesden Green (NW10),None,None,['£145 pw'],Single Room Available 15/12! Willesden Area,Double room,[580],580.0,NW10
+397,19 Dec 2018,Furnished,Males or females,Beckton (E16),None,3 months,['£153 pw'],"DocklandsHse dbl-Sky-WIFI-cleaner-pkg, nr tube+gym",Double room,[612],612.0,E16
+398,01 Dec 2018,Furnished,Males or females,Stockwell (SW4),None,None,['£700 pcm'],Great size room zone 1/2 near tube station.,Double room,[700],700.0,SW4
+399,14 Dec 2018,Furnished,Males or females,Clapham (SW4),None,6 months,['£800 pcm'],Double rm for couple or 2 females-Clapham Park@,Double room,[800],800.0,SW4
+400,03 Dec 2018,Furnished,Males or females,King's Cross (WC1),None,6 months,"['£320 pw', '£255 pw', '£245 pw', '£285 pw']",Luxury new flat - ENSUITE & 3 double rooms -,4 doubles,"[1280, 1020, 980, 1140]",1105.0,WC1
+401,Now,Furnished,Males or females,Shepherds Bush (W12),None,None,['£840 pcm'],Spacious Dbl Room with Balcony - Shepherds Bush,Double room,[840],840.0,W12
+402,Now,No info,Males or females,Ladywell (SE13),None,None,['£600 pcm'],Low DEPOSIT double room,Double room,[600],600.0,SE13
+403,03 Dec 2018,Furnished,Males or females,Shoreditch (E2),None,None,['£775 pcm'],Lovely Double Room  Shoreditch High St 3rd Dec 18,Double room,[775],775.0,E2
+404,03 Dec 2018,Furnished,Males or females,Marylebone (NW1),None,6 months,"['£260 pw', '£240 pw']",2 Stunning Rooms in Marylebone +2 Bathrooms!,2 doubles,"[1040, 960]",1000.0,NW1
+405,13 Jan 2019,Furnished,Males or females,Island Gardens (E14),None,6 months,['£699 pcm'],ð±Magnificent Double Room in E14ð±,Double room,[699],699.0,E14
+406,Now,Furnished,Males or females,Hammersmith (W6),None,3 months,"['£185 pw', '£200 pw']",Hammersmith- 2 Double Rooms in Cosy Flat,2 doubles,"[740, 800]",770.0,W6
+407,01 Dec 2018,Furnished,Males or females,Turnpike Lane (N22),None,None,['£780 pcm'],Large Double  Room Ideal for Couples,Double room,[780],780.0,N22
+408,12 Dec 2018,No info,No info,Canada Water (SE16),None,6 months,"['£1,200 pcm (whole property)']",25NS Magnificent 1 Bedroom,1 bed flat,[1200],1200.0,SE16
+409,Now,No info,Males or females,London SE15 (SE15),None,None,['£160 pw'],10min to Elephant and Castle Couples Welcome,Double room,[640],640.0,SE15
+410,Now,Furnished,Males or females,Euston (NW1),None,3 months,"['£230 pw', '£230 pw', '£240 pw']",Camden Town-Double Rooms in New Property,3 doubles,"[920, 920, 960]",933.3333333333334,NW1
+411,01 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,None,['£185 pw'],Huge Double Room@Canary Wharf/All Saints Stn,Double room,[740],740.0,E14
+412,01 Dec 2018,Furnished,Males or females,Hackney (E9),None,None,['£115 pw'],Cosy Single Room Wth Balcony@London Fields/Hackney,Single room,[460],460.0,E9
+413,Now,Furnished,Males or females,Mile End (E3),None,None,['£140 pw'],Nice Double Room@Mile End/ Bow  4 Mnts Walk to Stn,Double room,[560],560.0,E3
+414,17 Dec 2018,Furnished,Males or females,London E1 (E1),None,None,['£600 pcm'],A Single Room in a 4 Bedroom Terraced House,Single room,[600],600.0,E1
+415,07 Dec 2018,Furnished,Males or females,Aldgate East (E1),None,3 months,['£170 pw'],Beautifull Double Room Near Aldgate East Station,Double room,[680],680.0,E1
+416,Now,Furnished,Males or females,Fulham (SW6),None,6 months,"['£850 pcm', '£800 pcm', '£800 pcm']",Spacious Rooms in Fulham,3 doubles,"[850, 800, 800]",816.6666666666666,SW6
+417,Now,Furnished,Males or females,Canary Wharf (E14),None,None,['£235 pw'],A excellent room with balcony no deposit canary wh,Double room,[940],940.0,E14
+418,02 Jan 2019,Furnished,Males or females,Stockwell (SW9),None,3 months,['£150 pw'],Monday to Friday Family House in Conservation Area,Double room,[600],600.0,SW9
+419,,No info,No info,South Hampstead (NW6),,,[],Stunning two bedroom apartment in Swiss Cottage,2 bed flat,[],,NW6
+420,15 Jan 2019,Furnished,Males or females,Holloway (N7),None,6 months,['£900 pcm'],Top Room Is Coming Available/N7,Double room,[900],900.0,N7
+421,12 Dec 2018,Furnished,Males or females,Limehouse Basin (E14),None,6 months,['£870 pcm'],Massive Double Room in Narrow Street,Double room,[870],870.0,E14
+422,Now,Furnished,Males or females,Poplar (E14),12 months,6 months,['£690 pcm'],Great Size Double Room in Teviot Street E14,Double room,[690],690.0,E14
+423,Now,Furnished,Males or females,Gunnerbury Park (W3),None,6 months,"['£700 pcm', '£850 pcm']",Fantastic en suite double bedroom close to tube,2 doubles,"[700, 850]",775.0,W3
+424,Now,Furnished,Males or females,Canary Wharf (E14),None,3 months,['£129 pw'],Clean Double Room with Living Area@Limehouse e14,Double room,[516],516.0,E14
+425,Now,No info,Males or females,Bermondsey (SE1),None,3 months,"['£205 pw', '£235 pw', '£240 pw']",London Bridge- Double Room for Single Use,3 doubles,"[820, 940, 960]",906.6666666666666,SE1
+426,Now,Furnished,Males or females,Kensal Rise (NW10),None,None,['£600 pcm'],A Single Room/New House/ Kensal Rise/Zone 2,Single room,[600],600.0,NW10
+427,Now,Furnished,Males or females,Liverpool Street (E1),None,7 months,['£200 pw'],Beautiful Double Room - Whitechapel,Double room,[800],800.0,E1
+428,Now,Furnished,Males or females,Westferry (E14),None,None,['£180 pw'],"Gorgeous Large Double Room in Westferry, E14",Double room,[720],720.0,E14
+429,Now,Furnished,Males or females,Camden (NW1),None,None,"['£220 pw', '£220 pw', '£230 pw']",Camden Towm/3 rooms in a new flat,3 doubles,"[880, 880, 920]",893.3333333333334,NW1
+430,Now,Furnished,Males or females,Newington Green (N16),12 months,6 months,['£175 pw'],Double room in Newington Green,Double room,[700],700.0,N16
+431,Now,Furnished,No info,Willesden Green (NW2),None,3 months,['£215 pw (whole property)'],En-Suit Studio Flat | No Agency Fee | 5Min to Tube,Studio flat,[860],860.0,NW2
+432,Now,Furnished,Males or females,London W5 (W5),None,3 months,['£160 pw'],Double Room in Highly Desirable Location,Double room,[640],640.0,W5
+433,Now,Furnished,Males or females,East India (E14),None,None,['£180 pw'],"Large Double Room in East India, Canary Wharf",Double room,[720],720.0,E14
+434,05 Dec 2018,Furnished,Males or females,Hendon Central (NW4),None,12 months,['£550 pcm'],Large Double Room Close To Hendon Central Station,Double room,[550],550.0,NW4
+435,Now,Furnished,Males or females,King's Cross (WC1),None,3 months,"['£245 pw', '£255 pw', '£285 pw', '£320 pw']",King's Cross-New Modern Property-Flatshare,4 doubles,"[980, 1020, 1140, 1280]",1105.0,WC1
+436,Now,Furnished,Males or females,South Ealing (W5),None,4 months,['£750 pcm'],4 Minute Walk from South Ealing Tube Station!,Double room,[750],750.0,W5
+437,15 Dec 2018,Furnished,Males or females,Hendon Central (NW4),None,12 months,"['£599 pcm', '£599 pcm']",Single Room Furnished 4 Minute Walk To Station,2 doubles,"[599, 599]",599.0,NW4
+438,Now,Furnished,Males or females,Finsbury Park (N4),None,3 months,"['£160 pw', '£155 pw', '£155 pw']",ð ð¡ Just Refurbished 2 Bath on Victoria Line,3 doubles,"[640, 620, 620]",626.6666666666666,N4
+439,Now,Furnished,Males or females,Plumstead (SE18),None,None,['£725 pcm'],13HS Ensuite Available,Double room,[725],725.0,SE18
+440,,No info,No info,London NW3 (NW3),,,[],Large bright studio on Finchley Road,Studio flat,[],,NW3
+441,01 Dec 2018,Furnished,Males or females,South Hampstead (NW6),None,2 months,"['£140 pw', '£150 pw']",Double Rooms in Swiss Cottage/Finchley Rd,2 doubles,"[560, 600]",580.0,NW6
+442,Now,Furnished,Males or females,New Cross (SE14),None,3 months,['£150 pw'],"Zone 2 Beautiful with Garden,New Cross Gate",Double room,[600],600.0,SE14
+443,Now,Furnished,No info,Stratford (E15),None,None,['Potential Buddy Ups'],Straford 3 Bed House Close to Plastow & Straford,3 bed flat,[],,E15
+444,01 Jan 2019,Furnished,Males or females,Whitechapel (E1),12 months,6 months,['£820 pcm'],"Stunning, Large Double Room in Lomas Street E1",Double room,[820],820.0,E1
+445,Now,Furnished,Males or females,Canary Wharf (E14),None,None,"['£200 pw', '£250 pw']",A No Deposit Double Room Excellent in Canary Wharf,2 doubles,"[800, 1000]",900.0,E14
+446,Now,Furnished,Males or females,Islington (N1),None,6 months,['£157 pw'],Room in 4 bed flat close to Old Street/Angel,Single room,[628],628.0,N1
+447,10 Dec 2018,Furnished,Males or females,Mile End (E3),None,3 months,['£135 pw'],"Nice Double Room in Mile End Area, All Bills Incl",Double room,[540],540.0,E3
+448,Now,Furnished,Males or females,Shepherds Bush (W12),None,3 months,['£170 pw'],Feel Great Sharing This House with Lovely People,Double room,[680],680.0,W12
+449,Now,Furnished,Males or females,All Saints (E14),None,6 months,['£650 pcm'],En-Suite Double Room- inc bills!,Double room,[650],650.0,E14
+450,Now,Furnished,Males or females,Clapham (SW12),None,6 months,['£230 pw'],*Brand New Double Available Now* | Clapham,Double room,[920],920.0,SW12
+451,Now,Furnished,Males or females,North Kensington (W10),None,None,"['£200 pw', '£270 pw', '£270 pw']",âMassive rooms- Kensington W19-Bills included,3 doubles,"[800, 1080, 1080]",986.6666666666666,W10
+452,Now,Furnished,Males or females,Vauxhall (SW8),None,3 months,"['£225 pw', '£215 pw']",Brand new flat - 2 double rooms - VAUXHALL,2 doubles,"[900, 860]",880.0,SW8
+453,Now,Furnished,Males or females,London Bridge (SE1),None,5 months,"['£185 pw', '£235 pw', '£270 pw']","London Bridge calling, Stunning accommodation.",3 doubles,"[740, 940, 1080]",920.0,SE1
+454,10 Dec 2018,Furnished,Males or females,Kensington and Chelsea (SW10),None,10 months,['£225 pw'],Chelsea - Amazing Double Available,Double room,[900],900.0,SW10
+455,Now,Furnished,No info,Plaistow (E13),12 months,12 months,"['£1,300 pcm (whole property)']","2 Bedroom House to let in Plaistow,",2 bed flat,[1300],1300.0,E13
+456,23 Jan 2019,Unfurnished,No info,East Finchley (N2),None,12 months,['£290 pw (whole property)'],Fantastic 1 bedroom flat - East Finchley,1 bed flat,[1160],1160.0,N2
+457,Now,Furnished,Males or females,Goldhawk Road (W12),None,None,"['£230 pw', '£250 pw', '£210 pw', '£200 pw', '£190 pw']",âJust for move in ASAP-Brand new house-W12,5 doubles,"[920, 1000, 840, 800, 760]",864.0,W12
+458,Now,Furnished,Males or females,Canary Wharf (E14),None,3 months,['£130 pw'],Must be seen! Double room @Canary Wharf/ E14 7pp,Double room,[520],520.0,E14
+459,05 Dec 2018,Furnished,Males or females,East Finchley (N2),None,5 months,['£672 pcm'],Amazing Double Room in Beautiful House,Double room,[672],672.0,N2
+460,03 Dec 2018,Furnished,Males or females,Chelsea (SW3),None,1 month,['£205 pw'],New! Massive Double Room in Chelsea ***,Double room,[820],820.0,SW3
+461,Now,Furnished,Males or females,West Kensington (W14),None,None,['£650 pcm'],Double Lovely Room in Kensington,Double room,[650],650.0,W14
+462,01 Dec 2018,Furnished,Males or females,London SW19 (SW19),None,None,['£110 pw'],Nice Double Room Available in South Wimbledon,Double room,[440],440.0,SW19
+463,Now,Furnished,Males or females,Balham (SW17),None,12 months,"['£1,127 pcm', '£320 pw', '£1,191 pcm', '£1,213 pcm', '£1,235 pcm', '£1,213 pcm']",Home sweet home,Double room,"[1127, 1280, 1191, 1213, 1235, 1213]",1209.8333333333333,SW17
+464,Now,No info,Female preferred,Palmers Green (N13),None,12 months,['£650 pcm'],Double Bedroom in Palmers Green N13,Double room,[650],650.0,N13
+465,Now,No info,No info,Walthamstow (E17),None,None,"['£1,000 pcm (whole property)']",1 bedroom flat on Chingford Road,1 bed flat,[1000],1000.0,E17
+466,Now,Furnished,Males or females,Ealing (W13),None,3 months,['£150 pw'],"Spacious double, available now! bills included",Double room,[600],600.0,W13
+467,Now,Furnished,Males or females,Hammersmith (W6),None,3 months,['£880 pcm'],"Fantastic double room, perfect for couples!",Double room,[880],880.0,W6
+468,Now,Furnished,Males or females,Stratford (E15),None,3 months,['£135 pw'],Fantastic room in Stratford!! bills included,Double room,[540],540.0,E15
+469,Now,Furnished,Males or females,Old Street (N1),None,None,"['£225 pw', '£230 pw', '£195 pw']",3 Amazing Rooms in Old Street !,3 doubles,"[900, 920, 780]",866.6666666666666,N1
+470,01 Jan 2019,Furnished,Males or females,Fulham (SW6),None,6 months,['£550 pcm'],Single room in spacious 2 level flat,Single room,[550],550.0,SW6
+471,Now,Furnished,Males or females,Canary Wharf (E14),None,6 months,"['£1,050 pcm']","Double Room with Private Bathroom in Canary Wharf,",Double room,[1050],1050.0,E14
+472,23 Dec 2018,Furnished,Males or females,London N7 (N7),None,2 months,['£650 pcm'],*Double Room in Flat with LOUNGE nearby Camden*,Double room,[650],650.0,N7
+473,Now,Furnished,Males or females,Fitzrovia (WC1),None,None,"['£245 pw', '£320 pw']",Unique standard in the heart of Fitzrovia,2 doubles,"[980, 1280]",1130.0,WC1
+474,Now,Furnished,Males or females,Canary Wharf (E14),None,3 months,['£130 pw'],Clean Double room @Canary Wharf/ Limehouse E14 7PQ,Double room,[520],520.0,E14
+475,Now,Furnished,Males or females,Islington (N7),None,None,"['£220 pw', '£160 pw']",Highbury&Islington Get the Keys Today!!!!!!,2 doubles,"[880, 640]",760.0,N7
+476,17 Dec 2018,Furnished,No info,London NW6 (NW6),None,12 months,['£340 pw (whole property)'],Spacious one bedroom flat - NW6 - great location,1 bed flat,[1360],1360.0,NW6
+477,Now,Furnished,Males or females,Chelsea (SW10),None,6 months,"['£235 pw', '£280 pw']",Luxury new flat - ENSUITE & double room -,2 doubles,"[940, 1120]",1030.0,SW10
+478,Now,Furnished,Males or females,Bow Road (E3),None,6 months,"['£120 pw', '£168 pw']",2 Rooms in the Same House!! Bow Road!!,2 doubles,"[480, 672]",576.0,E3
+479,05 Dec 2018,Furnished,Males or females,Shoreditch (E2),None,6 months,['£600 pcm'],Nice Room in Shoreditch - E2 6Be,Double room,[600],600.0,E2
+480,Now,Furnished,Males or females,Seven Sisters (N15),None,None,['£120 pw'],Comfy single room,Double room,[480],480.0,N15
+481,Now,Furnished,Males or females,Fitzrovia (WC1),None,6 months,"['£320 pw', '£255 pw', '£245 pw', '£285 pw']",Luxury new flat - ENSUITE & 3 double rooms -,4 doubles,"[1280, 1020, 980, 1140]",1105.0,WC1
+482,Now,Furnished,Males or females,Old Street (E2),None,1 month,['£850 pcm'],Large Room Columbia Road. SHORT LET. January!,Double room,[850],850.0,E2
+483,03 Dec 2018,Furnished,Males or females,Russell Square (WC1),None,6 months,"['£320 pw', '£255 pw', '£245 pw', '£285 pw']",Luxury New Flat - Ensuite & 3 Double Rooms -,4 doubles,"[1280, 1020, 980, 1140]",1105.0,WC1
+484,Now,Furnished,Males or females,Fulham (SW6),None,6 months,['£810 pcm'],Amazing Double in Clean & Tidy Flat â Fulham,Double room,[810],810.0,SW6
+485,02 Dec 2018,Furnished,Female preferred,Docklands (E16),None,None,['£700 pcm'],Double room with river views - docklands,Double room,[700],700.0,E16
+486,03 Dec 2018,Furnished,Males or females,London NW1 (NW1),None,6 months,"['£325 pw', '£260 pw', '£250 pw', '£290 pw']",*Exclusive New Property*,4 doubles,"[1300, 1040, 1000, 1160]",1125.0,NW1
+487,15 Dec 2018,Furnished,Males or females,Hammersmith (W6),None,None,['£802 pcm'],Big Double In A Tidy House Hammersmith,Double room,[802],802.0,W6
+488,Now,Furnished,Males or females,Bethnal Green (E2),12 months,6 months,"['£150 pw', '£165 pw', '£170 pw', '£225 pw']","""Stream of Consciousness""Luxury Rooms in East Lnd!",4 doubles,"[600, 660, 680, 900]",710.0,E2
+489,05 Feb 2019,Furnished,Males or females,Hoxton (E2),None,6 months,['£550 pcm'],Beautiful Spacious Double in Hoxton,Double room,[550],550.0,E2
+490,03 Jan 2019,Furnished,No info,Kingsland (N1),24 months,12 months,"['£1,550 pcm (whole property)']",Modern 1 Bed Appt to Let in Hackney. Viewing Advis,1 bed flat,[1550],1550.0,N1
+491,Now,Furnished,Males or females,Hackney (E9),None,3 months,['£200 pw'],Amazing Double in Hackney!,Double room,[800],800.0,E9
+492,15 Dec 2018,Furnished,Males or females,Mile End (E3),None,6 months,['£208 pw'],Double Room in Mile End £900pcm,Double room,[832],832.0,E3
+493,17 Dec 2018,Furnished,Males or females,Surrey Quays (SE8),None,3 months,['£850 pcm'],Double Room - Alloa Road SE8 Surrey Quays,Double room,[850],850.0,SE8
+494,Now,Furnished,Males or females,Liverpool Street (E1),None,None,"['£119 pw', '£127 pw', '£130 pw', '£144 pw', '£160 pw', '£170 pw', '£170 pw']",ð Black Friday ð¤ Deals Limited Offer ð,4 doubles,"[476, 508, 520, 576, 640, 680, 680]",582.8571428571429,E1
+495,01 Jan 2019,Furnished,Males or females,Aldgate East (E1),None,None,"['£125 pw', '£135 pw']",New Year Gift ð¯ â Free Online Booking Now,2 singles,"[500, 540]",520.0,E1
+496,01 Feb 2019,No info,Males or females,Streatham Hill (SW16),None,1 month,['£850 pcm'],Amazing Dbl Room + Ensuite + Walk in Wardrobe!!!,Double room,[850],850.0,SW16
+497,Now,Furnished,Males or females,Hendon (NW4),None,None,['£585 pcm'],Nice Double bedroom in shared flat,Double room,[585],585.0,NW4
+498,01 Jan 2019,Furnished,Males or females,Caledonian Road (N7),None,None,['£860 pcm'],Wonderful Room in a Wonderful House Calendonia Roa,Double room,[860],860.0,N7
+499,12 Dec 2018,Furnished,Males or females,London W13 (W13),None,6 months,['£600 pcm'],Small Double in a 3 Bedroom Flat in Ealing 12/12,Double room,[600],600.0,W13
+500,01 Dec 2018,Furnished,Males or females,Bethnal Green (E2),None,6 months,['£173 pw'],Big Double Room with Balcony!!Bethnal Green,Double room,[692],692.0,E2
+501,Now,Furnished,Males or females,Canary Wharf (E14),None,None,['£180 pw'],Double Room + Pvt Living Room and Balcony in E14,Double room,[720],720.0,E14
+502,05 Dec 2018,Furnished,Males or females,King's Cross (N1),None,None,"['£210 pw', '£170 pw']",2 Double Rooms in Kings Cross....All Bills Inc,2 doubles,"[840, 680]",760.0,N1
+503,Now,Furnished,No info,Clerkenwell (EC1),None,12 months,['£380 pw (whole property)'],Great 1 Bed Flat in City Road,1 bed flat,[1520],1520.0,EC1
+504,Now,Furnished,Males or females,Leyton (E11),None,None,"['£130 pw', '£175 pw', '£180 pw']",Get the Best Prices in Leyton!!!!,3 doubles,"[520, 700, 720]",646.6666666666666,E11
+505,20 Jan 2019,Furnished,Males or females,Chiswick (W4),None,4 months,['£845 pcm'],"Chiswick Double Room, Amazing mansion Wifi, TV",Double room,[845],845.0,W4
+506,Now,Furnished,Males or females,Bow Road (E3),None,6 months,['£700 pcm'],Wonderful Huge Double Close to Bow Road,Double room,[700],700.0,E3
+507,04 Dec 2018,Furnished,Males or females,Leytonstone (E11),None,4 months,['£520 pcm'],Good size  double room near  Leytonstone st.,Double room,[520],520.0,E11
+508,12 Dec 2018,Furnished,Males or females,Clapham Common (SW4),None,3 months,['£800 pcm'],On Clapham Commons - Couples Accepted!,Double room,[800],800.0,SW4
+509,15 Jan 2019,Furnished,Males or females,Fulham (SW6),None,4 months,['£930 pcm'],"Central location Double room, Wifi, TV",Double room,[930],930.0,SW6
+510,14 Dec 2018,Furnished,Males or females,Stratford (E15),None,3 months,['£520 pcm'],Stratford - Single - All Bills Incl!,Single room,[520],520.0,E15
+511,13 Jan 2019,Furnished,Males or females,Brixton (SW2),None,12 months,['£230 pw'],There's no place like home,Double room,[920],920.0,SW2
+512,29 Jan 2019,Furnished,Males or females,Shoreditch (E2),12 months,6 months,['£830 pcm'],"Lovely Double Room in Club Row, Shoreditch E2",Double room,[830],830.0,E2
+513,01 Dec 2018,No info,Males or females,London W12 (W12),None,None,['£145 pw'],Double Room In Great Location Of Shepherds Bush,Double room,[580],580.0,W12
+514,30 Dec 2018,Furnished,Males or females,Leytonstone (E11),None,3 months,['£120 pw'],Comfortable Double Room for One  in Leytonstone,Double room,[480],480.0,E11
+515,Now,Furnished,Males or females,Holland Park (W8),None,1 month,['£866 pcm'],Trendy room Next to Notthing Hill Station,Double room,[866],866.0,W8
+516,Now,Furnished,Female preferred,Waterloo (SE1),12 months,None,['£875 pcm'],Big Double Room to Let,Double room,[875],875.0,SE1
+517,11 Dec 2018,Furnished,No info,Clapham (SW11),None,12 months,"['£2,600 pcm (whole property)']","NEW BUILD, 3 bed flat, 18 mins to clapham Junction",3 bed flat,[2600],2600.0,SW11
+518,Now,No info,Males or females,Sloane Square (SW1),None,None,['£866 pcm'],Georgous Double Room Next to Sloane Square,Double room,[866],866.0,SW1
+519,Now,Furnished,Males or females,Chelsea (SW3),None,None,['£888 pcm'],Room for Rent in This Stylish Flat South Ken,Double room,[888],888.0,SW3
+520,Now,Furnished,Males or females,Canary Wharf (E14),None,None,"['£150 pw', '£165 pw', '£185 pw', '£225 pw']",We  â¤ï¸Love â¤ï¸Canary Wharf !,4 doubles,"[600, 660, 740, 900]",725.0,E14
+521,02 Jan 2019,No info,Males or females,London Bridge (SE1),None,4 months,"['£1,150 pcm']",Spacious Double Bedroom Ensuite - London Bridge,Double room,[1150],1150.0,SE1
+522,20 Jan 2019,Furnished,Males or females,Acton (W3),None,4 months,['£665 pcm'],"Amazing Acton Double with Garden, TV, Wifi",Double room,[665],665.0,W3
+523,02 Dec 2018,Furnished,Males or females,Stratford (E15),None,3 months,['£520 pcm'],Stratford - Double - All Bills Incl!,Double room,[520],520.0,E15
+524,13 Dec 2018,Furnished,Males or females,East Putney (SW15),None,6 months,"['£167 pw', '£173 pw']",Large Double Room 2 minutes to Putney Bridge!!,2 doubles,"[668, 692]",680.0,SW15
+525,Now,Furnished,Males or females,Childs Hill (NW2),None,6 months,['£730 pcm'],**** Modern Room ****,Double room,[730],730.0,NW2
+526,20 Jan 2019,Furnished,Males or females,White City (W12),None,4 months,['£695 pcm'],"White City Mansion Double Room Wifi, TV. Jan 20th",Double room,[695],695.0,W12
+527,18 Dec 2018,Furnished,Males or females,Kennington (SE17),None,3 months,['£700 pcm'],Large Double Room in Friendly Flat Kennington SE17,Double room,[700],700.0,SE17
+528,27 Dec 2018,Furnished,Males or females,Putney (SW15),None,6 months,['£208 pw'],Stunningly Spacious Double Room on Putney Hill,Double room,[832],832.0,SW15
+529,Now,Furnished,Males or females,Tooting Broadway (SW17),None,6 months,"['£1,025 pcm', '£975 pcm']","Social Living, Beautiful house, All bills Included",2 doubles,"[1025, 975]",1000.0,SW17
+530,Now,No info,Males or females,Westminster (SW1),None,None,['£900 pcm'],Huge Room St James Park,Double room,[900],900.0,SW1
+531,Now,Furnished,No info,New Cross (SE14),None,6 months,"['£1,500 pcm (whole property)']",2 Bedroom Flat for Rent in New Cross,2 bed flat,[1500],1500.0,SE14
+532,Now,Furnished,No info,Kingsbury (NW9),None,6 months,['£900 pcm (whole property)'],**** Modern Studio****,Studio flat,[900],900.0,NW9
+533,02 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,5 months,['£660 pcm'],Nice Double room near Canary Wharf and Transport,Double room,[660],660.0,E14
+534,Now,Furnished,No info,Hammersmith (W6),None,None,"['£1,695 pcm (whole property)']",Stunning two bed two bath flat Shepherds bush road,2 bed flat,[1695],1695.0,W6
+535,Now,Furnished,Males or females,Kentish Town (NW5),None,4 months,"['£180 pw', '£200 pw', '£230 pw']",3 Great Dbl Room in Camden Town Area,3 doubles,"[720, 800, 920]",813.3333333333334,NW5
+536,08 Dec 2018,No info,Males or females,Fulham (SW6),None,None,['£260 pw'],"£260pw double en-suite, Fulham, couples welcome",Double room,[1040],1040.0,SW6
+537,Now,Furnished,Males or females,Kensal Rise (NW10),None,3 months,['£175 pw'],Amazing Double Room in a Beautiful House !!!,Double room,[700],700.0,NW10
+538,Now,Furnished,Males or females,Canary Wharf (E14),None,4 months,"['£150 pw', '£175 pw', '£200 pw', '£225 pw', '£230 pw']",5 Modern Dbl Room in Canary Wharf Area,5 doubles,"[600, 700, 800, 900, 920]",784.0,E14
+539,Now,No info,Males or females,Old Street (N1),None,None,"['£165 pw', '£185 pw']",Shoreditch Park/ Old street/ New rooms! Call me,Single + double,"[660, 740]",700.0,N1
+540,Now,Furnished,Males or females,North Greenwich (SE10),None,4 months,"['£190 pw', '£210 pw', '£225 pw']",3 Luxury Dbl Room in North Greenwich Area,3 doubles,"[760, 840, 900]",833.3333333333334,SE10
+541,Now,Furnished,Males or females,West Kensington (W14),None,None,['£870 pcm'],Cozy Double Room in West Ken,Double room,[870],870.0,W14
+542,16 Dec 2018,No info,Males or females,Willesden (NW10),None,5 months,['£180 pw'],"No Agency Fee, Lovely Double Available",Double room,[720],720.0,NW10
+543,Now,Furnished,Males or females,Marylebone (NW1),None,4 months,"['£180 pw', '£200 pw', '£240 pw', '£260 pw', '£300 pw']",5 Dbl Room Available in Marylebone Area,5 doubles,"[720, 800, 960, 1040, 1200]",944.0,NW1
+544,Now,Furnished,No info,Hampstead (NW3),None,1 month,['£520 pw (whole property)'],Wow Wow Wow Amazing Apartment in Hampstead,2 bed flat,[2080],2080.0,NW3
+545,15 Jan 2019,Furnished,Males or females,Wimbledon (SW19),None,6 months,['£550 pcm'],Lovely Double Room in Wimbledon £550 Pm,Double room,[550],550.0,SW19
+546,01 Jan 2019,Furnished,Males or females,Surrey Quays (SE8),None,6 months,"['£935 pcm', '£770 pcm']",Penthouse Large Double En-Suite Room + Double Bed,2 doubles,"[935, 770]",852.5,SE8
+547,Now,Furnished,Males or females,Shepherds Bush (W12),None,4 months,"['£200 pw', '£225 pw', '£250 pw']",3 Incredible Dbl Room in Great House Central Line,3 doubles,"[800, 900, 1000]",900.0,W12
+548,11 Jan 2019,No info,Males or females,Old Street (N1),None,None,"['£170 pw', '£190 pw']",Amazing Rooms/Take the discount today!Zone 1,2 doubles,"[680, 760]",720.0,N1
+549,08 Dec 2018,Furnished,Males or females,Kensington and Chelsea (W8),None,None,['£790 pcm'],Notting Hill - Beautiful Double Room Available,Double room,[790],790.0,W8
+550,10 Dec 2018,Furnished,Males or females,Maida Vale (W9),None,3 months,"['£970 pcm', '£970 pcm']",2X King Bedrooms W/ Own Bathroom All Bills Incl W9,2 doubles,"[970, 970]",970.0,W9
+551,01 Dec 2018,Furnished,Males or females,Clapham Junction (SW11),None,None,['£150 pw'],One double room in friendly Battersea flat,Double room,[600],600.0,SW11
+552,Now,Furnished,Males or females,Barons Court (W6),None,None,['£750 pcm'],Spacious Double Room in Barons Court,Double room,[750],750.0,W6
+553,16 Dec 2018,Furnished,Female preferred,London SW18 (SW18),None,None,['£950 pcm'],Double room with own bathroom nr Clapham Junc,Double room,[950],950.0,SW18
+554,Now,Furnished,Males or females,Wapping (E1),None,None,"['£180 pw', '£195 pw']",2 Massive Double Rooms in Wapping,2 doubles,"[720, 780]",750.0,E1
+555,11 Dec 2018,Furnished,Males or females,Ealing (W5),None,7 months,"['£550 pcm', '£650 pcm', '£650 pcm', '£700 pcm']",Double Room Northfields,Double room,"[550, 650, 650, 700]",637.5,W5
+556,02 Dec 2018,Furnished,Males or females,Canada Water (SE16),None,5 months,['£895 pcm'],OnSuite large DoubleRoom CloseToShopsAndTransport,Double room,[895],895.0,SE16
+557,01 Dec 2018,Furnished,Males or females,East Acton (W3),None,6 months,['£600 pcm'],Bright and spacious double room in East Acton,Double room,[600],600.0,W3
+558,Now,Furnished,Males or females,Canary Wharf (E14),None,3 months,['£130 pw'],Single room+Living Room/Balcony At Limehouse DLR,Single room,[520],520.0,E14
+559,Now,Furnished,Males or females,East Ham (E6),None,3 months,['£115 pw'],Stunning Double Seconds From East Ham Station!,Double room,[460],460.0,E6
+560,Now,Furnished,Males or females,Limehouse (E14),None,None,['£130 pw'],Brand new Room available near central London,Double room,[520],520.0,E14
+561,Now,Furnished,Males or females,Kilburn (NW6),None,3 months,"['£150 pw', '£220 pw', '£200 pw']","2 DBl + 1 SGL in Kilburn, NW6",Single + 2 doubles,"[600, 880, 800]",760.0,NW6
+562,Now,Furnished,Males or females,Clapham Common (SW4),None,None,"['£169 pw', '£185 pw']",Clapham Common|Fantastic Rooms|Modern&Bright,2 doubles,"[676, 740]",708.0,SW4
+563,Now,Furnished,Males or females,London E14 (E14),None,3 months,['£825 pcm'],Spacious Double in Modern Development. All bills,Double room,[825],825.0,E14
+564,01 Jan 2019,Furnished,Males or females,Docklands (E16),None,3 months,['£725 pcm'],Fantastic Double Bedroom in Gated Development E16,Double room,[725],725.0,E16
+565,Now,Furnished,Males or females,Stockwell (SW8),None,3 months,['£790 pcm'],Cosy Double Room is Fully Furnished,Double room,[790],790.0,SW8
+566,17 Dec 2018,Furnished,Males or females,Leyton (E10),None,1 month,['£120 pw'],Lovely room in Leyton Bills incl Broadband Garden,Double room,[480],480.0,E10
+567,08 Dec 2018,Furnished,Males or females,St James's Park (SW1),None,None,['£940 pcm'],Zone 1 /  St James Park-Huge Room Available Soon,Double room,[940],940.0,SW1
+568,Now,Furnished,Males or females,East Ham (E6),None,3 months,"['£500 pcm', '£650 pcm']",Single & Double Rooms Available Now E6,Single + double,"[500, 650]",575.0,E6
+569,10 Jan 2019,Part Furnished,Males or females,Beckton (E6),None,12 months,['Potential Buddy Ups'],Beautiful 2 Bed Newly Refurbished Flat,2 bed flat,[],,E6
+570,Now,Furnished,Males or females,London E13 (E13),None,6 months,['£140 pw'],Lovely Dbl Rm @E138QE,Double room,[560],560.0,E13
+571,20 Dec 2018,Furnished,Males or females,Tower Bridge (SE1),None,6 months,['£150 pw'],Zone 1!! Tower Bridge 1 Double Room in Quiet Flat,Double room,[600],600.0,SE1
+572,01 Dec 2018,Furnished,Males or females,Lea Bridge (E10),None,2 months,['£650 pcm'],Large Double Room - Lea Bridge/Leyton/Clapton,Double room,[650],650.0,E10
+573,05 Dec 2018,Furnished,Males or females,Hanger Lane (W5),None,6 months,['£750 pcm'],Massive double room with own lounge - no couples,Double room,[750],750.0,W5
+574,Now,Furnished,Males or females,London W11 (W11),None,None,['£220 pw'],Bright Double Near Notting Hill!!-Bills inc!!,Double room,[880],880.0,W11
+575,01 Dec 2018,Furnished,Males or females,Forest Hill (SE23),None,6 months,['£135 pw'],Huge Room in Forest Hill - All Bills Included!,Double room,[540],540.0,SE23
+576,Now,Furnished,Males or females,Fulham (SW6),None,None,['£780 pcm'],Light & Bright - Next to Fulham B. Tube Station!,Double room,[780],780.0,SW6
+577,01 Dec 2018,Furnished,Males or females,Forest Hill (SE23),None,6 months,['£133 pw'],Spacious and Stunning Room - Available Now !,Double room,[532],532.0,SE23
+578,15 Dec 2018,Furnished,Males or females,London E14 (E14),None,2 months,['£780 pcm'],En Suite Room Available From 15/12 - E14 9UU,Double room,[780],780.0,E14
+579,22 Dec 2018,Furnished,Males or females,Woolwich (SE18),None,12 months,['£725 pcm'],Double Room in Royal Arsenal,Double room,[725],725.0,SE18
+580,10 Dec 2018,Furnished,Males or females,Clapham Common (SW4),None,6 months,['£560 pcm'],Double room in Clapham Common- Zone 2!,Double room,[560],560.0,SW4
+581,07 Dec 2018,Furnished,Males or females,Sloane Square (SW1),None,None,['£880 pcm'],Cool Cool  Double Room in Sloane Square,Double room,[880],880.0,SW1
+582,Now,Furnished,Males or females,Maida Vale (W9),None,3 months,['£850 pcm'],Large room near Maida Vale Station (Balcony),Double room,[850],850.0,W9
+583,Now,Furnished,Males or females,St John's Wood (NW8),None,6 months,['£765 pcm'],Lovely single room / superb area / Available NOW,Single room,[765],765.0,NW8
+584,Now,Furnished,Males or females,Aldgate (E1),None,1 month,['£135 pw'],ð¹No deposit ð¸Beautiful bedroom in Aldgate,Double room,[540],540.0,E1
+585,01 Jan 2019,Furnished,Males or females,Whitechapel (E1),None,None,['£600 pcm'],Lovely Room in Great Location! Bills inc!!,Single room,[600],600.0,E1
+586,21 Dec 2018,Furnished,Males or females,Upper Holloway (N19),None,3 months,['£129 pw'],Cosy Single in a Lovely Flat off Hornsey Road,Single room,[516],516.0,N19
+587,03 Jun 2019,Furnished,Males or females,Greenwich (SE10),None,7 months,['£995 pcm'],Studio for couples. All bills included!,Double room,[995],995.0,SE10
+588,Now,Furnished,Males or females,Forest Gate (E7),None,None,['£500 pcm'],Lovely Double Room! Great Price! Bills inc!,Double room,[500],500.0,E7
+589,15 Feb 2019,Part Furnished,No info,Dalston (E8),None,12 months,['£440 pw (whole property)'],"New Build 2 Bed Flat 2 Bath Roof Terrace, Dalston!",2 bed flat,[1760],1760.0,E8
+590,01 Jan 2019,Furnished,Males or females,Canary Wharf (E14),None,None,['£800 pcm'],Lovely Double Room with Balcony! 8Th Floor!,Double room,[800],800.0,E14
+591,14 Dec 2018,Furnished,Males or females,London E14 (E14),None,None,['£160 pw'],"Very Big Double Room in Limehouse, Mile End, E14",Double room,[640],640.0,E14
+592,Now,Furnished,Males or females,Lisson Grove (NW8),None,3 months,['£196 pw'],"Amazing Double in a Beautiful Areal, Bargain!",Double room,[784],784.0,NW8
+593,01 Dec 2018,Part Furnished,Males or females,Hendon (NW4),None,12 months,"['£1,200 pcm (whole property)']",Stunning 1 bed refurbished apartment for rent,1 bed flat,[1200],1200.0,NW4
+594,Now,Part Furnished,No info,Broadway Market (E8),None,6 months,['£350 pw (whole property)'],Large bright   2 Bed flat on Mare Street E8,2 bed flat,[1400],1400.0,E8
+595,01 Dec 2018,Furnished,Males or females,Battersea (SW11),None,None,"['£150 pw', '£150 pw']",â¤ï¸â¤ï¸ Two Double Room Bedsit Near Clapham,2 doubles,"[600, 600]",600.0,SW11
+596,22 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,None,['£850 pcm'],Fantastic Double Room with Balcony! Gated Building,Double room,[850],850.0,E14
+597,21 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,7 months,['£655 pcm'],Double room - Canary Wharf /Docklands,Double room,[655],655.0,E14
+598,Now,Furnished,Males or females,All Saints (E14),None,1 month,['£125 pw'],Beautiful  bedroom in Limehouse/QM,Single room,[500],500.0,E14
+599,16 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,None,['£220 pw'],Lovely Ensuite Along the River! Bills inc!,Double room,[880],880.0,E14
+600,08 Dec 2018,Furnished,Males or females,Edgware Road (W2),None,3 months,['£146 pw'],"Cozy Double, Amazing Area, Next to Tube",Double room,[584],584.0,W2
+601,08 Dec 2018,Furnished,Males or females,Leyton (E11),None,None,['£500 pcm'],No Agency Fees! Lovely Room! Large House!,Double room,[500],500.0,E11
+602,Now,Furnished,Males or females,Bermondsey (SE1),None,None,['£750 pcm'],No Agency Fees! Large Double Room! All Bills inc!!,Double room,[750],750.0,SE1
+603,02 Dec 2018,Furnished,Males or females,Bermondsey (SE16),None,None,['£190 pw'],Large Double Room   at Bermondsey.,Double room,[760],760.0,SE16
+604,31 Dec 2018,Furnished,Males or females,West Acton (W3),None,6 months,['£720 pcm'],Beautiful Double Room in West Acton area,Double room,[720],720.0,W3
+605,10 Jan 2019,No info,No info,Wandsworth Road (SW8),None,None,['Potential Buddy Ups'],4 bedroom garden flat Ideal for sharers,4 bed flat,[],,SW8
+606,02 Dec 2018,Furnished,Males or females,West Kensington (W14),None,None,['£870 pcm'],Massive Double Room Near at the Station!,Double room,[870],870.0,W14
+607,20 Dec 2018,Furnished,Males or females,Poplar (E14),None,6 months,"['£780 pcm', '£740 pcm']",Big Double Room in Poplar area,2 doubles,"[780, 740]",760.0,E14
+608,22 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,6 months,['£820 pcm'],Spacious Double Room in Canary Wharf area,Double room,[820],820.0,E14
+609,Now,Furnished,Males or females,St John's Wood (NW8),None,None,['£215 pw'],Amazing big room with balcony  All Bills Inc,Double room,[860],860.0,NW8
+610,01 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,6 months,['£680 pcm'],Nice View Double Room in Canary Wharf area,Double room,[680],680.0,E14
+611,Now,Furnished,Males or females,Fulham (SW6),None,None,['£638 pcm'],Fulham  Bedroom in a Beautiful House,Double room,[638],638.0,SW6
+612,15 Dec 2018,Furnished,Males or females,London E1 (E1),None,6 months,['£620 pcm'],Affordable Single Room in Mile End area,Single room,[620],620.0,E1
+613,08 Dec 2018,Furnished,Males or females,Aldgate (E1),None,1 month,['£150 pw'],Lovely double bedroom in Aldgate /QM,Double room,[600],600.0,E1
+614,11 Dec 2018,Furnished,Males or females,Turnpike Lane (N15),None,6 months,['£190 pw'],Double Room - 5min walk from Turnpike Lane Station,Double room,[760],760.0,N15
+615,07 Dec 2018,Furnished,Males or females,All Saints (E14),None,1 month,['£135 pw'],Beautiful bedroom in limehouse/Mile End/QM,Double room,[540],540.0,E14
+616,Now,Furnished,Males or females,Wood Green (N22),None,3 months,"['£160 pw', '£150 pw', '£125 pw']",Wood Green! Last Double Room Left!,Double room,"[640, 600, 500]",580.0,N22
+617,,No info,No info,Camden (NW1),,,[],Great Studio in Camden,Studio flat,[],,NW1
+618,07 Dec 2018,Furnished,Males or females,Bermondsey (SE16),1 month,None,['£160 pw'],Short Let 7 Dec - 8 Jan All Included + Cute Dog,Double room,[640],640.0,SE16
+619,Now,Furnished,Males or females,Manor House (N4),None,None,['£160 pw'],LARGE Double N4 Zone 2 Optical Fiber broadband,Double room,[640],640.0,N4
+620,21 Dec 2018,Furnished,Males or females,Wapping (E1),12 months,3 months,['£825 pcm'],Double room in Wapping,Double room,[825],825.0,E1
+621,Now,Furnished,Males or females,Whitechapel (E1),None,6 months,['£620 pcm'],Cozy Double Room in Whitechapel area,Double room,[620],620.0,E1
+622,31 Dec 2018,Furnished,Males or females,Angel (N1),None,6 months,['£890 pcm'],City View Double Room in Angel area,Double room,[890],890.0,N1
+623,Now,Furnished,Males or females,Aldgate (E1),None,None,['£160 pw'],Lovely  Dbl Room @ Whitechapel / Lime House,Double room,[640],640.0,E1
+624,23 Dec 2018,Furnished,Males or females,Notting Hill (W11),None,6 months,['£930 pcm'],Elegant Double Room w/ Balcony in Notting Hill,Double room,[930],930.0,W11
+625,04 Jan 2019,Furnished,Males or females,Maida Vale (W9),None,None,['£235 pw'],Paddington Huge room with private balcony.All inc.,Double room,[940],940.0,W9
+626,Now,Furnished,Males or females,Marylebone (NW1),None,6 months,['£975 pcm'],Moonlight Double Room in Marylebone area,Double room,[975],975.0,NW1
+627,Now,Furnished,No info,Fulham (SW6),None,12 months,['£320 pw (whole property)'],1 Bed Flat in Fulham. SW6,1 bed flat,[1280],1280.0,SW6
+628,04 Jan 2019,Furnished,Males or females,Marylebone (NW1),None,None,['£275 pw'],Marylebone Stunning&Huge Room All bills Inc.,Double room,[1100],1100.0,NW1
+629,21 Dec 2018,Furnished,Males or females,Shoreditch (N1),None,6 months,['£680 pcm'],Comfy Double Room in Shoreditch area,Double room,[680],680.0,N1
+630,Now,Furnished,Males or females,Tooting Broadway (SW17),None,1 month,['£795 pcm'],Contact Liam.Large Double in 2 Bed Flat Tooting,Double room,[795],795.0,SW17
+631,03 Dec 2018,Furnished,No info,Cricklewood (NW2),None,12 months,['£185 pw (whole property)'],Studio Flat Available in Cricklewood.NW2,Studio flat,[740],740.0,NW2
+632,03 Dec 2018,Furnished,No info,Greenwich (SE3),None,12 months,['£325 pw (whole property)'],2 Bed flat in Greenwich .SE3,2 bed flat,[1300],1300.0,SE3
+633,Now,Furnished,Males or females,Wood Green (N22),None,6 months,['£150 pw'],Large Double Room - Piccadilly Line,Double room,[600],600.0,N22
+634,26 Dec 2018,Furnished,Female preferred,Dollis Hill (NW2),None,1 month,['£800 pcm'],Amazing big bedroom for rent - 825pcm bills inc,Double room,[800],800.0,NW2
+635,01 Dec 2018,Furnished,Males or females,Bethnal Green (E2),None,3 months,"['£125 pw', '£140 pw', '£145 pw', '£150 pw', '£160 pw']",4Bedflat by Rooms Bethnal Green&Shoredich,5 doubles,"[500, 560, 580, 600, 640]",576.0,E2
+636,15 Dec 2018,Furnished,Males or females,Bow (E3),None,6 months,['£170 pw'],E3 Bow Lg D Rm  in Victorian Hse 170  Pw inc Zn 2,Double room,[680],680.0,E3
+637,Now,Furnished,Males or females,Stepney Green (E1),None,None,['£157 pw'],Stepney Green  Is In It's Splendour ! â¡ï¸,Single room,[628],628.0,E1
+638,Now,No info,Males or females,Pimlico (SW1),None,12 months,"['£400 pw', '£375 pw']",Pimlico Palace,2 doubles,"[1600, 1500]",1550.0,SW1
+639,Now,Furnished,Males or females,Ealing (W13),12 months,6 months,['£699 pcm'],Newly Furnished 3 Bed Flat Near Ealing Broadway,Double room,[699],699.0,W13
+640,28 Dec 2018,Furnished,Males or females,Stoke Newington (N16),36 months,3 months,['£850 pcm'],Bedsit/Studio Style Modern Attic Room Ensuite,Double room,[850],850.0,N16
+641,Now,Furnished,Males or females,CLAPHAM (SW8),None,None,['£225 pw'],Stockwell/ Stunning flat,Double room,[900],900.0,SW8
+642,Now,Furnished,Males or females,Angel (EC1),None,None,['£200 pw'],High standard in central locations,Double room,[800],800.0,EC1
+643,Now,Furnished,Males or females,Hackney (E8),None,None,['£220 pw'],Perfectly presented flat in Hackney,Double room,[880],880.0,E8
+644,Now,Furnished,Males or females,Victoria (SW1),None,None,['£265 pw'],Victoria/ Stunning flat/ 2bathrooms,Double room,[1060],1060.0,SW1
+645,Now,Furnished,Males or females,Shoreditch (E1),None,None,['£220 pw'],Shoreditch. BoxPark. BrickLange,Double room,[880],880.0,E1
+646,Now,Furnished,Males or females,Angel (N1),None,None,['£210 pw'],Perfectly presented flat in Angel,Double room,[840],840.0,N1
+647,Now,Furnished,Males or females,Lea Bridge (E5),None,None,['£135 pw'],Single Room with Balcony in Clapton,Single room,[540],540.0,E5
+648,Now,Furnished,Males or females,Kensington and Chelsea (SW10),None,None,"['£235 pw', '£285 pw']",High Standard + En-Suite Brand New!,2 doubles,"[940, 1140]",1040.0,SW10
+649,Now,Furnished,Males or females,Mornington Crescent (NW1),None,None,"['£220 pw', '£230 pw']",Euston/ stunning brand new flat,2 doubles,"[880, 920]",900.0,NW1
+650,Now,Furnished,Males or females,Plaistow (E13),None,None,['£150 pw'],Large Twin Room in Plaistow / Cannigg Town,Double room,[600],600.0,E13
+651,Now,Furnished,Males or females,Kentish Town (NW5),None,None,['£180 pw'],Camden town/ Stunning room,Double room,[720],720.0,NW5
+652,Now,Furnished,Males or females,Newham (E13),None,None,['£145 pw'],Small Double Room in Plaistow / Canning Town,Double room,[580],580.0,E13
+653,Now,Furnished,Males or females,Marylebone (NW8),None,None,['£220 pw'],Perfectly presented flat in Marylebone,Double room,[880],880.0,NW8
+654,Now,Furnished,Males or females,London Bridge (SE1),None,None,['£240 pw'],Stunning massive room,Double room,[960],960.0,SE1
+655,Now,Furnished,Males or females,High Street Kensington (W8),None,None,['£270 pw'],Kensington/ Brand new flat,Double room,[1080],1080.0,W8
+656,Now,Furnished,Males or females,Finsbury Park (N4),None,None,['£230 pw'],Finsbury Park/ Double room. Massive size,Double room,[920],920.0,N4
+657,Now,Furnished,Males or females,Camden Town (NW1),None,None,"['£210 pw', '£240 pw']",Perfectly presented flat in Camden/ 2 bathrooms,2 doubles,"[840, 960]",900.0,NW1
+658,Now,Furnished,Males or females,Clapham Junction (SW11),None,None,['£230 pw'],Clapham Junction/ Double room,Double room,[920],920.0,SW11
+659,Now,Furnished,Males or females,Russell Square (WC1),None,None,['£295 pw'],Perfectly presented flat in Fitzrovia,Double room,[1180],1180.0,WC1
+660,01 Jan 2019,Furnished,Males or females,Ealing (W5),24 months,6 months,['£845 pcm'],Gorgeous Double in a Stunning House,Double room,[845],845.0,W5
+661,20 Dec 2018,Furnished,Males or females,North Acton (W3),12 months,6 months,['£615 pcm'],1 lovely double left in newly furnished flat,Double room,[615],615.0,W3
+662,01 Dec 2018,No info,Males or females,Islington (N1),None,None,['£180 pw'],N1 Great Deal!! Double Room with Garden!,Double room,[720],720.0,N1
+663,Now,Furnished,Males or females,Canary Wharf (E14),None,None,['£136 pw'],ð¥ MEGA SALES In Canary Wharf  ! ð¥,Single room,[544],544.0,E14
+664,Now,Furnished,Males or females,Islington (N1),None,None,['£200 pw'],Double Room in Islington!,Double room,[800],800.0,N1
+665,Now,Furnished,Males or females,Canary Wharf (E14),None,None,['£240 pw'],Double room on 28th Floor with view of Canary Whar,Double room,[960],960.0,E14
+666,Now,Furnished,Males or females,Canary Wharf (E14),None,None,"['£1,031 pcm']","Immaculate Riverside Room, Gym, Parking, Porter",Double room,[1031],1031.0,E14
+667,Now,Furnished,Males or females,Canary Wharf (E14),None,None,"['£1,246 pcm', '£1,075 pcm', '£1,298 pcm']",Luxury Riverside Rooms with Onsite Health Club.,3 doubles,"[1246, 1075, 1298]",1206.3333333333333,E14
+668,Now,Furnished,Males or females,Westferry (E14),None,2 months,"['£1,400 pcm', '£1,300 pcm', '£1,200 pcm']",Enviable 3 Bedroom Riverside Luxury!,3 doubles,"[1400, 1300, 1200]",1300.0,E14
+669,Now,Furnished,Males or females,Upton Park (E6),None,None,['£400 pcm'],Beautiful Small Double Room  Near  Upton Park,Single room,[400],400.0,E6
+670,Now,No info,Males or females,Royal Docks (E16),None,None,['£950 pcm'],Modern Balcony Double Room - Sub Penthouse,Double room,[950],950.0,E16
+671,Now,Furnished,Males or females,Brixton (SW2),None,3 months,['£190 pw'],Comfortable Double in Clean Flat,Double room,[760],760.0,SW2
+672,06 Dec 2018,Furnished,Males or females,Willesden Green (NW10),None,None,['£180 pw'],Big Dble Room Heart of Willesden Green,Double room,[720],720.0,NW10
+673,Now,Furnished,Males or females,Neasden (NW2),None,None,"['£180 pw', '£180 pw', '£180 pw']",3 Big Dble Rooms Same House Zone 3 Residential,3 doubles,"[720, 720, 720]",720.0,NW2
+674,14 Jan 2019,Furnished,Males or females,Bermondsey (SE16),None,3 months,['£770 pcm'],Lovely room in Bermondsey,Double room,[770],770.0,SE16
+675,03 Dec 2018,Furnished,No info,King's Cross (N1),None,12 months,['£240 pw (whole property)'],Studio flat excellently located in King's Cross,Studio flat,[960],960.0,N1
+676,17 Dec 2018,Furnished,Males or females,Cricklewood (NW2),None,None,['£125 pcm'],@Cheap Single Room in a Very Nice Area@,Double room,[125],125.0,NW2
+677,10 Dec 2018,No info,Males or females,Cricklewood (NW2),None,None,['£200 pw'],Double En-Suite So Nice 200£Pw 10Min Kilburn,Double room,[800],800.0,NW2
+678,02 Dec 2018,Furnished,Males or females,Holborn (WC1),None,6 months,"['£1,126 pcm']",Massive double room available,Double room,[1126],1126.0,WC1
+679,03 Dec 2018,Furnished,Males or females,Wimbledon (SW19),None,6 months,['£555 pcm'],Single Room Wimbledon All Bills in 5 Mins to Stati,Single room,[555],555.0,SW19
+680,Now,Furnished,Female preferred,Winchmore Hill (N21),None,None,['£450 pcm'],Double Room available in Winchmore Hill,Double room,[450],450.0,N21
+681,04 Dec 2018,Furnished,Female preferred,Southgate (N14),None,1 month,['£775 pcm'],Bright Sunny Room In North London,Double room,[775],775.0,N14
+682,09 Dec 2018,Furnished,Males or females,Ealing (W5),None,6 months,"['£860 pcm', '£880 pcm', '£860 pcm', '£860 pcm']",Immaculate brand new property in heart of Ealing!,4 doubles,"[860, 880, 860, 860]",865.0,W5
+683,02 Feb 2019,Furnished,Female preferred,Anerley (SE20),None,12 months,['£575 pcm'],Stylish Huge House - Amazing Double Available,Double room,[575],575.0,SE20
+684,Now,Furnished,Males or females,Dalston (N1),None,2 months,"['£175 pw', '£180 pw']",Very Clean Double Rooms - No Fee,2 doubles,"[700, 720]",710.0,N1
+685,Now,Furnished,Males or females,Edmonton (N18),None,None,['£550 pcm'],Close to A10 Great Cambridge Roundabout,Double room,[550],550.0,N18
+686,29 Dec 2018,Furnished,Males or females,Stepney (E1),None,3 months,['£130 pw'],Amazing Room in Gorgeous Flat@Stepney/Whitechapel,Double room,[520],520.0,E1
+687,23 Jan 2019,Furnished,No info,London SE1 (SE1),None,6 months,"['£1,820 pcm (whole property)']",Stunning one bed apartment in Bermondsey,1 bed flat,[1820],1820.0,SE1
+688,Now,Furnished,Female preferred,Southgate (N14),None,None,['£600 pcm'],Double Room 10mins Walk to Southgate Tube,Double room,[600],600.0,N14
+689,31 Dec 2018,Furnished,Males or females,Aldgate East (E1),None,3 months,['£150 pw'],Amazing Room in Aldgate East+Close to Shoreditch,Double room,[600],600.0,E1
+690,01 Dec 2018,Furnished,Males or females,Aldgate East (E1),None,3 months,"['£150 pw', '£160 pw']",2 Amazing Room in Aldgate East+All Bill Including,2 doubles,"[600, 640]",620.0,E1
+691,Now,Furnished,Males or females,Stepney Green (E1),None,None,['£150 pw'],Wonderful Double Room Near Stepney Green,Double room,[600],600.0,E1
+692,12 Jan 2019,Furnished,Males or females,Tooting Broadway (SW17),None,6 months,['£633 pcm'],"A Large, Modern, Bright Double-Bedroom in Tooting",Double room,[633],633.0,SW17
+693,Now,No info,Males or females,Bow (E3),None,1 month,['£105 pw'],Super Cheap Single Room Near Bow/ Victoria Park,Double room,[420],420.0,E3
+694,Now,Furnished,Males or females,West Hampstead (NW6),None,3 months,['£395 pw (whole property)'],"One Bed + Terrace 10min to Baker Street, Short Let",1 bed flat,[1580],1580.0,NW6
+695,Now,Unfurnished,No info,Charlton (SE7),None,6 months,"['£1,100 pcm (whole property)']",2 Bed Unfurnished Flat - Charlton SE7,2 bed flat,[1100],1100.0,SE7
+696,Now,No info,No info,Finsbury Park (N4),None,6 months,['Potential Buddy Ups'],2 Bedroom in Finsbury Park,2 bed flat,[],,N4
+697,Now,Furnished,Males or females,East Greenwich (SE10),None,6 months,['£750 pcm'],Greenwich House. Furnished & Double sized.,Double room,[750],750.0,SE10
+698,Now,Furnished,Males or females,Bow (E3),None,2 months,['£125 pw'],Double Room Available Now to Rent Mile End,Double room,[500],500.0,E3
+699,Now,Furnished,No info,Willesden Green (NW10),None,6 months,['£255 pw (whole property)'],One Bedroom Flat available NOW,1 bed flat,[1020],1020.0,NW10
+700,Now,Furnished,Males or females,Broadway Market (E8),None,3 months,['£160 pw'],Double Rooms near Hoxton/Shoreditch,Double room,[640],640.0,E8
+701,07 Dec 2018,Furnished,Males or females,Aldgate East (E1),None,6 months,"['£630 pcm', '£630 pcm', '£650 pcm', '£650 pcm', '£695 pcm']","Aldgate East, E1, *All Inclusive* Double Rooms",5 doubles,"[630, 630, 650, 650, 695]",651.0,E1
+702,Now,Furnished,Males or females,Aldgate East (E1),None,3 months,"['£190 pw', '£170 pw']",2 Double Rooms Near  Aldgate East**with Lounge**,2 doubles,"[760, 680]",720.0,E1
+703,04 Jan 2019,Furnished,Males or females,Highbury and Islington (N5),None,None,"['£185 pw', '£175 pw', '£150 pw']",Highbury / Islington / Spacious double room,Double room,"[740, 700, 600]",680.0,N5
+704,03 Dec 2018,Furnished,Males or females,Acton (W3),None,6 months,['£650 pcm'],* Double Room Available in Pro Flatshare - W3,Double room,[650],650.0,W3
+705,15 Dec 2018,Furnished,Males or females,Willesden (NW10),None,None,['£170 pw'],Double Room Available in Brigth and Spacious House,Double room,[680],680.0,NW10
+706,Now,Furnished,Males or females,Stockwell (SW8),None,None,['£825 pcm'],Double Bedroom,Double room,[825],825.0,SW8
+707,Now,Furnished,Males or females,Willesden (NW10),None,None,['£200 pw'],Bright Double Bedroom in Willesden,Double room,[800],800.0,NW10
+708,Now,Furnished,Males or females,Barons Court (W6),None,None,['£260 pw'],Earl's Court ~ Double Room #BestPrice,Double room,[1040],1040.0,W6
+709,01 Dec 2018,Furnished,Males or females,Primrose Hill (NW3),None,None,['£740 pcm'],"*Coming Soon: Primerose Hill, Cheap Double Room",Double room,[740],740.0,NW3
+710,04 Dec 2018,Furnished,Males or females,White City (W12),None,3 months,['£160 pw'],Double room in Shepherds bush,Double room,[640],640.0,W12
+711,Now,Furnished,Males or females,Cricklewood (NW2),None,None,['£190 pw'],Nice Double Bedroom in 4 Rooms house - Cricklewood,Double room,[760],760.0,NW2
+712,Now,Furnished,Males or females,Willesden Green (NW2),None,None,['£190 pw'],Nice Double Bedroom â Willesden Green,Double room,[760],760.0,NW2
+713,01 Jan 2019,Furnished,Males or females,Roehampton (SW15),None,6 months,['£520 pcm'],Single Bedrooom/Garden/Parking/No Fees,Single room,[520],520.0,SW15
+714,Now,Furnished,Males or females,Neasden (NW2),None,None,"['£180 pw', '£180 pw']",2 Double Bedrooms-Same house-Neasden,2 doubles,"[720, 720]",720.0,NW2
+715,01 Dec 2018,Furnished,Female preferred,Stratford (E15),None,9 months,['£145 pw'],"*Lovely Double, Next to Stratford Stn",Double room,[580],580.0,E15
+716,Now,Furnished,Males or females,High Street Kensington (W8),None,None,"['£240 pw', '£240 pw']","Short term / Spacious double room,bills inc",2 doubles,"[960, 960]",960.0,W8
+717,Now,Furnished,Males or females,Harlesden (NW10),None,None,['£145 pw'],5' Walk to Dollis Hill Station! Amazing Room,Single room,[580],580.0,NW10
+718,Now,Furnished,Males or females,Clapham Common (SW4),None,None,"['£185 pw', '£169 pw']",Clapham Common|Fantastic Rooms|Modern&Bright,2 doubles,"[740, 676]",708.0,SW4
+719,15 Dec 2018,Furnished,Males or females,Stepney Green (E1),None,None,['£580 pcm'],Cheap Room!!! Between Stepney Green and Limehouse,Double room,[580],580.0,E1
+720,Now,Furnished,Males or females,London SE6 (SE6),None,4 months,['£600 pcm'],Contemporary city living all bills & broadband inc,Double room,[600],600.0,SE6
+721,15 Dec 2018,Furnished,Males or females,Fulham (SW6),None,12 months,"['£1,200 pcm', '£1,000 pcm']","Two brand new, double rooms with ensuites",2 doubles,"[1200, 1000]",1100.0,SW6
+722,Now,Furnished,Males or females,Stepney Green (E1),None,6 months,"['£155 pw', '£170 pw']",Modern & Stylish Flat! New Building! Be Fast,2 doubles,"[620, 680]",650.0,E1
+723,03 Dec 2018,Furnished,Males or females,All Saints (E14),None,10 months,['£340 pw'],1 bedroom garden flat to rent near canary wharf,Double room,[1360],1360.0,E14
+724,Now,Furnished,Males or females,Stepney Green (E1),None,6 months,"['£200 pw', '£210 pw']",*Stunning 2 Bed Flat in Centre* Do Not Miss,2 doubles,"[800, 840]",820.0,E1
+725,03 Dec 2018,Unfurnished,No info,Streatham (SW16),None,6 months,['Potential Buddy Ups'],Two Equal Sized Double Bedroom Flat with Parking,2 bed flat,[],,SW16
+726,05 Dec 2018,Furnished,Males or females,Ealing Common (W5),None,6 months,['£900 pcm'],Gorgeous double with ensuite - Friendly housemates,Double room,[900],900.0,W5
+727,10 Dec 2018,Furnished,Males or females,Finsbury Park (N4),None,3 months,['£825 pcm'],STUNNING Dbl Room/garden/Cleaner/N4,Double room,[825],825.0,N4
+728,20 Jan 2019,Furnished,Males or females,Elephant and Castle (SE17),None,6 months,['£810 pcm'],Double room with en-suite bathroom,Double room,[810],810.0,SE17
+729,27 Dec 2018,Furnished,No info,Fulham Broadway (SW6),None,6 months,['£500 pw (whole property)'],Modern 2 Bedroom Flat with Patio in Fulham,2 bed flat,[2000],2000.0,SW6
+730,20 Dec 2018,Furnished,Males or females,Tooting Broadway (SW17),None,1 month,['£600 pcm'],Single room to rent in a gay friendly house-share.,Single room,[600],600.0,SW17
+731,17 Dec 2018,Furnished,Males or females,Cricklewood (NW2),None,None,['£220 pw'],Spacious Dble / Twins Room En Suite Kilburn,Double room,[880],880.0,NW2
+732,Now,Furnished,Males or females,Streatham Hill (SW2),None,None,['£650 pcm'],Best house in the frikken world!,Double room,[650],650.0,SW2
+733,15 Dec 2018,Furnished,Males or females,Stockwell (SW8),None,3 months,['£725 pcm'],Large Room in Stockwell,Double room,[725],725.0,SW8
+734,08 Dec 2018,Furnished,Males or females,Stratford (E15),None,6 months,['£750 pcm'],Huge double room with ensuite shower,Double room,[750],750.0,E15
+735,Now,Furnished,Males or females,London SE9 (SE9),36 months,6 months,"['£95 pw', '£105 pw', '£110 pw']","Single bedroom, full furniture, bills included",Single + 2 doubles,"[380, 420, 440]",413.3333333333333,SE9
+736,01 Dec 2018,Furnished,Males or females,Chingford (E4),None,3 months,['£130 pw'],Beautiful Room Chingford/ Walthamstow E4,Double room,[520],520.0,E4
+737,13 Dec 2018,Furnished,Males or females,Aldgate East (E1),None,2 months,['£190 pw'],Unique Double Room *Liverpool Street*,Double room,[760],760.0,E1
+738,04 Dec 2018,Furnished,Males or females,Stratford (E15),None,3 months,['£110 pw'],Nice and warm double room,Double room,[440],440.0,E15
+739,15 Dec 2018,Furnished,Males or females,Shoreditch (N1),None,1 month,['£758 pcm'],Beautiful Old Street Flat - Excellent deal,Double room,[758],758.0,N1
+740,01 Dec 2018,Furnished,No info,Manor House (N4),None,6 months,['Potential Buddy Ups'],Cozy 3 Bedroom flat zone 2,3 bed flat,[],,N4
+741,Now,No info,Female preferred,London W5 (W5),None,6 months,['£149 pcm'],Homesharer needed in Ealing,Double room,[149],149.0,W5
+742,08 Dec 2018,Furnished,Males or females,Blackheath (SE3),None,3 months,['£700 pcm'],Double room in Blackheath area,Double room,[700],700.0,SE3
+743,20 Dec 2018,Furnished,Males or females,Warwick Avenue (W9),None,6 months,['£175 pw'],Double Room in Central London Westminister W9,Double room,[700],700.0,W9
+744,01 Dec 2018,Furnished,Males or females,Greenwich (SE10),None,6 months,['£225 pw'],Zone 2* Luxurious Double Room & Private Lounge,Double room,[900],900.0,SE10
+745,12 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,6 months,['£820 pcm'],Bright Double room available near Canary Wharf!,Double room,[820],820.0,E14
+746,Now,No info,Males or females,Stratford (E15),None,12 months,['£610 pcm'],Double room in Stratford,Double room,[610],610.0,E15
+747,16 Dec 2018,Furnished,Males or females,Hoxton (N1),None,3 months,['£975 pcm'],Double Room in Modern Flatshare Hoxton,Double room,[975],975.0,N1
+748,10 Jan 2019,Furnished,Males or females,Swiss Cottage (NW3),None,6 months,['£950 pcm'],Big and Bright Double room in Modern Luxury Flat!,Double room,[950],950.0,NW3
+749,03 Dec 2018,Furnished,Males or females,Angel (N1),None,6 months,"['£975 pcm', '£953 pcm', '£1,070 pcm', '£230 pw']",Amazing spacious double rooms in Angel,Double room,"[975, 953, 1070, 920]",979.5,N1
+750,Now,Furnished,Males or females,Mile End (E3),None,None,"['£164 pw', '£175 pw', '£195 pw', '£215 pw']",ðBEST ROOMS in e3.....discount Today...25%off,4 doubles,"[656, 700, 780, 860]",749.0,E3
+751,Now,No info,No info,St John's Wood (NW8),None,6 months,"['£1,350 pcm (whole property)']",Great One bedroom flat in St Johns Wood,1 bed flat,[1350],1350.0,NW8
+752,12 Dec 2018,Furnished,Males or females,London E8 (E8),24 months,4 months,['£875 pcm'],Double Room in Haggerston,Double room,[875],875.0,E8
+753,04 Dec 2018,Furnished,Males or females,Acton (W3),None,3 months,['£770 pcm'],Large Double Bedroom Walking Distance Station,Double room,[770],770.0,W3
+754,10 Dec 2018,Furnished,Males or females,Brixton (SW2),None,9 months,['£830 pcm'],"Double room near Brockwell Park, Brixton",Double room,[830],830.0,SW2
+755,Now,Furnished,Males or females,Shepherds Bush (W12),None,None,"['£260 pw', '£240 pw', '£210 pw', '£200 pw', '£200 pw']",ð¡ 5 Bedrooms Move Asap ! ð¡,5 doubles,"[1040, 960, 840, 800, 800]",888.0,W12
+756,03 Dec 2018,Furnished,No info,Bayswater (W2),None,6 months,['£350 pw (whole property)'],One Bed Flat in top location - Available ASAP,1 bed flat,[1400],1400.0,W2
+757,Now,Furnished,Males or females,Greenwich (SE10),None,None,"['£198 pw', '£225 pw', '£245 pw', '£245 pw']",ðEN-SUITE in se10.....discount Today...25%off,4 doubles,"[792, 900, 980, 980]",913.0,SE10
+758,10 Dec 2018,Furnished,Female preferred,Canada Water (SE16),None,3 months,['£170 pw'],Large Double in Quiet Area 5 Mins to Tube,Double room,[680],680.0,SE16
+759,01 Dec 2018,Furnished,Male preferred,Highams Park (E4),None,6 months,['£500 pcm'],Highams Park: Large Double room to rent.,Double room,[500],500.0,E4
+760,Now,Furnished,Males or females,Acton (W3),None,4 months,['£150 pw'],Gorgeoys spacious room available now !,Double room,[600],600.0,W3
+761,01 Jan 2019,Furnished,Male preferred,London E8 (E8),None,12 months,['£930 pcm'],Large Double Ensuite - 3 Bed New Build Haggerston,Double room,[930],930.0,E8
+762,Now,Furnished,Males or females,New Cross (SE14),None,None,['£125 pw'],Fantastic room zone 2 ! discounted,Double room,[500],500.0,SE14
+763,Now,Furnished,Males or females,Shoreditch (E1),None,None,['£200 pw'],Bethnal Green/ Shoreditch/ High standard room,Double room,[800],800.0,E1
+764,29 Dec 2018,Furnished,Males or females,Turnpike Lane (N15),None,3 months,['£640 pcm'],Lovely Double Room In Great House. Couples Welcome,Double room,[640],640.0,N15
+765,Now,Furnished,No info,London N7 (N7),None,6 months,['Potential Buddy Ups'],Exclusive 2 bed Property !!! Cheap Budget//N7,2 bed flat,[],,N7
+766,Now,Furnished,Males or females,Hammersmith (W6),None,None,"['£200 pw', '£210 pw', '£220 pw', '£240 pw', '£260 pw']",Lovely House in Hammersmith w/ huge living space,5 doubles,"[800, 840, 880, 960, 1040]",904.0,W6
+767,20 Dec 2018,No info,No info,Paddington (W2),None,6 months,['£280 pw (whole property)'],"Studio Apartment in Star Street, Paddington, W2",Studio flat,[1120],1120.0,W2
+768,Now,Furnished,Males or females,Aldgate (E1),None,3 months,['£185 pw'],ð¥ï¸ð Aldgate - Double Room !!!,Double room,[740],740.0,E1
+769,01 Dec 2018,Furnished,Males or females,Angel (N1),None,None,['£160 pw'],Stunning Double  Room in Heart of Angel  Station,Double room,[640],640.0,N1
+770,Now,Furnished,Males or females,Bow (E3),None,6 months,"['£600 pcm', '£800 pcm']",Two Lovely Rooms In Newly Refurbished Flat In Bow!,Single + double,"[600, 800]",700.0,E3
+771,,No info,No info,West Hampstead (NW6),,,[],Stunning two bedroom apartment in West Hampstead,2 bed flat,[],,NW6
+772,Now,Part Furnished,No info,Forest Gate (E7),None,6 months,"['£1,450 pcm (whole property)']",2 Bedroom Flat in Forest Gate,2 bed flat,[1450],1450.0,E7
+773,Now,Furnished,Males or females,Shepherds Bush (W3),None,5 months,['£170 pw'],Perfect double next to central Line!!!,Double room,[680],680.0,W3
+774,Now,Furnished,No info,Leyton (E10),None,6 months,"['£1,200 pcm (whole property)']",2 bed flat,2 bed flat,[1200],1200.0,E10
+775,Now,No info,No info,Old Street (N1),12 months,12 months,['Potential Buddy Ups'],Lovely 2 bed Flay close to Old Street,2 bed flat,[],,N1
+776,Now,No info,Males or females,Mile End (E3),None,3 months,['£140 pw'],Nice Large Double Room in Mile End,Double room,[560],560.0,E3
+777,Now,Furnished,Males or females,Upton Park (E6),None,4 months,['£650 pcm'],Newly Refurbished Room Available,Double room,[650],650.0,E6
+778,21 Jan 2019,Furnished,Males or females,London NW1 (NW1),None,3 months,"['£1,000 pcm']","Spacious Double Room, Fully Furnished, Paddington.",Double room,[1000],1000.0,NW1
+779,Now,Furnished,Males or females,East Finchley (N2),None,5 months,['£155 pw'],"Fantastic room next to Nothern Line""",Double room,[620],620.0,N2
+780,Now,Furnished,Males or females,Canada Water (SE16),None,6 months,"['£1,030 pcm']",Luxury Double bedroom with private bathroom,Double room,[1030],1030.0,SE16
+781,Now,Furnished,Males or females,Raynes Park (SW20),None,4 months,['£580 pcm'],Large Bedroom in Social Houseshare SW20,Double room,[580],580.0,SW20
+782,Now,Furnished,Males or females,South Ealing (W5),None,6 months,['£600 pcm'],*** Double in Lovely Pro Houseshare- W5 (S Ealing),Double room,[600],600.0,W5
+783,Now,Furnished,Males or females,Bow (E3),None,4 months,"['£150 pw', '£155 pw', '£175 pw', '£210 pw']",ï¸ð Near West Ham & Stratford - 4 Double Rooms,4 doubles,"[600, 620, 700, 840]",690.0,E3
+784,Now,Furnished,Males or females,Holloway (N7),None,5 months,['£155 pw'],Beautiful bedroom in refurbished flat!,Double room,[620],620.0,N7
+785,Now,Furnished,No info,Catford (SE6),None,6 months,"['£1,350 pcm (whole property)']",27PH- Wonderful 2 bed apartment to rent in Catford,2 bed flat,[1350],1350.0,SE6
+786,Now,Furnished,Males or females,Canary Wharf (E14),None,3 months,"['£206 pw', '£185 pw']",Extraordinary Rooms in Canary Wharf #Mustbeseen,2 doubles,"[824, 740]",782.0,E14
+787,Now,Furnished,Males or females,Bow Church (E3),None,4 months,['£130 pw'],"Double Rooms @Bow/ Mile End, Z-2, MUST BE SEEN!",Double room,[520],520.0,E3
+788,Now,Furnished,Males or females,Aldgate (E1),None,4 months,"['£160 pw', '£160 pw']",2 X Double room @Aldgate/ Shadwell/ E1 1PA,2 doubles,"[640, 640]",640.0,E1
+789,01 Dec 2018,Furnished,Males or females,Camden Town (NW1),None,6 months,['£183 pw'],Amazing Double Room in Camden Town!,Double room,[732],732.0,NW1
+790,07 Dec 2018,No info,No info,Aldgate East (E1),None,6 months,['Potential Buddy Ups'],"Aldgate East, E1, Excellent 5 Bedroom Apartment",5 bed flat,[],,E1
+791,Now,Furnished,Males or females,Fulham (SW6),None,9 months,['£723 pcm'],Double Bed available in a Lovely House in Fulham,Double room,[723],723.0,SW6
+792,16 Dec 2018,Furnished,Males or females,Limehouse (E14),None,3 months,['£165 pw'],Lovely Spacious Double Room in Limehouse E14,Double room,[660],660.0,E14
+793,Now,Furnished,Males or females,London SE27 (SE27),None,12 months,['£630 pcm'],Large Double Room ð¡ 15 mins to Central London.,Double room,[630],630.0,SE27
+794,28 Dec 2018,No info,No info,Lancaster Gate (W2),None,6 months,['£358 pw (whole property)'],"1 bed Gloucester Terrace, Lancaster Gate, W2",1 bed flat,[1432],1432.0,W2
+795,06 Dec 2018,No info,Female preferred,Holloway Road (N7),9 months,None,['£315 pw'],"Dear Sir/Madam,",Single room,[1260],1260.0,N7
+796,07 Dec 2018,Furnished,Males or females,Acton (W3),None,6 months,['£750 pcm'],**Modern Double in  Pro House Share - Acton Town*,Double room,[750],750.0,W3
+797,02 Jan 2019,Furnished,Males or females,Stockwell (SW9),None,3 months,['£150 pw'],Monday to Friday Family House in Conservation Area,Double room,[600],600.0,SW9
+798,Now,Furnished,Males or females,Tooting Bec (SW17),None,2 months,['£165 pw'],Double Room Available in Tooting Bec,Double room,[660],660.0,SW17
+799,Now,Furnished,Males or females,Mudchute (E14),None,3 months,['£205 pw'],ENSUITE Room in Mudchute Next to Canary Wharf,Double room,[820],820.0,E14
+800,01 Dec 2018,No info,Males or females,Marylebone (NW1),None,None,['£230 pw'],Spacious Double Room @ 230pw All Inclusive,Double room,[920],920.0,NW1
+801,05 Jan 2019,Furnished,Males or females,Brixton (SW2),None,6 months,"['£600 pcm', '£675 pcm', '£675 pcm']",Beautiful rooms to rent in a cosy home in Brixton,3 doubles,"[600, 675, 675]",650.0,SW2
+802,Now,Furnished,Males or females,Kensal Rise (NW10),None,None,['£220 pw'],Big Ensuite - Close to Station - Kensal Rise,Double room,[880],880.0,NW10
+803,16 Dec 2018,Furnished,Males or females,Kilburn (NW2),None,None,['£190 pw'],Double/Twin Room - Garden House - Close to Kilburn,Double room,[760],760.0,NW2
+804,Now,Furnished,Males or females,Cricklewood (NW2),None,None,['£145 pw'],Beautiful Double for Single Use - Cricklewood,Double room,[580],580.0,NW2
+805,17 Dec 2018,Furnished,Males or females,Kensal Rise (NW10),None,None,"['£190 pw', '£200 pw']",Two Bright Twin/Double - 5Min from Station,2 doubles,"[760, 800]",780.0,NW10
+806,01 Dec 2018,Furnished,Males or females,Neasden (NW10),None,None,['£190 pw'],Large Double Bedroom - Close to Station,Double room,[760],760.0,NW10
+807,13 Dec 2018,Furnished,Males or females,Willesden (NW2),None,None,['£160 pw'],Double Bdrm -Luxury Villa - Zone 2 - Jubilee  Line,Double room,[640],640.0,NW2
+808,Now,Furnished,No info,West Hendon (NW9),None,None,['£750 pcm (whole property)'],Studio Flat to Rent in Hendon,Studio flat,[750],750.0,NW9
+809,03 Jan 2019,Part Furnished,No info,Lancaster Gate (W2),None,6 months,['£346 pw (whole property)'],"Spacious studio apartment in Brook Mews , W2",Studio flat,[1384],1384.0,W2
+810,01 Dec 2018,Furnished,Males or females,South Wimbledon (SW19),None,6 months,['£650 pcm'],En-Suite Room in Shared House to Rent,Double room,[650],650.0,SW19
+811,Now,Furnished,Males or females,London SW18 (SW18),None,None,['£750 pcm'],Beautiful Double Bedroom  Available in Great Flat,Double room,[750],750.0,SW18
+812,17 Dec 2018,Furnished,Female preferred,Haringey (N8),None,None,['£730 pcm'],Double room to let in Haringey/Turnpike Lane,Double room,[730],730.0,N8
+813,29 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,6 months,['£218 pw'],"Crs, Lux Dble Ensuite with Balcony",Double room,[872],872.0,E14
+814,03 Dec 2018,Furnished,Males or females,Earlsfield (SW18),None,6 months,['£780 pcm'],Amazing Double Room Recently Refurbished,Double room,[780],780.0,SW18
+815,Now,Furnished,Males or females,Wimbledon (SW19),None,6 months,"['£929 pcm', '£1,059 pcm', '£800 pcm']",ð Great Rooms-Great Area SW19 must be seenð,3 doubles,"[929, 1059, 800]",929.3333333333334,SW19
+816,Now,Furnished,Males or females,Stratford (E15),None,6 months,['£135 pw'],Double Room-Furnished-Garden-All Bills Paid Wifi,Double room,[540],540.0,E15
+817,15 Dec 2018,Furnished,Female preferred,London N9 (N9),None,3 months,['£600 pcm'],"Double Bed Room, in 3 bedroom maisonette",Double room,[600],600.0,N9
+818,Now,Furnished,Males or females,Chiswick (W4),None,2 months,['£145 pw'],Cozy single room available in South Acton,Single room,[580],580.0,W4
+819,20 Dec 2018,Part Furnished,No info,Highbury (N5),None,12 months,['Potential Buddy Ups'],"Superb two bedroom flat in Highbury, must see!!",2 bed flat,[],,N5
+820,05 Jan 2019,Part Furnished,No info,Hackney (E9),None,8 months,['Potential Buddy Ups'],Spacious 2 Bedroom Flat in great location :),2 bed flat,[],,E9
+821,03 Dec 2018,Furnished,Males or females,Commercial Road (E1),None,4 months,['£715 pcm'],Charming double room in the heart of E1,Double room,[715],715.0,E1
+822,17 Dec 2018,Furnished,Males or females,Wimbledon (SW19),None,3 months,['£700 pcm'],Very Large Double Room,Double room,[700],700.0,SW19
+823,15 Dec 2018,No info,Males or females,New Cross Gate (SE14),None,6 months,['£530 pcm'],Double Room in Lovely Victorian Terrace,Double room,[530],530.0,SE14
+824,15 Dec 2018,Furnished,Males or females,London W14 (W14),None,None,"['£1,050 pcm']",2 Deposit Only!!  En-Suite - Olympia,Double room,[1050],1050.0,W14
+825,01 Jan 2019,Furnished,Males or females,Peckham (SE15),None,None,"['£110 pw', '£110 pw', '£130 pw', '£140 pw', '£140 pw']",A Lovely New Refubrished Flat+5 Rooms Avl@Peckham,5 doubles,"[440, 440, 520, 560, 560]",504.0,SE15
+826,Now,Furnished,Males or females,Surrey Quays (SE8),None,6 months,"['£110 pw', '£135 pw']",2 Rooms!No Agency Fee!Furnished All Bills Paid,2 doubles,"[440, 540]",490.0,SE8
+827,Now,Furnished,Males or females,London E13 (E13),None,None,['£130 pw'],No Deposit Required Large Room for Rent,Double room,[520],520.0,E13
+828,15 Jan 2019,Part Furnished,No info,Ladbroke Grove (W11),None,6 months,['£351 pw (whole property)'],"Large 1 bed Colville Terrace, Notting Hill, W11",1 bed flat,[1404],1404.0,W11
+829,15 Dec 2018,Furnished,Female preferred,Bow (E3),None,None,['£150 pw'],"Large Furnished Room, Easy Underground Transport",Double room,[600],600.0,E3
+830,Now,Furnished,Males or females,Hampstead (NW3),None,1 month,['£175 pw'],Hampstead / Beautiful Double Room to Let,Double room,[700],700.0,NW3
+831,13 Dec 2018,Furnished,Males or females,Notting Hill Gate (W11),None,None,['£220 pw'],Double Room in Notting Hill Gate,Double room,[880],880.0,W11
+832,Now,Furnished,Males or females,North Greenwich (SE10),None,4 months,"['£210 pw', '£230 pw', '£250 pw', '£260 pw']",Brand New Flat Few Min From Station,4 doubles,"[840, 920, 1000, 1040]",950.0,SE10
+833,Now,Furnished,Males or females,Aldgate East (E1),None,None,"['£170 pw', '£190 pw']",Stunning Flt/2 Dbl Rooms+Living Space@Shadwell***,2 doubles,"[680, 760]",720.0,E1
+834,Now,Furnished,Males or females,Hoxton (E2),None,None,['£160 pw'],Gorgeous DBL Room At Hoxton,Double room,[640],640.0,E2
+835,03 Dec 2018,Furnished,Males or females,Bethnal Green (E2),None,12 months,['£750 pcm'],"Large Double Room In A Great House, Bethnal Green",Double room,[750],750.0,E2
+836,Now,Furnished,Males or females,South Ealing (W5),None,None,"['£625 pcm', '£795 pcm', '£665 pcm', '£690 pcm', '£690 pcm']",Great house share & Fab house mates,2 doubles,"[625, 795, 665, 690, 690]",693.0,W5
+837,01 Dec 2018,Furnished,Males or females,Fulham (SW6),None,3 months,['£850 pcm'],Mon - Fri   Beautiful Self Contained Apartment,Double room,[850],850.0,SW6
+838,03 Dec 2018,Furnished,No info,Manor House (N4),None,12 months,"['£1,040 pcm (whole property)']","''Top Floor 1 Bed Flat'' Furnished, Manor House N4",1 bed flat,[1040],1040.0,N4
+839,Now,Furnished,No info,Walworth (SE17),None,12 months,"['£1,050 pcm (whole property)']","Beautiful 1 bed flat in Walworth, SE17",1 bed flat,[1050],1050.0,SE17
+840,Now,Furnished,Males or females,Canary Wharf (E14),None,5 months,"['£150 pw', '£175 pw', '£195 pw', '£250 pw']",Brand New Flats in Canary Wharf,4 doubles,"[600, 700, 780, 1000]",770.0,E14
+841,08 Dec 2018,Furnished,Males or females,West Kilburn (W10),None,6 months,['£190 pw'],2 Mins to Queen's Park Tube Station !,Double room,[760],760.0,W10
+842,Now,No info,Males or females,Shoreditch (N1),None,None,['£185 pw'],Shoreditch Park/ Old street/ New rooms! Call me,Double room,[740],740.0,N1
+843,Now,No info,Males or females,Angel (EC1),None,None,['£190 pw'],Angel/ huge kicthen/2showers-call me know,Double room,[760],760.0,EC1
+844,05 Jan 2019,Furnished,No info,High Street Kensington (W8),36 months,6 months,['£395 pw (whole property)'],"Bright & Spacious One BED, Fully Furnished W8",1 bed flat,[1580],1580.0,W8
+845,Now,Furnished,Males or females,All Saints (E14),None,None,['£135 pw'],"Well Furnished with All Facilities, Easy Transport",Double room,[540],540.0,E14
+846,Now,Furnished,Female preferred,Highgate (N6),None,None,"['£1,000 pcm']","High quality, high spec. apartment share.",Double room,[1000],1000.0,N6
+847,Now,Furnished,Males or females,Westferry (E14),None,3 months,['£135 pw'],One double room,Double room,[540],540.0,E14
+848,Now,Furnished,Males or females,London SE28 (SE28),None,None,['£115 pw'],"Well Furnished with All Facilities, Easy Transport",Double room,[460],460.0,SE28
+849,01 Dec 2018,Furnished,Males or females,London SW16 (SW16),None,3 months,"['£670 pcm', '£650 pcm', '£675 pcm', '£675 pcm', '£595 pcm']",Lovely Dbl in New Home inc Bills. Short Let,Double room,"[670, 650, 675, 675, 595]",653.0,SW16
+850,Now,Furnished,No info,Aldgate East (E1),None,6 months,['Potential Buddy Ups'],"Aldgate East, E1, Excellent 2 Bedroom Apartment",2 bed flat,[],,E1
+851,26 Jan 2019,Furnished,Male preferred,Islington (N7),None,1 month,['£165 pw'],1 Double  Sized Room in 3 Bedroom House,Double room,[660],660.0,N7
+852,Now,Furnished,Males or females,London Bridge (SE1),None,4 months,"['£160 pw', '£190 pw', '£210 pw', '£260 pw']",Amazing&Great Rooms Near Station,4 doubles,"[640, 760, 840, 1040]",820.0,SE1
+853,05 Dec 2018,Furnished,Males or females,Kingsbury (NW9),None,6 months,['£600 pcm'],Large double room available Wembley/Kingsbury,Double room,[600],600.0,NW9
+854,Now,Furnished,Males or females,London N15 (N15),None,None,['£115 pw'],No Deposit Required Single Room in Seven Sister,Single room,[460],460.0,N15
+855,11 Dec 2018,No info,No info,Camden (NW1),None,12 months,['Potential Buddy Ups'],Fantastic 2 Double Bedroom Flat in Camden Town,2 bed flat,[],,NW1
+856,Now,Furnished,Males or females,Shoreditch (EC2),None,4 months,"['£160 pw', '£180 pw', '£200 pw', '£240 pw']",Amazing Bright Rooms near Shoreditch,4 doubles,"[640, 720, 800, 960]",780.0,EC2
+857,13 Dec 2018,Furnished,Males or females,London SW16 (SW16),36 months,6 months,['£550 pcm'],Stunning double room,Double room,[550],550.0,SW16
+858,Now,Furnished,Males or females,Tottenham Hale (N17),None,3 months,['£140 pw'],Tottenham Hale! Last Double Room Left!,Double room,[560],560.0,N17
+859,Now,Furnished,Males or females,Willesden Green (NW2),None,1 month,"['£1,079 pcm', '£849 pcm']","Dble Room in Luxury House Share, Flexible Contract",Double room,"[1079, 849]",964.0,NW2
+860,15 Dec 2018,Furnished,Males or females,London N16 (N16),None,None,['£155 pw'],"Well Furnished with All Facilities, Easy Transport",Single room,[620],620.0,N16
+861,Now,Part Furnished,No info,Haringey (N8),None,6 months,"['£1,200 pcm (whole property)']",1 Bedroom Apartment to Rent in Harringay,1 bed flat,[1200],1200.0,N8
+862,23 Dec 2018,Furnished,Males or females,Blackheath (SE13),None,1 month,['£670 pcm'],1 double room in Blackheath in friendly flat :),Double room,[670],670.0,SE13
+863,01 Dec 2018,Furnished,Female preferred,East Ham (E6),None,6 months,['£500 pcm'],Double room to rent,Double room,[500],500.0,E6
+864,12 Dec 2018,Furnished,Males or females,Crouch End (N8),12 months,6 months,['£625 pcm'],1 Room Available in a Prime Crouch End Location,Double room,[625],625.0,N8
+865,Now,No info,Males or females,Hoxton (N1),None,3 months,['£760 pcm'],CALL ME ASAP/£760 pm/all inc./2 weeks deposit,Double room,[760],760.0,N1
+866,Now,Furnished,No info,Norwood (SE25),None,6 months,"['£1,100 pcm (whole property)']",Newly decorate two bedroom flat in Norwood SE25,2 bed flat,[1100],1100.0,SE25
+867,01 Dec 2018,Furnished,Female preferred,Greenwich (SE10),None,6 months,['£550 pcm'],Beautiful Room in Greenwich SE10,Single room,[550],550.0,SE10
+868,Now,Furnished,Female preferred,Clapham Junction (SW11),None,1 month,['£650 pcm'],Clean Tidy Dog Lover Wanted for Discounted Double!,Double room,[650],650.0,SW11
+869,08 Dec 2018,No info,Males or females,Caledonian Road (N7),None,3 months,"['£180 pw', '£180 pw']",2 Spacious Rooms/Only 2 Weeks Dep./Big Discount,2 doubles,"[720, 720]",720.0,N7
+870,08 Dec 2018,Furnished,Males or females,North Kensington (W10),None,6 months,['£900 pcm'],Large sunny double room in W10,Double room,[900],900.0,W10
+871,15 Dec 2018,No info,No info,High Street Kensington (W8),36 months,6 months,['£355 pw (whole property)'],One Bed-Hot Water & Heating Included W8,1 bed flat,[1420],1420.0,W8
+872,01 Dec 2018,Unfurnished,No info,Hammersmith and Fulham (SW6),24 months,12 months,['Potential Buddy Ups'],"2 Bedroom, Lillie Road West Brompton, SW6",2 bed flat,[],,SW6
+873,17 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,6 months,['£750 pcm'],Dbl Bedroom Central Canary Wharf Location £750,Double room,[750],750.0,E14
+874,Now,Furnished,Female preferred,Greenwich (SE8),3 months,1 month,['£700 pcm'],Double Room with Own Bathroom for Short Lets,Double room,[700],700.0,SE8
+875,Now,Part Furnished,No info,West Hendon (NW9),None,12 months,"['£1,400 pcm (whole property)']",2 double bedroom house in West Hendon,2 bed house,[1400],1400.0,NW9
+876,Now,Furnished,Males or females,Walthamstow Central (E17),None,6 months,['£485 pcm'],Double Room-Furnished-All Bills Paid+Wifi,Double room,[485],485.0,E17
+877,Now,No info,Males or females,Hoxton (N1),None,3 months,"['£165 pw', '£185 pw', '£190 pw']",Only 2 Weeks Deposit/3 Nice Rooms/Shoreditch,Single + 2 doubles,"[660, 740, 760]",720.0,N1
+878,Now,Furnished,No info,West Hampstead (NW6),None,None,"['£1,250 pcm (whole property)']",New Studio in West Hampstead,Studio flat,[1250],1250.0,NW6
+879,Now,Furnished,No info,Camden (NW1),None,12 months,['£340 pw (whole property)'],Amazing Location  Close Kings Cross  Station,1 bed flat,[1360],1360.0,NW1
+880,18 Dec 2018,Furnished,Males or females,Docklands (E14),None,12 months,"['£245 pw', '£215 pw']",Offer!Almost a Penthouse Flat with a Panorama View,Double room,"[980, 860]",920.0,E14
+881,Now,Furnished,Males or females,Walthamstow Central (E17),None,6 months,['£595 pcm'],"Very large dble room in modern flatshare, £595pcm",Double room,[595],595.0,E17
+882,10 Dec 2018,Unfurnished,No info,Clapham North (SW9),None,6 months,"['£1,325 pcm (whole property)']",1 Bed Flat on Lando Road in Clapham North,1 bed flat,[1325],1325.0,SW9
+883,Now,Furnished,Males or females,Leyton (E15),None,3 months,['£525 pcm'],Double Room,Double room,[525],525.0,E15
+884,Now,No info,Males or females,London SW1P (SW1),None,None,"['£1,300 pcm']",Top floor apartment in Westminster,Double room,[1300],1300.0,SW1
+885,28 Mar 2019,No info,No info,Bow (E3),None,12 months,['£276 pw (whole property)'],"Stunning studio with terrace, Roman Road Bow",Studio flat,[1104],1104.0,E3
+886,Now,Furnished,Males or females,St John's Wood (NW8),None,3 months,['£850 pcm'],Large room near Maida Vale Station (Balcony),Double room,[850],850.0,NW8
+887,Now,Furnished,No info,Stratford (E15),6 months,1 month,"['£1,250 pcm (whole property)']",One Bedroom Flat to Rent in Stratford,1 bed flat,[1250],1250.0,E15
+888,Now,Furnished,Males or females,West Norwood (SE27),None,2 months,['£175 pw'],Double Room to Rent,Double room,[700],700.0,SE27
+889,Now,Furnished,No info,Stratford (E15),6 months,3 months,"['£1,350 pcm (whole property)']",2-Bedroom Flat to Rent in Maryland/Stratford,2 bed flat,[1350],1350.0,E15
+890,16 Dec 2018,Furnished,Males or females,Fulham Palace Road (W6),None,12 months,"['£1,000 pcm']",Beautiful Large Double Room in Fulham Luxury House,Double room,[1000],1000.0,W6
+891,07 Dec 2018,Furnished,Male preferred,London N4 (N4),3 months,1 month,['£850 pcm'],Modern Sunny Large Double - Zone 2!,Double room,[850],850.0,N4
+892,01 Dec 2018,Furnished,Males or females,Chiswick (W4),None,2 months,['£220 pw'],En-suite in Chiswick in cozy house,Double room,[880],880.0,W4
+893,Now,Furnished,Female preferred,Brixton (SW2),None,None,['£649 pcm'],Room Rent Brixton,Double room,[649],649.0,SW2
+894,Now,Furnished,Males or females,Peckham Rye (SE15),None,6 months,['£565 pcm'],Big double room 2 mins walking from Peckham Rye,Double room,[565],565.0,SE15
+895,Now,Furnished,Males or females,East Acton (W3),None,6 months,"['£160 pw', '£170 pw', '£185 pw']",Double Rooms East Acton Station,3 doubles,"[640, 680, 740]",686.6666666666666,W3
+896,Now,Furnished,Males or females,Victoria (SW1),None,None,['£200 pw'],High standard in central location,Double room,[800],800.0,SW1
+897,03 Dec 2018,Furnished,Males or females,South Woodford (E18),None,None,['£650 pcm'],Double room in South Woodford - own bathroom,Double room,[650],650.0,E18
+898,Now,Furnished,Males or females,Willesden Green (NW10),None,None,['£650 pcm'],Single room in Willesden,Single room,[650],650.0,NW10
+899,03 Dec 2018,Furnished,Males or females,London N22 (N22),None,6 months,['£630 pcm'],Lovely Room Available Now,Double room,[630],630.0,N22
+900,Now,Furnished,Males or females,Raynes Park (SW20),None,6 months,['£690 pcm'],"Cosy, Spacious Double near Raynes Park Station",Double room,[690],690.0,SW20
+901,05 Dec 2018,Furnished,Female preferred,Chiswick (W4),None,6 months,['£625 pcm'],Good size room in Chiswick W4,Double room,[625],625.0,W4
+902,04 Dec 2018,Furnished,Males or females,Turnpike Lane (N15),None,None,['£185 pw'],Large double loft room en suite - Turnpike Lane,Double room,[740],740.0,N15
+903,15 Dec 2018,Furnished,Males or females,Willesden Green (NW2),None,3 months,['£750 pcm'],Double Room in Incredible House with Garden,Double room,[750],750.0,NW2
+904,03 Dec 2018,Furnished,Males or females,Bethnal Green (E2),None,3 months,"['£180 pw', '£150 pw']",Big Double Rooms Bethnal Gree,2 doubles,"[720, 600]",660.0,E2
+905,Now,Furnished,Males or females,Vauxhall (SW8),None,6 months,['£174 pw'],Nice double room 1 min walking distanse from stati,Double room,[696],696.0,SW8
+906,23 Dec 2018,Furnished,Males or females,Tufnell Park (N7),None,6 months,['£135 pw'],Double room for one person - North London (Zone 2),Double room,[540],540.0,N7
+907,01 Dec 2018,No info,Males or females,Plaistow (E13),None,None,['£380 pcm'],Single Room,Single room,[380],380.0,E13
+908,03 Jan 2019,Furnished,Males or females,Hackney (E5),None,6 months,['£770 pcm'],Room Available in Hip and Happening Hackney,Double room,[770],770.0,E5
+909,Now,Furnished,Males or females,Battersea park (SW11),None,6 months,"['£560 pcm', '£570 pcm', '£570 pcm', '£600 pcm']",4 bedrooms available in new flat with living room,4 doubles,"[560, 570, 570, 600]",575.0,SW11
+910,27 Dec 2018,Furnished,Males or females,London W5 (W5),None,6 months,"['£1,100 pcm']","Double ensuit inc. bills parking, garden & cleaner",Double room,[1100],1100.0,W5
+911,01 Dec 2018,Furnished,Males or females,Plaistow (E13),None,3 months,['£370 pcm'],Single Room,Single room,[370],370.0,E13
+912,15 Dec 2018,No info,Males or females,Hackney (E9),None,None,['£687 pcm'],Lovely room in 5b terraced house close to Vic Park,Double room,[687],687.0,E9
+913,11 Dec 2018,Furnished,Female preferred,Clapham (SW9),None,6 months,['£595 pcm'],Cosy Double Room Available in Clapham!,Double room,[595],595.0,SW9
+914,10 Jan 2019,Furnished,Males or females,Whitechapel (E1),None,3 months,['£675 pcm'],Cosy room for rent in Whitechapel,Double room,[675],675.0,E1
+915,01 Jan 2019,Furnished,Female preferred,Mill Hill (NW7),None,None,['£650 pcm'],Single Room in Quiet House,Single room,[650],650.0,NW7
+916,04 Jan 2019,Furnished,Males or females,Bethnal Green (E2),None,None,['£560 pcm'],Cheap as chips room in  chilled out flat,Double room,[560],560.0,E2
+917,Now,Furnished,Female preferred,North Greenwich (SE10),12 months,None,['£750 pcm'],Lodger Req. Furnished Room to Rent in Greenwich,Double room,[750],750.0,SE10
+918,08 Dec 2018,Furnished,Males or females,London WC1H (WC1),12 months,3 months,['£800 pcm'],Spacious double room in quiet area of Bloomsbury,Double room,[800],800.0,WC1
+919,15 Dec 2018,Furnished,Males or females,Brockley (SE4),2 months,None,['£100 pw'],SHORT TERM  single room in Zone 2 flatshare,Single room,[400],400.0,SE4
+920,Now,Furnished,Males or females,Southfields (SW19),2 months,None,"['£600 pcm', '£650 pcm', '£600 pcm', '£600 pcm']",Short Term Lets in a well connected & quiet area.,3 singles + double,"[600, 650, 600, 600]",612.5,SW19
+921,27 Dec 2018,Furnished,Males or females,Aldgate East (E1),None,None,['£450 pcm'],A Snall Single Room in garden flat off Brick Lane,Single room,[450],450.0,E1
+922,Now,No info,Males or females,Colindale (NW9),None,None,['£135 pw'],Specious single room close to underground,Single room,[540],540.0,NW9
+923,Now,No info,Males or females,London SE27 (SE27),None,3 months,['£488 pcm'],Double Ensuite Room In West Norwood,Double room,[488],488.0,SE27
+924,29 Dec 2018,Furnished,Males or females,Canary Wharf (E14),None,6 months,['£218 pw'],"Crs, Lux Dble Ensuite with Balcony",Double room,[872],872.0,E14
+925,Now,Furnished,Males or females,London N17 (N17),None,3 months,['£600 pcm'],Double room to rent,Double room,[600],600.0,N17
+926,05 Jan 2019,Furnished,Males or females,Canning Town (E16),None,6 months,['£900 pcm'],Spacious en-suite double room,Double room,[900],900.0,E16
+927,Now,Furnished,Males or females,Canada Water (SE16),None,None,['£550 pcm'],"Large Room in Modern House, Surrey Quays\Canada W",Double room,[550],550.0,SE16
+928,31 Dec 2018,Furnished,Males or females,Bethnal Green (E2),None,3 months,['£870 pcm'],Bethnal Green | Room  in Beautiful Victorian House,Double room,[870],870.0,E2
+929,Now,No info,Male preferred,Borough (SE1),None,6 months,['£950 pcm'],Double room in large clean & tidy flat,Double room,[950],950.0,SE1
+930,Now,Furnished,Males or females,Kingsbury (NW9),None,None,['£500 pcm'],Spacious double room,Double room,[500],500.0,NW9
+931,11 Dec 2018,Furnished,Males or females,Willesden (NW10),None,6 months,['£466 pcm'],Cozy Double Room in Social House,Double room,[466],466.0,NW10
+932,Now,No info,Males or females,West Hampstead (NW6),1 month,1 month,['£784 pw'],"Beautiful, massive room 30DEC-10JAN West Hampstead",Double room,[3136],3136.0,NW6
+933,07 Dec 2018,Furnished,Female preferred,London E13 (E13),None,1 month,['£100 pw'],--2rooms available - girls/couples preferable ---,Single room,[400],400.0,E13
+934,10 Dec 2018,No info,Males or females,Tooting Bec (SW17),None,None,['£700 pcm'],Double Room to rent in Tooting Bec,Double room,[700],700.0,SW17
+935,15 Dec 2018,Furnished,Males or females,Marylebone (NW8),None,1 month,['£850 pcm'],Double room close to Regent's park NW8,Double room,[850],850.0,NW8
+936,16 Dec 2018,Furnished,Males or females,Leyton (E11),1 month,1 month,['£200 pw'],1 Month Sublet,Double room,[800],800.0,E11
+937,01 Jan 2019,Furnished,Males or females,London SE18 (SE18),None,1 month,['£450 pcm'],** Spacious Double Room**,Double room,[450],450.0,SE18
+938,Now,Furnished,Female preferred,Belsize Park (NW3),None,3 months,['£600 pcm'],Beautiful Cozy Single Room Belsize £600Pmc,Single room,[600],600.0,NW3
+939,01 Dec 2018,Furnished,Female preferred,North Finchley (N12),None,6 months,"['£480 pcm', '£580 pcm', '£600 pcm', '£400 pcm']",Flat share in North Finchley,2 doubles,"[480, 580, 600, 400]",515.0,N12
+940,28 Dec 2018,No info,Males or females,Tooting Bec (SW17),None,None,['£799 pcm'],Spacious Double with Ensuite in lovely modern home,Double room,[799],799.0,SW17
+941,01 Mar 2019,Furnished,Female preferred,Westferry (E14),None,6 months,['£720 pcm'],Lovely freshly painted and newly furnished double,Double room,[720],720.0,E14
+942,27 Dec 2018,Furnished,Males or females,Putney Heath (SW15),None,6 months,['£800 pcm'],Large Living Room Putney Heath - Available 27Dec,Double room,[800],800.0,SW15
+943,03 Dec 2018,Furnished,Males or females,Homerton (E9),None,6 months,['£598 pcm'],"Cute friendly home in Homerton, Hackney",Double room,[598],598.0,E9
+944,20 Dec 2018,Furnished,Males or females,Hampstead Heath (NW3),None,None,"['£1,000 pcm']",Quirky  house share near Hamsptead Heath,Double room,[1000],1000.0,NW3
+945,Now,No info,Males or females,Horseferry Road (SW1),None,None,['£600 pcm'],Large double room Pimlico(all bills included),Double room,[600],600.0,SW1
+946,Now,Furnished,Males or females,Turnpike Lane (N15),None,3 months,"['£180 pw', '£160 pw', '£160 pw', '£160 pw', '£190 pw']",Big Double Room Near Turnpike Lane Station,Double room,"[720, 640, 640, 640, 760]",680.0,N15
+947,Now,Furnished,Males or females,West Hampstead (NW6),None,6 months,['£749 pcm'],"Reduced to Rent Fast! Prime West Hampstead , Cheap",Double room,[749],749.0,NW6
+948,Now,Furnished,Males or females,Canada Water (SE16),None,None,['£160 pw'],Double room in Canada Water/Surrey Quay,Double room,[640],640.0,SE16
+949,Now,Furnished,Males or females,Brick Lane (E2),4 months,None,"['£1,000 pcm']",Double bedroom w/ en-suite & balcony w view,Double room,[1000],1000.0,E2
+950,15 Feb 2019,Furnished,Males or females,Turnpike Lane (N22),None,6 months,['£700 pcm'],Double Room available in 2 Bed Flat Turnpike Lane,Double room,[700],700.0,N22
+951,15 Dec 2018,Furnished,Males or females,London W12 (W12),None,10 months,['£609 pcm'],East Acton/White City | Double Bed,Double room,[609],609.0,W12
+952,01 Jan 2019,No info,Males or females,Brockley (SE4),None,None,['£750 pcm'],1 double bedroom in 3 bed house in Brockley SE4,Double room,[750],750.0,SE4
+953,31 Dec 2018,Furnished,Female preferred,Dalston (E8),1 month,1 month,['£800 pcm'],The large double room in the huge house in Dalson.,Double room,[800],800.0,E8
+954,08 Jan 2019,Furnished,Female preferred,London SW17 (SW17),None,6 months,['£670 pcm'],Lovely Double Room Available Near Southfields,Double room,[670],670.0,SW17
+955,05 Jan 2019,Furnished,No info,Lower Clapton (E5),3 months,3 months,"['£1,475 pcm (whole property)']","Spacious one-bedroom flat in Clapton, Hackney",1 bed flat,[1475],1475.0,E5
+956,Now,No info,Males or females,London W14 (W14),None,None,['£850 pcm'],Double Bedroom,Double room,[850],850.0,W14
+957,01 Jan 2019,Part Furnished,No info,Hackney Wick (E9),None,None,"['£1,400 pcm (whole property)']",Stunning 1 bedroom flat in a chuch conversion,1 bed flat,[1400],1400.0,E9
+958,09 Dec 2018,Furnished,Males or females,Clapham (SW4),None,6 months,['£630 pcm'],No deposit! Lovely double room in Clapham.,Double room,[630],630.0,SW4
+959,Now,Furnished,Males or females,East Finchley (N2),None,1 month,['£700 pw'],"Singlebed, quiet,broadband,everywhere transport",Single room,[2800],2800.0,N2
+960,01 Dec 2018,Furnished,Males or females,Muswell Hill (N10),None,None,['£600 pcm'],Cosy yet spacious double room in N10,Double room,[600],600.0,N10
+961,12 Dec 2018,Furnished,Males or females,Mile End Road (E1),1 month,1 month,['£520 pcm'],"Room beside Regents Canal, Mile End, for 1 month",Single room,[520],520.0,E1
+962,25 Jan 2019,No info,Males or females,Chalk Farm (NW5),None,None,['£700 pcm'],Light Double Room In Chalk Farm,Double room,[700],700.0,NW5
+963,Now,Furnished,Males or females,London SW7 (SW7),None,None,['£720 pcm'],Large 2 double bedrooms apartment,Double room,[720],720.0,SW7
+964,Now,Furnished,Males or females,Hammersmith and Fulham (W6),None,3 months,['£700 pcm'],"Double Bedroom in Fulham, available NOW!",Double room,[700],700.0,W6
+965,Now,Furnished,Males or females,Chiswick (W4),None,6 months,"['£170 pw', '£170 pw', '£170 pw', '£170 pw', '£170 pw', '£170 pw']",Newly Refurbished Large Then Average Double Bedsit,6 doubles,"[680, 680, 680, 680, 680, 680]",680.0,W4
+966,05 Dec 2018,Furnished,Female preferred,Kilburn (NW6),1 month,None,['£290 pw'],A self-contained studio for A SHOR-LET,Double room,[1160],1160.0,NW6
+967,03 Dec 2018,Furnished,Males or females,Tottenham Hale (N17),None,2 months,['£140 pw'],Double Room to Share in the House,Single room,[560],560.0,N17
+968,05 Dec 2018,Furnished,Males or females,Hanger Lane (W5),None,6 months,['£800 pcm'],"Double ensuite, wall of wardrobes, fun housemates",Double room,[800],800.0,W5
+969,Now,Furnished,Males or females,Clapham Junction (SW11),None,6 months,['£185 pw'],"Amazing huge double, 5 min Clapham Junction BR",Double room,[740],740.0,SW11
+970,01 Jan 2019,Furnished,Male preferred,Paddington (W2),None,6 months,['£750 pcm'],Double Room in Paddington / Little Venice,Double room,[750],750.0,W2
+971,22 Jan 2019,Furnished,No info,Archway (N19),None,12 months,['£855 pcm (whole property)'],Bright Studio Zone 2,1 bed flat,[855],855.0,N19
+972,20 Dec 2018,Furnished,Female preferred,Wandsworth Town (SW18),None,None,['£650 pcm'],Lovely Big  Double Room,Double room,[650],650.0,SW18
+973,Now,Furnished,Males or females,London SE28 (SE28),None,None,['£500 pcm'],Double Room,Double room,[500],500.0,SE28
+974,Now,Furnished,Males or females,Homerton (E9),36 months,1 month,"['£650 pcm', '£560 pcm']",Room rent,2 doubles,"[650, 560]",605.0,E9
+975,17 Dec 2018,Furnished,Males or females,Marylebone (NW1),None,3 months,['£240 pw'],Luxury Double Room in Marylebone W/ Private Patio,Double room,[960],960.0,NW1
+976,18 Dec 2018,Furnished,Female preferred,Surrey Quays (SE16),None,None,['£600 pcm'],Large Room in  Surrey Quays,Double room,[600],600.0,SE16
+977,15 Dec 2018,No info,Males or females,Catford (SE6),None,1 month,['£300 pcm'],Room for rent near Catford,Single room,[300],300.0,SE6
+978,01 Dec 2018,Furnished,Males or females,Blackheath (SE3),None,6 months,"['£700 pcm', '£600 pcm']","2 rooms available in 3 room apartment, Blackheath",2 doubles,"[700, 600]",650.0,SE3
+979,23 Dec 2018,Furnished,Males or females,Finsbury Park (N4),1 month,1 month,['£450 pcm'],Short let double room available Jan 2019,Double room,[450],450.0,N4
+980,Now,No info,Males or females,Hackney (E8),None,None,['£650 pcm'],Bedroom  in Hackney . Zone 2,Single room,[650],650.0,E8
+981,05 Jan 2019,No info,Female preferred,Haggerston (E2),None,None,"['£1,100 pcm']",Double room in modern canal side flat,Double room,[1100],1100.0,E2
+982,Now,No info,Males or females,Willesden (NW2),None,None,['£180 pw'],***Brand New Double Room***,Double room,[720],720.0,NW2
+983,07 Jan 2019,Furnished,Males or females,Pimlico (SW1),None,6 months,"['£1,250 pcm']",Modern Pimlico flat - double room & full bathroom,Double room,[1250],1250.0,SW1
+984,21 Dec 2018,Furnished,Males or females,London SW2 (SW2),2 months,None,['£725 pcm'],Spacious double in Brixton/Clapham,Double room,[725],725.0,SW2
+985,01 Dec 2018,Furnished,Males or females,Island Gardens (E14),None,None,['£736 pcm'],Huge Double Room in shared house,Double room,[736],736.0,E14
+986,05 Jan 2019,Furnished,Males or females,West Kensington (W14),None,8 months,['£700 pcm'],Double bedroom in West Kensington house,Double room,[700],700.0,W14
+987,18 Dec 2018,No info,Males or females,Finsbury Park (N4),1 month,None,['£600 pcm'],Mezzanine Warehouse room available over Xmas,Double room,[600],600.0,N4
+988,22 Dec 2018,Furnished,No info,Stockwell (SW4),None,6 months,['£485 pw (whole property)'],Flat with 3 Double Rooms to Let,3 bed flat,[1940],1940.0,SW4
+989,Now,Furnished,Males or females,Hanger Lane (W5),None,None,['£150 pw'],Double Bed Room to Rent,Double room,[600],600.0,W5
+990,20 Dec 2018,Furnished,Males or females,West Hampstead (NW6),None,6 months,"['£950 pcm', '£850 pcm', '£800 pcm']",Double Rooms in desirable top floor flat w garden,3 doubles,"[950, 850, 800]",866.6666666666666,NW6
+991,Now,Furnished,Males or females,Canning Town (E16),None,6 months,['£120 pw'],Nice & Cosy double room in Canning Town E16,Double room,[480],480.0,E16
+992,Now,Furnished,Female preferred,London SE24 (SE24),None,3 months,['£750 pcm'],Clean Spacious DBL room in Trendy Brixton,Double room,[750],750.0,SE24
+993,19 Dec 2018,Furnished,Female preferred,Chelsea (SW10),None,6 months,['£180 pw'],Double Bedroom for Rent in Heart of Chelsea,Double room,[720],720.0,SW10
+994,20 Dec 2018,Furnished,Males or females,Clapham Common (SW4),None,None,['£660 pcm'],Double Room Clapham Common,Double room,[660],660.0,SW4
+995,05 Dec 2018,Furnished,Males or females,Canning Town (E16),2 months,None,['£160 pw'],"Lovely Short Let Flat Near Excel, Canary Wharf, O2",Double room,[640],640.0,E16
+996,Now,Furnished,Males or females,Bow Road (E3),None,6 months,['£155 pw'],Bow Road - Lovely and cozy double room,Double room,[620],620.0,E3
+997,15 Dec 2018,Furnished,Males or females,Canada Water (SE16),None,None,['£800 pcm'],Fantastic: large double room & balcony,Double room,[800],800.0,SE16
+998,10 Dec 2018,Furnished,No info,Canary Wharf (E14),None,3 months,['£700 pw (whole property)'],3-bedroom End of Terrace House To Rent,3 bed house,[2800],2800.0,E14
+999,28 Dec 2019,Furnished,Female preferred,Little Venice (W9),None,None,['£730 pcm'],Flat 1 Lister Lodge ð,Double room,[730],730.0,W9
+1000,Now,Furnished,Male preferred,Battersea park (SW11),None,3 months,['£650 pcm'],Clean Room in a Big Modern Flat Close to Vauxhall,Single room,[650],650.0,SW11
+1001,01 Jan 2019,Furnished,Males or females,Leyton (E10),1 month,None,['£600 pcm'],Short term let for January - on the central line,Double room,[600],600.0,E10
+1002,06 Jan 2019,Furnished,Males or females,Clapham North (SW4),None,6 months,['£650 pcm'],Large Double Room - Clapham (with garden),Double room,[650],650.0,SW4
+1003,Now,Furnished,Males or females,Acton (W3),None,3 months,['£105 pw'],"Convenient, Two Twins  Rooms to Share! per Person",Double room,[420],420.0,W3
+1004,01 Dec 2018,Furnished,Males or females,West Kensington (W14),None,6 months,['£800 pcm'],Huge Double Room Available,Double room,[800],800.0,W14
+1005,Now,Furnished,Males or females,Canning Town (E16),1 month,1 month,"['£200 pw', '£150 pw']",2 bed flat,Single + double,"[800, 600]",700.0,E16
+1006,15 Jan 2019,Furnished,Males or females,Stamford Hill (N16),None,6 months,['£595 pcm'],Stamford hill Double room,Double room,[595],595.0,N16
+1007,07 Dec 2018,No info,Males or females,London SW19 (SW19),None,3 months,"['£535 pcm', '£535 pcm']",Large Double Bedroom 2 mins from Wimbledon Station,Double room,"[535, 535]",535.0,SW19
+1008,Now,Part Furnished,No info,West Ham (E15),None,6 months,"['£1,025 pcm (whole property)']",Spacious studio apartment,Studio flat,[1025],1025.0,E15
+1009,Now,Furnished,Female preferred,Stoke Newington (N16),None,None,['£280 pcm'],Shared studio flat,Single room,[280],280.0,N16
+1010,05 Dec 2018,Furnished,Males or females,Angel (N1),1 month,1 month,['£550 pcm'],Room in Angel for short let,Single room,[550],550.0,N1
+1011,03 Dec 2018,Furnished,Males or females,St John's Wood (NW8),None,None,['£700 pcm'],Single Room in Spacious and Luxurious Apartment.,Single room,[700],700.0,NW8
+1012,01 Dec 2018,Furnished,Males or females,London SE18 (SE18),None,6 months,['£650 pcm'],Stylish Double Rooms with Ensuite,Double room,[650],650.0,SE18
+1013,01 Dec 2018,Furnished,Males or females,Stratford (E15),None,6 months,"['£170 pw', '£170 pw']",Large Dble - Zn 2 - 10Min Walk to Station,2 doubles,"[680, 680]",680.0,E15
+1014,06 Dec 2018,Furnished,Males or females,Russell Square (WC1),None,None,['£795 pcm'],Sunny & spacious central double avail 6/12 - 11/1,Double room,[795],795.0,WC1
+1015,16 Dec 2018,No info,Female preferred,Peckham (SE15),None,None,['£570 pcm'],"Double, minutes from Queens Road, friendly house",Double room,[570],570.0,SE15
+1016,Now,No info,Males or females,Clapham Junction (SW11),None,None,['£190 pw'],A place to call home,Double room,[760],760.0,SW11
+1017,07 Jan 2019,Furnished,Males or females,Battersea (SW11),None,None,['£700 pcm'],Large Double Ensuite Room - Monday-Friday Only,Double room,[700],700.0,SW11
+1018,Now,Furnished,Males or females,Leytonstone (E11),None,1 month,['£750 pcm'],En-Suite  Bedroom to Let,Double room,[750],750.0,E11
+1019,29 Dec 2018,Furnished,Males or females,London SE15 (SE15),12 months,6 months,['£700 pcm'],Peckham: 1 large double bedroom in SE15 Zone 2,Double room,[700],700.0,SE15
+1020,Now,No info,Males or females,Turnpike Lane (N15),None,None,['£165 pw'],Very large room in a modern house. 5 mins to tube,Double room,[660],660.0,N15
+1021,09 Jan 2019,Furnished,Female preferred,Mile End (E3),None,6 months,['£630 pcm'],Lovely double room for rent in Mile End,Double room,[630],630.0,E3
+1022,Now,Furnished,Male preferred,London E16 (E16),None,3 months,['£750 pcm'],Super Large double for a tidy responsible lodger,Double room,[750],750.0,E16
+1023,Now,Furnished,Males or females,Leyton (E10),None,3 months,['£58 pcm'],Double Room Next to Leyton Station,Double room,[58],58.0,E10
+1024,20 Dec 2018,No info,Males or females,Canada Water (SE16),None,None,['£250 pw'],[Short let] ***Double Ensuite Room***,Double room,[1000],1000.0,SE16
+1025,Now,No info,Males or females,Clapham Common (SW4),None,None,['£900 pcm'],Double room to rent in Clapham,Double room,[900],900.0,SW4
+1026,17 Dec 2018,Furnished,Males or females,Angel (N1),None,6 months,['£825 pcm'],Double room newly decorated flat Angel/Kings Cross,Double room,[825],825.0,N1
+1027,20 Dec 2018,Furnished,Males or females,Hackney (E2),None,1 month,['£824 pcm'],Large bright room in perfect location,Double room,[824],824.0,E2
+1028,16 Dec 2018,Furnished,Female preferred,Clapham North (SW4),3 months,3 months,['£825 pcm'],Big and bright double bedroom clean flat,Double room,[825],825.0,SW4
+1029,Now,No info,Males or females,Island Gardens (E14),2 months,None,['£120 pw'],1 room short term canary wharf,Double room,[480],480.0,E14
+1030,07 Jan 2019,Furnished,Males or females,Leyton (E10),None,2 months,['£600 pcm'],"Lovely garden flat in leyton, easy commuting",Double room,[600],600.0,E10
+1031,01 Dec 2018,Furnished,No info,Notting Hill (W2),None,8 months,"['£1,900 pcm (whole property)']",Notting Hill Bright Modern Flat,1 bed flat,[1900],1900.0,W2
+1032,08 Jan 2019,Furnished,Males or females,Camberwell (SE5),None,None,"['£470 pcm', '£483 pcm']",2 Rooms Available in Camberwell,2 doubles,"[470, 483]",476.5,SE5
+1033,Now,Furnished,Males or females,Finsbury Park (N4),1 month,1 month,['£700 pcm'],Spacious Double Room 10 minutes from Finsbury Park,Double room,[700],700.0,N4
+1034,Now,Furnished,Males or females,Hammersmith (W14),None,6 months,"['£220 pw', '£205 pw']",All-Inclusive Rooms for Graduates & Professionals,Single + double,"[880, 820]",850.0,W14
+1035,Now,Furnished,Males or females,Barnes (SW13),None,3 months,"['£700 pcm', '£700 pcm']","Double room, Barnes SW13 £700 PCM all bills inc",2 doubles,"[700, 700]",700.0,SW13
+1036,03 Dec 2018,Furnished,No info,Westferry (E14),None,6 months,"['£1,170 pcm (whole property)']",Studio Apartment  - 10min to Bank/Canary Wharf,1 bed flat,[1170],1170.0,E14
+1037,01 Dec 2018,Furnished,Males or females,London SW2 (SW2),None,1 month,['£575 pcm'],Good sized room by Brockwell Park (near Brixton),Double room,[575],575.0,SW2
+1038,01 Dec 2018,Furnished,Males or females,New Cross Gate (SE14),None,None,['£650 pcm'],"Double room in New Cross Gate, 5mins to station",Double room,[650],650.0,SE14
+1039,,No info,No info,Shepherds Bush (W12),,,[],Lovely room,Single room,[],,W12
+1040,19 Dec 2018,Furnished,Males or females,Camberwell (SE5),None,6 months,['£750 pcm'],Large room with great views,Double room,[750],750.0,SE5
+1041,Now,Furnished,Female preferred,Stoke Newington (N16),None,3 months,['£184 pw'],Large double room in creative warehouse,Double room,[736],736.0,N16
+1042,20 Dec 2018,Furnished,Males or females,Manor House (N4),2 months,None,['£165 pw'],Lovely Double Bedroom To Rent in Manor House,Double room,[660],660.0,N4
+1043,10 Dec 2018,Furnished,Males or females,West Hampstead (NW6),12 months,3 months,['£650 pcm'],Beautiful Cozy Double Room in West Hamstead,Double room,[650],650.0,NW6
+1044,15 Dec 2018,No info,Males or females,Dalston (N16),None,None,['£535 pcm'],Lovely Double Room in Dalston,Double room,[535],535.0,N16
+1045,17 Dec 2018,Furnished,No info,Bounds Green (N13),None,6 months,['£750 pcm (whole property)'],Coming Soon - Studio to Rent - All Bills Included,Studio flat,[750],750.0,N13
+1046,05 Dec 2018,Furnished,Males or females,Ealing Broadway (W5),None,2 months,['£650 pcm'],Double Room Next to Ealing Broadway Station,Double room,[650],650.0,W5
+1047,01 Jan 2019,Furnished,Males or females,West Dulwich (SE21),3 months,3 months,"['£550 pcm', '£550 pcm']",2 Double Bedrooms Short Term Let,2 doubles,"[550, 550]",550.0,SE21
+1048,Now,No info,Male preferred,Hammersmith (W6),12 months,6 months,"['£1,040 pcm']",Room for rent at a newly developed modern building,Double room,[1040],1040.0,W6
+1049,Now,Furnished,No info,Old Street (N1),None,10 months,['£365 pw (whole property)'],Shoreditch  Studio Flat! Big Bright and Roomy,Studio flat,[1460],1460.0,N1
+1050,20 Dec 2018,Furnished,Males or females,Poplar (E14),None,None,['£625 pcm'],Room to rent near Canary Wharf with viewing,Double room,[625],625.0,E14
+1051,22 Dec 2018,Furnished,Males or females,Highbury and Islington (N5),None,6 months,['£826 pcm'],Room to Rent in Highbury & Islington,Double room,[826],826.0,N5
+1052,03 Dec 2018,No info,Males or females,South Kensington (SW7),None,3 months,['£220 pw'],Double Room South Kensington,Double room,[880],880.0,SW7
+1053,10 Dec 2018,Furnished,Males or females,Lower Clapton (E5),None,6 months,['£640 pcm'],Spacious bright double room in Hackney/Clapton,Double room,[640],640.0,E5
+1054,Now,No info,Males or females,Thamesmead (SE28),None,None,['£700 pcm'],Large Double Room Overlooking The River Thames,Double room,[700],700.0,SE28
+1055,Now,Furnished,Female preferred,Ladbroke Grove (W10),None,3 months,['£160 pw'],Happy individual for beautiful room in west london,Double room,[640],640.0,W10
+1056,Now,Furnished,Males or females,Finsbury Park (N4),None,6 months,"['£1,200 pcm']",Studio flat near Finsbury Park tube,Double room,[1200],1200.0,N4
+1057,02 Dec 2018,Furnished,Males or females,Roehampton (SW15),None,6 months,['£630 pcm'],Great Double 5' from Roehampton Uni,Double room,[630],630.0,SW15
+1058,17 Dec 2018,Furnished,Males or females,Maida Vale (W9),None,9 months,['£887 pcm'],Double ensuite bedroom in lovely maida vale flat,Double room,[887],887.0,W9
+1059,01 Jan 2019,Furnished,Males or females,Hackney (E5),3 months,2 months,['£700 pcm'],Bright spacious double room with balcony,Double room,[700],700.0,E5
+1060,Now,Furnished,Males or females,Finsbury Park (N4),None,1 month,['£650 pcm'],Lovely Double Bedroom To Rent in Finsbury Park,Double room,[650],650.0,N4
+1061,12 Dec 2018,Furnished,Males or females,West Hampstead (NW6),None,2 months,['£685 pcm'],Spacious double - West Hampstead,Double room,[685],685.0,NW6
+1062,26 Dec 2018,Furnished,Males or females,London E1 (E1),None,None,"['£1,100 pcm']","Spacious Studio (All Bills inc., No Agency Fee)",Double room,[1100],1100.0,E1
+1063,Now,Furnished,Males or females,Aldgate (E1),24 months,6 months,['£650 pcm'],Clean and bright room - Aldgate,Single room,[650],650.0,E1
+1064,16 Dec 2018,Furnished,Males or females,Hackney (E8),None,1 month,['£800 pcm'],"Bright, spacious double room in Hackney",Double room,[800],800.0,E8
+1065,14 Dec 2019,Furnished,Male preferred,Putney Heath (SW15),3 months,6 months,"['£550 pcm', '£650 pcm']",Room available in Putney Heat,2 doubles,"[550, 650]",600.0,SW15
+1066,Now,Furnished,Female preferred,Canada Water (SE16),None,12 months,"['£633 pcm', '£633 pcm']",BRAND NEW Marine Wharf East Development,Single + double,"[633, 633]",633.0,SE16
+1067,Now,No info,Female preferred,Victoria Park (E9),None,8 months,"['£885 pcm', '£885 pcm']",Two Huge Double Bedrooms in Victoria Park Village!,2 doubles,"[885, 885]",885.0,E9
+1068,18 Dec 2018,Furnished,Males or females,Brockley (SE4),None,None,['£600 pcm'],Double Room Available in Brockley,Double room,[600],600.0,SE4
+1069,07 Dec 2018,Furnished,Males or females,Canada Water (SE16),None,2 months,['£650 pcm'],Double Bedroom in Canada Water. Overlooks Canary.W,Double room,[650],650.0,SE16
+1070,14 Dec 2018,No info,Males or females,Tottenham (N17),None,6 months,['£375 pcm'],Friendly communal houseshare in Haringey/Tottenham,Single room,[375],375.0,N17
+1071,07 Jan 2019,Furnished,Males or females,Wood Green (N22),None,3 months,['£390 pcm'],Share of Terraced House in Wood Green.,Double room,[390],390.0,N22
+1072,Now,Furnished,Males or females,Docklands (E14),None,6 months,"['£600 pcm', '£700 pcm']",Furnished Double Room in Zone 2 Dockland/Poplar,2 doubles,"[600, 700]",650.0,E14
+1073,19 Dec 2018,No info,Males or females,De Beauvoir Town (N1),None,None,['£150 pw'],Short term let over Christmas and New Years,Double room,[600],600.0,N1
+1074,02 Dec 2018,Furnished,Males or females,Hackney (E8),None,2 months,['£460 pcm'],New flatmate needed for sociable House!,Double room,[460],460.0,E8
+1075,01 Dec 2019,Furnished,Males or females,Bedford Park (W4),6 months,3 months,['£675 pcm'],~~ Double room - 2 Bed Spacious Flat - Chiswick ~~,Double room,[675],675.0,W4
+1076,02 Jan 2019,Furnished,Males or females,Brixton (SW9),8 months,3 months,"['£200 pw', '£200 pw', '£175 pw']",Short Let  3- 6 Month Let 3 Bed Maisonette Brixton,3 doubles,"[800, 800, 700]",766.6666666666666,SW9
+1077,Now,Furnished,Female preferred,North Kensington (W10),3 months,1 month,['£680 pcm'],Large Just Refurbished Very Bright Double Room.,Double room,[680],680.0,W10
+1078,Now,Furnished,Female preferred,Canning Town (E16),None,12 months,['£850 pcm'],Ensuite double room close to Canning town station,Double room,[850],850.0,E16
+1079,03 Dec 2018,Furnished,Males or females,Willesden Green (NW10),None,3 months,['£220 pw'],Bright Master Room-Willesden Green- Zone 2,Double room,[880],880.0,NW10
+1080,05 Jan 2019,Furnished,Males or females,Hackney (E8),None,None,"['£1,070 pcm']",Room available in Hackney Central Jan 5th,Double room,[1070],1070.0,E8
+1081,28 Dec 2018,No info,Males or females,Crofton Park (SE4),None,None,['£720 pcm'],Large Double Room to Rent in Crofton Park £720,Double room,[720],720.0,SE4
+1082,01 Dec 2018,Furnished,Males or females,Kilburn Park (NW6),None,None,"['£700 pcm', '£800 pcm']","2 Tidy, spacious professional room in Maida Vale",2 doubles,"[700, 800]",750.0,NW6
+1083,15 Dec 2018,Furnished,Males or females,London N15 (N15),None,4 months,['£730 pcm'],"Large double room, warehouse conversion",Double room,[730],730.0,N15
+1084,01 Dec 2018,Furnished,Males or females,Shoreditch (E2),None,6 months,"['£1,050 pcm']",Huge Kingsized Studio room in Heart of Shoreditch,Double room,[1050],1050.0,E2
+1085,15 Jan 2019,Furnished,Male preferred,Elephant and Castle (SE17),None,3 months,['£850 pcm'],Light filled home to share in Elephant and Castle,Double room,[850],850.0,SE17
+1086,17 Dec 2018,Furnished,Males or females,Bethnal Green (E2),36 months,6 months,['£500 pcm'],Friendly Bethnal Green Flat - 1 room available,Single room,[500],500.0,E2
+1087,Now,Furnished,Males or females,Elephant and Castle (SE17),6 months,None,"['£1,300 pcm']",Double room in Zone 1 with own bathroom,Double room,[1300],1300.0,SE17
+1088,Now,Furnished,Males or females,London SW15 (SW15),12 months,12 months,['£440 pcm'],Single Bedroom Available Now in SW London,Single room,[440],440.0,SW15
+1089,11 Dec 2018,No info,Males or females,Denmark Hill (SE5),None,None,['£420 pcm'],Double room in 4 bed house in Denmark Hill,Double room,[420],420.0,SE5
+1090,19 Dec 2018,No info,Female preferred,Dalston (E8),None,6 months,['£570 pcm'],Lovely Flatshare in Dalston,Single room,[570],570.0,E8
+1091,17 Dec 2018,Furnished,No info,West Hampstead (NW6),None,4 months,"['£1,600 pcm (whole property)']",1 Bedroom Flat in West Hampstead,1 bed flat,[1600],1600.0,NW6
+1092,Now,Furnished,Males or females,London W12 (W12),None,None,['£133 pw'],Short let 19 Dec-7 Jan zone 2 : Vegan/veg double,Double room,[532],532.0,W12
+1093,20 Dec 2018,Furnished,Female preferred,New Cross (SE8),4 months,4 months,['£850 pcm'],Double En-Suite Room Sublet in New Cross,Double room,[850],850.0,SE8
+1094,Now,Furnished,Males or females,Notting Hill (W2),6 months,None,"['£1,250 pcm']",Double room in an interior design flat in the hear,Double room,[1250],1250.0,W2
+1095,03 Dec 2018,Furnished,Male preferred,Shoreditch (E2),None,6 months,"['£1,400 pcm']",3 Bed Town House in the heart of Shoreditch,Double room,[1400],1400.0,E2
+1096,Now,Furnished,Males or females,Fulham (SW6),None,None,['£563 pcm'],Beautiful double room to rent,Double room,[563],563.0,SW6
+1097,Now,Furnished,Males or females,Clapham Junction (SW11),None,12 months,['£950 pcm'],Rare find -  Stunning 2 bedroom flat,Double room,[950],950.0,SW11
+1098,20 Dec 2018,Furnished,Males or females,Clapham Common (SW4),None,None,['£780 pcm'],Clapham Common - Large Room available,Double room,[780],780.0,SW4
+1099,Now,Furnished,Males or females,Camberwell (SE5),None,None,['£175 pw'],Pretty Double Room in  Camberwell,Double room,[700],700.0,SE5
