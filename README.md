@@ -30,5 +30,5 @@ This is a project to realize an expressive rental price comparative statistics o
 <li>2. Users can instantiate different objects for cities in UK using the class called Rental. By using methods we created for this class, users can implement gender_preference_analysis, size_analysis, price_analysis……
 <li>3. In the Further Analysis part of our project, we realize to plot the relationship between average rental price and population.
 
-# SOURCE OF DATA (pop_by_zip.csv)
-<li> https://www.gov.uk/government/statistical-data-sets
+# SOURCE OF DATA 
+<li> pop_by_zip.csv (population of each postcode area in UK): https://www.gov.uk/government/statistical-data-sets
