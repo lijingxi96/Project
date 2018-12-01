@@ -547,7 +547,7 @@
                 ]
             },
             "properties": {
-                "name": "LS1",
+                "Name": "LS1",
                 "description": "LS1 postcode district"
             }
         },
@@ -1461,7 +1461,7 @@
                 ]
             },
             "properties": {
-                "name": "LS2",
+                "Name": "LS2",
                 "description": "LS2 postcode district"
             }
         },
@@ -1835,7 +1835,7 @@
                 ]
             },
             "properties": {
-                "name": "LS3",
+                "Name": "LS3",
                 "description": "LS3 postcode district"
             }
         },
@@ -2253,7 +2253,7 @@
                 ]
             },
             "properties": {
-                "name": "LS4",
+                "Name": "LS4",
                 "description": "LS4 postcode district"
             }
         },
@@ -2815,7 +2815,7 @@
                 ]
             },
             "properties": {
-                "name": "LS5",
+                "Name": "LS5",
                 "description": "LS5 postcode district"
             }
         },
@@ -4045,7 +4045,7 @@
                 ]
             },
             "properties": {
-                "name": "LS6",
+                "Name": "LS6",
                 "description": "LS6 postcode district"
             }
         },
@@ -5103,7 +5103,7 @@
                 ]
             },
             "properties": {
-                "name": "LS7",
+                "Name": "LS7",
                 "description": "LS7 postcode district"
             }
         },
@@ -6209,7 +6209,7 @@
                 ]
             },
             "properties": {
-                "name": "LS8",
+                "Name": "LS8",
                 "description": "LS8 postcode district"
             }
         },
@@ -7135,7 +7135,7 @@
                 ]
             },
             "properties": {
-                "name": "LS9",
+                "Name": "LS9",
                 "description": "LS9 postcode district"
             }
         },
@@ -7901,7 +7901,7 @@
                 ]
             },
             "properties": {
-                "name": "LS10",
+                "Name": "LS10",
                 "description": "LS10 postcode district"
             }
         },
@@ -8563,7 +8563,7 @@
                 ]
             },
             "properties": {
-                "name": "LS11",
+                "Name": "LS11",
                 "description": "LS11 postcode district"
             }
         },
@@ -9469,7 +9469,7 @@
                 ]
             },
             "properties": {
-                "name": "LS12",
+                "Name": "LS12",
                 "description": "LS12 postcode district"
             }
         },
@@ -10415,7 +10415,7 @@
                 ]
             },
             "properties": {
-                "name": "LS13",
+                "Name": "LS13",
                 "description": "LS13 postcode district"
             }
         },
@@ -11461,7 +11461,7 @@
                 ]
             },
             "properties": {
-                "name": "LS14",
+                "Name": "LS14",
                 "description": "LS14 postcode district"
             }
         },
@@ -12287,7 +12287,7 @@
                 ]
             },
             "properties": {
-                "name": "LS15",
+                "Name": "LS15",
                 "description": "LS15 postcode district"
             }
         },
@@ -13097,7 +13097,7 @@
                 ]
             },
             "properties": {
-                "name": "LS16",
+                "Name": "LS16",
                 "description": "LS16 postcode district"
             }
         },
@@ -14335,7 +14335,7 @@
                 ]
             },
             "properties": {
-                "name": "LS17",
+                "Name": "LS17",
                 "description": "LS17 postcode district"
             }
         },
@@ -14881,7 +14881,7 @@
                 ]
             },
             "properties": {
-                "name": "LS18",
+                "Name": "LS18",
                 "description": "LS18 postcode district"
             }
         },
@@ -15271,7 +15271,7 @@
                 ]
             },
             "properties": {
-                "name": "LS19",
+                "Name": "LS19",
                 "description": "LS19 postcode district"
             }
         },
@@ -15649,7 +15649,7 @@
                 ]
             },
             "properties": {
-                "name": "LS20",
+                "Name": "LS20",
                 "description": "LS20 postcode district"
             }
         },
@@ -16255,7 +16255,7 @@
                 ]
             },
             "properties": {
-                "name": "LS21",
+                "Name": "LS21",
                 "description": "LS21 postcode district"
             }
         },
@@ -16697,7 +16697,7 @@
                 ]
             },
             "properties": {
-                "name": "LS22",
+                "Name": "LS22",
                 "description": "LS22 postcode district"
             }
         },
@@ -16999,7 +16999,7 @@
                 ]
             },
             "properties": {
-                "name": "LS23",
+                "Name": "LS23",
                 "description": "LS23 postcode district"
             }
         },
@@ -17589,7 +17589,7 @@
                 ]
             },
             "properties": {
-                "name": "LS24",
+                "Name": "LS24",
                 "description": "LS24 postcode district"
             }
         },
@@ -18171,7 +18171,7 @@
                 ]
             },
             "properties": {
-                "name": "LS25",
+                "Name": "LS25",
                 "description": "LS25 postcode district"
             }
         },
@@ -18893,7 +18893,7 @@
                 ]
             },
             "properties": {
-                "name": "LS26",
+                "Name": "LS26",
                 "description": "LS26 postcode district"
             }
         },
@@ -19415,7 +19415,7 @@
                 ]
             },
             "properties": {
-                "name": "LS27",
+                "Name": "LS27",
                 "description": "LS27 postcode district"
             }
         },
@@ -20209,7 +20209,7 @@
                 ]
             },
             "properties": {
-                "name": "LS28",
+                "Name": "LS28",
                 "description": "LS28 postcode district"
             }
         },
@@ -20695,7 +20695,7 @@
                 ]
             },
             "properties": {
-                "name": "LS29",
+                "Name": "LS29",
                 "description": "LS29 postcode district"
             }
         }
