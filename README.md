@@ -32,3 +32,4 @@ This is a project to realize an expressive rental price comparative statistics o
 
 # SOURCE OF DATA 
 <li> pop_by_zip.csv (population of each postcode area in UK): https://www.gov.uk/government/statistical-data-sets
+<li> pp-monthly-update-new-version.csv (housing transactions for the current month(2018.11) in UK): https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads#address-data
