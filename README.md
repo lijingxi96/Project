@@ -4,7 +4,7 @@ Project Name: Rental Analysis
 Team Members: Jingxi Li, Xuanyi Jin, Hanxuan Li, Xinran Zhang
 
 # WHAT IS IT ?
-This is a project to realize an expressive rental price comparative statistics of four main cities in UK: London, Liverpool, Leeds and Manchester, by defining a class called Rental. It aims to get detailed house rental information by web scraping and complete data cleaning to illustrate them in Data Frame. Most importantly, It is also capable of flexibly visualizing data distribution in bar, pie, line graphs and mapping for better view effect, which can be all realized using OOP class named rental. In addition, this is a program with interaction function, that is to say, users can choose whether or not utilize API to get the center point of 4 cities for mapping. Finally, it can intellectually realize a scatter plot and regression model to show how population factor influences rental pricing level in postcode district, and another scatter plot displaying the relation between selling price and rental price. 
+This is a project to realize an expressive rental price comparative statistics of four main cities in UK: London, Liverpool, Leeds and Manchester, by defining a class called Rental. It aims to get detailed house rental information by web scraping and complete data cleaning to illustrate them in Data Frame. Most importantly, It is also capable of flexibly visualizing data distribution in bar, pie, line graphs and mapping for better view effect, which can be all realized using OOP class named rental. In addition, this is a program with interaction function, that is to say, users can choose whether or not utilize API to get the center point of 4 cities for mapping. Finally, it can intellectually realize a scatter plot to show how population factor influences rental pricing level in postcode district, and another scatter plot displaying the relation between selling price and rental price. 
 
 # INSTALLATION:
 <li>To install requests and bs4 for Web Scraping </li>
@@ -27,8 +27,8 @@ This is a project to realize an expressive rental price comparative statistics o
 
 ## Detailed Instructions:
 <li>1. Users should run each of the function in Define Functions part, which includes 11 various functions we created to be used later.
-<li>2. Users can instantiate different objects for cities in UK using the class called Rental. By using methods we created for this class, users can implement gender_preference_analysis, size_analysis, price_analysis……
-<li>3. In the Further Analysis part of our project, we realize to plot the relationship between average rental price and population.
+<li>2. Users can instantiate different objects for cities in UK using the class called Rental. By using methods we created for this class, users can implement gender_preference_analysis, size_analysis, price_analysis... In addtion, users can visualize the analysis by choosing to plot pie chart, bar chart or heatmap.
+<li>3. In the Further Analysis part of our project, we (1) analyze how poplulation affect rental price by plotting a scatter graph between average rental price and population; (2) analyze the relationship between selling price and rental price with a scatter graph; (3) present the frequency distribution of UK four main cities' rental price.
 
 # SOURCE OF DATA 
 <li> pop_by_zip.csv (population of each postcode area in UK): https://www.gov.uk/government/statistical-data-sets
