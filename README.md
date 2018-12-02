@@ -7,6 +7,7 @@ Team Members: Jingxi Li, Xuanyi Jin, Hanxuan Li, Xinran Zhang
 This is a project to realize an expressive rental price comparative statistics of four main cities in UK: London, Liverpool, Leeds and Manchester, by defining a class called Rental. It aims to get detailed house rental information by web scraping and complete data cleaning to illustrate them in Data Frame. Most importantly, It is also capable of flexibly visualizing data distribution in bar, pie, line graphs and mapping for better view effect, which can be all realized using OOP class named rental. In addition, this is a program with interaction function, that is to say, users can choose whether or not utilize API to get the center point of 4 cities for mapping. Finally, it can intellectually realize a scatter plot to show how population factor influences rental pricing level in postcode district, and another scatter plot displaying the relation between selling price and rental price. 
 
 # INSTALLATION:
+<li>Users can directly run "pip install -r requirements.txt" in the bash or just follow the instruction.
 <li>To install requests and bs4 for Web Scraping </li>
 
 ![image](https://github.com/lijingxi96/Project/blob/master/p1.jpg)
